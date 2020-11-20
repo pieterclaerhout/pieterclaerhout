@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning [Wagtail](https://wagtail.io)
-- 💬 Ask me about Python, Django, Wagtail, Golang, Mac, Linux, CSS, HTML, DevOps
+- 💬 Ask me about [Python](https://www.python.org), [Django](https://www.djangoproject.com), [Wagtail](https://wagtail.io), [Golang](https://golang.org)
 - 😄 Pronouns: Pieter, Duckie, YellowDuck
 - 📫 How to reach me: pieter@yellowduck.be
 
