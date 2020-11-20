@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pieter@yellowduck.be
 
 
-# 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
+### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
