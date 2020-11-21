@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2020-11-21` | [Forcefully delete a pod in Kubernetes](https://www.yellowduck.be/forcefully-delete-pod-kubernetes)  
 - `2020-11-20` | [Checking if an Android app is installed via Google Play](https://www.yellowduck.be/checking-if-android-app-installed-google-play)  
 - `2020-11-19` | [Stern 1.13.0, templates and line-endings](https://www.yellowduck.be/stern-1130-templates-and-line-endings)  
 - `2020-11-18` | [TIL: combining PDF files via the command line](https://www.yellowduck.be/til-combining-pdf-files-command-line)  
@@ -30,6 +31,5 @@ Here are some ideas to get you started:
 - `2020-11-14` | [Optimize Database Calls with Prefetch Related and Select Related](https://www.yellowduck.be/optimize-database-calls-prefetch-related-and-select-related)  
 - `2020-11-13` | [Styling SVG images with CSS](https://www.yellowduck.be/styling-svg-images-css)  
 - `2020-11-12` | [TIL: How to remove "npm fund" message](https://www.yellowduck.be/til-how-remove-npm-fund-message)  
-- `2020-11-11` | [Counting hits for objects with Django](https://www.yellowduck.be/counting-hits-objects-django)  
 
 <!-- BLOG-POST-LIST:END -->
