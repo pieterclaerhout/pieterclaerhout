@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2020-11-23` | [Making publish the default action in Wagtail](http://localhost/making-publish-default-action-wagtail)  
 - `2020-11-22` | [Annotate Querysets to Fetch Specific Values](http://localhost/annotate-querysets-fetch-specific-values)  
 - `2020-11-21` | [Forcefully delete a pod in Kubernetes](http://localhost/forcefully-delete-pod-kubernetes)  
 - `2020-11-20` | [Checking if an Android app is installed via Google Play](http://localhost/checking-if-android-app-installed-google-play)  
@@ -30,6 +31,5 @@ Here are some ideas to get you started:
 - `2020-11-16` | [Use Prefetch Objects to Control Your Prefetch Related](http://localhost/use-prefetch-objects-control-your-prefetch-related)  
 - `2020-11-15` | [Using Q Objects for Complex Queries](http://localhost/using-q-objects-complex-queries)  
 - `2020-11-14` | [Optimize Database Calls with Prefetch Related and Select Related](http://localhost/optimize-database-calls-prefetch-related-and-select-related)  
-- `2020-11-13` | [Styling SVG images with CSS](http://localhost/styling-svg-images-css)  
 
 <!-- BLOG-POST-LIST:END -->
