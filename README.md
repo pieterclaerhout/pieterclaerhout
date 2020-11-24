@@ -1,17 +1,9 @@
 ### Hi there, I'm Pieter 👋
 
-<!--
-**pieterclaerhout/pieterclaerhout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Follow Me](https://img.shields.io/github/followers/pieterclaerhout?label=Follow&style=social)](https://github.com/pieterclaerhout)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![pieterclaerhout's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pieterclaerhout)
+![pieterclaerhout's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pieterclaerhout&show_icons=true&count_private=true&line_height=40)
 
 - 🌱 I’m currently learning [Wagtail](https://wagtail.io)
 - 💬 Ask me about [Python](https://www.python.org), [Django](https://www.djangoproject.com), [Wagtail](https://wagtail.io), [Golang](https://golang.org)
