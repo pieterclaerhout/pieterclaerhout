@@ -8,8 +8,8 @@
 
 ### My stats
 
-![pieterclaerhout's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pieterclaerhout)
 ![pieterclaerhout's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pieterclaerhout&show_icons=true&count_private=true&line_height=40)
+![pieterclaerhout's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pieterclaerhout)
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
