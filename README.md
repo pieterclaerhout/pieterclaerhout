@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2020-11-25` | [Preview vs live views of a page in Wagtail](https://www.yellowduck.be/preview-vs-live-views-page-wagtail)  
 - `2020-11-24` | [Creating a redirector page in Wagtail](https://www.yellowduck.be/creating-redirector-page-wagtail)  
 - `2020-11-23` | [Making publish the default action in Wagtail](https://www.yellowduck.be/making-publish-default-action-wagtail)  
 - `2020-11-22` | [Annotate Querysets to Fetch Specific Values](https://www.yellowduck.be/annotate-querysets-fetch-specific-values)  
@@ -22,6 +23,5 @@
 - `2020-11-18` | [TIL: combining PDF files via the command line](https://www.yellowduck.be/til-combining-pdf-files-command-line)  
 - `2020-11-17` | [Define Custom Query Sets and Model Managers for Code Reuse](https://www.yellowduck.be/define-custom-query-sets-and-model-managers-code-reuse)  
 - `2020-11-16` | [Use Prefetch Objects to Control Your Prefetch Related](https://www.yellowduck.be/use-prefetch-objects-control-your-prefetch-related)  
-- `2020-11-15` | [Using Q Objects for Complex Queries](https://www.yellowduck.be/using-q-objects-complex-queries)  
 
 <!-- BLOG-POST-LIST:END -->
