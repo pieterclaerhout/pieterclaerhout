@@ -13,15 +13,15 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
-- `2020-11-25` | [Preview vs live views of a page in Wagtail](https://www.yellowduck.be/preview-vs-live-views-page-wagtail)  
-- `2020-11-24` | [Creating a redirector page in Wagtail](https://www.yellowduck.be/creating-redirector-page-wagtail)  
-- `2020-11-23` | [Making publish the default action in Wagtail](https://www.yellowduck.be/making-publish-default-action-wagtail)  
-- `2020-11-22` | [Annotate Querysets to Fetch Specific Values](https://www.yellowduck.be/annotate-querysets-fetch-specific-values)  
-- `2020-11-21` | [Forcefully delete a pod in Kubernetes](https://www.yellowduck.be/forcefully-delete-pod-kubernetes)  
-- `2020-11-20` | [Checking if an Android app is installed via Google Play](https://www.yellowduck.be/checking-if-android-app-installed-google-play)  
-- `2020-11-19` | [Stern 1.13.0, templates and line-endings](https://www.yellowduck.be/stern-1130-templates-and-line-endings)  
-- `2020-11-18` | [TIL: combining PDF files via the command line](https://www.yellowduck.be/til-combining-pdf-files-command-line)  
-- `2020-11-17` | [Define Custom Query Sets and Model Managers for Code Reuse](https://www.yellowduck.be/define-custom-query-sets-and-model-managers-code-reuse)  
-- `2020-11-16` | [Use Prefetch Objects to Control Your Prefetch Related](https://www.yellowduck.be/use-prefetch-objects-control-your-prefetch-related)  
+- `2020-11-25` | [Preview vs live views of a page in Wagtail](https://www.yellowduck.be/preview-vs-live-views-page-wagtail?utm_source=Preview+vs+live+views+of+a+page+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
+- `2020-11-24` | [Creating a redirector page in Wagtail](https://www.yellowduck.be/creating-redirector-page-wagtail?utm_source=Creating+a+redirector+page+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
+- `2020-11-23` | [Making publish the default action in Wagtail](https://www.yellowduck.be/making-publish-default-action-wagtail?utm_source=Making+publish+the+default+action+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
+- `2020-11-22` | [Annotate Querysets to Fetch Specific Values](https://www.yellowduck.be/annotate-querysets-fetch-specific-values?utm_source=Annotate+Querysets+to+Fetch+Specific+Values&utm_medium=RSS&utm_campaign=RSS+Reader)  
+- `2020-11-21` | [Forcefully delete a pod in Kubernetes](https://www.yellowduck.be/forcefully-delete-pod-kubernetes?utm_source=Forcefully+delete+a+pod+in+Kubernetes&utm_medium=RSS&utm_campaign=RSS+Reader)  
+- `2020-11-20` | [Checking if an Android app is installed via Google Play](https://www.yellowduck.be/checking-if-android-app-installed-google-play?utm_source=Checking+if+an+Android+app+is+installed+via+Google+Play&utm_medium=RSS&utm_campaign=RSS+Reader)  
+- `2020-11-19` | [Stern 1.13.0, templates and line-endings](https://www.yellowduck.be/stern-1130-templates-and-line-endings?utm_source=Stern+1.13.0%2C+templates+and+line-endings&utm_medium=RSS&utm_campaign=RSS+Reader)  
+- `2020-11-18` | [TIL: combining PDF files via the command line](https://www.yellowduck.be/til-combining-pdf-files-command-line?utm_source=TIL%3A+combining+PDF+files+via+the+command+line&utm_medium=RSS&utm_campaign=RSS+Reader)  
+- `2020-11-17` | [Define Custom Query Sets and Model Managers for Code Reuse](https://www.yellowduck.be/define-custom-query-sets-and-model-managers-code-reuse?utm_source=Define+Custom+Query+Sets+and+Model+Managers+for+Code+Reuse&utm_medium=RSS&utm_campaign=RSS+Reader)  
+- `2020-11-16` | [Use Prefetch Objects to Control Your Prefetch Related](https://www.yellowduck.be/use-prefetch-objects-control-your-prefetch-related?utm_source=Use+Prefetch+Objects+to+Control+Your+Prefetch+Related&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
