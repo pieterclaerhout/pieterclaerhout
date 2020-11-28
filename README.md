@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2020-11-28` | [Change the Wagtail site domain via a management command](https://www.yellowduck.be/change-wagtail-site-domain-management-command?utm_source=Change+the+Wagtail+site+domain+via+a+management+command&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-27` | [Creating a Django superuser programmatically](https://www.yellowduck.be/creating-django-superuser-programmatically?utm_source=Creating+a+Django+superuser+programmatically&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-26` | [Writing maintainable code](https://www.yellowduck.be/writing-maintainable-code?utm_source=Writing+maintainable+code&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-25` | [Preview vs live views of a page in Wagtail](https://www.yellowduck.be/preview-vs-live-views-page-wagtail?utm_source=Preview+vs+live+views+of+a+page+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -22,6 +23,5 @@
 - `2020-11-21` | [Forcefully delete a pod in Kubernetes](https://www.yellowduck.be/forcefully-delete-pod-kubernetes?utm_source=Forcefully+delete+a+pod+in+Kubernetes&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-20` | [Checking if an Android app is installed via Google Play](https://www.yellowduck.be/checking-if-android-app-installed-google-play?utm_source=Checking+if+an+Android+app+is+installed+via+Google+Play&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-19` | [Stern 1.13.0, templates and line-endings](https://www.yellowduck.be/stern-1130-templates-and-line-endings?utm_source=Stern+1.13.0%2C+templates+and+line-endings&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2020-11-18` | [TIL: combining PDF files via the command line](https://www.yellowduck.be/til-combining-pdf-files-command-line?utm_source=TIL%3A+combining+PDF+files+via+the+command+line&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
