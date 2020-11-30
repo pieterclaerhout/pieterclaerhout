@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2020-11-30` | [Adding database backups to Django](https://www.yellowduck.be/adding-database-backups-django?utm_source=Adding+database+backups+to+Django&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-29` | [New location for Helm charts and other upgrades](https://www.yellowduck.be/new-location-helm-charts-and-other-upgrades?utm_source=New+location+for+Helm+charts+and+other+upgrades&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-28` | [Change the Wagtail site domain via a management command](https://www.yellowduck.be/change-wagtail-site-domain-management-command?utm_source=Change+the+Wagtail+site+domain+via+a+management+command&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-27` | [Creating a Django superuser programmatically](https://www.yellowduck.be/creating-django-superuser-programmatically?utm_source=Creating+a+Django+superuser+programmatically&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -22,6 +23,5 @@
 - `2020-11-23` | [Making publish the default action in Wagtail](https://www.yellowduck.be/making-publish-default-action-wagtail?utm_source=Making+publish+the+default+action+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-22` | [Annotate Querysets to Fetch Specific Values](https://www.yellowduck.be/annotate-querysets-fetch-specific-values?utm_source=Annotate+Querysets+to+Fetch+Specific+Values&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-21` | [Forcefully delete a pod in Kubernetes](https://www.yellowduck.be/forcefully-delete-pod-kubernetes?utm_source=Forcefully+delete+a+pod+in+Kubernetes&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2020-11-20` | [Checking if an Android app is installed via Google Play](https://www.yellowduck.be/checking-if-android-app-installed-google-play?utm_source=Checking+if+an+Android+app+is+installed+via+Google+Play&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
