@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2020-12-03` | [Migrating your Wagtail site to a different database engine](https://www.yellowduck.be/migrating-your-wagtail-site-to-a-different-database-engine?utm_source=Migrating+your+Wagtail+site+to+a+different+database+engine&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-02` | [Setting up an NFS share on Linux](https://www.yellowduck.be/setting-up-an-nfs-share-on-linux?utm_source=Setting+up+an+NFS+share+on+Linux&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-01` | [Add your latest blog posts to your GitHub profile](https://www.yellowduck.be/add-your-latest-blog-posts-your-github-profile?utm_source=Add+your+latest+blog+posts+to+your+GitHub+profile&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-30` | [Adding database backups to Django](https://www.yellowduck.be/adding-database-backups-django?utm_source=Adding+database+backups+to+Django&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -22,6 +23,5 @@
 - `2020-11-26` | [Writing maintainable code](https://www.yellowduck.be/writing-maintainable-code?utm_source=Writing+maintainable+code&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-25` | [Preview vs live views of a page in Wagtail](https://www.yellowduck.be/preview-vs-live-views-page-wagtail?utm_source=Preview+vs+live+views+of+a+page+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-24` | [Creating a redirector page in Wagtail](https://www.yellowduck.be/creating-redirector-page-wagtail?utm_source=Creating+a+redirector+page+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2020-11-23` | [Making publish the default action in Wagtail](https://www.yellowduck.be/making-publish-default-action-wagtail?utm_source=Making+publish+the+default+action+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
