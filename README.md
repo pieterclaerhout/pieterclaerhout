@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2020-12-05` | [Loading env vars in your build scripts](https://www.yellowduck.be/loading-env-vars-in-your-build-scripts?utm_source=Loading+env+vars+in+your+build+scripts&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-04` | [Overriding the admin CSS in Wagtail](https://www.yellowduck.be/overriding-the-admin-css-in-wagtail?utm_source=Overriding+the+admin+CSS+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-03` | [Migrating your Wagtail site to a different database engine](https://www.yellowduck.be/migrating-your-wagtail-site-to-a-different-database-engine?utm_source=Migrating+your+Wagtail+site+to+a+different+database+engine&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-02` | [Setting up an NFS share on Linux](https://www.yellowduck.be/setting-up-an-nfs-share-on-linux?utm_source=Setting+up+an+NFS+share+on+Linux&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -22,6 +23,5 @@
 - `2020-11-28` | [Change the Wagtail site domain via a management command](https://www.yellowduck.be/change-wagtail-site-domain-management-command?utm_source=Change+the+Wagtail+site+domain+via+a+management+command&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-27` | [Creating a Django superuser programmatically](https://www.yellowduck.be/creating-django-superuser-programmatically?utm_source=Creating+a+Django+superuser+programmatically&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-11-26` | [Writing maintainable code](https://www.yellowduck.be/writing-maintainable-code?utm_source=Writing+maintainable+code&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2020-11-25` | [Preview vs live views of a page in Wagtail](https://www.yellowduck.be/preview-vs-live-views-page-wagtail?utm_source=Preview+vs+live+views+of+a+page+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
