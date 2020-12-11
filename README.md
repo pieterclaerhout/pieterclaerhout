@@ -12,6 +12,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2020-12-11` | [Programatically creating redirects in Wagtail](https://www.yellowduck.be/programatically-creating-redirects-wagtail?utm_source=Programatically+creating+redirects+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-10` | [Setting up and using an NFS share in Kubernetes](https://www.yellowduck.be/setting-up-and-using-an-nfs-share-in-kubernetes?utm_source=Setting+up+and+using+an+NFS+share+in+Kubernetes&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-09` | [Golang vs Apple Silicon](https://www.yellowduck.be/golang-vs-apple-silicon?utm_source=Golang+vs+Apple+Silicon&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-08` | [Kubernetes Port Forwarding for Local Development](https://www.yellowduck.be/kubernetes-port-forwarding-for-local-development?utm_source=Kubernetes+Port+Forwarding+for+Local+Development&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -21,6 +22,5 @@
 - `2020-12-04` | [Overriding the admin CSS in Wagtail](https://www.yellowduck.be/overriding-the-admin-css-in-wagtail?utm_source=Overriding+the+admin+CSS+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-03` | [Migrating your Wagtail site to a different database engine](https://www.yellowduck.be/migrating-your-wagtail-site-to-a-different-database-engine?utm_source=Migrating+your+Wagtail+site+to+a+different+database+engine&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-02` | [Setting up an NFS share on Linux](https://www.yellowduck.be/setting-up-an-nfs-share-on-linux?utm_source=Setting+up+an+NFS+share+on+Linux&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2020-12-01` | [Add your latest blog posts to your GitHub profile](https://www.yellowduck.be/add-your-latest-blog-posts-your-github-profile?utm_source=Add+your+latest+blog+posts+to+your+GitHub+profile&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
