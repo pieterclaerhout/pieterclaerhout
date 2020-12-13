@@ -12,6 +12,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2020-12-13` | [Add pagination in Wagtail](https://www.yellowduck.be/add-pagination-wagtail?utm_source=Add+pagination+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-12` | [Adding a sitemap to your Wagtail site](https://www.yellowduck.be/adding-sitemap-your-wagtail-site?utm_source=Adding+a+sitemap+to+your+Wagtail+site&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-11` | [Programatically creating redirects in Wagtail](https://www.yellowduck.be/programatically-creating-redirects-wagtail?utm_source=Programatically+creating+redirects+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-10` | [Setting up and using an NFS share in Kubernetes](https://www.yellowduck.be/setting-up-and-using-an-nfs-share-in-kubernetes?utm_source=Setting+up+and+using+an+NFS+share+in+Kubernetes&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -21,6 +22,5 @@
 - `2020-12-06` | [Common Git LFS errors and tricks](https://www.yellowduck.be/common-git-lfs-errors-and-tricks?utm_source=Common+Git+LFS+errors+and+tricks&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-05` | [Loading env vars in your build scripts](https://www.yellowduck.be/loading-env-vars-in-your-build-scripts?utm_source=Loading+env+vars+in+your+build+scripts&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-04` | [Overriding the admin CSS in Wagtail](https://www.yellowduck.be/overriding-the-admin-css-in-wagtail?utm_source=Overriding+the+admin+CSS+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2020-12-03` | [Migrating your Wagtail site to a different database engine](https://www.yellowduck.be/migrating-your-wagtail-site-to-a-different-database-engine?utm_source=Migrating+your+Wagtail+site+to+a+different+database+engine&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
