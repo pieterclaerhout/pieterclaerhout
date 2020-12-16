@@ -12,6 +12,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2020-12-16` | [Customizing panels in the Wagtail Admin](https://www.yellowduck.be/customizing-panels-wagtail-admin?utm_source=Customizing+panels+in+the+Wagtail+Admin&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-15` | [Showing related pages with similar tags in Wagtail](https://www.yellowduck.be/showing-related-pages-similar-tags-wagtail?utm_source=Showing+related+pages+with+similar+tags+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-14` | [Defining custom settings in Wagtail](https://www.yellowduck.be/defining-custom-settings-wagtail?utm_source=Defining+custom+settings+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-13` | [Add pagination in Wagtail](https://www.yellowduck.be/add-pagination-wagtail?utm_source=Add+pagination+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -21,6 +22,5 @@
 - `2020-12-09` | [Golang vs Apple Silicon](https://www.yellowduck.be/golang-vs-apple-silicon?utm_source=Golang+vs+Apple+Silicon&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-08` | [Kubernetes Port Forwarding for Local Development](https://www.yellowduck.be/kubernetes-port-forwarding-for-local-development?utm_source=Kubernetes+Port+Forwarding+for+Local+Development&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-07` | [Tips and tricks for creating Kubernetes secrets](https://www.yellowduck.be/tips-and-tricks-for-creating-kubernetes-secrets?utm_source=Tips+and+tricks+for+creating+Kubernetes+secrets&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2020-12-06` | [Common Git LFS errors and tricks](https://www.yellowduck.be/common-git-lfs-errors-and-tricks?utm_source=Common+Git+LFS+errors+and+tricks&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
