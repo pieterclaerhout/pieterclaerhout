@@ -12,6 +12,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2020-12-27` | [Programatically importing images in Wagtail](https://www.yellowduck.be/programatically-importing-images-wagtail?utm_source=Programatically+importing+images+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-26` | [Building view components with Go and Tailwind CSS](https://www.yellowduck.be/building-view-components-with-go-and-tailwind-css?utm_source=Building+view+components+with+Go+and+Tailwind+CSS&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-25` | [Creating SSL certificates for localhost](https://www.yellowduck.be/creating-ssl-certificates-for-localhost?utm_source=Creating+SSL+certificates+for+localhost&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-24` | [Cross-compile a Go package which uses sqlite3](https://www.yellowduck.be/cross-compile-a-go-package-which-uses-sqlite3?utm_source=Cross-compile+a+Go+package+which+uses+sqlite3&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -21,6 +22,5 @@
 - `2020-12-20` | [Checking your frontend before you go live](https://www.yellowduck.be/checking-your-frontend-before-you-go-live?utm_source=Checking+your+frontend+before+you+go+live&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-19` | [Adding a panel to the admin homepage in Wagtail](https://www.yellowduck.be/adding-a-panel-to-the-admin-homepage-in-wagtail?utm_source=Adding+a+panel+to+the+admin+homepage+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-18` | [First beta of Go 1.16 is now available](https://www.yellowduck.be/first-beta-of-go-116-is-now-available?utm_source=First+beta+of+Go+1.16+is+now+available&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2020-12-17` | [Add tag count using taggit](https://www.yellowduck.be/add-tag-count-using-taggit?utm_source=Add+tag+count+using+taggit&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
