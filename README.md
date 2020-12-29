@@ -12,6 +12,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2020-12-29` | [Uninstalling a .pkg file on mac](https://www.yellowduck.be/uninstalling-a-pkg-file-on-mac?utm_source=Uninstalling+a+.pkg+file+on+mac&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-28` | [Cleaning up Xcode data](https://www.yellowduck.be/cleaning-up-xcode-data?utm_source=Cleaning+up+Xcode+data&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-27` | [Programatically importing images in Wagtail](https://www.yellowduck.be/programatically-importing-images-wagtail?utm_source=Programatically+importing+images+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-26` | [Building view components with Go and Tailwind CSS](https://www.yellowduck.be/building-view-components-with-go-and-tailwind-css?utm_source=Building+view+components+with+Go+and+Tailwind+CSS&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -21,6 +22,5 @@
 - `2020-12-22` | [Detecting Apple Silicon via Go](https://www.yellowduck.be/detecting-apple-silicon-via-go?utm_source=Detecting+Apple+Silicon+via+Go&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-21` | [Get the absolute path of a bash script](https://www.yellowduck.be/get-the-absolute-path-of-a-bash-script?utm_source=Get+the+absolute+path+of+a+bash+script&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-20` | [Checking your frontend before you go live](https://www.yellowduck.be/checking-your-frontend-before-you-go-live?utm_source=Checking+your+frontend+before+you+go+live&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2020-12-19` | [Adding a panel to the admin homepage in Wagtail](https://www.yellowduck.be/adding-a-panel-to-the-admin-homepage-in-wagtail?utm_source=Adding+a+panel+to+the+admin+homepage+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
