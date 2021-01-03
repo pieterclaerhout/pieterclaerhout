@@ -12,6 +12,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2021-01-03` | [Looking up a CNAME in Go](https://www.yellowduck.be/looking-up-a-cname-in-go?utm_source=Looking+up+a+CNAME+in+Go&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-01-02` | [Pretty-print JSON with Go](https://www.yellowduck.be/pretty-print-json-with-go?utm_source=Pretty-print+JSON+with+Go&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-01-01` | [Embedding file with Go 1.16](https://www.yellowduck.be/embedding-file-with-go-116?utm_source=Embedding+file+with+Go+1.16&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-31` | [Parsing App Store Connect API errors with Go](https://www.yellowduck.be/parsing-app-store-connect-api-errors-with-go?utm_source=Parsing+App+Store+Connect+API+errors+with+Go&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -21,6 +22,5 @@
 - `2020-12-27` | [Programatically importing images in Wagtail](https://www.yellowduck.be/programatically-importing-images-wagtail?utm_source=Programatically+importing+images+in+Wagtail&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-26` | [Building view components with Go and Tailwind CSS](https://www.yellowduck.be/building-view-components-with-go-and-tailwind-css?utm_source=Building+view+components+with+Go+and+Tailwind+CSS&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2020-12-25` | [Creating SSL certificates for localhost](https://www.yellowduck.be/creating-ssl-certificates-for-localhost?utm_source=Creating+SSL+certificates+for+localhost&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2020-12-24` | [Cross-compile a Go package which uses sqlite3](https://www.yellowduck.be/cross-compile-a-go-package-which-uses-sqlite3?utm_source=Cross-compile+a+Go+package+which+uses+sqlite3&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
