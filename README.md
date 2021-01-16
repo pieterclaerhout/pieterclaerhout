@@ -12,6 +12,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2021-01-16` | [Using the Docker client from Go part 2](https://www.yellowduck.be/using-the-docker-client-from-go-part-2?utm_source=Using+the+Docker+client+from+Go+part+2&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-01-14` | [Using the Docker client from Go part 1](https://www.yellowduck.be/using-the-docker-client-from-go-part-1?utm_source=Using+the+Docker+client+from+Go+part+1&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-01-13` | [Gotcha with defer in Go](https://www.yellowduck.be/gotcha-with-defer-in-go?utm_source=Gotcha+with+defer+in+Go&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-01-12` | [Version info with otool](https://www.yellowduck.be/version-info-with-otool?utm_source=Version+info+with+otool&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -21,6 +22,5 @@
 - `2021-01-08` | [Migrating from GORM v1 to v2](https://www.yellowduck.be/migrating-from-gorm-v1-to-v2?utm_source=Migrating+from+GORM+v1+to+v2&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-01-07` | [Waiting for a MySQL database in Go](https://www.yellowduck.be/waiting-for-a-mysql-database-in-go?utm_source=Waiting+for+a+MySQL+database+in+Go&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-01-06` | [Truncating a Unix timestamp to the hour using Go](https://www.yellowduck.be/truncating-a-unix-timestamp-to-the-hour-using-go?utm_source=Truncating+a+Unix+timestamp+to+the+hour+using+Go&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2021-01-05` | [My Strava results from 2020](https://www.yellowduck.be/my-strava-results-from-2020?utm_source=My+Strava+results+from+2020&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
