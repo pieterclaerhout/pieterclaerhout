@@ -1,8 +1,8 @@
 ### Hi there, I'm Pieter 👋  
 [![Follow Me](https://img.shields.io/github/followers/pieterclaerhout?label=Follow&style=social)](https://github.com/pieterclaerhout)
 
-- 🌱 I’m currently learning [Wagtail](https://wagtail.io)
-- 💬 Ask me about [Python](https://www.python.org), [Django](https://www.djangoproject.com), [Wagtail](https://wagtail.io), [Golang](https://golang.org)
+- 🌱 I’m currently playing around with GPX, Strava and Garmin Connect
+- 💬 Ask me about [Golang](https://golang.org), [Python](https://www.python.org), [Django](https://www.djangoproject.com), [Wagtail](https://wagtail.io)
 - 😄 Pronouns: Pieter, Duckie, YellowDuck
 - 📫 How to reach me: pieter@yellowduck.be
 
