@@ -12,6 +12,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2021-05-06` | [Define your own function in a Makefile](https://www.yellowduck.be/define-your-own-function-in-a-makefile?utm_source=Define+your+own+function+in+a+Makefile&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-03-09` | [Exporting your data from Komoot](https://www.yellowduck.be/exporting-your-data-from-komoot?utm_source=Exporting+your+data+from+Komoot&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-01-18` | [Taking an Android screenshot via terminal](https://www.yellowduck.be/taking-an-android-screenshot-via-terminal?utm_source=Taking+an+Android+screenshot+via+terminal&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-01-17` | [Read Suggestion: Using checksums to verify syncing 100M database records](https://www.yellowduck.be/read-suggestion-using-checksums-to-verify-syncing-100m-database-records?utm_source=Read+Suggestion%3A+Using+checksums+to+verify+syncing+100M+database+records&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -21,6 +22,5 @@
 - `2021-01-12` | [Version info with otool](https://www.yellowduck.be/version-info-with-otool?utm_source=Version+info+with+otool&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-01-11` | [Using JWT with Labstack Echo](https://www.yellowduck.be/using-jwt-with-labstack-echo?utm_source=Using+JWT+with+Labstack+Echo&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-01-10` | [Assert vs require in testify](https://www.yellowduck.be/assert-vs-require-in-testify?utm_source=Assert+vs+require+in+testify&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2021-01-09` | [Using environment variables in Go tests](https://www.yellowduck.be/using-environment-variables-in-go-tests?utm_source=Using+environment+variables+in+Go+tests&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
