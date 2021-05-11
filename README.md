@@ -12,6 +12,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2021-05-11` | [Auto-accepting terms of service with Gradle build scans](https://www.yellowduck.be/auto-accepting-terms-of-service-with-gradle-build-scans?utm_source=Auto-accepting+terms+of+service+with+Gradle+build+scans&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-05-10` | [Creating a fat jar from gradle](https://www.yellowduck.be/creating-a-fat-jar-from-gradle?utm_source=Creating+a+fat+jar+from+gradle&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-05-09` | [Upgrading your Gradle project to version 7](https://www.yellowduck.be/upgrading-your-gradle-project-to-version-7?utm_source=Upgrading+your+Gradle+project+to+version+7&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-05-06` | [Define your own function in a Makefile](https://www.yellowduck.be/define-your-own-function-in-a-makefile?utm_source=Define+your+own+function+in+a+Makefile&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -21,6 +22,5 @@
 - `2021-01-16` | [Using the Docker client from Go part 2](https://www.yellowduck.be/using-the-docker-client-from-go-part-2?utm_source=Using+the+Docker+client+from+Go+part+2&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-01-14` | [Using the Docker client from Go part 1](https://www.yellowduck.be/using-the-docker-client-from-go-part-1?utm_source=Using+the+Docker+client+from+Go+part+1&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-01-13` | [Gotcha with defer in Go](https://www.yellowduck.be/gotcha-with-defer-in-go?utm_source=Gotcha+with+defer+in+Go&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2021-01-12` | [Version info with otool](https://www.yellowduck.be/version-info-with-otool?utm_source=Version+info+with+otool&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
