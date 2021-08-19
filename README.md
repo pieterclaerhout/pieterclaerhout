@@ -1,8 +1,8 @@
 ### Hi there, I'm Pieter 👋  
 [![Follow Me](https://img.shields.io/github/followers/pieterclaerhout?label=Follow&style=social)](https://github.com/pieterclaerhout)
 
-- 🌱 I’m currently playing around with Komoot, Kotlin, GPX, Fit, Strava and Garmin Connect
-- 💬 Ask me about [PHP](https://php.net), [Golang](https://golang.org), [Kotlin](http://kotlinlang.org), [Python](https://www.python.org)
+- 🌱 I’m currently playing around with Laravel
+- 💬 Ask me about [PHP](https://php.net), [Laravel](http://laravel.com), [Golang](https://golang.org)
 - 😄 Pronouns: Pieter, Duckie, YellowDuck
 - 📫 How to reach me: pieter@yellowduck.be
 
