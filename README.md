@@ -12,6 +12,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2021-12-03` | [The giveConfig function in Laravel](https://www.yellowduck.be/the-giveconfig-function-in-laravel?utm_source=The+giveConfig+function+in+Laravel&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-12-02` | [Optimising large whereIn queries in Laravel](https://www.yellowduck.be/optimising-large-wherein-queries-in-laravel?utm_source=Optimising+large+whereIn+queries+in+Laravel&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-11-28` | [Testing for equal json strings in Laravel tests](https://www.yellowduck.be/testing-for-equal-json-strings-in-laravel-tests?utm_source=Testing+for+equal+json+strings+in+Laravel+tests&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-11-27` | [Using macros with Laravel](https://www.yellowduck.be/using-macros-with-laravel?utm_source=Using+macros+with+Laravel&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -21,6 +22,5 @@
 - `2021-05-12` | [Creating a runnable jar using Gradle](https://www.yellowduck.be/creating-a-runnable-jar-using-gradle?utm_source=Creating+a+runnable+jar+using+Gradle&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-05-11` | [Auto-accepting terms of service with Gradle build scans](https://www.yellowduck.be/auto-accepting-terms-of-service-with-gradle-build-scans?utm_source=Auto-accepting+terms+of+service+with+Gradle+build+scans&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-05-10` | [Creating a fat jar from gradle](https://www.yellowduck.be/creating-a-fat-jar-from-gradle?utm_source=Creating+a+fat+jar+from+gradle&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2021-05-09` | [Upgrading your Gradle project to version 7](https://www.yellowduck.be/upgrading-your-gradle-project-to-version-7?utm_source=Upgrading+your+Gradle+project+to+version+7&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
