@@ -12,6 +12,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2021-12-09` | [Removing local branches that have been merged](https://www.yellowduck.be/removing-local-branches-that-have-been-merged?utm_source=Removing+local+branches+that+have+been+merged&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-12-04` | [How to get request parameters in Laravel](https://www.yellowduck.be/how-to-get-request-parameters-in-laravel?utm_source=How+to+get+request+parameters+in+Laravel&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-12-03` | [The giveConfig function in Laravel](https://www.yellowduck.be/the-giveconfig-function-in-laravel?utm_source=The+giveConfig+function+in+Laravel&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-12-02` | [Optimising large whereIn queries in Laravel](https://www.yellowduck.be/optimising-large-wherein-queries-in-laravel?utm_source=Optimising+large+whereIn+queries+in+Laravel&utm_medium=RSS&utm_campaign=RSS+Reader)  
@@ -21,6 +22,5 @@
 - `2021-06-05` | [Using Kotlin and Jsoup to scrape HTML](https://www.yellowduck.be/using-kotlin-and-jsoup-to-scrape-html?utm_source=Using+Kotlin+and+Jsoup+to+scrape+HTML&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-05-22` | [Using GitHub actions in Visual Studio Code](https://www.yellowduck.be/using-github-actions-in-visual-studio-code?utm_source=Using+GitHub+actions+in+Visual+Studio+Code&utm_medium=RSS&utm_campaign=RSS+Reader)  
 - `2021-05-12` | [Creating a runnable jar using Gradle](https://www.yellowduck.be/creating-a-runnable-jar-using-gradle?utm_source=Creating+a+runnable+jar+using+Gradle&utm_medium=RSS&utm_campaign=RSS+Reader)  
-- `2021-05-11` | [Auto-accepting terms of service with Gradle build scans](https://www.yellowduck.be/auto-accepting-terms-of-service-with-gradle-build-scans?utm_source=Auto-accepting+terms+of+service+with+Gradle+build+scans&utm_medium=RSS&utm_campaign=RSS+Reader)  
 
 <!-- BLOG-POST-LIST:END -->
