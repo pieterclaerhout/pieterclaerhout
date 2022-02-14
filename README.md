@@ -1,7 +1,7 @@
 ### Hi there, I'm Pieter 👋  
 [![Follow Me](https://img.shields.io/github/followers/pieterclaerhout?label=Follow&style=social)](https://github.com/pieterclaerhout)
 
-- 🏢 I'm working a senior backend developer / CTO at [contractify.io](https://contractify.io)
+- 🏢 I'm working as a senior backend developer / CTO at [contractify.io](https://contractify.io)
 - 🌱 I’m currently playing around with Laravel
 - 💬 Ask me about [PHP](https://php.net), [Laravel](http://laravel.com), [Golang](https://golang.org)
 - 😄 Pronouns: Pieter, Duckie, YellowDuck
