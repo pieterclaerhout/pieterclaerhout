@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2022-02-21` | [Removing MySQL 8.0 server on Ubuntu](https://www.yellowduck.be/posts/removing-mysql-80-server-on-ubuntu)  
 - `2022-01-19` | [Fixing the MySQL export from TablePlus](https://www.yellowduck.be/posts/fixing-the-mysql-export-from-tableplus)  
 - `2021-12-15` | [Customising lazy-loading prevention in Laravel](https://www.yellowduck.be/posts/customising-lazy-loading-prevention-in-laravel)  
 - `2021-12-10` | [Laravel Service Provider in Simple English](https://www.yellowduck.be/posts/laravel-service-provider-in-simple-english)  
@@ -22,6 +23,5 @@
 - `2021-12-02` | [Optimising large whereIn queries in Laravel](https://www.yellowduck.be/posts/optimising-large-wherein-queries-in-laravel)  
 - `2021-11-28` | [Testing for equal json strings in Laravel tests](https://www.yellowduck.be/posts/testing-for-equal-json-strings-in-laravel-tests)  
 - `2021-11-27` | [Using macros with Laravel](https://www.yellowduck.be/posts/using-macros-with-laravel)  
-- `2021-08-24` | [Using the Caddy webserver with Laravel](https://www.yellowduck.be/posts/using-the-caddy-webserver-with-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
