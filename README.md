@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2022-02-24` | [Don&amp;#039;t create objects using the new keyword](https://www.yellowduck.be/posts/dont-create-objects-using-the-new-keyword)  
 - `2022-02-23` | [Showing gravatars for users in Filament Admin](https://www.yellowduck.be/posts/showing-gravatars-for-users-in-filament-admin)  
 - `2022-02-22` | [Fixing the Filament 404 error on production](https://www.yellowduck.be/posts/fixing-the-filament-404-error-on-production)  
 - `2022-02-21` | [Removing MySQL 8.0 server on Ubuntu](https://www.yellowduck.be/posts/removing-mysql-80-server-on-ubuntu)  
@@ -22,6 +23,5 @@
 - `2021-12-09` | [Removing local branches that have been merged](https://www.yellowduck.be/posts/removing-local-branches-that-have-been-merged)  
 - `2021-12-04` | [How to get request parameters in Laravel](https://www.yellowduck.be/posts/how-to-get-request-parameters-in-laravel)  
 - `2021-12-03` | [The giveConfig function in Laravel](https://www.yellowduck.be/posts/the-giveconfig-function-in-laravel)  
-- `2021-12-02` | [Optimising large whereIn queries in Laravel](https://www.yellowduck.be/posts/optimising-large-wherein-queries-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
