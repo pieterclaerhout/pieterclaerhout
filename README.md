@@ -13,15 +13,15 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
-- `2022-02-24` | [Don&amp;#039;t create objects using the new keyword](https://www.yellowduck.be/posts/dont-create-objects-using-the-new-keyword)  
-- `2022-02-23` | [Showing gravatars for users in Filament Admin](https://www.yellowduck.be/posts/showing-gravatars-for-users-in-filament-admin)  
-- `2022-02-22` | [Fixing the Filament 404 error on production](https://www.yellowduck.be/posts/fixing-the-filament-404-error-on-production)  
-- `2022-02-21` | [Removing MySQL 8.0 server on Ubuntu](https://www.yellowduck.be/posts/removing-mysql-80-server-on-ubuntu)  
-- `2022-01-19` | [Fixing the MySQL export from TablePlus](https://www.yellowduck.be/posts/fixing-the-mysql-export-from-tableplus)  
-- `2021-12-15` | [Customising lazy-loading prevention in Laravel](https://www.yellowduck.be/posts/customising-lazy-loading-prevention-in-laravel)  
-- `2021-12-10` | [Laravel Service Provider in Simple English](https://www.yellowduck.be/posts/laravel-service-provider-in-simple-english)  
-- `2021-12-09` | [Removing local branches that have been merged](https://www.yellowduck.be/posts/removing-local-branches-that-have-been-merged)  
-- `2021-12-04` | [How to get request parameters in Laravel](https://www.yellowduck.be/posts/how-to-get-request-parameters-in-laravel)  
-- `2021-12-03` | [The giveConfig function in Laravel](https://www.yellowduck.be/posts/the-giveconfig-function-in-laravel)  
+- `2022-06-21` | [Static and dynamic classes in VueJS](https://www.yellowduck.be/posts/static-and-dynamic-classes-in-vuejs)  
+- `2022-06-19` | [Checking if Laravel code is running inside a test](https://www.yellowduck.be/posts/checking-if-laravel-code-is-running-inside-a-test)  
+- `2022-06-17` | [Maintaining the aspect ratio in CSS](https://www.yellowduck.be/posts/maintaining-the-aspect-ratio-in-css)  
+- `2022-06-15` | [VueJS keys to force updates](https://www.yellowduck.be/posts/vuejs-keys-to-force-updates)  
+- `2022-06-13` | [Running Laravel scheduler using systemd](https://www.yellowduck.be/posts/running-laravel-scheduler-using-systemd)  
+- `2022-06-11` | [Transforming a paginated Eloquent result](https://www.yellowduck.be/posts/transforming-a-paginated-eloquent-result)  
+- `2022-06-09` | [Using Dropbox as a Laravel filesystem](https://www.yellowduck.be/posts/using-dropbox-as-a-laravel-filesystem)  
+- `2022-06-07` | [Encrypting data in the database using Eloquent](https://www.yellowduck.be/posts/encrypting-data-in-the-database-using-eloquent)  
+- `2022-06-05` | [Organising model scopes in Laravel](https://www.yellowduck.be/posts/organising-model-scopes-in-laravel)  
+- `2022-06-03` | [Test private and protected properties using phpunit](https://www.yellowduck.be/posts/test-private-and-protected-properties-using-phpunit)  
 
 <!-- BLOG-POST-LIST:END -->
