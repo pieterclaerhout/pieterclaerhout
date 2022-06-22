@@ -3,7 +3,7 @@
 
 - 🏢 I'm working as a senior backend developer / CTO at [contractify.io](https://contractify.io)
 - 🌱 I’m currently playing around with Laravel
-- 💬 Ask me about [PHP](https://php.net), [Laravel](http://laravel.com), [VueJS](https://vuejs.org)
+- 💬 Ask me about [PHP](https://php.net), [Laravel](http://laravel.com) and [VueJS](https://vuejs.org)
 - 😄 Pronouns: Pieter, Duckie, YellowDuck
 - 📫 How to reach me: pieter@yellowduck.be
 
