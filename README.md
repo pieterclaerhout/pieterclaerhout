@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2022-06-23` | [Logging in as a different user in Laravel](https://www.yellowduck.be/posts/logging-in-as-a-different-user-in-laravel)  
 - `2022-06-21` | [Static and dynamic classes in VueJS](https://www.yellowduck.be/posts/static-and-dynamic-classes-in-vuejs)  
 - `2022-06-19` | [Checking if Laravel code is running inside a test](https://www.yellowduck.be/posts/checking-if-laravel-code-is-running-inside-a-test)  
 - `2022-06-17` | [Maintaining the aspect ratio in CSS](https://www.yellowduck.be/posts/maintaining-the-aspect-ratio-in-css)  
@@ -22,6 +23,5 @@
 - `2022-06-09` | [Using Dropbox as a Laravel filesystem](https://www.yellowduck.be/posts/using-dropbox-as-a-laravel-filesystem)  
 - `2022-06-07` | [Encrypting data in the database using Eloquent](https://www.yellowduck.be/posts/encrypting-data-in-the-database-using-eloquent)  
 - `2022-06-05` | [Organising model scopes in Laravel](https://www.yellowduck.be/posts/organising-model-scopes-in-laravel)  
-- `2022-06-03` | [Test private and protected properties using phpunit](https://www.yellowduck.be/posts/test-private-and-protected-properties-using-phpunit)  
 
 <!-- BLOG-POST-LIST:END -->
