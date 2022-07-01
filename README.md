@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2022-07-01` | [Disable Laravel Scout when saving a model](https://www.yellowduck.be/posts/disable-laravel-scout-when-saving-a-model)  
 - `2022-06-29` | [Artisan commands vs zsh](https://www.yellowduck.be/posts/artisan-commands-vs-zsh)  
 - `2022-06-27` | [Using console routes in Laravel](https://www.yellowduck.be/posts/using-console-routes-in-laravel)  
 - `2022-06-25` | [Checking for pending migrations in Laravel](https://www.yellowduck.be/posts/checking-for-pending-migrations-in-laravel)  
@@ -22,6 +23,5 @@
 - `2022-06-17` | [Maintaining the aspect ratio in CSS](https://www.yellowduck.be/posts/maintaining-the-aspect-ratio-in-css)  
 - `2022-06-15` | [VueJS keys to force updates](https://www.yellowduck.be/posts/vuejs-keys-to-force-updates)  
 - `2022-06-13` | [Running Laravel scheduler using systemd](https://www.yellowduck.be/posts/running-laravel-scheduler-using-systemd)  
-- `2022-06-11` | [Transforming a paginated Eloquent result](https://www.yellowduck.be/posts/transforming-a-paginated-eloquent-result)  
 
 <!-- BLOG-POST-LIST:END -->
