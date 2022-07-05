@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2022-07-05` | [Changing the default PHP version in Ubuntu](https://www.yellowduck.be/posts/changing-the-default-php-version-in-ubuntu)  
 - `2022-07-03` | [Laravel&amp;#039;s mapWithKeys for collections](https://www.yellowduck.be/posts/laravels-mapwithkeys-for-collections)  
 - `2022-07-01` | [Disable Laravel Scout when saving a model](https://www.yellowduck.be/posts/disable-laravel-scout-when-saving-a-model)  
 - `2022-06-29` | [Artisan commands vs zsh](https://www.yellowduck.be/posts/artisan-commands-vs-zsh)  
@@ -22,6 +23,5 @@
 - `2022-06-21` | [Static and dynamic classes in VueJS](https://www.yellowduck.be/posts/static-and-dynamic-classes-in-vuejs)  
 - `2022-06-19` | [Checking if Laravel code is running inside a test](https://www.yellowduck.be/posts/checking-if-laravel-code-is-running-inside-a-test)  
 - `2022-06-17` | [Maintaining the aspect ratio in CSS](https://www.yellowduck.be/posts/maintaining-the-aspect-ratio-in-css)  
-- `2022-06-15` | [VueJS keys to force updates](https://www.yellowduck.be/posts/vuejs-keys-to-force-updates)  
 
 <!-- BLOG-POST-LIST:END -->
