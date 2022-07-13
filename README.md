@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2022-07-13` | [35 Laravel Eloquent Recipes](https://www.yellowduck.be/posts/35-laravel-eloquent-recipes)  
 - `2022-07-11` | [Listing the installed packages on an Ubuntu server](https://www.yellowduck.be/posts/listing-the-installed-packages-on-an-ubuntu-server)  
 - `2022-07-09` | [Changing the queue used by Laravel Scout](https://www.yellowduck.be/posts/changing-the-queue-used-by-laravel-scout)  
 - `2022-07-07` | [Automatically adding the HSTS header in Laravel](https://www.yellowduck.be/posts/automatically-adding-the-hsts-header-in-laravel)  
@@ -22,6 +23,5 @@
 - `2022-06-29` | [Artisan commands vs zsh](https://www.yellowduck.be/posts/artisan-commands-vs-zsh)  
 - `2022-06-27` | [Using console routes in Laravel](https://www.yellowduck.be/posts/using-console-routes-in-laravel)  
 - `2022-06-25` | [Checking for pending migrations in Laravel](https://www.yellowduck.be/posts/checking-for-pending-migrations-in-laravel)  
-- `2022-06-23` | [Logging in as a different user in Laravel](https://www.yellowduck.be/posts/logging-in-as-a-different-user-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
