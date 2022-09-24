@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2022-09-24` | [Failed writes with Laravel Filesystem](https://www.yellowduck.be/posts/failed-writes-with-laravel-filesystem)  
 - `2022-08-12` | [Another way of accessing private and protected properties in PHP](https://www.yellowduck.be/posts/another-way-of-accessing-private-and-protected-properties-in-php)  
 - `2022-08-10` | [Getting the names and values of an enum using a trait](https://www.yellowduck.be/posts/getting-the-names-and-values-of-an-enum-using-a-trait)  
 - `2022-07-13` | [35 Laravel Eloquent Recipes](https://www.yellowduck.be/posts/35-laravel-eloquent-recipes)  
@@ -22,6 +23,5 @@
 - `2022-07-05` | [Changing the default PHP version in Ubuntu](https://www.yellowduck.be/posts/changing-the-default-php-version-in-ubuntu)  
 - `2022-07-03` | [Laravel&amp;#039;s mapWithKeys for collections](https://www.yellowduck.be/posts/laravels-mapwithkeys-for-collections)  
 - `2022-07-01` | [Disable Laravel Scout when saving a model](https://www.yellowduck.be/posts/disable-laravel-scout-when-saving-a-model)  
-- `2022-06-29` | [Artisan commands vs zsh](https://www.yellowduck.be/posts/artisan-commands-vs-zsh)  
 
 <!-- BLOG-POST-LIST:END -->
