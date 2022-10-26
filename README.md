@@ -21,7 +21,7 @@
 - `2022-07-09` | [Changing the queue used by Laravel Scout](https://www.yellowduck.be/posts/changing-the-queue-used-by-laravel-scout)  
 - `2022-07-07` | [Automatically adding the HSTS header in Laravel](https://www.yellowduck.be/posts/automatically-adding-the-hsts-header-in-laravel)  
 - `2022-07-05` | [Changing the default PHP version in Ubuntu](https://www.yellowduck.be/posts/changing-the-default-php-version-in-ubuntu)  
-- `2022-07-03` | [Laravel&amp;#039;s mapWithKeys for collections](https://www.yellowduck.be/posts/laravels-mapwithkeys-for-collections)  
+- `2022-07-03` | [Laravel&#39;s mapWithKeys for collections](https://www.yellowduck.be/posts/laravels-mapwithkeys-for-collections)  
 - `2022-07-01` | [Disable Laravel Scout when saving a model](https://www.yellowduck.be/posts/disable-laravel-scout-when-saving-a-model)  
 
 <!-- BLOG-POST-LIST:END -->
