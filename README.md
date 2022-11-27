@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2022-11-27` | [Filament performance when using Laravel Debug Bar](https://www.yellowduck.be/posts/filament-performance-when-using-laravel-debug-bar)  
 - `2022-11-08` | [TIL: Extracting pages from a PDF using qpdf](https://www.yellowduck.be/posts/til-extracting-pages-from-a-pdf-using-qpdf)  
 - `2022-09-24` | [Failed writes with Laravel Filesystem](https://www.yellowduck.be/posts/failed-writes-with-laravel-filesystem)  
 - `2022-08-12` | [Another way of accessing private and protected properties in PHP](https://www.yellowduck.be/posts/another-way-of-accessing-private-and-protected-properties-in-php)  
@@ -22,6 +23,5 @@
 - `2022-07-09` | [Changing the queue used by Laravel Scout](https://www.yellowduck.be/posts/changing-the-queue-used-by-laravel-scout)  
 - `2022-07-07` | [Automatically adding the HSTS header in Laravel](https://www.yellowduck.be/posts/automatically-adding-the-hsts-header-in-laravel)  
 - `2022-07-05` | [Changing the default PHP version in Ubuntu](https://www.yellowduck.be/posts/changing-the-default-php-version-in-ubuntu)  
-- `2022-07-03` | [Laravel&#39;s mapWithKeys for collections](https://www.yellowduck.be/posts/laravels-mapwithkeys-for-collections)  
 
 <!-- BLOG-POST-LIST:END -->
