@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2022-12-03` | [Getting the full error response body using Guzzle](https://www.yellowduck.be/posts/getting-the-full-error-response-body-using-guzzle)  
 - `2022-12-01` | [SSH not working in macOS Ventura?](https://www.yellowduck.be/posts/ssh-not-working-in-macos-ventura)  
 - `2022-11-29` | [Running a Laravel seeder from code](https://www.yellowduck.be/posts/running-a-laravel-seeder-from-code)  
 - `2022-11-27` | [Filament performance when using Laravel Debug Bar](https://www.yellowduck.be/posts/filament-performance-when-using-laravel-debug-bar)  
@@ -22,6 +23,5 @@
 - `2022-08-10` | [Getting the names and values of an enum using a trait](https://www.yellowduck.be/posts/getting-the-names-and-values-of-an-enum-using-a-trait)  
 - `2022-07-13` | [35 Laravel Eloquent Recipes](https://www.yellowduck.be/posts/35-laravel-eloquent-recipes)  
 - `2022-07-11` | [Listing the installed packages on an Ubuntu server](https://www.yellowduck.be/posts/listing-the-installed-packages-on-an-ubuntu-server)  
-- `2022-07-09` | [Changing the queue used by Laravel Scout](https://www.yellowduck.be/posts/changing-the-queue-used-by-laravel-scout)  
 
 <!-- BLOG-POST-LIST:END -->
