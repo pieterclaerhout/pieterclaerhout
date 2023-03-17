@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-03-17` | [TIL: counting values in an array](https://www.yellowduck.be/posts/til-counting-values-in-an-array)  
 - `2023-03-15` | [NSS_Init failed: security library: bad database.](https://www.yellowduck.be/posts/nss-init-failed-security-library-bad-database)  
 - `2022-12-12` | [TIL: git --renormalize](https://www.yellowduck.be/posts/til-git-renormalize)  
 - `2022-12-03` | [Getting the full error response body using Guzzle](https://www.yellowduck.be/posts/getting-the-full-error-response-body-using-guzzle)  
@@ -22,6 +23,5 @@
 - `2022-11-08` | [TIL: Extracting pages from a PDF using qpdf](https://www.yellowduck.be/posts/til-extracting-pages-from-a-pdf-using-qpdf)  
 - `2022-09-24` | [Failed writes with Laravel Filesystem](https://www.yellowduck.be/posts/failed-writes-with-laravel-filesystem)  
 - `2022-08-12` | [Another way of accessing private and protected properties in PHP](https://www.yellowduck.be/posts/another-way-of-accessing-private-and-protected-properties-in-php)  
-- `2022-08-10` | [Getting the names and values of an enum using a trait](https://www.yellowduck.be/posts/getting-the-names-and-values-of-an-enum-using-a-trait)  
 
 <!-- BLOG-POST-LIST:END -->
