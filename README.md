@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-08` | [Reading list August 8th, 2023](https://www.yellowduck.be/posts/reading-list-2023-08-08)  
 - `2023-08-08` | [Package your git repository as a zip file](https://www.yellowduck.be/posts/package-your-git-repo-as-a-zip)  
 - `2023-08-06` | [Run anything as daemon on Linux](https://www.yellowduck.be/posts/run-anything-as-daemon-on-linux)  
 - `2023-03-15` | [NSS_Init failed: security library: bad database.](https://www.yellowduck.be/posts/nss-init-failed-security-library-bad-database)  
@@ -22,6 +23,5 @@
 - `2022-07-13` | [35 Laravel Eloquent Recipes](https://www.yellowduck.be/posts/35-laravel-eloquent-recipes)  
 - `2022-07-11` | [Listing the installed packages on an Ubuntu server](https://www.yellowduck.be/posts/listing-the-installed-packages-on-an-ubuntu-server)  
 - `2022-07-09` | [Changing the queue used by Laravel Scout](https://www.yellowduck.be/posts/changing-the-queue-used-by-laravel-scout)  
-- `2022-07-07` | [Automatically adding the HSTS header in Laravel](https://www.yellowduck.be/posts/automatically-adding-the-hsts-header-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
