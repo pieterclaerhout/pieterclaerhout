@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-10` | [Force update a git tag](https://www.yellowduck.be/posts/force-update-a-git-tag)  
+- `2023-08-10` | [Reading list August 10th, 2023](https://www.yellowduck.be/posts/reading-list-2023-08-10)  
 - `2023-08-09` | [Reading list August 9th, 2023](https://www.yellowduck.be/posts/reading-list-2023-08-09)  
 - `2023-08-08` | [Package your git repository as a zip file](https://www.yellowduck.be/posts/package-your-git-repo-as-a-zip)  
 - `2023-08-08` | [Reading list August 8th, 2023](https://www.yellowduck.be/posts/reading-list-2023-08-08)  
@@ -21,7 +23,5 @@
 - `2022-12-03` | [Getting the full error response body using Guzzle](https://www.yellowduck.be/posts/getting-the-full-error-response-body-using-guzzle)  
 - `2022-11-29` | [Running a Laravel seeder from code](https://www.yellowduck.be/posts/running-a-laravel-seeder-from-code)  
 - `2022-09-24` | [Failed writes with Laravel Filesystem](https://www.yellowduck.be/posts/failed-writes-with-laravel-filesystem)  
-- `2022-07-13` | [35 Laravel Eloquent Recipes](https://www.yellowduck.be/posts/35-laravel-eloquent-recipes)  
-- `2022-07-11` | [Listing the installed packages on an Ubuntu server](https://www.yellowduck.be/posts/listing-the-installed-packages-on-an-ubuntu-server)  
 
 <!-- BLOG-POST-LIST:END -->
