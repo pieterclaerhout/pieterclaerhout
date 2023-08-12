@@ -13,15 +13,15 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-12` | [🔗 A Guide to Writing slog Handlers](https://www.yellowduck.be/posts/a-guide-to-writing-slog-handlers)  
+- `2023-08-12` | [🔗 Why you shouldn&#39;t use func main in Go](https://www.yellowduck.be/posts/why-you-shouldnt-use-func-main-in-go-by-mat-ryer-pace)  
+- `2023-08-11` | [🔗 Idempotent close in Go](https://www.yellowduck.be/posts/idempotent-close-in-go)  
+- `2023-08-11` | [🔗 SQL join flavors](https://www.yellowduck.be/posts/sql-join-flavors)  
+- `2023-08-11` | [🔗 Writing a package manager](https://www.yellowduck.be/posts/writing-a-package-manager)  
 - `2023-08-10` | [Force update a git tag](https://www.yellowduck.be/posts/force-update-a-git-tag)  
-- `2023-08-10` | [Reading list August 10th, 2023](https://www.yellowduck.be/posts/reading-list-2023-08-10)  
-- `2023-08-09` | [Reading list August 9th, 2023](https://www.yellowduck.be/posts/reading-list-2023-08-09)  
-- `2023-08-08` | [Package your git repository as a zip file](https://www.yellowduck.be/posts/package-your-git-repo-as-a-zip)  
-- `2023-08-08` | [Reading list August 8th, 2023](https://www.yellowduck.be/posts/reading-list-2023-08-08)  
-- `2023-08-06` | [Run anything as daemon on Linux](https://www.yellowduck.be/posts/run-anything-as-daemon-on-linux)  
-- `2023-03-15` | [NSS_Init failed: security library: bad database.](https://www.yellowduck.be/posts/nss-init-failed-security-library-bad-database)  
-- `2022-12-03` | [Getting the full error response body using Guzzle](https://www.yellowduck.be/posts/getting-the-full-error-response-body-using-guzzle)  
-- `2022-11-29` | [Running a Laravel seeder from code](https://www.yellowduck.be/posts/running-a-laravel-seeder-from-code)  
-- `2022-09-24` | [Failed writes with Laravel Filesystem](https://www.yellowduck.be/posts/failed-writes-with-laravel-filesystem)  
+- `2023-08-10` | [🔗 All Estimations Are Wrong, But None Are Useful](https://www.yellowduck.be/posts/all-estimations-are-wrong-but-none-are-useful)  
+- `2023-08-10` | [🔗 Use Databases Without Putting Domain Logic in Them](https://www.yellowduck.be/posts/use-databases-without-putting-domain-logic-in-them)  
+- `2023-08-10` | [🔗 Infrastructure management for several high-traffic PHP applications](https://www.yellowduck.be/posts/infrastructure-management-for-several-high-traffic-php-applications)  
+- `2023-08-10` | [🔗 LangChain Hands-on Projects](https://www.yellowduck.be/posts/langchain-hands-on-projects)  
 
 <!-- BLOG-POST-LIST:END -->
