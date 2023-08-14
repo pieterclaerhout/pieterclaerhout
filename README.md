@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-14` | [🔗 tint: 🌈 slog.Handler that writes tinted logs](https://www.yellowduck.be/posts/tint-slog-handler-that-writes-tinted-logs)  
 - `2023-08-12` | [Removing duplicates from a slice](https://www.yellowduck.be/posts/removing-duplicates-from-a-slice)  
 - `2023-08-12` | [🔗 A Guide to Writing slog Handlers](https://www.yellowduck.be/posts/a-guide-to-writing-slog-handlers)  
 - `2023-08-12` | [🔗 Why you shouldn&#39;t use func main in Go](https://www.yellowduck.be/posts/why-you-shouldnt-use-func-main-in-go-by-mat-ryer-pace)  
@@ -22,6 +23,5 @@
 - `2023-08-10` | [Force update a git tag](https://www.yellowduck.be/posts/force-update-a-git-tag)  
 - `2023-08-10` | [🔗 All Estimations Are Wrong, But None Are Useful](https://www.yellowduck.be/posts/all-estimations-are-wrong-but-none-are-useful)  
 - `2023-08-10` | [🔗 Use Databases Without Putting Domain Logic in Them](https://www.yellowduck.be/posts/use-databases-without-putting-domain-logic-in-them)  
-- `2023-08-10` | [🔗 Infrastructure management for several high-traffic PHP applications](https://www.yellowduck.be/posts/infrastructure-management-for-several-high-traffic-php-applications)  
 
 <!-- BLOG-POST-LIST:END -->
