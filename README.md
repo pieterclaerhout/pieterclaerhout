@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-14` | [Intersecting multiple slices](https://www.yellowduck.be/posts/intersecting-multiple-slices)  
 - `2023-08-14` | [🔗 Throw away your first draft of your code](https://www.yellowduck.be/posts/throw-away-your-first-draft-of-your-code)  
 - `2023-08-14` | [🔗 tint: 🌈 slog.Handler that writes tinted logs](https://www.yellowduck.be/posts/tint-slog-handler-that-writes-tinted-logs)  
 - `2023-08-13` | [🔗 Writing Clean Functions in Go](https://www.yellowduck.be/posts/writing-clean-functions-in-go)  
@@ -22,6 +23,5 @@
 - `2023-08-12` | [🔗 Why you shouldn&#39;t use func main in Go](https://www.yellowduck.be/posts/why-you-shouldnt-use-func-main-in-go-by-mat-ryer-pace)  
 - `2023-08-11` | [🔗 Idempotent close in Go](https://www.yellowduck.be/posts/idempotent-close-in-go)  
 - `2023-08-11` | [🔗 SQL join flavors](https://www.yellowduck.be/posts/sql-join-flavors)  
-- `2023-08-11` | [🔗 Writing a package manager](https://www.yellowduck.be/posts/writing-a-package-manager)  
 
 <!-- BLOG-POST-LIST:END -->
