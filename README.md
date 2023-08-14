@@ -13,15 +13,15 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-14` | [🔗 Throw away your first draft of your code](https://www.yellowduck.be/posts/throw-away-your-first-draft-of-your-code)  
 - `2023-08-14` | [🔗 tint: 🌈 slog.Handler that writes tinted logs](https://www.yellowduck.be/posts/tint-slog-handler-that-writes-tinted-logs)  
+- `2023-08-13` | [🔗 Writing Clean Functions in Go](https://www.yellowduck.be/posts/writing-clean-functions-in-go)  
+- `2023-08-13` | [🔗 Moeten we een fietshelm verplichten?](https://www.yellowduck.be/posts/moeten-we-een-fietshelm-verplichten)  
 - `2023-08-12` | [Removing duplicates from a slice](https://www.yellowduck.be/posts/removing-duplicates-from-a-slice)  
 - `2023-08-12` | [🔗 A Guide to Writing slog Handlers](https://www.yellowduck.be/posts/a-guide-to-writing-slog-handlers)  
 - `2023-08-12` | [🔗 Why you shouldn&#39;t use func main in Go](https://www.yellowduck.be/posts/why-you-shouldnt-use-func-main-in-go-by-mat-ryer-pace)  
 - `2023-08-11` | [🔗 Idempotent close in Go](https://www.yellowduck.be/posts/idempotent-close-in-go)  
 - `2023-08-11` | [🔗 SQL join flavors](https://www.yellowduck.be/posts/sql-join-flavors)  
 - `2023-08-11` | [🔗 Writing a package manager](https://www.yellowduck.be/posts/writing-a-package-manager)  
-- `2023-08-10` | [Force update a git tag](https://www.yellowduck.be/posts/force-update-a-git-tag)  
-- `2023-08-10` | [🔗 All Estimations Are Wrong, But None Are Useful](https://www.yellowduck.be/posts/all-estimations-are-wrong-but-none-are-useful)  
-- `2023-08-10` | [🔗 Use Databases Without Putting Domain Logic in Them](https://www.yellowduck.be/posts/use-databases-without-putting-domain-logic-in-them)  
 
 <!-- BLOG-POST-LIST:END -->
