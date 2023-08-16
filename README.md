@@ -13,6 +13,9 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-16` | [🔗 Managing background processes with homebrew in MacOS Ventura and beyond](https://www.yellowduck.be/posts/managing-background-processes-with-homebrew-in-macos-ventura-and-beyond)  
+- `2023-08-16` | [🔗 cznic / sqlite · GitLab](https://www.yellowduck.be/posts/cznic-sqlite-gitlab)  
+- `2023-08-16` | [🔗 GitHub - PromtEngineer/localGPT](https://www.yellowduck.be/posts/local-gpt)  
 - `2023-08-16` | [Parsing domain names from email addresses and URLs](https://www.yellowduck.be/posts/parsing-domain-names-from-email-addresses-and-urls)  
 - `2023-08-14` | [🔗 Zero to One: Getting Started with Label Studio](https://www.yellowduck.be/posts/zero-to-one-getting-started-with-label-studio)  
 - `2023-08-14` | [🔗 Moving faster](https://www.yellowduck.be/posts/moving-faster)  
@@ -20,8 +23,5 @@
 - `2023-08-14` | [Intersecting multiple slices](https://www.yellowduck.be/posts/intersecting-multiple-slices)  
 - `2023-08-14` | [🔗 Throw away your first draft of your code](https://www.yellowduck.be/posts/throw-away-your-first-draft-of-your-code)  
 - `2023-08-14` | [🔗 tint: 🌈 slog.Handler that writes tinted logs](https://www.yellowduck.be/posts/tint-slog-handler-that-writes-tinted-logs)  
-- `2023-08-13` | [🔗 Writing Clean Functions in Go](https://www.yellowduck.be/posts/writing-clean-functions-in-go)  
-- `2023-08-13` | [🔗 Moeten we een fietshelm verplichten?](https://www.yellowduck.be/posts/moeten-we-een-fietshelm-verplichten)  
-- `2023-08-12` | [Removing duplicates from a slice](https://www.yellowduck.be/posts/removing-duplicates-from-a-slice)  
 
 <!-- BLOG-POST-LIST:END -->
