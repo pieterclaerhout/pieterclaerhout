@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-16` | [Parsing domain names from email addresses and URLs](https://www.yellowduck.be/posts/parsing-domain-names-from-email-addresses-and-urls)  
 - `2023-08-14` | [🔗 Zero to One: Getting Started with Label Studio](https://www.yellowduck.be/posts/zero-to-one-getting-started-with-label-studio)  
 - `2023-08-14` | [🔗 Moving faster](https://www.yellowduck.be/posts/moving-faster)  
 - `2023-08-14` | [🔗 6 mistakes we&#39;ve made at PostHog &lpar;and what we learned&rpar;](https://www.yellowduck.be/posts/6-mistakes-weve-made-at-posthog-and-what-we-learned)  
@@ -22,6 +23,5 @@
 - `2023-08-13` | [🔗 Writing Clean Functions in Go](https://www.yellowduck.be/posts/writing-clean-functions-in-go)  
 - `2023-08-13` | [🔗 Moeten we een fietshelm verplichten?](https://www.yellowduck.be/posts/moeten-we-een-fietshelm-verplichten)  
 - `2023-08-12` | [Removing duplicates from a slice](https://www.yellowduck.be/posts/removing-duplicates-from-a-slice)  
-- `2023-08-12` | [🔗 A Guide to Writing slog Handlers](https://www.yellowduck.be/posts/a-guide-to-writing-slog-handlers)  
 
 <!-- BLOG-POST-LIST:END -->
