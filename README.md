@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-17` | [🐥 Hiding a Laravel console command](https://www.yellowduck.be/posts/hiding-a-laravel-console-command)  
 - `2023-08-16` | [🔗 Managing background processes with homebrew in MacOS Ventura and beyond](https://www.yellowduck.be/posts/managing-background-processes-with-homebrew-in-macos-ventura-and-beyond)  
 - `2023-08-16` | [🔗 cznic / sqlite · GitLab](https://www.yellowduck.be/posts/cznic-sqlite-gitlab)  
 - `2023-08-16` | [🔗 GitHub - PromtEngineer/localGPT](https://www.yellowduck.be/posts/local-gpt)  
@@ -22,6 +23,5 @@
 - `2023-08-14` | [🔗 6 mistakes we&#39;ve made at PostHog &lpar;and what we learned&rpar;](https://www.yellowduck.be/posts/6-mistakes-weve-made-at-posthog-and-what-we-learned)  
 - `2023-08-14` | [🐥 Intersecting multiple slices](https://www.yellowduck.be/posts/intersecting-multiple-slices)  
 - `2023-08-14` | [🔗 Throw away your first draft of your code](https://www.yellowduck.be/posts/throw-away-your-first-draft-of-your-code)  
-- `2023-08-14` | [🔗 tint: 🌈 slog.Handler that writes tinted logs](https://www.yellowduck.be/posts/tint-slog-handler-that-writes-tinted-logs)  
 
 <!-- BLOG-POST-LIST:END -->
