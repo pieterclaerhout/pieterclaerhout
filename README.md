@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-18` | [🐥 Colors in Laravel console commands](https://www.yellowduck.be/posts/colors-in-laravel-console-commands)  
 - `2023-08-18` | [🔗 Laravel Queues with Other Languages](https://www.yellowduck.be/posts/laravel-queues-with-other-languages)  
 - `2023-08-18` | [🔗 PDF SDK: Build vs. Buy](https://www.yellowduck.be/posts/pdf-sdk-build-vs-buy)  
 - `2023-08-18` | [🔗 Datetimes versus timestamps in MySQL](https://www.yellowduck.be/posts/datetimes-versus-timestamps-in-mysql)  
@@ -22,6 +23,5 @@
 - `2023-08-16` | [🔗 GitHub - PromtEngineer/localGPT](https://www.yellowduck.be/posts/local-gpt)  
 - `2023-08-16` | [🐥 Parsing domain names from email addresses and URLs](https://www.yellowduck.be/posts/parsing-domain-names-from-email-addresses-and-urls)  
 - `2023-08-14` | [🔗 Zero to One: Getting Started with Label Studio](https://www.yellowduck.be/posts/zero-to-one-getting-started-with-label-studio)  
-- `2023-08-14` | [🔗 Moving faster](https://www.yellowduck.be/posts/moving-faster)  
 
 <!-- BLOG-POST-LIST:END -->
