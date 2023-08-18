@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-18` | [🔗 PDF SDK: Build vs. Buy](https://www.yellowduck.be/posts/pdf-sdk-build-vs-buy)  
 - `2023-08-18` | [🔗 Datetimes versus timestamps in MySQL](https://www.yellowduck.be/posts/datetimes-versus-timestamps-in-mysql)  
 - `2023-08-17` | [🐥 Hiding a Laravel console command](https://www.yellowduck.be/posts/hiding-a-laravel-console-command)  
 - `2023-08-16` | [🔗 Managing background processes with homebrew in MacOS Ventura and beyond](https://www.yellowduck.be/posts/managing-background-processes-with-homebrew-in-macos-ventura-and-beyond)  
@@ -22,6 +23,5 @@
 - `2023-08-14` | [🔗 Zero to One: Getting Started with Label Studio](https://www.yellowduck.be/posts/zero-to-one-getting-started-with-label-studio)  
 - `2023-08-14` | [🔗 Moving faster](https://www.yellowduck.be/posts/moving-faster)  
 - `2023-08-14` | [🔗 6 mistakes we&#39;ve made at PostHog &lpar;and what we learned&rpar;](https://www.yellowduck.be/posts/6-mistakes-weve-made-at-posthog-and-what-we-learned)  
-- `2023-08-14` | [🐥 Intersecting multiple slices](https://www.yellowduck.be/posts/intersecting-multiple-slices)  
 
 <!-- BLOG-POST-LIST:END -->
