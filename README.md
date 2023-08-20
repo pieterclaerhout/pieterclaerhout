@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-20` | [🔗 Auth0 PKCE flow for a CLI built in golang](https://www.yellowduck.be/posts/auth0-pkce-flow-for-a-cli-built-in-golang)  
 - `2023-08-19` | [🐥 Progress bars in Laravel console commands](https://www.yellowduck.be/posts/progress-bars-in-laravel-console-commands)  
 - `2023-08-19` | [🔗 Why knowledge management is foundational to AI success](https://www.yellowduck.be/posts/why-knowledge-management-is-foundational-to-ai-success)  
 - `2023-08-19` | [🔗 The Source of Readability](https://www.yellowduck.be/posts/the-source-of-readability)  
@@ -22,6 +23,5 @@
 - `2023-08-18` | [🔗 Datetimes versus timestamps in MySQL](https://www.yellowduck.be/posts/datetimes-versus-timestamps-in-mysql)  
 - `2023-08-17` | [🐥 Hiding a Laravel console command](https://www.yellowduck.be/posts/hiding-a-laravel-console-command)  
 - `2023-08-16` | [🔗 Managing background processes with homebrew in MacOS Ventura and beyond](https://www.yellowduck.be/posts/managing-background-processes-with-homebrew-in-macos-ventura-and-beyond)  
-- `2023-08-16` | [🔗 cznic / sqlite · GitLab](https://www.yellowduck.be/posts/cznic-sqlite-gitlab)  
 
 <!-- BLOG-POST-LIST:END -->
