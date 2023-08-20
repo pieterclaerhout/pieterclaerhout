@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-20` | [🐥 Tables in Laravel console commands](https://www.yellowduck.be/posts/tables-in-laravel-console-commands)  
 - `2023-08-20` | [🔗 OAuth PKCE with G0](https://www.yellowduck.be/posts/oauth-pkce-with-go)  
 - `2023-08-20` | [🔗 Auth0 PKCE flow for a CLI built in golang](https://www.yellowduck.be/posts/auth0-pkce-flow-for-a-cli-built-in-golang)  
 - `2023-08-19` | [🐥 Progress bars in Laravel console commands](https://www.yellowduck.be/posts/progress-bars-in-laravel-console-commands)  
@@ -22,6 +23,5 @@
 - `2023-08-18` | [🔗 Laravel Queues with Other Languages](https://www.yellowduck.be/posts/laravel-queues-with-other-languages)  
 - `2023-08-18` | [🔗 PDF SDK: Build vs. Buy](https://www.yellowduck.be/posts/pdf-sdk-build-vs-buy)  
 - `2023-08-18` | [🔗 Datetimes versus timestamps in MySQL](https://www.yellowduck.be/posts/datetimes-versus-timestamps-in-mysql)  
-- `2023-08-17` | [🐥 Hiding a Laravel console command](https://www.yellowduck.be/posts/hiding-a-laravel-console-command)  
 
 <!-- BLOG-POST-LIST:END -->
