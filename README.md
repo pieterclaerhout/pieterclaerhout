@@ -13,15 +13,15 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
-- `2023-08-20` | [🐥 Tables in Laravel console commands](https://www.yellowduck.be/posts/tables-in-laravel-console-commands)  
-- `2023-08-20` | [🔗 OAuth PKCE with G0](https://www.yellowduck.be/posts/oauth-pkce-with-go)  
-- `2023-08-20` | [🔗 Auth0 PKCE flow for a CLI built in golang](https://www.yellowduck.be/posts/auth0-pkce-flow-for-a-cli-built-in-golang)  
-- `2023-08-19` | [🐥 Progress bars in Laravel console commands](https://www.yellowduck.be/posts/progress-bars-in-laravel-console-commands)  
-- `2023-08-19` | [🔗 Why knowledge management is foundational to AI success](https://www.yellowduck.be/posts/why-knowledge-management-is-foundational-to-ai-success)  
-- `2023-08-19` | [🔗 The Source of Readability](https://www.yellowduck.be/posts/the-source-of-readability)  
-- `2023-08-18` | [🐥 Colors in Laravel console commands](https://www.yellowduck.be/posts/colors-in-laravel-console-commands)  
-- `2023-08-18` | [🔗 Laravel Queues with Other Languages](https://www.yellowduck.be/posts/laravel-queues-with-other-languages)  
-- `2023-08-18` | [🔗 PDF SDK: Build vs. Buy](https://www.yellowduck.be/posts/pdf-sdk-build-vs-buy)  
-- `2023-08-18` | [🔗 Datetimes versus timestamps in MySQL](https://www.yellowduck.be/posts/datetimes-versus-timestamps-in-mysql)  
+- `2023-08-23` | [🐥 Counting string length and byte size using PHP](https://www.yellowduck.be/posts/counting-string-length-and-byte-size-using-php)  
+- `2023-08-23` | [🔗 Laravel 10.20 Released](https://www.yellowduck.be/posts/laravel-10-20-released)  
+- `2023-08-23` | [🔗 Here&#39;s my little secret about writing concurrent code in Go](https://www.yellowduck.be/posts/heres-my-little-secret-about-writing-concurrent-code-in-go)  
+- `2023-08-23` | [🔗 Use log middleware to auto-log requests &amp; responses](https://www.yellowduck.be/posts/use-log-middleware-to-auto-log-requests-and-responses)  
+- `2023-08-22` | [🐥 Use-cases for generics in Go](https://www.yellowduck.be/posts/use-cases-for-generics-in-go)  
+- `2023-08-22` | [🔗 🗃️ Embeddings Cache 🗃️](https://www.yellowduck.be/posts/embeddings-cache)  
+- `2023-08-22` | [🔗 Dependency Injection in a nutshell in Golang](https://www.yellowduck.be/posts/dependency-injection-in-a-nutshell-in-golang)  
+- `2023-08-22` | [🔗 Get a random free port using Golang](https://www.yellowduck.be/posts/get-a-random-free-port-using-golang)  
+- `2023-08-21` | [🐥 Adding your latest blog posts to your GitHub profile](https://www.yellowduck.be/posts/adding-your-latest-blog-posts-to-your-github-profile)  
+- `2023-08-21` | [🔗 A practical example of using Fibers in PHP](https://www.yellowduck.be/posts/a-practical-example-of-using-fibers-in-php)  
 
 <!-- BLOG-POST-LIST:END -->
