@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-24` | [🔗 What&#39;s new in PHP 8.3 - stitcher.io](https://www.yellowduck.be/posts/whats-new-in-php-8-3-stitcher-io)  
 - `2023-08-23` | [🐥 Counting string length and byte size using PHP](https://www.yellowduck.be/posts/counting-string-length-and-byte-size-using-php)  
 - `2023-08-23` | [🔗 Laravel 10.20 Released](https://www.yellowduck.be/posts/laravel-10-20-released)  
 - `2023-08-23` | [🔗 Here&#39;s my little secret about writing concurrent code in Go](https://www.yellowduck.be/posts/heres-my-little-secret-about-writing-concurrent-code-in-go)  
@@ -22,6 +23,5 @@
 - `2023-08-22` | [🔗 Dependency Injection in a nutshell in Golang](https://www.yellowduck.be/posts/dependency-injection-in-a-nutshell-in-golang)  
 - `2023-08-22` | [🔗 Get a random free port using Golang](https://www.yellowduck.be/posts/get-a-random-free-port-using-golang)  
 - `2023-08-21` | [🐥 Adding your latest blog posts to your GitHub profile](https://www.yellowduck.be/posts/adding-your-latest-blog-posts-to-your-github-profile)  
-- `2023-08-21` | [🔗 A practical example of using Fibers in PHP](https://www.yellowduck.be/posts/a-practical-example-of-using-fibers-in-php)  
 
 <!-- BLOG-POST-LIST:END -->
