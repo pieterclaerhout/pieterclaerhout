@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-24` | [🔗 Beginner&#39;s guide to Llama models](https://www.yellowduck.be/posts/beginners-guide-to-llama-models)  
+- `2023-08-24` | [🔗 Squeeze the hell out of the system you have](https://www.yellowduck.be/posts/squeeze-the-hell-out-of-the-system-you-have)  
 - `2023-08-24` | [🔗 What&#39;s new in PHP 8.3 - stitcher.io](https://www.yellowduck.be/posts/whats-new-in-php-8-3-stitcher-io)  
 - `2023-08-23` | [🐥 Counting string length and byte size using PHP](https://www.yellowduck.be/posts/counting-string-length-and-byte-size-using-php)  
 - `2023-08-23` | [🔗 Laravel 10.20 Released](https://www.yellowduck.be/posts/laravel-10-20-released)  
@@ -21,7 +23,5 @@
 - `2023-08-22` | [🐥 Use-cases for generics in Go](https://www.yellowduck.be/posts/use-cases-for-generics-in-go)  
 - `2023-08-22` | [🔗 🗃️ Embeddings Cache 🗃️](https://www.yellowduck.be/posts/embeddings-cache)  
 - `2023-08-22` | [🔗 Dependency Injection in a nutshell in Golang](https://www.yellowduck.be/posts/dependency-injection-in-a-nutshell-in-golang)  
-- `2023-08-22` | [🔗 Get a random free port using Golang](https://www.yellowduck.be/posts/get-a-random-free-port-using-golang)  
-- `2023-08-21` | [🐥 Adding your latest blog posts to your GitHub profile](https://www.yellowduck.be/posts/adding-your-latest-blog-posts-to-your-github-profile)  
 
 <!-- BLOG-POST-LIST:END -->
