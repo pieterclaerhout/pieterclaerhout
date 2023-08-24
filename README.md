@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-24` | [🐥 Searching on specific attributes with Laravel Scout and Meilisearch](https://www.yellowduck.be/posts/searching-on-specific-attributes-with-laravel-scout-and-meilisearch)  
 - `2023-08-24` | [🔗 Beginner&#39;s guide to Llama models](https://www.yellowduck.be/posts/beginners-guide-to-llama-models)  
 - `2023-08-24` | [🔗 Squeeze the hell out of the system you have](https://www.yellowduck.be/posts/squeeze-the-hell-out-of-the-system-you-have)  
 - `2023-08-24` | [🔗 What&#39;s new in PHP 8.3 - stitcher.io](https://www.yellowduck.be/posts/whats-new-in-php-8-3-stitcher-io)  
@@ -22,6 +23,5 @@
 - `2023-08-23` | [🔗 Use log middleware to auto-log requests &amp; responses](https://www.yellowduck.be/posts/use-log-middleware-to-auto-log-requests-and-responses)  
 - `2023-08-22` | [🐥 Use-cases for generics in Go](https://www.yellowduck.be/posts/use-cases-for-generics-in-go)  
 - `2023-08-22` | [🔗 🗃️ Embeddings Cache 🗃️](https://www.yellowduck.be/posts/embeddings-cache)  
-- `2023-08-22` | [🔗 Dependency Injection in a nutshell in Golang](https://www.yellowduck.be/posts/dependency-injection-in-a-nutshell-in-golang)  
 
 <!-- BLOG-POST-LIST:END -->
