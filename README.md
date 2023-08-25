@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-25` | [🔗 The Laravel Isolatable interface](https://www.yellowduck.be/posts/the-laravel-isolatable-interface)  
 - `2023-08-25` | [🔗 Learning from Discord&#39;s Approach — Request Coalescing with Golang](https://www.yellowduck.be/posts/learning-from-discords-approach-request-coalescing-with-golang)  
 - `2023-08-25` | [🔗 Deploy Laravel Application on Kubernetes](https://www.yellowduck.be/posts/deploy-laravel-application-on-kubernetes)  
 - `2023-08-24` | [🐥 Searching on specific attributes with Laravel Scout and Meilisearch](https://www.yellowduck.be/posts/searching-on-specific-attributes-with-laravel-scout-and-meilisearch)  
@@ -22,6 +23,5 @@
 - `2023-08-23` | [🐥 Counting string length and byte size using PHP](https://www.yellowduck.be/posts/counting-string-length-and-byte-size-using-php)  
 - `2023-08-23` | [🔗 Laravel 10.20 Released](https://www.yellowduck.be/posts/laravel-10-20-released)  
 - `2023-08-23` | [🔗 Here&#39;s my little secret about writing concurrent code in Go](https://www.yellowduck.be/posts/heres-my-little-secret-about-writing-concurrent-code-in-go)  
-- `2023-08-23` | [🔗 Use log middleware to auto-log requests &amp; responses](https://www.yellowduck.be/posts/use-log-middleware-to-auto-log-requests-and-responses)  
 
 <!-- BLOG-POST-LIST:END -->
