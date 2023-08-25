@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-25` | [🔗 Learning from Discord&#39;s Approach — Request Coalescing with Golang](https://www.yellowduck.be/posts/learning-from-discords-approach-request-coalescing-with-golang)  
+- `2023-08-25` | [🔗 Deploy Laravel Application on Kubernetes](https://www.yellowduck.be/posts/deploy-laravel-application-on-kubernetes)  
 - `2023-08-24` | [🐥 Searching on specific attributes with Laravel Scout and Meilisearch](https://www.yellowduck.be/posts/searching-on-specific-attributes-with-laravel-scout-and-meilisearch)  
 - `2023-08-24` | [🔗 Beginner&#39;s guide to Llama models](https://www.yellowduck.be/posts/beginners-guide-to-llama-models)  
 - `2023-08-24` | [🔗 Squeeze the hell out of the system you have](https://www.yellowduck.be/posts/squeeze-the-hell-out-of-the-system-you-have)  
@@ -21,7 +23,5 @@
 - `2023-08-23` | [🔗 Laravel 10.20 Released](https://www.yellowduck.be/posts/laravel-10-20-released)  
 - `2023-08-23` | [🔗 Here&#39;s my little secret about writing concurrent code in Go](https://www.yellowduck.be/posts/heres-my-little-secret-about-writing-concurrent-code-in-go)  
 - `2023-08-23` | [🔗 Use log middleware to auto-log requests &amp; responses](https://www.yellowduck.be/posts/use-log-middleware-to-auto-log-requests-and-responses)  
-- `2023-08-22` | [🐥 Use-cases for generics in Go](https://www.yellowduck.be/posts/use-cases-for-generics-in-go)  
-- `2023-08-22` | [🔗 🗃️ Embeddings Cache 🗃️](https://www.yellowduck.be/posts/embeddings-cache)  
 
 <!-- BLOG-POST-LIST:END -->
