@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-26` | [🔗 Prompt Engineering: A Practical Example](https://www.yellowduck.be/posts/prompt-engineering-a-practical-example)  
 - `2023-08-25` | [🐥 Combining PDF files via the command line](https://www.yellowduck.be/posts/combining-pdf-files-via-the-command-line)  
 - `2023-08-25` | [🔗 The Laravel Isolatable interface](https://www.yellowduck.be/posts/the-laravel-isolatable-interface)  
 - `2023-08-25` | [🔗 Learning from Discord&#39;s Approach — Request Coalescing with Golang](https://www.yellowduck.be/posts/learning-from-discords-approach-request-coalescing-with-golang)  
@@ -22,6 +23,5 @@
 - `2023-08-24` | [🔗 Squeeze the hell out of the system you have](https://www.yellowduck.be/posts/squeeze-the-hell-out-of-the-system-you-have)  
 - `2023-08-24` | [🔗 What&#39;s new in PHP 8.3 - stitcher.io](https://www.yellowduck.be/posts/whats-new-in-php-8-3-stitcher-io)  
 - `2023-08-23` | [🐥 Counting string length and byte size using PHP](https://www.yellowduck.be/posts/counting-string-length-and-byte-size-using-php)  
-- `2023-08-23` | [🔗 Laravel 10.20 Released](https://www.yellowduck.be/posts/laravel-10-20-released)  
 
 <!-- BLOG-POST-LIST:END -->
