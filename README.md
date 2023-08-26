@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-26` | [🐥 504 &lpar;Outdated Optimize Dep&rpar; while using vite](https://www.yellowduck.be/posts/504-outdated-optimize-dep-while-using-vite)  
 - `2023-08-26` | [🔗 DevOps With Laravel: Queues and Workers in Production](https://www.yellowduck.be/posts/devops-with-laravel-queues-and-workers-in-production)  
 - `2023-08-26` | [🔗 Sometimes Eloquent Can Make a Query Slower](https://www.yellowduck.be/posts/sometimes-eloquent-can-make-a-query-slower)  
 - `2023-08-26` | [🔗 Prompt Engineering: A Practical Example](https://www.yellowduck.be/posts/prompt-engineering-a-practical-example)  
@@ -22,6 +23,5 @@
 - `2023-08-25` | [🔗 Deploy Laravel Application on Kubernetes](https://www.yellowduck.be/posts/deploy-laravel-application-on-kubernetes)  
 - `2023-08-24` | [🐥 Searching on specific attributes with Laravel Scout and Meilisearch](https://www.yellowduck.be/posts/searching-on-specific-attributes-with-laravel-scout-and-meilisearch)  
 - `2023-08-24` | [🔗 Beginner&#39;s guide to Llama models](https://www.yellowduck.be/posts/beginners-guide-to-llama-models)  
-- `2023-08-24` | [🔗 Squeeze the hell out of the system you have](https://www.yellowduck.be/posts/squeeze-the-hell-out-of-the-system-you-have)  
 
 <!-- BLOG-POST-LIST:END -->
