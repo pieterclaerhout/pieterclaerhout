@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-26` | [🔗 DevOps With Laravel: Queues and Workers in Production](https://www.yellowduck.be/posts/devops-with-laravel-queues-and-workers-in-production)  
+- `2023-08-26` | [🔗 Sometimes Eloquent Can Make a Query Slower](https://www.yellowduck.be/posts/sometimes-eloquent-can-make-a-query-slower)  
 - `2023-08-26` | [🔗 Prompt Engineering: A Practical Example](https://www.yellowduck.be/posts/prompt-engineering-a-practical-example)  
 - `2023-08-25` | [🐥 Combining PDF files via the command line](https://www.yellowduck.be/posts/combining-pdf-files-via-the-command-line)  
 - `2023-08-25` | [🔗 The Laravel Isolatable interface](https://www.yellowduck.be/posts/the-laravel-isolatable-interface)  
@@ -21,7 +23,5 @@
 - `2023-08-24` | [🐥 Searching on specific attributes with Laravel Scout and Meilisearch](https://www.yellowduck.be/posts/searching-on-specific-attributes-with-laravel-scout-and-meilisearch)  
 - `2023-08-24` | [🔗 Beginner&#39;s guide to Llama models](https://www.yellowduck.be/posts/beginners-guide-to-llama-models)  
 - `2023-08-24` | [🔗 Squeeze the hell out of the system you have](https://www.yellowduck.be/posts/squeeze-the-hell-out-of-the-system-you-have)  
-- `2023-08-24` | [🔗 What&#39;s new in PHP 8.3 - stitcher.io](https://www.yellowduck.be/posts/whats-new-in-php-8-3-stitcher-io)  
-- `2023-08-23` | [🐥 Counting string length and byte size using PHP](https://www.yellowduck.be/posts/counting-string-length-and-byte-size-using-php)  
 
 <!-- BLOG-POST-LIST:END -->
