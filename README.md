@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-28` | [🔗 Why You &lpar;Probably&rpar; Don&#39;t Need to Fine-tune an LLM](https://www.yellowduck.be/posts/why-you-probably-dont-need-to-fine-tune-an-llm)  
 - `2023-08-27` | [🐥 Using rclone to sync one DO space to another](https://www.yellowduck.be/posts/using-rclone-to-sync-one-do-space-to-another)  
 - `2023-08-27` | [🔗 Short session expiration does not help security](https://www.yellowduck.be/posts/short-session-expiration-does-not-help-security)  
 - `2023-08-27` | [🔗 How to use conditional compilation with the go build tool](https://www.yellowduck.be/posts/how-to-use-conditional-compilation-with-the-go-build-tool)  
@@ -22,6 +23,5 @@
 - `2023-08-26` | [🔗 Sometimes Eloquent Can Make a Query Slower](https://www.yellowduck.be/posts/sometimes-eloquent-can-make-a-query-slower)  
 - `2023-08-26` | [🔗 Prompt Engineering: A Practical Example](https://www.yellowduck.be/posts/prompt-engineering-a-practical-example)  
 - `2023-08-25` | [🐥 Combining PDF files via the command line](https://www.yellowduck.be/posts/combining-pdf-files-via-the-command-line)  
-- `2023-08-25` | [🔗 The Laravel Isolatable interface](https://www.yellowduck.be/posts/the-laravel-isolatable-interface)  
 
 <!-- BLOG-POST-LIST:END -->
