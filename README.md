@@ -13,6 +13,9 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-28` | [🐥 Ignoring global scopes during auth in Laravel](https://www.yellowduck.be/posts/ignoring-global-scopes-during-auth-in-laravel)  
+- `2023-08-28` | [🔗 Writing Clean Functions in Go with the Full Mapping Strategy](https://www.yellowduck.be/posts/writing-clean-functions-in-go-with-the-full-mapping-strategy)  
+- `2023-08-28` | [🔗 Shipping a Go service as a Docker container](https://www.yellowduck.be/posts/shipping-a-go-service-as-a-docker-container)  
 - `2023-08-28` | [🔗 Why You &lpar;Probably&rpar; Don&#39;t Need to Fine-tune an LLM](https://www.yellowduck.be/posts/why-you-probably-dont-need-to-fine-tune-an-llm)  
 - `2023-08-27` | [🐥 Using rclone to sync one DO space to another](https://www.yellowduck.be/posts/using-rclone-to-sync-one-do-space-to-another)  
 - `2023-08-27` | [🔗 Short session expiration does not help security](https://www.yellowduck.be/posts/short-session-expiration-does-not-help-security)  
@@ -20,8 +23,5 @@
 - `2023-08-27` | [🔗 Documenso: Why we&#39;re doing a rewrite](https://www.yellowduck.be/posts/why-we-are-doing-a-rewrite)  
 - `2023-08-26` | [🐥 504 &lpar;Outdated Optimize Dep&rpar; while using vite](https://www.yellowduck.be/posts/504-outdated-optimize-dep-while-using-vite)  
 - `2023-08-26` | [🔗 DevOps With Laravel: Queues and Workers in Production](https://www.yellowduck.be/posts/devops-with-laravel-queues-and-workers-in-production)  
-- `2023-08-26` | [🔗 Sometimes Eloquent Can Make a Query Slower](https://www.yellowduck.be/posts/sometimes-eloquent-can-make-a-query-slower)  
-- `2023-08-26` | [🔗 Prompt Engineering: A Practical Example](https://www.yellowduck.be/posts/prompt-engineering-a-practical-example)  
-- `2023-08-25` | [🐥 Combining PDF files via the command line](https://www.yellowduck.be/posts/combining-pdf-files-via-the-command-line)  
 
 <!-- BLOG-POST-LIST:END -->
