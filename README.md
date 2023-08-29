@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-29` | [🔗 txtai: All-in-one embeddings database](https://www.yellowduck.be/posts/txtai-all-in-one-embeddings-database)  
 - `2023-08-29` | [🔗 Debugging individual Table Driven Test in VSCode for Go](https://www.yellowduck.be/posts/debugging-individual-table-driven-test-in-vscode-for-go)  
 - `2023-08-29` | [🔗 Building a Robust Webhook Service with Golang: A Comprehensive Guide](https://www.yellowduck.be/posts/building-a-robust-webhook-service-with-golang-a-comprehensive-guide)  
 - `2023-08-28` | [🐥 Ignoring global scopes during auth in Laravel](https://www.yellowduck.be/posts/ignoring-global-scopes-during-auth-in-laravel)  
@@ -22,6 +23,5 @@
 - `2023-08-27` | [🐥 Using rclone to sync one DO space to another](https://www.yellowduck.be/posts/using-rclone-to-sync-one-do-space-to-another)  
 - `2023-08-27` | [🔗 Short session expiration does not help security](https://www.yellowduck.be/posts/short-session-expiration-does-not-help-security)  
 - `2023-08-27` | [🔗 How to use conditional compilation with the go build tool](https://www.yellowduck.be/posts/how-to-use-conditional-compilation-with-the-go-build-tool)  
-- `2023-08-27` | [🔗 Documenso: Why we&#39;re doing a rewrite](https://www.yellowduck.be/posts/why-we-are-doing-a-rewrite)  
 
 <!-- BLOG-POST-LIST:END -->
