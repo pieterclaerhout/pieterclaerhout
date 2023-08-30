@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-30` | [🐥 Output key value pairs in Laravel console commands](https://www.yellowduck.be/posts/output-key-value-pairs-in-laravel-console-commands)  
 - `2023-08-30` | [🔗 A step-by-step tutorial to building semantic search with LangChain](https://www.yellowduck.be/posts/a-step-by-step-tutorial-to-building-semantic-search-with-langchain)  
 - `2023-08-30` | [🔗 Introduction to bufio package in Golang](https://www.yellowduck.be/posts/introduction-to-bufio-package-in-golang)  
 - `2023-08-30` | [🔗 AI bots are making CAPTCHA tech useless](https://www.yellowduck.be/posts/ai-bots-are-making-captcha-tech-useless)  
@@ -22,6 +23,5 @@
 - `2023-08-29` | [🔗 Building a Robust Webhook Service with Golang: A Comprehensive Guide](https://www.yellowduck.be/posts/building-a-robust-webhook-service-with-golang-a-comprehensive-guide)  
 - `2023-08-28` | [🐥 Ignoring global scopes during auth in Laravel](https://www.yellowduck.be/posts/ignoring-global-scopes-during-auth-in-laravel)  
 - `2023-08-28` | [🔗 Writing Clean Functions in Go with the Full Mapping Strategy](https://www.yellowduck.be/posts/writing-clean-functions-in-go-with-the-full-mapping-strategy)  
-- `2023-08-28` | [🔗 Shipping a Go service as a Docker container](https://www.yellowduck.be/posts/shipping-a-go-service-as-a-docker-container)  
 
 <!-- BLOG-POST-LIST:END -->
