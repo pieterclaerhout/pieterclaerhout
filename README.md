@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-30` | [🔗 AI bots are making CAPTCHA tech useless](https://www.yellowduck.be/posts/ai-bots-are-making-captcha-tech-useless)  
 - `2023-08-29` | [🐥 Loading environment variables properly in Go](https://www.yellowduck.be/posts/loading-environment-variables-properly-in-go)  
 - `2023-08-29` | [🔗 txtai: All-in-one embeddings database](https://www.yellowduck.be/posts/txtai-all-in-one-embeddings-database)  
 - `2023-08-29` | [🔗 Debugging individual Table Driven Test in VSCode for Go](https://www.yellowduck.be/posts/debugging-individual-table-driven-test-in-vscode-for-go)  
@@ -22,6 +23,5 @@
 - `2023-08-28` | [🔗 Shipping a Go service as a Docker container](https://www.yellowduck.be/posts/shipping-a-go-service-as-a-docker-container)  
 - `2023-08-28` | [🔗 Why You &lpar;Probably&rpar; Don&#39;t Need to Fine-tune an LLM](https://www.yellowduck.be/posts/why-you-probably-dont-need-to-fine-tune-an-llm)  
 - `2023-08-27` | [🐥 Using rclone to sync one DO space to another](https://www.yellowduck.be/posts/using-rclone-to-sync-one-do-space-to-another)  
-- `2023-08-27` | [🔗 Short session expiration does not help security](https://www.yellowduck.be/posts/short-session-expiration-does-not-help-security)  
 
 <!-- BLOG-POST-LIST:END -->
