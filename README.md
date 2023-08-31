@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-08-31` | [🐥 Using errgroup with SetLimit in Golang](https://www.yellowduck.be/posts/using-errgroup-with-setlimit-in-golang)  
 - `2023-08-31` | [🔗 Overwrite console output](https://www.yellowduck.be/posts/overwrite-console-output)  
 - `2023-08-31` | [🔗 Makefile tricks for Python projects](https://www.yellowduck.be/posts/makefile-tricks-for-python-projects)  
 - `2023-08-31` | [🔗 Python: Just write SQL](https://www.yellowduck.be/posts/python-just-write-sql)  
@@ -22,6 +23,5 @@
 - `2023-08-30` | [🔗 AI bots are making CAPTCHA tech useless](https://www.yellowduck.be/posts/ai-bots-are-making-captcha-tech-useless)  
 - `2023-08-29` | [🐥 Loading environment variables properly in Go](https://www.yellowduck.be/posts/loading-environment-variables-properly-in-go)  
 - `2023-08-29` | [🔗 txtai: All-in-one embeddings database](https://www.yellowduck.be/posts/txtai-all-in-one-embeddings-database)  
-- `2023-08-29` | [🔗 Debugging individual Table Driven Test in VSCode for Go](https://www.yellowduck.be/posts/debugging-individual-table-driven-test-in-vscode-for-go)  
 
 <!-- BLOG-POST-LIST:END -->
