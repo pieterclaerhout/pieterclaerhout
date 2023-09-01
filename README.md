@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-01` | [🔗 Implementing Swagger in Go Projects](https://www.yellowduck.be/posts/implementing-swagger-in-go-projects)  
+- `2023-09-01` | [🔗 Laravel 11: A Fresh Face for the Most Popular PHP Framework](https://www.yellowduck.be/posts/laravel-11-a-fresh-face-for-the-most-popular-php-framework)  
 - `2023-09-01` | [🔗 Go structured logging with slog](https://www.yellowduck.be/posts/go-structured-logging-with-slog)  
 - `2023-08-31` | [🐥 Using errgroup with SetLimit in Golang](https://www.yellowduck.be/posts/using-errgroup-with-setlimit-in-golang)  
 - `2023-08-31` | [🔗 Overwrite console output](https://www.yellowduck.be/posts/overwrite-console-output)  
@@ -21,7 +23,5 @@
 - `2023-08-30` | [🐥 Output key value pairs in Laravel console commands](https://www.yellowduck.be/posts/output-key-value-pairs-in-laravel-console-commands)  
 - `2023-08-30` | [🔗 A step-by-step tutorial to building semantic search with LangChain](https://www.yellowduck.be/posts/a-step-by-step-tutorial-to-building-semantic-search-with-langchain)  
 - `2023-08-30` | [🔗 Introduction to bufio package in Golang](https://www.yellowduck.be/posts/introduction-to-bufio-package-in-golang)  
-- `2023-08-30` | [🔗 AI bots are making CAPTCHA tech useless](https://www.yellowduck.be/posts/ai-bots-are-making-captcha-tech-useless)  
-- `2023-08-29` | [🐥 Loading environment variables properly in Go](https://www.yellowduck.be/posts/loading-environment-variables-properly-in-go)  
 
 <!-- BLOG-POST-LIST:END -->
