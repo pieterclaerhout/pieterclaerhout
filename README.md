@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-01` | [🔗 Go structured logging with slog](https://www.yellowduck.be/posts/go-structured-logging-with-slog)  
 - `2023-08-31` | [🐥 Using errgroup with SetLimit in Golang](https://www.yellowduck.be/posts/using-errgroup-with-setlimit-in-golang)  
 - `2023-08-31` | [🔗 Overwrite console output](https://www.yellowduck.be/posts/overwrite-console-output)  
 - `2023-08-31` | [🔗 Makefile tricks for Python projects](https://www.yellowduck.be/posts/makefile-tricks-for-python-projects)  
@@ -22,6 +23,5 @@
 - `2023-08-30` | [🔗 Introduction to bufio package in Golang](https://www.yellowduck.be/posts/introduction-to-bufio-package-in-golang)  
 - `2023-08-30` | [🔗 AI bots are making CAPTCHA tech useless](https://www.yellowduck.be/posts/ai-bots-are-making-captcha-tech-useless)  
 - `2023-08-29` | [🐥 Loading environment variables properly in Go](https://www.yellowduck.be/posts/loading-environment-variables-properly-in-go)  
-- `2023-08-29` | [🔗 txtai: All-in-one embeddings database](https://www.yellowduck.be/posts/txtai-all-in-one-embeddings-database)  
 
 <!-- BLOG-POST-LIST:END -->
