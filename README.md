@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-02` | [🔗 firstOrCreate&lpar;&rpar; vs createOrFirst&lpar;&rpar; in Laravel Eloquent](https://www.yellowduck.be/posts/firstorcreate-vs-createorfirst)  
 - `2023-09-02` | [🔗 Testing slog handlers with slogtest](https://www.yellowduck.be/posts/slogtest)  
 - `2023-09-02` | [🔗 Advanced Go Concurrency](https://www.yellowduck.be/posts/advanced-go-concurrency)  
 - `2023-09-01` | [🐥 The Conditionable trait in Laravel](https://www.yellowduck.be/posts/the-conditionable-trait-in-laravel)  
@@ -22,6 +23,5 @@
 - `2023-08-31` | [🐥 Using errgroup with SetLimit in Golang](https://www.yellowduck.be/posts/using-errgroup-with-setlimit-in-golang)  
 - `2023-08-31` | [🔗 Overwrite console output](https://www.yellowduck.be/posts/overwrite-console-output)  
 - `2023-08-31` | [🔗 Makefile tricks for Python projects](https://www.yellowduck.be/posts/makefile-tricks-for-python-projects)  
-- `2023-08-31` | [🔗 Python: Just write SQL](https://www.yellowduck.be/posts/python-just-write-sql)  
 
 <!-- BLOG-POST-LIST:END -->
