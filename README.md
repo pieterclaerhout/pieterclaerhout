@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-02` | [🔗 Testing slog handlers with slogtest](https://www.yellowduck.be/posts/slogtest)  
+- `2023-09-02` | [🔗 Advanced Go Concurrency](https://www.yellowduck.be/posts/advanced-go-concurrency)  
 - `2023-09-01` | [🐥 The Conditionable trait in Laravel](https://www.yellowduck.be/posts/the-conditionable-trait-in-laravel)  
 - `2023-09-01` | [🔗 Implementing Swagger in Go Projects](https://www.yellowduck.be/posts/implementing-swagger-in-go-projects)  
 - `2023-09-01` | [🔗 Laravel 11: A Fresh Face for the Most Popular PHP Framework](https://www.yellowduck.be/posts/laravel-11-a-fresh-face-for-the-most-popular-php-framework)  
@@ -21,7 +23,5 @@
 - `2023-08-31` | [🔗 Overwrite console output](https://www.yellowduck.be/posts/overwrite-console-output)  
 - `2023-08-31` | [🔗 Makefile tricks for Python projects](https://www.yellowduck.be/posts/makefile-tricks-for-python-projects)  
 - `2023-08-31` | [🔗 Python: Just write SQL](https://www.yellowduck.be/posts/python-just-write-sql)  
-- `2023-08-30` | [🐥 Output key value pairs in Laravel console commands](https://www.yellowduck.be/posts/output-key-value-pairs-in-laravel-console-commands)  
-- `2023-08-30` | [🔗 A step-by-step tutorial to building semantic search with LangChain](https://www.yellowduck.be/posts/a-step-by-step-tutorial-to-building-semantic-search-with-langchain)  
 
 <!-- BLOG-POST-LIST:END -->
