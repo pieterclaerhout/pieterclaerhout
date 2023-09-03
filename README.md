@@ -13,6 +13,9 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-03` | [🔗 Interview Questions for a Go Developer. Part 1: Fundamentals](https://www.yellowduck.be/posts/interview-questions-for-a-go-developer-part-1-fundamentals)  
+- `2023-09-03` | [🔗 Don&#39;t write clean code, write CRISP code](https://www.yellowduck.be/posts/dont-write-clean-code-write-crisp-code)  
+- `2023-09-03` | [🔗 8 Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers](https://www.yellowduck.be/posts/whatsapp-engineering)  
 - `2023-09-02` | [🐥 The Eloquent toQuery method](https://www.yellowduck.be/posts/the-eloquent-toquery-method)  
 - `2023-09-02` | [🔗 firstOrCreate&lpar;&rpar; vs createOrFirst&lpar;&rpar; in Laravel Eloquent](https://www.yellowduck.be/posts/firstorcreate-vs-createorfirst)  
 - `2023-09-02` | [🔗 Testing slog handlers with slogtest](https://www.yellowduck.be/posts/slogtest)  
@@ -20,8 +23,5 @@
 - `2023-09-01` | [🐥 The Conditionable trait in Laravel](https://www.yellowduck.be/posts/the-conditionable-trait-in-laravel)  
 - `2023-09-01` | [🔗 Implementing Swagger in Go Projects](https://www.yellowduck.be/posts/implementing-swagger-in-go-projects)  
 - `2023-09-01` | [🔗 Laravel 11: A Fresh Face for the Most Popular PHP Framework](https://www.yellowduck.be/posts/laravel-11-a-fresh-face-for-the-most-popular-php-framework)  
-- `2023-09-01` | [🔗 Go structured logging with slog](https://www.yellowduck.be/posts/go-structured-logging-with-slog)  
-- `2023-08-31` | [🐥 Using errgroup with SetLimit in Golang](https://www.yellowduck.be/posts/using-errgroup-with-setlimit-in-golang)  
-- `2023-08-31` | [🔗 Overwrite console output](https://www.yellowduck.be/posts/overwrite-console-output)  
 
 <!-- BLOG-POST-LIST:END -->
