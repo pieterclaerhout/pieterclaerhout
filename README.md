@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-05` | [🔗 The Case for Rust on the Web](https://www.yellowduck.be/posts/the-case-for-rust-on-the-web-mainmatter)  
 - `2023-09-04` | [🐥 Counting string length and byte size using Go](https://www.yellowduck.be/posts/counting-string-length-and-byte-size-using-go)  
 - `2023-09-04` | [🔗 If you want to address tech debt, quantify it first](https://www.yellowduck.be/posts/if-you-want-to-address-tech-debt-quantify-it-first)  
 - `2023-09-04` | [🔗 TCRNo9: de wielen van de fiets gaan rond en rond](https://www.yellowduck.be/posts/tcrno9-de-wielen-van-de-fiets-gaan-rond-en-rond)  
@@ -22,6 +23,5 @@
 - `2023-09-03` | [🔗 Don&#39;t write clean code, write CRISP code](https://www.yellowduck.be/posts/dont-write-clean-code-write-crisp-code)  
 - `2023-09-03` | [🔗 8 Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers](https://www.yellowduck.be/posts/whatsapp-engineering)  
 - `2023-09-02` | [🐥 The Eloquent toQuery method](https://www.yellowduck.be/posts/the-eloquent-toquery-method)  
-- `2023-09-02` | [🔗 firstOrCreate&lpar;&rpar; vs createOrFirst&lpar;&rpar; in Laravel Eloquent](https://www.yellowduck.be/posts/firstorcreate-vs-createorfirst)  
 
 <!-- BLOG-POST-LIST:END -->
