@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-05` | [🐥 Asserting HTML in Laravel testing](https://www.yellowduck.be/posts/asserting-html-in-laravel-testing)  
+- `2023-09-05` | [🔗 Why using Microservices or Monolith can be just a detail?](https://www.yellowduck.be/posts/why-using-microservices-or-monolith-can-be-just-a-detail)  
 - `2023-09-05` | [🔗 I Made This Website Using HTMX + Go in One Month, Here&#39;s What I Learned](https://www.yellowduck.be/posts/i-made-this-website-using-htmx-go-in-one-month-heres-what-i-learned)  
 - `2023-09-05` | [🔗 The Case for Rust on the Web](https://www.yellowduck.be/posts/the-case-for-rust-on-the-web-mainmatter)  
 - `2023-09-04` | [🐥 Counting string length and byte size using Go](https://www.yellowduck.be/posts/counting-string-length-and-byte-size-using-go)  
@@ -21,7 +23,5 @@
 - `2023-09-04` | [🔗 All About Recurrence!](https://www.yellowduck.be/posts/all-about-recurrence)  
 - `2023-09-03` | [🐥 Add health probes to Laravel](https://www.yellowduck.be/posts/add-health-probes-to-laravel)  
 - `2023-09-03` | [🔗 Interview Questions for a Go Developer. Part 1: Fundamentals](https://www.yellowduck.be/posts/interview-questions-for-a-go-developer-part-1-fundamentals)  
-- `2023-09-03` | [🔗 Don&#39;t write clean code, write CRISP code](https://www.yellowduck.be/posts/dont-write-clean-code-write-crisp-code)  
-- `2023-09-03` | [🔗 8 Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers](https://www.yellowduck.be/posts/whatsapp-engineering)  
 
 <!-- BLOG-POST-LIST:END -->
