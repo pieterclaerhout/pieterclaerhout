@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-06` | [🐥 The Functional Options Pattern in Go](https://www.yellowduck.be/posts/the-functional-options-pattern-in-go)  
 - `2023-09-06` | [🔗 Anti-patterns that every developer should know](https://www.yellowduck.be/posts/anti-patterns-that-every-developer-should-know)  
 - `2023-09-06` | [🔗 Let&#39;s Write a Simple Event Bus in Go](https://www.yellowduck.be/posts/lets-write-a-simple-event-bus-in-go)  
 - `2023-09-06` | [🔗 Database Architecture - A Deep Dive - Part 1](https://www.yellowduck.be/posts/database-architecture-a-deep-dive-part-1)  
@@ -22,6 +23,5 @@
 - `2023-09-05` | [🔗 The Case for Rust on the Web](https://www.yellowduck.be/posts/the-case-for-rust-on-the-web-mainmatter)  
 - `2023-09-04` | [🐥 Counting string length and byte size using Go](https://www.yellowduck.be/posts/counting-string-length-and-byte-size-using-go)  
 - `2023-09-04` | [🔗 If you want to address tech debt, quantify it first](https://www.yellowduck.be/posts/if-you-want-to-address-tech-debt-quantify-it-first)  
-- `2023-09-04` | [🔗 TCRNo9: de wielen van de fiets gaan rond en rond](https://www.yellowduck.be/posts/tcrno9-de-wielen-van-de-fiets-gaan-rond-en-rond)  
 
 <!-- BLOG-POST-LIST:END -->
