@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-07` | [🔗 The Worst Programmer I Know](https://www.yellowduck.be/posts/the-worst-programmer-i-know)  
+- `2023-09-07` | [🔗 The 11 Types Of Toxic Pull Requests](https://www.yellowduck.be/posts/the-11-types-of-toxic-pull-requests)  
 - `2023-09-06` | [🐥 The Functional Options Pattern in Go](https://www.yellowduck.be/posts/the-functional-options-pattern-in-go)  
 - `2023-09-06` | [🔗 Anti-patterns that every developer should know](https://www.yellowduck.be/posts/anti-patterns-that-every-developer-should-know)  
 - `2023-09-06` | [🔗 Let&#39;s Write a Simple Event Bus in Go](https://www.yellowduck.be/posts/lets-write-a-simple-event-bus-in-go)  
@@ -21,7 +23,5 @@
 - `2023-09-05` | [🔗 Why using Microservices or Monolith can be just a detail?](https://www.yellowduck.be/posts/why-using-microservices-or-monolith-can-be-just-a-detail)  
 - `2023-09-05` | [🔗 I Made This Website Using HTMX + Go in One Month, Here&#39;s What I Learned](https://www.yellowduck.be/posts/i-made-this-website-using-htmx-go-in-one-month-heres-what-i-learned)  
 - `2023-09-05` | [🔗 The Case for Rust on the Web](https://www.yellowduck.be/posts/the-case-for-rust-on-the-web-mainmatter)  
-- `2023-09-04` | [🐥 Counting string length and byte size using Go](https://www.yellowduck.be/posts/counting-string-length-and-byte-size-using-go)  
-- `2023-09-04` | [🔗 If you want to address tech debt, quantify it first](https://www.yellowduck.be/posts/if-you-want-to-address-tech-debt-quantify-it-first)  
 
 <!-- BLOG-POST-LIST:END -->
