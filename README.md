@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-08` | [🐥 Removing Items from a Slice in Go Using Generics](https://www.yellowduck.be/posts/removing-items-from-a-slice-in-go-using-generics)  
 - `2023-09-08` | [🔗 Generate Go client and server from OpenAPI 3 specs](https://www.yellowduck.be/posts/generate-go-client-and-server-from-openapi-3-specs)  
 - `2023-09-08` | [🔗 How to Use PDF.js to Highlight Text Programmatically](https://www.yellowduck.be/posts/how-to-use-pdf-js-to-highlight-text-programmatically)  
 - `2023-09-08` | [🔗 Dummy load balancer in a single Go script](https://www.yellowduck.be/posts/dummy-load-balancer-in-a-single-go-script)  
@@ -22,6 +23,5 @@
 - `2023-09-07` | [🔗 The 11 Types Of Toxic Pull Requests](https://www.yellowduck.be/posts/the-11-types-of-toxic-pull-requests)  
 - `2023-09-06` | [🐥 The Functional Options Pattern in Go](https://www.yellowduck.be/posts/the-functional-options-pattern-in-go)  
 - `2023-09-06` | [🔗 Anti-patterns that every developer should know](https://www.yellowduck.be/posts/anti-patterns-that-every-developer-should-know)  
-- `2023-09-06` | [🔗 Let&#39;s Write a Simple Event Bus in Go](https://www.yellowduck.be/posts/lets-write-a-simple-event-bus-in-go)  
 
 <!-- BLOG-POST-LIST:END -->
