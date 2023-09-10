@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-10` | [🐥 Efficiently Splitting Text into Chunks with PHP](https://www.yellowduck.be/posts/efficiently-splitting-text-into-chunks-with-php)  
 - `2023-09-10` | [🔗 What I understand about two-factor/multi-factor authentication &lpar;in 2023&rpar;](https://www.yellowduck.be/posts/mfabasicoptionsin2023)  
 - `2023-09-10` | [🔗 Turbo 8 is dropping TypeScript](https://www.yellowduck.be/posts/turbo-8-is-dropping-typescript)  
 - `2023-09-10` | [🔗 Local Port Forwarding in VS Code](https://www.yellowduck.be/posts/local-port-forwarding-in-vs-code)  
@@ -22,6 +23,5 @@
 - `2023-09-09` | [🔗 Embed a Javascript website inside a binary with Go 1.16](https://www.yellowduck.be/posts/embed-a-javascript-website-inside-a-binary-with-go-1-16)  
 - `2023-09-08` | [🐥 Removing Items from a Slice in Go Using Generics](https://www.yellowduck.be/posts/removing-items-from-a-slice-in-go-using-generics)  
 - `2023-09-08` | [🔗 Generate Go client and server from OpenAPI 3 specs](https://www.yellowduck.be/posts/generate-go-client-and-server-from-openapi-3-specs)  
-- `2023-09-08` | [🔗 How to Use PDF.js to Highlight Text Programmatically](https://www.yellowduck.be/posts/how-to-use-pdf-js-to-highlight-text-programmatically)  
 
 <!-- BLOG-POST-LIST:END -->
