@@ -13,6 +13,9 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-10` | [🔗 What I understand about two-factor/multi-factor authentication &lpar;in 2023&rpar;](https://www.yellowduck.be/posts/mfabasicoptionsin2023)  
+- `2023-09-10` | [🔗 Turbo 8 is dropping TypeScript](https://www.yellowduck.be/posts/turbo-8-is-dropping-typescript)  
+- `2023-09-10` | [🔗 Local Port Forwarding in VS Code](https://www.yellowduck.be/posts/local-port-forwarding-in-vs-code)  
 - `2023-09-09` | [🐥 Grouping a Slice of Structs by a Specific Property in Go](https://www.yellowduck.be/posts/grouping-a-slice-of-structs-by-a-specific-property-in-go-with-generics)  
 - `2023-09-09` | [🔗 Fieldnotes](https://www.yellowduck.be/posts/golang-fieldnotes)  
 - `2023-09-09` | [🔗 GitHub - torenware/vite-go](https://www.yellowduck.be/posts/github-torenware-vite-go-go-module-to-integrate-vue-3-react-and-svelte-projects-with-golang-web-projects-using-vite-2-and-3)  
@@ -20,8 +23,5 @@
 - `2023-09-08` | [🐥 Removing Items from a Slice in Go Using Generics](https://www.yellowduck.be/posts/removing-items-from-a-slice-in-go-using-generics)  
 - `2023-09-08` | [🔗 Generate Go client and server from OpenAPI 3 specs](https://www.yellowduck.be/posts/generate-go-client-and-server-from-openapi-3-specs)  
 - `2023-09-08` | [🔗 How to Use PDF.js to Highlight Text Programmatically](https://www.yellowduck.be/posts/how-to-use-pdf-js-to-highlight-text-programmatically)  
-- `2023-09-08` | [🔗 Dummy load balancer in a single Go script](https://www.yellowduck.be/posts/dummy-load-balancer-in-a-single-go-script)  
-- `2023-09-07` | [🐥 Writing an event bus using Generics in Go](https://www.yellowduck.be/posts/writing-an-event-bus-using-generics-in-go)  
-- `2023-09-07` | [🔗 Forge deploy scripts in version control](https://www.yellowduck.be/posts/forge-deploy-scripts-in-version-control)  
 
 <!-- BLOG-POST-LIST:END -->
