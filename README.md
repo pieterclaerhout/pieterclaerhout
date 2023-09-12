@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-12` | [🔗 Static domains for all ngrok users](https://www.yellowduck.be/posts/static-domains-for-all-ngrok-users)  
 - `2023-09-12` | [🔗 How to create and read custom tags in Golang](https://www.yellowduck.be/posts/how-to-create-and-read-custom-tags-in-golang)  
 - `2023-09-12` | [🔗 What&#39;s the fuss around Bun&#39;s package manager abilities?](https://www.yellowduck.be/posts/whats-the-fuss-around-buns-package-manager-abilities)  
 - `2023-09-11` | [🐥 Insert Multiple Cursors at the Start of Every Line with VSCode](https://www.yellowduck.be/posts/insert-multiple-cursors-at-the-start-of-every-line-with-vscode)  
@@ -22,6 +23,5 @@
 - `2023-09-10` | [🐥 Efficiently Splitting Text into Chunks with PHP](https://www.yellowduck.be/posts/efficiently-splitting-text-into-chunks-with-php)  
 - `2023-09-10` | [🔗 What I understand about two-factor/multi-factor authentication &lpar;in 2023&rpar;](https://www.yellowduck.be/posts/mfabasicoptionsin2023)  
 - `2023-09-10` | [🔗 Turbo 8 is dropping TypeScript](https://www.yellowduck.be/posts/turbo-8-is-dropping-typescript)  
-- `2023-09-10` | [🔗 Local Port Forwarding in VS Code](https://www.yellowduck.be/posts/local-port-forwarding-in-vs-code)  
 
 <!-- BLOG-POST-LIST:END -->
