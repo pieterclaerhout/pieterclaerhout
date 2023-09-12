@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-12` | [🔗 What&#39;s the fuss around Bun&#39;s package manager abilities?](https://www.yellowduck.be/posts/whats-the-fuss-around-buns-package-manager-abilities)  
 - `2023-09-11` | [🐥 Insert Multiple Cursors at the Start of Every Line with VSCode](https://www.yellowduck.be/posts/insert-multiple-cursors-at-the-start-of-every-line-with-vscode)  
 - `2023-09-11` | [🔗 Every Software Project is a Startup That Will Probably Fail](https://www.yellowduck.be/posts/every-software-project-is-a-startup-that-will-probably-fail)  
 - `2023-09-11` | [🔗 Aging Code](https://www.yellowduck.be/posts/aging-code)  
@@ -22,6 +23,5 @@
 - `2023-09-10` | [🔗 Turbo 8 is dropping TypeScript](https://www.yellowduck.be/posts/turbo-8-is-dropping-typescript)  
 - `2023-09-10` | [🔗 Local Port Forwarding in VS Code](https://www.yellowduck.be/posts/local-port-forwarding-in-vs-code)  
 - `2023-09-09` | [🐥 Grouping a Slice of Structs by a Specific Property in Go](https://www.yellowduck.be/posts/grouping-a-slice-of-structs-by-a-specific-property-in-go-with-generics)  
-- `2023-09-09` | [🔗 Fieldnotes](https://www.yellowduck.be/posts/golang-fieldnotes)  
 
 <!-- BLOG-POST-LIST:END -->
