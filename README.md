@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-13` | [🔗 Laravel: How to configure multiple search providers](https://www.yellowduck.be/posts/laravel-how-to-configure-multiple-search-providers)  
 - `2023-09-13` | [🔗 Syncing data sources to vector stores](https://www.yellowduck.be/posts/syncing-data-sources-to-vector-stores)  
 - `2023-09-12` | [🐥 Improve your VS Code Explorer file tree structure](https://www.yellowduck.be/posts/improve-your-vs-code-explorer-file-tree-structure)  
 - `2023-09-12` | [🔗 Static domains for all ngrok users](https://www.yellowduck.be/posts/static-domains-for-all-ngrok-users)  
@@ -22,6 +23,5 @@
 - `2023-09-11` | [🔗 Every Software Project is a Startup That Will Probably Fail](https://www.yellowduck.be/posts/every-software-project-is-a-startup-that-will-probably-fail)  
 - `2023-09-11` | [🔗 Aging Code](https://www.yellowduck.be/posts/aging-code)  
 - `2023-09-11` | [🔗 Advanced NLP with SpaCy](https://www.yellowduck.be/posts/advanced-nlp-with-spacy-hacker-news)  
-- `2023-09-10` | [🐥 Efficiently Splitting Text into Chunks with PHP](https://www.yellowduck.be/posts/efficiently-splitting-text-into-chunks-with-php)  
 
 <!-- BLOG-POST-LIST:END -->
