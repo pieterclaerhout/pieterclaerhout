@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-13` | [🔗 Syncing data sources to vector stores](https://www.yellowduck.be/posts/syncing-data-sources-to-vector-stores)  
 - `2023-09-12` | [🐥 Improve your VS Code Explorer file tree structure](https://www.yellowduck.be/posts/improve-your-vs-code-explorer-file-tree-structure)  
 - `2023-09-12` | [🔗 Static domains for all ngrok users](https://www.yellowduck.be/posts/static-domains-for-all-ngrok-users)  
 - `2023-09-12` | [🔗 How to create and read custom tags in Golang](https://www.yellowduck.be/posts/how-to-create-and-read-custom-tags-in-golang)  
@@ -22,6 +23,5 @@
 - `2023-09-11` | [🔗 Aging Code](https://www.yellowduck.be/posts/aging-code)  
 - `2023-09-11` | [🔗 Advanced NLP with SpaCy](https://www.yellowduck.be/posts/advanced-nlp-with-spacy-hacker-news)  
 - `2023-09-10` | [🐥 Efficiently Splitting Text into Chunks with PHP](https://www.yellowduck.be/posts/efficiently-splitting-text-into-chunks-with-php)  
-- `2023-09-10` | [🔗 What I understand about two-factor/multi-factor authentication &lpar;in 2023&rpar;](https://www.yellowduck.be/posts/mfabasicoptionsin2023)  
 
 <!-- BLOG-POST-LIST:END -->
