@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-13` | [🐥 Using the Str::squish function in Laravel](https://www.yellowduck.be/posts/using-the-str-squish-function-in-laravel)  
 - `2023-09-13` | [🔗 Shape Up: Stop Running in Circles and Ship Work that Matters](https://www.yellowduck.be/posts/shape-up-stop-running-in-circles-and-ship-work-that-matters)  
 - `2023-09-13` | [🔗 Laravel: How to configure multiple search providers](https://www.yellowduck.be/posts/laravel-how-to-configure-multiple-search-providers)  
 - `2023-09-13` | [🔗 Syncing data sources to vector stores](https://www.yellowduck.be/posts/syncing-data-sources-to-vector-stores)  
@@ -22,6 +23,5 @@
 - `2023-09-12` | [🔗 What&#39;s the fuss around Bun&#39;s package manager abilities?](https://www.yellowduck.be/posts/whats-the-fuss-around-buns-package-manager-abilities)  
 - `2023-09-11` | [🐥 Insert Multiple Cursors at the Start of Every Line with VSCode](https://www.yellowduck.be/posts/insert-multiple-cursors-at-the-start-of-every-line-with-vscode)  
 - `2023-09-11` | [🔗 Every Software Project is a Startup That Will Probably Fail](https://www.yellowduck.be/posts/every-software-project-is-a-startup-that-will-probably-fail)  
-- `2023-09-11` | [🔗 Aging Code](https://www.yellowduck.be/posts/aging-code)  
 
 <!-- BLOG-POST-LIST:END -->
