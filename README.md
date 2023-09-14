@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-14` | [🔗 The Point of LangChain](https://www.yellowduck.be/posts/the-point-of-langchain)  
 - `2023-09-14` | [🔗 How NASA Writes Space-Proof Code](https://www.yellowduck.be/posts/how-nasa-writes-space-proof-code)  
 - `2023-09-13` | [🐥 Using the Str::squish function in Laravel](https://www.yellowduck.be/posts/using-the-str-squish-function-in-laravel)  
 - `2023-09-13` | [🔗 Shape Up: Stop Running in Circles and Ship Work that Matters](https://www.yellowduck.be/posts/shape-up-stop-running-in-circles-and-ship-work-that-matters)  
@@ -22,6 +23,5 @@
 - `2023-09-12` | [🔗 Static domains for all ngrok users](https://www.yellowduck.be/posts/static-domains-for-all-ngrok-users)  
 - `2023-09-12` | [🔗 How to create and read custom tags in Golang](https://www.yellowduck.be/posts/how-to-create-and-read-custom-tags-in-golang)  
 - `2023-09-12` | [🔗 What&#39;s the fuss around Bun&#39;s package manager abilities?](https://www.yellowduck.be/posts/whats-the-fuss-around-buns-package-manager-abilities)  
-- `2023-09-11` | [🐥 Insert Multiple Cursors at the Start of Every Line with VSCode](https://www.yellowduck.be/posts/insert-multiple-cursors-at-the-start-of-every-line-with-vscode)  
 
 <!-- BLOG-POST-LIST:END -->
