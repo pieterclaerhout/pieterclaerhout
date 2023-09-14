@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-14` | [🔗 A systematic approach to debugging](https://www.yellowduck.be/posts/a-systematic-approach-to-debugging)  
 - `2023-09-14` | [🔗 The Point of LangChain](https://www.yellowduck.be/posts/the-point-of-langchain)  
 - `2023-09-14` | [🔗 How NASA Writes Space-Proof Code](https://www.yellowduck.be/posts/how-nasa-writes-space-proof-code)  
 - `2023-09-13` | [🐥 Using the Str::squish function in Laravel](https://www.yellowduck.be/posts/using-the-str-squish-function-in-laravel)  
@@ -22,6 +23,5 @@
 - `2023-09-12` | [🐥 Improve your VS Code Explorer file tree structure](https://www.yellowduck.be/posts/improve-your-vs-code-explorer-file-tree-structure)  
 - `2023-09-12` | [🔗 Static domains for all ngrok users](https://www.yellowduck.be/posts/static-domains-for-all-ngrok-users)  
 - `2023-09-12` | [🔗 How to create and read custom tags in Golang](https://www.yellowduck.be/posts/how-to-create-and-read-custom-tags-in-golang)  
-- `2023-09-12` | [🔗 What&#39;s the fuss around Bun&#39;s package manager abilities?](https://www.yellowduck.be/posts/whats-the-fuss-around-buns-package-manager-abilities)  
 
 <!-- BLOG-POST-LIST:END -->
