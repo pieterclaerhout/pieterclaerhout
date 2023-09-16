@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-16` | [🔗 Bun 1.0](https://www.yellowduck.be/posts/bun-1-0)  
 - `2023-09-15` | [🐥 Find the bounds of a text string in a PDF using Python](https://www.yellowduck.be/posts/find-the-bounds-of-a-text-string-in-a-pdf-using-python)  
 - `2023-09-15` | [🔗 My fine-tuned Model failed, and Here&#39;s Why](https://www.yellowduck.be/posts/my-fine-tuned-model-failed-and-heres-why)  
 - `2023-09-15` | [🔗 7 simple habits of the top 1% of engineers](https://www.yellowduck.be/posts/7-simple-habits-of-the-top-1-of-engineers)  
@@ -22,6 +23,5 @@
 - `2023-09-14` | [🔗 The Point of LangChain](https://www.yellowduck.be/posts/the-point-of-langchain)  
 - `2023-09-14` | [🔗 How NASA Writes Space-Proof Code](https://www.yellowduck.be/posts/how-nasa-writes-space-proof-code)  
 - `2023-09-13` | [🐥 Using the Str::squish function in Laravel](https://www.yellowduck.be/posts/using-the-str-squish-function-in-laravel)  
-- `2023-09-13` | [🔗 Shape Up: Stop Running in Circles and Ship Work that Matters](https://www.yellowduck.be/posts/shape-up-stop-running-in-circles-and-ship-work-that-matters)  
 
 <!-- BLOG-POST-LIST:END -->
