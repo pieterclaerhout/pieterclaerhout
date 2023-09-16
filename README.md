@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-16` | [🐥 Using ROW_NUMBER with PARTITION BY in MySQL](https://www.yellowduck.be/posts/using-row_number-with-partition-by-in-mysql)  
 - `2023-09-16` | [🔗 What I Have Changed My Mind About in Software Development](https://www.yellowduck.be/posts/what-i-have-changed-my-mind-about-in-software-development)  
 - `2023-09-16` | [🔗 The Inevitability of Scope Creep](https://www.yellowduck.be/posts/the-inevitability-of-scope-creep)  
 - `2023-09-16` | [🔗 Bun 1.0](https://www.yellowduck.be/posts/bun-1-0)  
@@ -22,6 +23,5 @@
 - `2023-09-15` | [🔗 Why is Go&#39;s declaration syntax &quot;backward&quot;? &lpar;The Clockwise/Spiral Rule&rpar;](https://www.yellowduck.be/posts/why-is-gos-declaration-syntax-backward-the-clockwise-spiral-rule)  
 - `2023-09-14` | [🐥 Get the route name given a URL and method in Laravel](https://www.yellowduck.be/posts/get-the-route-name-given-a-url-and-method-in-laravel)  
 - `2023-09-14` | [🔗 A systematic approach to debugging](https://www.yellowduck.be/posts/a-systematic-approach-to-debugging)  
-- `2023-09-14` | [🔗 The Point of LangChain](https://www.yellowduck.be/posts/the-point-of-langchain)  
 
 <!-- BLOG-POST-LIST:END -->
