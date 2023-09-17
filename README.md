@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-17` | [🔗 A Technical Deep Dive on Event Driven Architectures](https://www.yellowduck.be/posts/a-technical-deep-dive-on-event-driven-architectures)  
 - `2023-09-17` | [🔗 The Four Types of Work 🗂](https://www.yellowduck.be/posts/the-four-types-of-work)  
 - `2023-09-17` | [🔗 Introduction to Memory Unsafety for VPs of Engineering](https://www.yellowduck.be/posts/introduction-to-memory-unsafety-for-vps-of-engineering)  
 - `2023-09-16` | [🐥 Using ROW_NUMBER with PARTITION BY in MySQL](https://www.yellowduck.be/posts/using-row_number-with-partition-by-in-mysql)  
@@ -22,6 +23,5 @@
 - `2023-09-15` | [🐥 Find the bounds of a text string in a PDF using Python](https://www.yellowduck.be/posts/find-the-bounds-of-a-text-string-in-a-pdf-using-python)  
 - `2023-09-15` | [🔗 My fine-tuned Model failed, and Here&#39;s Why](https://www.yellowduck.be/posts/my-fine-tuned-model-failed-and-heres-why)  
 - `2023-09-15` | [🔗 7 simple habits of the top 1% of engineers](https://www.yellowduck.be/posts/7-simple-habits-of-the-top-1-of-engineers)  
-- `2023-09-15` | [🔗 Why is Go&#39;s declaration syntax &quot;backward&quot;? &lpar;The Clockwise/Spiral Rule&rpar;](https://www.yellowduck.be/posts/why-is-gos-declaration-syntax-backward-the-clockwise-spiral-rule)  
 
 <!-- BLOG-POST-LIST:END -->
