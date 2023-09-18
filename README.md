@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-18` | [🔗 GitHub - spatie/fork](https://www.yellowduck.be/posts/github-spatie-fork)  
 - `2023-09-17` | [🐥 Fixing npm peer dependency conflicts](https://www.yellowduck.be/posts/fixing-npm-peer-dependency-conflicts)  
 - `2023-09-17` | [🔗 A Technical Deep Dive on Event Driven Architectures](https://www.yellowduck.be/posts/a-technical-deep-dive-on-event-driven-architectures)  
 - `2023-09-17` | [🔗 The Four Types of Work 🗂](https://www.yellowduck.be/posts/the-four-types-of-work)  
@@ -22,6 +23,5 @@
 - `2023-09-16` | [🔗 The Inevitability of Scope Creep](https://www.yellowduck.be/posts/the-inevitability-of-scope-creep)  
 - `2023-09-16` | [🔗 Bun 1.0](https://www.yellowduck.be/posts/bun-1-0)  
 - `2023-09-15` | [🐥 Find the bounds of a text string in a PDF using Python](https://www.yellowduck.be/posts/find-the-bounds-of-a-text-string-in-a-pdf-using-python)  
-- `2023-09-15` | [🔗 My fine-tuned Model failed, and Here&#39;s Why](https://www.yellowduck.be/posts/my-fine-tuned-model-failed-and-heres-why)  
 
 <!-- BLOG-POST-LIST:END -->
