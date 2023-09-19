@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-19` | [🐥 Using the CODEOWNERS file in a GitHub project](https://www.yellowduck.be/posts/using-the-codeowners-file-in-a-github-project)  
 - `2023-09-19` | [🔗 Asking questions the right way](https://www.yellowduck.be/posts/asking-questions-the-right-way)  
 - `2023-09-19` | [🔗 Futures in Go, no package required](https://www.yellowduck.be/posts/futures-in-go-no-package-required)  
 - `2023-09-19` | [🔗 How-to Evaluate a Product Roadmap, for Engineers](https://www.yellowduck.be/posts/how-to-evaluate-a-product-roadmap-for-engineers)  
@@ -22,6 +23,5 @@
 - `2023-09-18` | [🔗 GitHub - spatie/fork](https://www.yellowduck.be/posts/github-spatie-fork)  
 - `2023-09-17` | [🐥 Fixing npm peer dependency conflicts](https://www.yellowduck.be/posts/fixing-npm-peer-dependency-conflicts)  
 - `2023-09-17` | [🔗 A Technical Deep Dive on Event Driven Architectures](https://www.yellowduck.be/posts/a-technical-deep-dive-on-event-driven-architectures)  
-- `2023-09-17` | [🔗 The Four Types of Work 🗂](https://www.yellowduck.be/posts/the-four-types-of-work)  
 
 <!-- BLOG-POST-LIST:END -->
