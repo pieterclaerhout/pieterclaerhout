@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-20` | [🔗 Migrating from MySQL to PostgrеSQL: An Advancеd Guide](https://www.yellowduck.be/posts/migrating-from-mysql-to-postgresql-an-advanced-guide)  
 - `2023-09-20` | [🔗 Never say &quot;no,&quot; but rarely say &quot;yes.&quot;](https://www.yellowduck.be/posts/never-say-no-but-rarely-say-yes)  
 - `2023-09-19` | [🐥 Using the CODEOWNERS file in a GitHub project](https://www.yellowduck.be/posts/using-the-codeowners-file-in-a-github-project)  
 - `2023-09-19` | [🔗 Asking questions the right way](https://www.yellowduck.be/posts/asking-questions-the-right-way)  
@@ -22,6 +23,5 @@
 - `2023-09-18` | [🔗 Some notes on Local-First Development](https://www.yellowduck.be/posts/some-notes-on-local-first-development)  
 - `2023-09-18` | [🔗 Strategic Refactoring of Legacy Codebase](https://www.yellowduck.be/posts/strategic-refactoring-of-legacy-codebase)  
 - `2023-09-18` | [🔗 GitHub - spatie/fork](https://www.yellowduck.be/posts/github-spatie-fork)  
-- `2023-09-17` | [🐥 Fixing npm peer dependency conflicts](https://www.yellowduck.be/posts/fixing-npm-peer-dependency-conflicts)  
 
 <!-- BLOG-POST-LIST:END -->
