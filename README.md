@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-20` | [🐥 An update to the RSS feeds for this site](https://www.yellowduck.be/posts/an-update-to-the-rss-feeds-for-this-site)  
 - `2023-09-20` | [🔗 Pagefind](https://www.yellowduck.be/posts/pagefind)  
 - `2023-09-20` | [🔗 Migrating from MySQL to PostgrеSQL: An Advancеd Guide](https://www.yellowduck.be/posts/migrating-from-mysql-to-postgresql-an-advanced-guide)  
 - `2023-09-20` | [🔗 Never say &quot;no,&quot; but rarely say &quot;yes.&quot;](https://www.yellowduck.be/posts/never-say-no-but-rarely-say-yes)  
@@ -22,6 +23,5 @@
 - `2023-09-19` | [🔗 How-to Evaluate a Product Roadmap, for Engineers](https://www.yellowduck.be/posts/how-to-evaluate-a-product-roadmap-for-engineers)  
 - `2023-09-18` | [🐥 Using WritableComputedRef to add v-model support in VueJS](https://www.yellowduck.be/posts/using-writablecomputedref-to-add-v-model-support-in-vuejs)  
 - `2023-09-18` | [🔗 Some notes on Local-First Development](https://www.yellowduck.be/posts/some-notes-on-local-first-development)  
-- `2023-09-18` | [🔗 Strategic Refactoring of Legacy Codebase](https://www.yellowduck.be/posts/strategic-refactoring-of-legacy-codebase)  
 
 <!-- BLOG-POST-LIST:END -->
