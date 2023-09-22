@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-22` | [🔗 Again and Again! Managing Recurring Events In a Data Model](https://www.yellowduck.be/posts/again-and-again-managing-recurring-events-in-a-data-model)  
 - `2023-09-21` | [🐥 Preparing your PHP application to be highly available](https://www.yellowduck.be/posts/preparing-your-php-application-to-be-highly-available)  
 - `2023-09-21` | [🔗 Skip the API, Ship Your Database](https://www.yellowduck.be/posts/skip-the-api-ship-your-database)  
 - `2023-09-21` | [🔗 Use your database to power state machines](https://www.yellowduck.be/posts/use-your-database-to-power-state-machines)  
@@ -22,6 +23,5 @@
 - `2023-09-20` | [🔗 Migrating from MySQL to PostgrеSQL: An Advancеd Guide](https://www.yellowduck.be/posts/migrating-from-mysql-to-postgresql-an-advanced-guide)  
 - `2023-09-20` | [🔗 Never say &quot;no,&quot; but rarely say &quot;yes.&quot;](https://www.yellowduck.be/posts/never-say-no-but-rarely-say-yes)  
 - `2023-09-19` | [🐥 Using the CODEOWNERS file in a GitHub project](https://www.yellowduck.be/posts/using-the-codeowners-file-in-a-github-project)  
-- `2023-09-19` | [🔗 Asking questions the right way](https://www.yellowduck.be/posts/asking-questions-the-right-way)  
 
 <!-- BLOG-POST-LIST:END -->
