@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-22` | [🔗 Maroto: build PDF using Golang](https://www.yellowduck.be/posts/maroto-build-pdf-using-golang)  
 - `2023-09-22` | [🔗 The Important Dates Data Model](https://www.yellowduck.be/posts/the-important-dates-data-model)  
 - `2023-09-22` | [🔗 Again and Again! Managing Recurring Events In a Data Model](https://www.yellowduck.be/posts/again-and-again-managing-recurring-events-in-a-data-model)  
 - `2023-09-21` | [🐥 Preparing your PHP application to be highly available](https://www.yellowduck.be/posts/preparing-your-php-application-to-be-highly-available)  
@@ -22,6 +23,5 @@
 - `2023-09-20` | [🐥 An update to the RSS feeds for this site](https://www.yellowduck.be/posts/an-update-to-the-rss-feeds-for-this-site)  
 - `2023-09-20` | [🔗 Pagefind](https://www.yellowduck.be/posts/pagefind)  
 - `2023-09-20` | [🔗 Migrating from MySQL to PostgrеSQL: An Advancеd Guide](https://www.yellowduck.be/posts/migrating-from-mysql-to-postgresql-an-advanced-guide)  
-- `2023-09-20` | [🔗 Never say &quot;no,&quot; but rarely say &quot;yes.&quot;](https://www.yellowduck.be/posts/never-say-no-but-rarely-say-yes)  
 
 <!-- BLOG-POST-LIST:END -->
