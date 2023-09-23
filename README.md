@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-23` | [🔗 Metabase v47](https://www.yellowduck.be/posts/metabase-v47)  
 - `2023-09-22` | [🐥 PHP __toString method](https://www.yellowduck.be/posts/php-__tostring-method)  
 - `2023-09-22` | [🔗 Maroto: build PDF using Golang](https://www.yellowduck.be/posts/maroto-build-pdf-using-golang)  
 - `2023-09-22` | [🔗 The Important Dates Data Model](https://www.yellowduck.be/posts/the-important-dates-data-model)  
@@ -22,6 +23,5 @@
 - `2023-09-21` | [🔗 Use your database to power state machines](https://www.yellowduck.be/posts/use-your-database-to-power-state-machines)  
 - `2023-09-21` | [🔗 A new JIT engine for PHP-8.4/9](https://www.yellowduck.be/posts/a-new-jit-engine-for-php-8-4-9)  
 - `2023-09-20` | [🐥 An update to the RSS feeds for this site](https://www.yellowduck.be/posts/an-update-to-the-rss-feeds-for-this-site)  
-- `2023-09-20` | [🔗 Pagefind](https://www.yellowduck.be/posts/pagefind)  
 
 <!-- BLOG-POST-LIST:END -->
