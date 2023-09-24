@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-24` | [🔗 Fixing For Loops in Go 1.22](https://www.yellowduck.be/posts/fixing-for-loops-in-go-1-22)  
 - `2023-09-23` | [🐥 Drop column if exists in a Laravel migration](https://www.yellowduck.be/posts/drop-column-if-exists-in-a-laravel-migration)  
 - `2023-09-23` | [🔗 🚀 OpenAI InstructGPT 3.5 model](https://www.yellowduck.be/posts/openai-instructgpt-3-5-model)  
 - `2023-09-23` | [🔗 The joys of maintenance programming](https://www.yellowduck.be/posts/the-joys-of-maintenance-programming)  
@@ -22,6 +23,5 @@
 - `2023-09-22` | [🔗 The Important Dates Data Model](https://www.yellowduck.be/posts/the-important-dates-data-model)  
 - `2023-09-22` | [🔗 Again and Again! Managing Recurring Events In a Data Model](https://www.yellowduck.be/posts/again-and-again-managing-recurring-events-in-a-data-model)  
 - `2023-09-21` | [🐥 Preparing your PHP application to be highly available](https://www.yellowduck.be/posts/preparing-your-php-application-to-be-highly-available)  
-- `2023-09-21` | [🔗 Skip the API, Ship Your Database](https://www.yellowduck.be/posts/skip-the-api-ship-your-database)  
 
 <!-- BLOG-POST-LIST:END -->
