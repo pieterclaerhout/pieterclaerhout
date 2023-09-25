@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-25` | [🔗 Jira JQL functions](https://www.yellowduck.be/posts/jira-jql-functions)  
 - `2023-09-24` | [🐥 Using a MySQL full text index with Laravel](https://www.yellowduck.be/posts/using-a-mysql-full-text-index-with-laravel)  
 - `2023-09-24` | [🔗 Hammerhead Karoo 2](https://www.yellowduck.be/posts/hammerhead-karoo-2)  
 - `2023-09-24` | [🔗 How I Used Python and Folium to Visualize My Outdoor Activities](https://www.yellowduck.be/posts/how-i-used-python-and-folium-to-visualize-my-outdoor-activities)  
@@ -22,6 +23,5 @@
 - `2023-09-23` | [🔗 The joys of maintenance programming](https://www.yellowduck.be/posts/the-joys-of-maintenance-programming)  
 - `2023-09-23` | [🔗 Metabase v47](https://www.yellowduck.be/posts/metabase-v47)  
 - `2023-09-22` | [🐥 PHP __toString method](https://www.yellowduck.be/posts/php-__tostring-method)  
-- `2023-09-22` | [🔗 Maroto: build PDF using Golang](https://www.yellowduck.be/posts/maroto-build-pdf-using-golang)  
 
 <!-- BLOG-POST-LIST:END -->
