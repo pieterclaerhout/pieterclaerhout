@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-26` | [🐥 The difference between sole and firstOrFail in Laravel](https://www.yellowduck.be/posts/the-difference-between-sole-and-firstorfail-in-laravel)  
 - `2023-09-25` | [🔗 Moving From Problem-Solution Fit to Product-Market Fit](https://www.yellowduck.be/posts/moving-from-problem-solution-fit-to-product-market-fit)  
 - `2023-09-25` | [🔗 Your guide to SaaS packaging 201](https://www.yellowduck.be/posts/your-guide-to-saas-packaging-201)  
 - `2023-09-25` | [🔗 Jira JQL functions](https://www.yellowduck.be/posts/jira-jql-functions)  
@@ -22,6 +23,5 @@
 - `2023-09-24` | [🔗 Fixing For Loops in Go 1.22](https://www.yellowduck.be/posts/fixing-for-loops-in-go-1-22)  
 - `2023-09-23` | [🐥 Drop column if exists in a Laravel migration](https://www.yellowduck.be/posts/drop-column-if-exists-in-a-laravel-migration)  
 - `2023-09-23` | [🔗 🚀 OpenAI InstructGPT 3.5 model](https://www.yellowduck.be/posts/openai-instructgpt-3-5-model)  
-- `2023-09-23` | [🔗 The joys of maintenance programming](https://www.yellowduck.be/posts/the-joys-of-maintenance-programming)  
 
 <!-- BLOG-POST-LIST:END -->
