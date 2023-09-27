@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-27` | [🔗 Transcontinental Race No.9 Video](https://www.yellowduck.be/posts/transcontinental-race-no-9-video)  
 - `2023-09-27` | [🔗 How to climb hills faster on your bike](https://www.yellowduck.be/posts/how-to-climb-hills-faster-on-your-bike)  
 - `2023-09-27` | [🔗 Organizing a Go module](https://www.yellowduck.be/posts/organizing-a-go-module)  
 - `2023-09-26` | [🐥 The difference between sole and firstOrFail in Laravel](https://www.yellowduck.be/posts/the-difference-between-sole-and-firstorfail-in-laravel)  
@@ -22,6 +23,5 @@
 - `2023-09-24` | [🐥 Using a MySQL full text index with Laravel](https://www.yellowduck.be/posts/using-a-mysql-full-text-index-with-laravel)  
 - `2023-09-24` | [🔗 Hammerhead Karoo 2](https://www.yellowduck.be/posts/hammerhead-karoo-2)  
 - `2023-09-24` | [🔗 How I Used Python and Folium to Visualize My Outdoor Activities](https://www.yellowduck.be/posts/how-i-used-python-and-folium-to-visualize-my-outdoor-activities)  
-- `2023-09-24` | [🔗 Fixing For Loops in Go 1.22](https://www.yellowduck.be/posts/fixing-for-loops-in-go-1-22)  
 
 <!-- BLOG-POST-LIST:END -->
