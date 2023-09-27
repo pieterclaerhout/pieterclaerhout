@@ -13,7 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
-- `2023-09-27` | [🐥 Laravel&#39;s Eloquent loadCount method](https://www.yellowduck.be/posts/laravels-eloquent-loadcount-method)  
+- `2023-09-27` | [🐥 Laravel&#39;s Eloquent withCount method](https://www.yellowduck.be/posts/laravels-eloquent-withcount-method)  
 - `2023-09-27` | [🔗 Transcontinental Race No.9 Video](https://www.yellowduck.be/posts/transcontinental-race-no-9-video)  
 - `2023-09-27` | [🔗 How to climb hills faster on your bike](https://www.yellowduck.be/posts/how-to-climb-hills-faster-on-your-bike)  
 - `2023-09-27` | [🔗 Organizing a Go module](https://www.yellowduck.be/posts/organizing-a-go-module)  
