@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-28` | [🐥 Dynamically allocating ports in a webserver using Go](https://www.yellowduck.be/posts/dynamically-allocating-ports-in-a-webserver-using-go)  
 - `2023-09-28` | [🔗 Bun: lessons from disrupting a tech ecosystem](https://www.yellowduck.be/posts/bun-lessons-from-disrupting-a-tech-ecosystem)  
 - `2023-09-28` | [🔗 Common Go Mistakes](https://www.yellowduck.be/posts/common-go-mistakes)  
 - `2023-09-28` | [🔗 In a git repository, where do your files live?](https://www.yellowduck.be/posts/in-a-git-repository-where-do-your-files-live)  
@@ -22,6 +23,5 @@
 - `2023-09-27` | [🔗 Organizing a Go module](https://www.yellowduck.be/posts/organizing-a-go-module)  
 - `2023-09-26` | [🐥 The difference between sole and firstOrFail in Laravel](https://www.yellowduck.be/posts/the-difference-between-sole-and-firstorfail-in-laravel)  
 - `2023-09-25` | [🔗 Moving From Problem-Solution Fit to Product-Market Fit](https://www.yellowduck.be/posts/moving-from-problem-solution-fit-to-product-market-fit)  
-- `2023-09-25` | [🔗 Your guide to SaaS packaging 201](https://www.yellowduck.be/posts/your-guide-to-saas-packaging-201)  
 
 <!-- BLOG-POST-LIST:END -->
