@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-28` | [🔗 In a git repository, where do your files live?](https://www.yellowduck.be/posts/in-a-git-repository-where-do-your-files-live)  
 - `2023-09-27` | [🐥 Laravel&#39;s Eloquent withCount method](https://www.yellowduck.be/posts/laravels-eloquent-withcount-method)  
 - `2023-09-27` | [🔗 Transcontinental Race No.9 Video](https://www.yellowduck.be/posts/transcontinental-race-no-9-video)  
 - `2023-09-27` | [🔗 How to climb hills faster on your bike](https://www.yellowduck.be/posts/how-to-climb-hills-faster-on-your-bike)  
@@ -22,6 +23,5 @@
 - `2023-09-25` | [🔗 Your guide to SaaS packaging 201](https://www.yellowduck.be/posts/your-guide-to-saas-packaging-201)  
 - `2023-09-25` | [🔗 Jira JQL functions](https://www.yellowduck.be/posts/jira-jql-functions)  
 - `2023-09-24` | [🐥 Using a MySQL full text index with Laravel](https://www.yellowduck.be/posts/using-a-mysql-full-text-index-with-laravel)  
-- `2023-09-24` | [🔗 Hammerhead Karoo 2](https://www.yellowduck.be/posts/hammerhead-karoo-2)  
 
 <!-- BLOG-POST-LIST:END -->
