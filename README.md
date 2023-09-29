@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-29` | [🔗 Solving PHP Scaling Issues](https://www.yellowduck.be/posts/solving-php-scaling-issues)  
 - `2023-09-29` | [🔗 Upsert in SQL](https://www.yellowduck.be/posts/upsert-in-sql)  
 - `2023-09-28` | [🐥 Dynamically allocating ports in a webserver using Go](https://www.yellowduck.be/posts/dynamically-allocating-ports-in-a-webserver-using-go)  
 - `2023-09-28` | [🔗 Bun: lessons from disrupting a tech ecosystem](https://www.yellowduck.be/posts/bun-lessons-from-disrupting-a-tech-ecosystem)  
@@ -22,6 +23,5 @@
 - `2023-09-27` | [🔗 Transcontinental Race No.9 Video](https://www.yellowduck.be/posts/transcontinental-race-no-9-video)  
 - `2023-09-27` | [🔗 How to climb hills faster on your bike](https://www.yellowduck.be/posts/how-to-climb-hills-faster-on-your-bike)  
 - `2023-09-27` | [🔗 Organizing a Go module](https://www.yellowduck.be/posts/organizing-a-go-module)  
-- `2023-09-26` | [🐥 The difference between sole and firstOrFail in Laravel](https://www.yellowduck.be/posts/the-difference-between-sole-and-firstorfail-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
