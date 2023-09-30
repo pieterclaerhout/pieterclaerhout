@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-30` | [🐥 Laravel&#39;s Bus::chain and Bus::batch for efficient task processing](https://www.yellowduck.be/posts/laravels-bus-chain-and-bus-batch-for-efficient-task-processing)  
 - `2023-09-30` | [🔗 Go Is a Shop-built Jig](https://www.yellowduck.be/posts/go-is-a-shop-built-jig)  
 - `2023-09-30` | [🔗 Empty states with CSS and the  selector](https://www.yellowduck.be/posts/empty-states-with-css-and-the-selector)  
 - `2023-09-30` | [🔗 For each loops with LATERAL Joins](https://www.yellowduck.be/posts/for-each-loops-with-lateral-joins)  
@@ -22,6 +23,5 @@
 - `2023-09-29` | [🔗 Upsert in SQL](https://www.yellowduck.be/posts/upsert-in-sql)  
 - `2023-09-28` | [🐥 Dynamically allocating ports in a webserver using Go](https://www.yellowduck.be/posts/dynamically-allocating-ports-in-a-webserver-using-go)  
 - `2023-09-28` | [🔗 Bun: lessons from disrupting a tech ecosystem](https://www.yellowduck.be/posts/bun-lessons-from-disrupting-a-tech-ecosystem)  
-- `2023-09-28` | [🔗 Common Go Mistakes](https://www.yellowduck.be/posts/common-go-mistakes)  
 
 <!-- BLOG-POST-LIST:END -->
