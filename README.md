@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-09-30` | [🔗 For each loops with LATERAL Joins](https://www.yellowduck.be/posts/for-each-loops-with-lateral-joins)  
 - `2023-09-29` | [🐥 Making Eloquent Models Immutable with a Trait in Laravel](https://www.yellowduck.be/posts/making-eloquent-models-immutable-with-a-trait-in-laravel)  
 - `2023-09-29` | [🔗 Deconstructing Type Parameters](https://www.yellowduck.be/posts/deconstructing-type-parameters)  
 - `2023-09-29` | [🔗 Solving PHP Scaling Issues](https://www.yellowduck.be/posts/solving-php-scaling-issues)  
@@ -22,6 +23,5 @@
 - `2023-09-28` | [🔗 Common Go Mistakes](https://www.yellowduck.be/posts/common-go-mistakes)  
 - `2023-09-28` | [🔗 In a git repository, where do your files live?](https://www.yellowduck.be/posts/in-a-git-repository-where-do-your-files-live)  
 - `2023-09-27` | [🐥 Laravel&#39;s Eloquent withCount method](https://www.yellowduck.be/posts/laravels-eloquent-withcount-method)  
-- `2023-09-27` | [🔗 Transcontinental Race No.9 Video](https://www.yellowduck.be/posts/transcontinental-race-no-9-video)  
 
 <!-- BLOG-POST-LIST:END -->
