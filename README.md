@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-02` | [🔗 Interfaces in Go: Slices](https://www.yellowduck.be/posts/interfaces-in-go-slices)  
 - `2023-10-02` | [🔗 Things I&#39;ve learned about building CLI tools in Python](https://www.yellowduck.be/posts/things-ive-learned-about-building-cli-tools-in-python)  
 - `2023-10-01` | [🐥 Parsing RSS feeds using Go](https://www.yellowduck.be/posts/parsing-rss-feeds-using-go)  
 - `2023-10-01` | [🔗 Signs of Overengineering](https://www.yellowduck.be/posts/signs-of-overengineering)  
@@ -22,6 +23,5 @@
 - `2023-09-30` | [🔗 Go Is a Shop-built Jig](https://www.yellowduck.be/posts/go-is-a-shop-built-jig)  
 - `2023-09-30` | [🔗 Empty states with CSS and the  selector](https://www.yellowduck.be/posts/empty-states-with-css-and-the-selector)  
 - `2023-09-30` | [🔗 For each loops with LATERAL Joins](https://www.yellowduck.be/posts/for-each-loops-with-lateral-joins)  
-- `2023-09-29` | [🐥 Making Eloquent Models Immutable with a Trait in Laravel](https://www.yellowduck.be/posts/making-eloquent-models-immutable-with-a-trait-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
