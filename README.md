@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-03` | [🔗 PHP 8.3.0 RC 3 available for testing](https://www.yellowduck.be/posts/php-8-3-0-rc-3-available-for-testing)  
 - `2023-10-02` | [🐥 Using Meilisearch&#39;s matchingStrategy with Laravel Scout](https://www.yellowduck.be/posts/using-meilisearchs-matchingstrategy-with-laravel-scout)  
 - `2023-10-02` | [🔗 Speed wobbles: How they start and how to stop them](https://www.yellowduck.be/posts/speed-wobbles-how-they-start-and-how-to-stop-them)  
 - `2023-10-02` | [🔗 Interfaces in Go: Slices](https://www.yellowduck.be/posts/interfaces-in-go-slices)  
@@ -22,6 +23,5 @@
 - `2023-10-01` | [🔗 A Primer: Subscription vs Usage Based Pricing Models](https://www.yellowduck.be/posts/a-primer-subscription-vs-usage-based-pricing-models)  
 - `2023-10-01` | [🔗 6 Most Popular Vue.js UI Libraries &lpar;Vue 3&rpar; in 2023](https://www.yellowduck.be/posts/6-most-popular-vue-js-ui-libraries-vue-3-in-2023)  
 - `2023-09-30` | [🐥 Laravel&#39;s Bus::chain and Bus::batch for efficient task processing](https://www.yellowduck.be/posts/laravels-bus-chain-and-bus-batch-for-efficient-task-processing)  
-- `2023-09-30` | [🔗 Go Is a Shop-built Jig](https://www.yellowduck.be/posts/go-is-a-shop-built-jig)  
 
 <!-- BLOG-POST-LIST:END -->
