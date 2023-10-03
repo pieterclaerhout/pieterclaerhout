@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-03` | [🔗 Rust Vs Go: A Hands-On Comparison](https://www.yellowduck.be/posts/rust-vs-go-a-hands-on-comparison)  
 - `2023-10-03` | [🔗 Executing Cron Scripts Reliably At Scale](https://www.yellowduck.be/posts/executing-cron-scripts-reliably-at-scale)  
 - `2023-10-03` | [🔗 PHP 8.3.0 RC 3 available for testing](https://www.yellowduck.be/posts/php-8-3-0-rc-3-available-for-testing)  
 - `2023-10-02` | [🐥 Using Meilisearch&#39;s matchingStrategy with Laravel Scout](https://www.yellowduck.be/posts/using-meilisearchs-matchingstrategy-with-laravel-scout)  
@@ -22,6 +23,5 @@
 - `2023-10-01` | [🐥 Parsing RSS feeds using Go](https://www.yellowduck.be/posts/parsing-rss-feeds-using-go)  
 - `2023-10-01` | [🔗 Signs of Overengineering](https://www.yellowduck.be/posts/signs-of-overengineering)  
 - `2023-10-01` | [🔗 A Primer: Subscription vs Usage Based Pricing Models](https://www.yellowduck.be/posts/a-primer-subscription-vs-usage-based-pricing-models)  
-- `2023-10-01` | [🔗 6 Most Popular Vue.js UI Libraries &lpar;Vue 3&rpar; in 2023](https://www.yellowduck.be/posts/6-most-popular-vue-js-ui-libraries-vue-3-in-2023)  
 
 <!-- BLOG-POST-LIST:END -->
