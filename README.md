@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-03` | [🐥 Combining virtual columns with indexes in Laravel Eloquent](https://www.yellowduck.be/posts/combining-virtual-columns-with-indexes-in-laravel-eloquent)  
 - `2023-10-03` | [🔗 Rust Vs Go: A Hands-On Comparison](https://www.yellowduck.be/posts/rust-vs-go-a-hands-on-comparison)  
 - `2023-10-03` | [🔗 Executing Cron Scripts Reliably At Scale](https://www.yellowduck.be/posts/executing-cron-scripts-reliably-at-scale)  
 - `2023-10-03` | [🔗 PHP 8.3.0 RC 3 available for testing](https://www.yellowduck.be/posts/php-8-3-0-rc-3-available-for-testing)  
@@ -22,6 +23,5 @@
 - `2023-10-02` | [🔗 Things I&#39;ve learned about building CLI tools in Python](https://www.yellowduck.be/posts/things-ive-learned-about-building-cli-tools-in-python)  
 - `2023-10-01` | [🐥 Parsing RSS feeds using Go](https://www.yellowduck.be/posts/parsing-rss-feeds-using-go)  
 - `2023-10-01` | [🔗 Signs of Overengineering](https://www.yellowduck.be/posts/signs-of-overengineering)  
-- `2023-10-01` | [🔗 A Primer: Subscription vs Usage Based Pricing Models](https://www.yellowduck.be/posts/a-primer-subscription-vs-usage-based-pricing-models)  
 
 <!-- BLOG-POST-LIST:END -->
