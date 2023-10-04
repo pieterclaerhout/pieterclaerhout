@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-04` | [🐥 Exploring Laravel middleware: terminable middleware](https://www.yellowduck.be/posts/exploring-laravel-middleware-post-response-actions)  
 - `2023-10-04` | [🔗 Tailing multiple Laravel logs with Envoy](https://www.yellowduck.be/posts/tailing-multiple-laravel-logs-with-envoy)  
 - `2023-10-04` | [🔗 Configure Laravel to use Immutable dates by default](https://www.yellowduck.be/posts/configure-laravel-to-use-immutable-dates-by-default)  
 - `2023-10-04` | [🔗 Demystifying Database Transactions](https://www.yellowduck.be/posts/demystifying-database-transactions)  
@@ -22,6 +23,5 @@
 - `2023-10-03` | [🔗 PHP 8.3.0 RC 3 available for testing](https://www.yellowduck.be/posts/php-8-3-0-rc-3-available-for-testing)  
 - `2023-10-02` | [🐥 Using Meilisearch&#39;s matchingStrategy with Laravel Scout](https://www.yellowduck.be/posts/using-meilisearchs-matchingstrategy-with-laravel-scout)  
 - `2023-10-02` | [🔗 Speed wobbles: How they start and how to stop them](https://www.yellowduck.be/posts/speed-wobbles-how-they-start-and-how-to-stop-them)  
-- `2023-10-02` | [🔗 Interfaces in Go: Slices](https://www.yellowduck.be/posts/interfaces-in-go-slices)  
 
 <!-- BLOG-POST-LIST:END -->
