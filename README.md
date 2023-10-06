@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-06` | [🔗 Building Reusable Components that are ACTUALLY Reusable with Vue.js](https://www.yellowduck.be/posts/building-reusable-components-that-are-actually-reusable-with-vue-js)  
 - `2023-10-05` | [🐥 Streamlining AWS and Google SDKs in PHP with Composer](https://www.yellowduck.be/posts/streamlining-aws-and-google-sdks-in-php-with-composer)  
 - `2023-10-05` | [🔗 Database Migrations](https://www.yellowduck.be/posts/database-migrations)  
 - `2023-10-05` | [🔗 influxdb officially made the switch from Go =&gt; Rust](https://www.yellowduck.be/posts/influxdb-officially-made-the-switch-from-go-rust)  
@@ -22,6 +23,5 @@
 - `2023-10-04` | [🔗 Configure Laravel to use Immutable dates by default](https://www.yellowduck.be/posts/configure-laravel-to-use-immutable-dates-by-default)  
 - `2023-10-04` | [🔗 Demystifying Database Transactions](https://www.yellowduck.be/posts/demystifying-database-transactions)  
 - `2023-10-03` | [🐥 Combining virtual columns with indexes in Laravel Eloquent](https://www.yellowduck.be/posts/combining-virtual-columns-with-indexes-in-laravel-eloquent)  
-- `2023-10-03` | [🔗 Rust Vs Go: A Hands-On Comparison](https://www.yellowduck.be/posts/rust-vs-go-a-hands-on-comparison)  
 
 <!-- BLOG-POST-LIST:END -->
