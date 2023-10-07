@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-07` | [🔗 3 IRL use cases for Python and HTMX](https://www.yellowduck.be/posts/3-irl-use-cases-for-python-and-htmx)  
 - `2023-10-07` | [🔗 Python 3.12: Cool New Features for You to Try](https://www.yellowduck.be/posts/python-3-12-cool-new-features-for-you-to-try)  
 - `2023-10-07` | [🔗 My Preferred Go Stack](https://www.yellowduck.be/posts/my-preferred-go-stack)  
 - `2023-10-06` | [🐥 How to alias a method from a trait in PHP](https://www.yellowduck.be/posts/how-to-alias-a-method-from-a-trait-in-php)  
@@ -22,6 +23,5 @@
 - `2023-10-05` | [🐥 Streamlining AWS and Google SDKs in PHP with Composer](https://www.yellowduck.be/posts/streamlining-aws-and-google-sdks-in-php-with-composer)  
 - `2023-10-05` | [🔗 Database Migrations](https://www.yellowduck.be/posts/database-migrations)  
 - `2023-10-05` | [🔗 influxdb officially made the switch from Go =&gt; Rust](https://www.yellowduck.be/posts/influxdb-officially-made-the-switch-from-go-rust)  
-- `2023-10-05` | [🔗 A &lpar;more&rpar; Modern CSS Reset](https://www.yellowduck.be/posts/a-more-modern-css-reset)  
 
 <!-- BLOG-POST-LIST:END -->
