@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-07` | [🔗 My Preferred Go Stack](https://www.yellowduck.be/posts/my-preferred-go-stack)  
 - `2023-10-06` | [🐥 How to alias a method from a trait in PHP](https://www.yellowduck.be/posts/how-to-alias-a-method-from-a-trait-in-php)  
 - `2023-10-06` | [🔗 Mistral 7B in short](https://www.yellowduck.be/posts/mistral-7b-in-short)  
 - `2023-10-06` | [🔗 Understanding the CSS auto-resizing textarea trick](https://www.yellowduck.be/posts/understanding-the-css-auto-resizing-textarea-trick)  
@@ -22,6 +23,5 @@
 - `2023-10-05` | [🔗 influxdb officially made the switch from Go =&gt; Rust](https://www.yellowduck.be/posts/influxdb-officially-made-the-switch-from-go-rust)  
 - `2023-10-05` | [🔗 A &lpar;more&rpar; Modern CSS Reset](https://www.yellowduck.be/posts/a-more-modern-css-reset)  
 - `2023-10-04` | [🐥 Exploring Laravel middleware: terminable middleware](https://www.yellowduck.be/posts/exploring-laravel-middleware-post-response-actions)  
-- `2023-10-04` | [🔗 Tailing multiple Laravel logs with Envoy](https://www.yellowduck.be/posts/tailing-multiple-laravel-logs-with-envoy)  
 
 <!-- BLOG-POST-LIST:END -->
