@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-09` | [🔗 Containerized PDF Summarizer with FastAPI and Hamilton](https://www.yellowduck.be/posts/containerized-pdf-summarizer-with-fastapi-and-hamilton)  
 - `2023-10-08` | [🐥 The transform function in Laravel collections](https://www.yellowduck.be/posts/the-transform-function-in-laravel-collections)  
 - `2023-10-08` | [🔗 spacy-llm: 🦙 Integrating LLMs into structured NLP pipelines](https://www.yellowduck.be/posts/github-explosion-spacy-llm-integrating-llms-into-structured-nlp-pipelines)  
 - `2023-10-08` | [🔗 How Pinterest scaled to 11 million users with only 6 engineers](https://www.yellowduck.be/posts/how-pinterest-scaled-to-11-million-users-with-only-6-engineers)  
@@ -22,6 +23,5 @@
 - `2023-10-07` | [🔗 Python 3.12: Cool New Features for You to Try](https://www.yellowduck.be/posts/python-3-12-cool-new-features-for-you-to-try)  
 - `2023-10-07` | [🔗 My Preferred Go Stack](https://www.yellowduck.be/posts/my-preferred-go-stack)  
 - `2023-10-06` | [🐥 How to alias a method from a trait in PHP](https://www.yellowduck.be/posts/how-to-alias-a-method-from-a-trait-in-php)  
-- `2023-10-06` | [🔗 Mistral 7B in short](https://www.yellowduck.be/posts/mistral-7b-in-short)  
 
 <!-- BLOG-POST-LIST:END -->
