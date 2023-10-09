@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-09` | [🔗 Quick tip: A time-saving Makefile for your Go projects](https://www.yellowduck.be/posts/quick-tip-a-time-saving-makefile-for-your-go-projects)  
 - `2023-10-09` | [🔗 Generic &quot;must&quot; helper for Go](https://www.yellowduck.be/posts/generic-must-helper-for-go)  
 - `2023-10-09` | [🔗 Containerized PDF Summarizer with FastAPI and Hamilton](https://www.yellowduck.be/posts/containerized-pdf-summarizer-with-fastapi-and-hamilton)  
 - `2023-10-08` | [🐥 The transform function in Laravel collections](https://www.yellowduck.be/posts/the-transform-function-in-laravel-collections)  
@@ -22,6 +23,5 @@
 - `2023-10-07` | [🐥 Creating decorators using classes in Python](https://www.yellowduck.be/posts/creating-decorators-using-classes-in-python)  
 - `2023-10-07` | [🔗 3 IRL use cases for Python and HTMX](https://www.yellowduck.be/posts/3-irl-use-cases-for-python-and-htmx)  
 - `2023-10-07` | [🔗 Python 3.12: Cool New Features for You to Try](https://www.yellowduck.be/posts/python-3-12-cool-new-features-for-you-to-try)  
-- `2023-10-07` | [🔗 My Preferred Go Stack](https://www.yellowduck.be/posts/my-preferred-go-stack)  
 
 <!-- BLOG-POST-LIST:END -->
