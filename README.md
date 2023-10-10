@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-10` | [🔗 What is .NET, and why should you choose it?](https://www.yellowduck.be/posts/what-is-net-and-why-should-you-choose-it)  
 - `2023-10-09` | [🐥 Handling success and failure in scheduled jobs in Laravel](https://www.yellowduck.be/posts/handling-success-and-failure-in-scheduled-jobs-in-laravel)  
 - `2023-10-09` | [🔗 Quick tip: A time-saving Makefile for your Go projects](https://www.yellowduck.be/posts/quick-tip-a-time-saving-makefile-for-your-go-projects)  
 - `2023-10-09` | [🔗 Generic &quot;must&quot; helper for Go](https://www.yellowduck.be/posts/generic-must-helper-for-go)  
@@ -22,6 +23,5 @@
 - `2023-10-08` | [🔗 How Pinterest scaled to 11 million users with only 6 engineers](https://www.yellowduck.be/posts/how-pinterest-scaled-to-11-million-users-with-only-6-engineers)  
 - `2023-10-08` | [🔗 The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://www.yellowduck.be/posts/the-absolute-minimum-every-software-developer-must-know-about-unicode-in-2023)  
 - `2023-10-07` | [🐥 Creating decorators using classes in Python](https://www.yellowduck.be/posts/creating-decorators-using-classes-in-python)  
-- `2023-10-07` | [🔗 3 IRL use cases for Python and HTMX](https://www.yellowduck.be/posts/3-irl-use-cases-for-python-and-htmx)  
 
 <!-- BLOG-POST-LIST:END -->
