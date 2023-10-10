@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-10` | [🐥 Loading database query results into a Pandas DataFrame in Python](https://www.yellowduck.be/posts/loading-database-query-results-into-a-pandas-dataframe-in-python)  
+- `2023-10-10` | [🔗 ichtrojan/rabbit](https://www.yellowduck.be/posts/ichtrojan-rabbit)  
 - `2023-10-10` | [🔗 The convenience of .NET](https://www.yellowduck.be/posts/the-convenience-of-net)  
 - `2023-10-10` | [🔗 What is .NET, and why should you choose it?](https://www.yellowduck.be/posts/what-is-net-and-why-should-you-choose-it)  
 - `2023-10-09` | [🐥 Handling success and failure in scheduled jobs in Laravel](https://www.yellowduck.be/posts/handling-success-and-failure-in-scheduled-jobs-in-laravel)  
@@ -21,7 +23,5 @@
 - `2023-10-09` | [🔗 Containerized PDF Summarizer with FastAPI and Hamilton](https://www.yellowduck.be/posts/containerized-pdf-summarizer-with-fastapi-and-hamilton)  
 - `2023-10-08` | [🐥 The transform function in Laravel collections](https://www.yellowduck.be/posts/the-transform-function-in-laravel-collections)  
 - `2023-10-08` | [🔗 spacy-llm: 🦙 Integrating LLMs into structured NLP pipelines](https://www.yellowduck.be/posts/github-explosion-spacy-llm-integrating-llms-into-structured-nlp-pipelines)  
-- `2023-10-08` | [🔗 How Pinterest scaled to 11 million users with only 6 engineers](https://www.yellowduck.be/posts/how-pinterest-scaled-to-11-million-users-with-only-6-engineers)  
-- `2023-10-08` | [🔗 The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://www.yellowduck.be/posts/the-absolute-minimum-every-software-developer-must-know-about-unicode-in-2023)  
 
 <!-- BLOG-POST-LIST:END -->
