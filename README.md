@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-11` | [🔗 The Curse of Dialup World](https://www.yellowduck.be/posts/the-curse-of-dialup-world)  
 - `2023-10-10` | [🐥 Loading database query results into a Pandas DataFrame in Python](https://www.yellowduck.be/posts/loading-database-query-results-into-a-pandas-dataframe-in-python)  
 - `2023-10-10` | [🔗 ichtrojan/rabbit](https://www.yellowduck.be/posts/ichtrojan-rabbit)  
 - `2023-10-10` | [🔗 The convenience of .NET](https://www.yellowduck.be/posts/the-convenience-of-net)  
@@ -22,6 +23,5 @@
 - `2023-10-09` | [🔗 Generic &quot;must&quot; helper for Go](https://www.yellowduck.be/posts/generic-must-helper-for-go)  
 - `2023-10-09` | [🔗 Containerized PDF Summarizer with FastAPI and Hamilton](https://www.yellowduck.be/posts/containerized-pdf-summarizer-with-fastapi-and-hamilton)  
 - `2023-10-08` | [🐥 The transform function in Laravel collections](https://www.yellowduck.be/posts/the-transform-function-in-laravel-collections)  
-- `2023-10-08` | [🔗 spacy-llm: 🦙 Integrating LLMs into structured NLP pipelines](https://www.yellowduck.be/posts/github-explosion-spacy-llm-integrating-llms-into-structured-nlp-pipelines)  
 
 <!-- BLOG-POST-LIST:END -->
