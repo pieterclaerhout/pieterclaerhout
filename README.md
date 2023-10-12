@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-12` | [🔗 Jo: JSON output from a shell](https://www.yellowduck.be/posts/jo-json-output-from-a-shell)  
 - `2023-10-12` | [🔗 S3 Is Not a Backup](https://www.yellowduck.be/posts/s3-is-not-a-backup)  
 - `2023-10-11` | [🐥 Expecting the Unexpected in Software Development](https://www.yellowduck.be/posts/expecting-the-unexpected-in-software-development)  
 - `2023-10-11` | [🔗 Announcing TypeScript 5.3 Beta](https://www.yellowduck.be/posts/announcing-typescript-5-3-beta-typescript)  
@@ -22,6 +23,5 @@
 - `2023-10-10` | [🔗 ichtrojan/rabbit](https://www.yellowduck.be/posts/ichtrojan-rabbit)  
 - `2023-10-10` | [🔗 The convenience of .NET](https://www.yellowduck.be/posts/the-convenience-of-net)  
 - `2023-10-10` | [🔗 What is .NET, and why should you choose it?](https://www.yellowduck.be/posts/what-is-net-and-why-should-you-choose-it)  
-- `2023-10-09` | [🐥 Handling success and failure in scheduled jobs in Laravel](https://www.yellowduck.be/posts/handling-success-and-failure-in-scheduled-jobs-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
