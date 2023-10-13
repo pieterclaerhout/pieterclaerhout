@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-13` | [🔗 End-to-End Machine Learning in Elixir](https://www.yellowduck.be/posts/end-to-end-machine-learning-in-elixir)  
 - `2023-10-13` | [🔗 I&#39;ve vastly misunderstood the Single Responsibility Principle](https://www.yellowduck.be/posts/ive-vastly-misunderstood-the-single-responsibility-principle)  
 - `2023-10-12` | [🐥 Using the JavaScript every and some array methods](https://www.yellowduck.be/posts/using-the-javascript-every-and-some-array-methods)  
 - `2023-10-12` | [🔗 Changelog neural search](https://www.yellowduck.be/posts/changelog-neural-search)  
@@ -22,6 +23,5 @@
 - `2023-10-11` | [🔗 Announcing TypeScript 5.3 Beta](https://www.yellowduck.be/posts/announcing-typescript-5-3-beta-typescript)  
 - `2023-10-11` | [🔗 Python 3.12: what didnt make the headlines](https://www.yellowduck.be/posts/python-3-12-what-didnt-make-the-headlines)  
 - `2023-10-11` | [🔗 The Curse of Dialup World](https://www.yellowduck.be/posts/the-curse-of-dialup-world)  
-- `2023-10-10` | [🐥 Loading database query results into a Pandas DataFrame in Python](https://www.yellowduck.be/posts/loading-database-query-results-into-a-pandas-dataframe-in-python)  
 
 <!-- BLOG-POST-LIST:END -->
