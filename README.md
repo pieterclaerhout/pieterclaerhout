@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-13` | [🐥 Using the modelKeys function in Laravel](https://www.yellowduck.be/posts/using-the-modelkeys-function-in-laravel)  
 - `2023-10-13` | [🔗 How Healthy Engineering Teams Invest Their Time](https://www.yellowduck.be/posts/how-healthy-engineering-teams-invest-their-time)  
 - `2023-10-13` | [🔗 End-to-End Machine Learning in Elixir](https://www.yellowduck.be/posts/end-to-end-machine-learning-in-elixir)  
 - `2023-10-13` | [🔗 I&#39;ve vastly misunderstood the Single Responsibility Principle](https://www.yellowduck.be/posts/ive-vastly-misunderstood-the-single-responsibility-principle)  
@@ -22,6 +23,5 @@
 - `2023-10-12` | [🔗 S3 Is Not a Backup](https://www.yellowduck.be/posts/s3-is-not-a-backup)  
 - `2023-10-11` | [🐥 Expecting the Unexpected in Software Development](https://www.yellowduck.be/posts/expecting-the-unexpected-in-software-development)  
 - `2023-10-11` | [🔗 Announcing TypeScript 5.3 Beta](https://www.yellowduck.be/posts/announcing-typescript-5-3-beta-typescript)  
-- `2023-10-11` | [🔗 Python 3.12: what didnt make the headlines](https://www.yellowduck.be/posts/python-3-12-what-didnt-make-the-headlines)  
 
 <!-- BLOG-POST-LIST:END -->
