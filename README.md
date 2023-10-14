@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-14` | [🔗 5 Must Read Books to become Software Architect or Solution Architect](https://www.yellowduck.be/posts/5-must-read-books-to-become-software-architect-or-solution-architect)  
 - `2023-10-14` | [🔗 &#39;Talk&#39; to your SQL database using LangChain and Azure OpenAI](https://www.yellowduck.be/posts/talk-to-your-sql-database-using-langchain-and-azure-openai)  
 - `2023-10-14` | [🔗 Strong static typing, a hill I&#39;m willing to die on…](https://www.yellowduck.be/posts/strong-static-typing-a-hill-im-willing-to-die-on)  
 - `2023-10-13` | [🐥 Using the modelKeys function in Laravel](https://www.yellowduck.be/posts/using-the-modelkeys-function-in-laravel)  
@@ -22,6 +23,5 @@
 - `2023-10-12` | [🐥 Using the JavaScript every and some array methods](https://www.yellowduck.be/posts/using-the-javascript-every-and-some-array-methods)  
 - `2023-10-12` | [🔗 Changelog neural search](https://www.yellowduck.be/posts/changelog-neural-search)  
 - `2023-10-12` | [🔗 Jo: JSON output from a shell](https://www.yellowduck.be/posts/jo-json-output-from-a-shell)  
-- `2023-10-12` | [🔗 S3 Is Not a Backup](https://www.yellowduck.be/posts/s3-is-not-a-backup)  
 
 <!-- BLOG-POST-LIST:END -->
