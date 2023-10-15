@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-15` | [🔗 Prioritization theatre is an anti-pattern](https://www.yellowduck.be/posts/prioritization-theatre-is-an-anti-pattern)  
 - `2023-10-14` | [🐥 Pruning models using Laravel Eloquent](https://www.yellowduck.be/posts/pruning-models-using-laravel-eloquent)  
 - `2023-10-14` | [🔗 5 Must Read Books to become Software Architect or Solution Architect](https://www.yellowduck.be/posts/5-must-read-books-to-become-software-architect-or-solution-architect)  
 - `2023-10-14` | [🔗 &#39;Talk&#39; to your SQL database using LangChain and Azure OpenAI](https://www.yellowduck.be/posts/talk-to-your-sql-database-using-langchain-and-azure-openai)  
@@ -22,6 +23,5 @@
 - `2023-10-13` | [🔗 End-to-End Machine Learning in Elixir](https://www.yellowduck.be/posts/end-to-end-machine-learning-in-elixir)  
 - `2023-10-13` | [🔗 I&#39;ve vastly misunderstood the Single Responsibility Principle](https://www.yellowduck.be/posts/ive-vastly-misunderstood-the-single-responsibility-principle)  
 - `2023-10-12` | [🐥 Using the JavaScript every and some array methods](https://www.yellowduck.be/posts/using-the-javascript-every-and-some-array-methods)  
-- `2023-10-12` | [🔗 Changelog neural search](https://www.yellowduck.be/posts/changelog-neural-search)  
 
 <!-- BLOG-POST-LIST:END -->
