@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-16` | [🔗 Forty years of programming](https://www.yellowduck.be/posts/forty-years-of-programming)  
 - `2023-10-16` | [🔗 One unfamiliar but effective way of implementing filters in Eloquent](https://www.yellowduck.be/posts/one-unfamiliar-but-effective-way-of-implementing-filters-in-eloquent)  
 - `2023-10-16` | [🔗 5 best practices for preventing chaos in Tailwind](https://www.yellowduck.be/posts/5-best-practices-for-preventing-chaos-in-tailwind-css)  
 - `2023-10-15` | [🐥 Do not load belongsTo relationship if you just need its ID](https://www.yellowduck.be/posts/do-not-load-belongsto-relationship-if-you-just-need-its-id)  
@@ -22,6 +23,5 @@
 - `2023-10-14` | [🐥 Pruning models using Laravel Eloquent](https://www.yellowduck.be/posts/pruning-models-using-laravel-eloquent)  
 - `2023-10-14` | [🔗 5 Must Read Books to become Software Architect or Solution Architect](https://www.yellowduck.be/posts/5-must-read-books-to-become-software-architect-or-solution-architect)  
 - `2023-10-14` | [🔗 &#39;Talk&#39; to your SQL database using LangChain and Azure OpenAI](https://www.yellowduck.be/posts/talk-to-your-sql-database-using-langchain-and-azure-openai)  
-- `2023-10-14` | [🔗 Strong static typing, a hill I&#39;m willing to die on…](https://www.yellowduck.be/posts/strong-static-typing-a-hill-im-willing-to-die-on)  
 
 <!-- BLOG-POST-LIST:END -->
