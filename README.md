@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-16` | [🔗 5 best practices for preventing chaos in Tailwind](https://www.yellowduck.be/posts/5-best-practices-for-preventing-chaos-in-tailwind-css)  
 - `2023-10-15` | [🐥 Do not load belongsTo relationship if you just need its ID](https://www.yellowduck.be/posts/do-not-load-belongsto-relationship-if-you-just-need-its-id)  
 - `2023-10-15` | [🔗 Ref vs Reactive in VueJS](https://www.yellowduck.be/posts/ref-vs-reactive-in-vuejs)  
 - `2023-10-15` | [🔗 Adding Icons for Go-built Windows executable](https://www.yellowduck.be/posts/adding-icons-for-go-built-windows-executable)  
@@ -22,6 +23,5 @@
 - `2023-10-14` | [🔗 &#39;Talk&#39; to your SQL database using LangChain and Azure OpenAI](https://www.yellowduck.be/posts/talk-to-your-sql-database-using-langchain-and-azure-openai)  
 - `2023-10-14` | [🔗 Strong static typing, a hill I&#39;m willing to die on…](https://www.yellowduck.be/posts/strong-static-typing-a-hill-im-willing-to-die-on)  
 - `2023-10-13` | [🐥 Using the modelKeys function in Laravel](https://www.yellowduck.be/posts/using-the-modelkeys-function-in-laravel)  
-- `2023-10-13` | [🔗 How Healthy Engineering Teams Invest Their Time](https://www.yellowduck.be/posts/how-healthy-engineering-teams-invest-their-time)  
 
 <!-- BLOG-POST-LIST:END -->
