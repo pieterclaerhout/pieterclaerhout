@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-19` | [🔗 Go database driver overhead on insert-heavy workloads](https://www.yellowduck.be/posts/go-database-driver-overhead-on-insert-heavy-workloads)  
 - `2023-10-18` | [🐥 Use simplePaginate instead of paginate in Laravel Eloquent](https://www.yellowduck.be/posts/use-simplepaginate-instead-of-paginate-in-laravel-eloquent)  
 - `2023-10-18` | [🔗 External Workers: The Unsung Heroes 👑](https://www.yellowduck.be/posts/external-workers-the-unsung-heroes)  
 - `2023-10-18` | [🔗 Moravec&#39;s Paradox](https://www.yellowduck.be/posts/moravecs-paradox)  
@@ -22,6 +23,5 @@
 - `2023-10-16` | [🔗 One unfamiliar but effective way of implementing filters in Eloquent](https://www.yellowduck.be/posts/one-unfamiliar-but-effective-way-of-implementing-filters-in-eloquent)  
 - `2023-10-16` | [🔗 5 best practices for preventing chaos in Tailwind](https://www.yellowduck.be/posts/5-best-practices-for-preventing-chaos-in-tailwind-css)  
 - `2023-10-15` | [🐥 Do not load belongsTo relationship if you just need its ID](https://www.yellowduck.be/posts/do-not-load-belongsto-relationship-if-you-just-need-its-id)  
-- `2023-10-15` | [🔗 Ref vs Reactive in VueJS](https://www.yellowduck.be/posts/ref-vs-reactive-in-vuejs)  
 
 <!-- BLOG-POST-LIST:END -->
