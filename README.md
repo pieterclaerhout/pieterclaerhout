@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-20` | [🔗 Simple tables with CSS grid layout](https://www.yellowduck.be/posts/simple-tables-with-css-grid-layout)  
 - `2023-10-20` | [🔗 Quick Testing Tips: Self-Contained Tests](https://www.yellowduck.be/posts/quick-testing-tips-self-contained-tests)  
 - `2023-10-19` | [🐥 Increments and decrements in Laravel Eloquent](https://www.yellowduck.be/posts/increments-and-decrements-in-laravel-eloquent)  
 - `2023-10-19` | [🔗 Asserting validation errors in Laravel tests](https://www.yellowduck.be/posts/asserting-validation-errors-in-laravel-tests)  
@@ -22,6 +23,5 @@
 - `2023-10-18` | [🔗 External Workers: The Unsung Heroes 👑](https://www.yellowduck.be/posts/external-workers-the-unsung-heroes)  
 - `2023-10-18` | [🔗 Moravec&#39;s Paradox](https://www.yellowduck.be/posts/moravecs-paradox)  
 - `2023-10-18` | [🔗 Picking a vector database: a comparison and guide for 2023](https://www.yellowduck.be/posts/picking-a-vector-database-a-comparison-and-guide-for-2023)  
-- `2023-10-17` | [🐥 Merge similar queries together with Laravel Eloquent](https://www.yellowduck.be/posts/merge-similar-queries-together-with-laravel-eloquent)  
 
 <!-- BLOG-POST-LIST:END -->
