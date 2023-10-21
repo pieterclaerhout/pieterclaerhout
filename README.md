@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-21` | [🔗 OhMyZSH zsh_stats command](https://www.yellowduck.be/posts/ohmyzsh-zsh_stats-command)  
 - `2023-10-21` | [🔗 The screen utility in Ubuntu](https://www.yellowduck.be/posts/the-screen-utility-in-ubuntu)  
 - `2023-10-21` | [🔗 HTML translate attribute](https://www.yellowduck.be/posts/html-translate-attribute)  
 - `2023-10-20` | [🐥 Stop all inbuilt dispatch events for an Eloquent model](https://www.yellowduck.be/posts/stop-all-inbuilt-dispatch-events-for-an-eloquent-model)  
@@ -22,6 +23,5 @@
 - `2023-10-19` | [🐥 Increments and decrements in Laravel Eloquent](https://www.yellowduck.be/posts/increments-and-decrements-in-laravel-eloquent)  
 - `2023-10-19` | [🔗 Asserting validation errors in Laravel tests](https://www.yellowduck.be/posts/asserting-validation-errors-in-laravel-tests)  
 - `2023-10-19` | [🔗 dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more](https://www.yellowduck.be/posts/dsq-commandline-tool-for-running-sql-queries-against-json-csv-excel-parquet-and-more)  
-- `2023-10-19` | [🔗 Go database driver overhead on insert-heavy workloads](https://www.yellowduck.be/posts/go-database-driver-overhead-on-insert-heavy-workloads)  
 
 <!-- BLOG-POST-LIST:END -->
