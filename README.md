@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-21` | [🔗 HTML translate attribute](https://www.yellowduck.be/posts/html-translate-attribute)  
 - `2023-10-20` | [🐥 Stop all inbuilt dispatch events for an Eloquent model](https://www.yellowduck.be/posts/stop-all-inbuilt-dispatch-events-for-an-eloquent-model)  
 - `2023-10-20` | [🔗 Sibling Selectors in TailwindCSS](https://www.yellowduck.be/posts/sibling-selectors-in-tailwindcss)  
 - `2023-10-20` | [🔗 Simple tables with CSS grid layout](https://www.yellowduck.be/posts/simple-tables-with-css-grid-layout)  
@@ -22,6 +23,5 @@
 - `2023-10-19` | [🔗 dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more](https://www.yellowduck.be/posts/dsq-commandline-tool-for-running-sql-queries-against-json-csv-excel-parquet-and-more)  
 - `2023-10-19` | [🔗 Go database driver overhead on insert-heavy workloads](https://www.yellowduck.be/posts/go-database-driver-overhead-on-insert-heavy-workloads)  
 - `2023-10-18` | [🐥 Use simplePaginate instead of paginate in Laravel Eloquent](https://www.yellowduck.be/posts/use-simplepaginate-instead-of-paginate-in-laravel-eloquent)  
-- `2023-10-18` | [🔗 External Workers: The Unsung Heroes 👑](https://www.yellowduck.be/posts/external-workers-the-unsung-heroes)  
 
 <!-- BLOG-POST-LIST:END -->
