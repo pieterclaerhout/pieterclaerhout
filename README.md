@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-22` | [🔗 What&#39;s in a domain name?](https://www.yellowduck.be/posts/whats-in-a-domain-name)  
 - `2023-10-21` | [🐥 Using allRelatedIds in Laravel Eloquent](https://www.yellowduck.be/posts/using-allrelatedids-in-laravel-eloquent)  
 - `2023-10-21` | [🔗 OhMyZSH zsh_stats command](https://www.yellowduck.be/posts/ohmyzsh-zsh_stats-command)  
 - `2023-10-21` | [🔗 The screen utility in Ubuntu](https://www.yellowduck.be/posts/the-screen-utility-in-ubuntu)  
@@ -22,6 +23,5 @@
 - `2023-10-20` | [🔗 Simple tables with CSS grid layout](https://www.yellowduck.be/posts/simple-tables-with-css-grid-layout)  
 - `2023-10-20` | [🔗 Quick Testing Tips: Self-Contained Tests](https://www.yellowduck.be/posts/quick-testing-tips-self-contained-tests)  
 - `2023-10-19` | [🐥 Increments and decrements in Laravel Eloquent](https://www.yellowduck.be/posts/increments-and-decrements-in-laravel-eloquent)  
-- `2023-10-19` | [🔗 Asserting validation errors in Laravel tests](https://www.yellowduck.be/posts/asserting-validation-errors-in-laravel-tests)  
 
 <!-- BLOG-POST-LIST:END -->
