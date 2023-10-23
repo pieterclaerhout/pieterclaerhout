@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-23` | [🔗 My PhpStorm configuration for Laravel and Vue](https://www.yellowduck.be/posts/my-phpstorm-configuration-for-laravel-and-vue)  
 - `2023-10-22` | [🐥 Delete a job when models are missing in Laravel](https://www.yellowduck.be/posts/delete-a-job-when-models-are-missing-in-laravel)  
 - `2023-10-22` | [🔗 Don&#39;t let QA be a bottleneck](https://www.yellowduck.be/posts/dont-let-qa-be-a-bottleneck)  
 - `2023-10-22` | [🔗 Setting Up Vanity Subdomains for Your SaaS Using Next.js and Caddy](https://www.yellowduck.be/posts/setting-up-vanity-subdomains-for-your-saas-using-next-js-and-caddy-logsnag)  
@@ -22,6 +23,5 @@
 - `2023-10-21` | [🔗 The screen utility in Ubuntu](https://www.yellowduck.be/posts/the-screen-utility-in-ubuntu)  
 - `2023-10-21` | [🔗 HTML translate attribute](https://www.yellowduck.be/posts/html-translate-attribute)  
 - `2023-10-20` | [🐥 Stop all inbuilt dispatch events for an Eloquent model](https://www.yellowduck.be/posts/stop-all-inbuilt-dispatch-events-for-an-eloquent-model)  
-- `2023-10-20` | [🔗 Sibling Selectors in TailwindCSS](https://www.yellowduck.be/posts/sibling-selectors-in-tailwindcss)  
 
 <!-- BLOG-POST-LIST:END -->
