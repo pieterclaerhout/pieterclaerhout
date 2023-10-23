@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-23` | [🔗 Better HTTP server routing in Go 1.22](https://www.yellowduck.be/posts/better-http-server-routing-in-go-1-22)  
 - `2023-10-23` | [🔗 On the Importance of Naming in Programming](https://www.yellowduck.be/posts/on-the-importance-of-naming-in-programming)  
 - `2023-10-23` | [🔗 My PhpStorm configuration for Laravel and Vue](https://www.yellowduck.be/posts/my-phpstorm-configuration-for-laravel-and-vue)  
 - `2023-10-22` | [🐥 Delete a job when models are missing in Laravel](https://www.yellowduck.be/posts/delete-a-job-when-models-are-missing-in-laravel)  
@@ -22,6 +23,5 @@
 - `2023-10-21` | [🐥 Using allRelatedIds in Laravel Eloquent](https://www.yellowduck.be/posts/using-allrelatedids-in-laravel-eloquent)  
 - `2023-10-21` | [🔗 OhMyZSH zsh_stats command](https://www.yellowduck.be/posts/ohmyzsh-zsh_stats-command)  
 - `2023-10-21` | [🔗 The screen utility in Ubuntu](https://www.yellowduck.be/posts/the-screen-utility-in-ubuntu)  
-- `2023-10-21` | [🔗 HTML translate attribute](https://www.yellowduck.be/posts/html-translate-attribute)  
 
 <!-- BLOG-POST-LIST:END -->
