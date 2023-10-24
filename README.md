@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-24` | [🔗 Engineering team lessons from cycling](https://www.yellowduck.be/posts/engineering-team-lessons-from-cycling)  
 - `2023-10-24` | [🔗 A &quot;Tinier&quot; APISIX Plugin](https://www.yellowduck.be/posts/a-tinier-apisix-plugin)  
 - `2023-10-23` | [🐥 Using freshTimestamp on an Eloquent model](https://www.yellowduck.be/posts/using-freshtimestamp-on-an-eloquent-model)  
 - `2023-10-23` | [🔗 Better HTTP server routing in Go 1.22](https://www.yellowduck.be/posts/better-http-server-routing-in-go-1-22)  
@@ -22,6 +23,5 @@
 - `2023-10-22` | [🔗 Don&#39;t let QA be a bottleneck](https://www.yellowduck.be/posts/dont-let-qa-be-a-bottleneck)  
 - `2023-10-22` | [🔗 Setting Up Vanity Subdomains for Your SaaS Using Next.js and Caddy](https://www.yellowduck.be/posts/setting-up-vanity-subdomains-for-your-saas-using-next-js-and-caddy-logsnag)  
 - `2023-10-22` | [🔗 What&#39;s in a domain name?](https://www.yellowduck.be/posts/whats-in-a-domain-name)  
-- `2023-10-21` | [🐥 Using allRelatedIds in Laravel Eloquent](https://www.yellowduck.be/posts/using-allrelatedids-in-laravel-eloquent)  
 
 <!-- BLOG-POST-LIST:END -->
