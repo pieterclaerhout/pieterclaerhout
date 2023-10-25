@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-25` | [🐥 Route &quot;Missing&quot; method in Laravel](https://www.yellowduck.be/posts/route-missing-method-in-laravel)  
 - `2023-10-25` | [🔗 My horrible career](https://www.yellowduck.be/posts/my-horrible-career)  
 - `2023-10-25` | [🔗 A formula for prioritising feature requests](https://www.yellowduck.be/posts/a-formula-for-prioritising-feature-requests)  
 - `2023-10-25` | [🔗 Let&#39;s design a new form element](https://www.yellowduck.be/posts/lets-design-a-new-form-element)  
@@ -22,6 +23,5 @@
 - `2023-10-24` | [🔗 A &quot;Tinier&quot; APISIX Plugin](https://www.yellowduck.be/posts/a-tinier-apisix-plugin)  
 - `2023-10-23` | [🐥 Using freshTimestamp on an Eloquent model](https://www.yellowduck.be/posts/using-freshtimestamp-on-an-eloquent-model)  
 - `2023-10-23` | [🔗 Better HTTP server routing in Go 1.22](https://www.yellowduck.be/posts/better-http-server-routing-in-go-1-22)  
-- `2023-10-23` | [🔗 On the Importance of Naming in Programming](https://www.yellowduck.be/posts/on-the-importance-of-naming-in-programming)  
 
 <!-- BLOG-POST-LIST:END -->
