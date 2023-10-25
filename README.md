@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-25` | [🔗 A formula for prioritising feature requests](https://www.yellowduck.be/posts/a-formula-for-prioritising-feature-requests)  
 - `2023-10-25` | [🔗 Let&#39;s design a new form element](https://www.yellowduck.be/posts/lets-design-a-new-form-element)  
 - `2023-10-24` | [🐥 Custom collections for Eloquent models](https://www.yellowduck.be/posts/custom-collections-for-eloquent-models)  
 - `2023-10-24` | [🔗 Redis Pub/Sub under the hood](https://www.yellowduck.be/posts/redis-pub-sub-under-the-hood)  
@@ -22,6 +23,5 @@
 - `2023-10-23` | [🔗 Better HTTP server routing in Go 1.22](https://www.yellowduck.be/posts/better-http-server-routing-in-go-1-22)  
 - `2023-10-23` | [🔗 On the Importance of Naming in Programming](https://www.yellowduck.be/posts/on-the-importance-of-naming-in-programming)  
 - `2023-10-23` | [🔗 My PhpStorm configuration for Laravel and Vue](https://www.yellowduck.be/posts/my-phpstorm-configuration-for-laravel-and-vue)  
-- `2023-10-22` | [🐥 Delete a job when models are missing in Laravel](https://www.yellowduck.be/posts/delete-a-job-when-models-are-missing-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
