@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-26` | [🐥 How to copy or move records from one table to another with Eloquent](https://www.yellowduck.be/posts/how-to-copy-or-move-records-from-one-table-to-another-with-eloquent)  
 - `2023-10-26` | [🔗 6 guaranteed ways to build trust quickly as a mentor](https://www.yellowduck.be/posts/6-guaranteed-ways-to-build-trust-quickly-as-a-mentor)  
 - `2023-10-26` | [🔗 How to be a Good Codemate](https://www.yellowduck.be/posts/how-to-be-a-good-codemate)  
 - `2023-10-26` | [🔗 Exclusive-OpenAI plans major updates to lure developers with lower costs -sources](https://www.yellowduck.be/posts/exclusive-openai-plans-major-updates-to-lure-developers-with-lower-costs-sources)  
@@ -22,6 +23,5 @@
 - `2023-10-25` | [🔗 Let&#39;s design a new form element](https://www.yellowduck.be/posts/lets-design-a-new-form-element)  
 - `2023-10-24` | [🐥 Custom collections for Eloquent models](https://www.yellowduck.be/posts/custom-collections-for-eloquent-models)  
 - `2023-10-24` | [🔗 Redis Pub/Sub under the hood](https://www.yellowduck.be/posts/redis-pub-sub-under-the-hood)  
-- `2023-10-24` | [🔗 Engineering team lessons from cycling](https://www.yellowduck.be/posts/engineering-team-lessons-from-cycling)  
 
 <!-- BLOG-POST-LIST:END -->
