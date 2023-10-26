@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-26` | [🔗 How to be a Good Codemate](https://www.yellowduck.be/posts/how-to-be-a-good-codemate)  
 - `2023-10-26` | [🔗 Exclusive-OpenAI plans major updates to lure developers with lower costs -sources](https://www.yellowduck.be/posts/exclusive-openai-plans-major-updates-to-lure-developers-with-lower-costs-sources)  
 - `2023-10-25` | [🐥 Route &quot;Missing&quot; method in Laravel](https://www.yellowduck.be/posts/route-missing-method-in-laravel)  
 - `2023-10-25` | [🔗 My horrible career](https://www.yellowduck.be/posts/my-horrible-career)  
@@ -22,6 +23,5 @@
 - `2023-10-24` | [🔗 Redis Pub/Sub under the hood](https://www.yellowduck.be/posts/redis-pub-sub-under-the-hood)  
 - `2023-10-24` | [🔗 Engineering team lessons from cycling](https://www.yellowduck.be/posts/engineering-team-lessons-from-cycling)  
 - `2023-10-24` | [🔗 A &quot;Tinier&quot; APISIX Plugin](https://www.yellowduck.be/posts/a-tinier-apisix-plugin)  
-- `2023-10-23` | [🐥 Using freshTimestamp on an Eloquent model](https://www.yellowduck.be/posts/using-freshtimestamp-on-an-eloquent-model)  
 
 <!-- BLOG-POST-LIST:END -->
