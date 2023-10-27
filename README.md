@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-27` | [🔗 Things I wish someone would have told me about configuring VSCode](https://www.yellowduck.be/posts/things-i-wish-someone-would-have-told-me-about-configuring-vscode)  
 - `2023-10-26` | [🐥 How to copy or move records from one table to another with Eloquent](https://www.yellowduck.be/posts/how-to-copy-or-move-records-from-one-table-to-another-with-eloquent)  
 - `2023-10-26` | [🔗 6 guaranteed ways to build trust quickly as a mentor](https://www.yellowduck.be/posts/6-guaranteed-ways-to-build-trust-quickly-as-a-mentor)  
 - `2023-10-26` | [🔗 How to be a Good Codemate](https://www.yellowduck.be/posts/how-to-be-a-good-codemate)  
@@ -22,6 +23,5 @@
 - `2023-10-25` | [🔗 A formula for prioritising feature requests](https://www.yellowduck.be/posts/a-formula-for-prioritising-feature-requests)  
 - `2023-10-25` | [🔗 Let&#39;s design a new form element](https://www.yellowduck.be/posts/lets-design-a-new-form-element)  
 - `2023-10-24` | [🐥 Custom collections for Eloquent models](https://www.yellowduck.be/posts/custom-collections-for-eloquent-models)  
-- `2023-10-24` | [🔗 Redis Pub/Sub under the hood](https://www.yellowduck.be/posts/redis-pub-sub-under-the-hood)  
 
 <!-- BLOG-POST-LIST:END -->
