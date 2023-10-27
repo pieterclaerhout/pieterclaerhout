@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-27` | [🔗 Scrollbars are becoming a problem](https://www.yellowduck.be/posts/scrollbars-are-becoming-a-problem)  
 - `2023-10-27` | [🔗 How Code Coverage can be useful](https://www.yellowduck.be/posts/how-code-coverage-can-be-useful)  
 - `2023-10-27` | [🔗 Things I wish someone would have told me about configuring VSCode](https://www.yellowduck.be/posts/things-i-wish-someone-would-have-told-me-about-configuring-vscode)  
 - `2023-10-26` | [🐥 How to copy or move records from one table to another with Eloquent](https://www.yellowduck.be/posts/how-to-copy-or-move-records-from-one-table-to-another-with-eloquent)  
@@ -22,6 +23,5 @@
 - `2023-10-25` | [🐥 Route &quot;Missing&quot; method in Laravel](https://www.yellowduck.be/posts/route-missing-method-in-laravel)  
 - `2023-10-25` | [🔗 My horrible career](https://www.yellowduck.be/posts/my-horrible-career)  
 - `2023-10-25` | [🔗 A formula for prioritising feature requests](https://www.yellowduck.be/posts/a-formula-for-prioritising-feature-requests)  
-- `2023-10-25` | [🔗 Let&#39;s design a new form element](https://www.yellowduck.be/posts/lets-design-a-new-form-element)  
 
 <!-- BLOG-POST-LIST:END -->
