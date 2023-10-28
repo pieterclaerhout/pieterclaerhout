@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-28` | [🔗 PHPStorm tips for power users](https://www.yellowduck.be/posts/phpstorm-tips-for-power-users)  
 - `2023-10-27` | [🐥 Catching CTRL+C in a Laravel console command](https://www.yellowduck.be/posts/catching-ctrl-c-in-a-laravel-console-command)  
 - `2023-10-27` | [🔗 Scrollbars are becoming a problem](https://www.yellowduck.be/posts/scrollbars-are-becoming-a-problem)  
 - `2023-10-27` | [🔗 How Code Coverage can be useful](https://www.yellowduck.be/posts/how-code-coverage-can-be-useful)  
@@ -22,6 +23,5 @@
 - `2023-10-26` | [🔗 How to be a Good Codemate](https://www.yellowduck.be/posts/how-to-be-a-good-codemate)  
 - `2023-10-26` | [🔗 Exclusive-OpenAI plans major updates to lure developers with lower costs -sources](https://www.yellowduck.be/posts/exclusive-openai-plans-major-updates-to-lure-developers-with-lower-costs-sources)  
 - `2023-10-25` | [🐥 Route &quot;Missing&quot; method in Laravel](https://www.yellowduck.be/posts/route-missing-method-in-laravel)  
-- `2023-10-25` | [🔗 My horrible career](https://www.yellowduck.be/posts/my-horrible-career)  
 
 <!-- BLOG-POST-LIST:END -->
