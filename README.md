@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-29` | [🔗 No one actually wants simplicity](https://www.yellowduck.be/posts/no-one-actually-wants-simplicity)  
 - `2023-10-29` | [🔗 How to Mix Junior and Senior Engineers on a Team](https://www.yellowduck.be/posts/how-to-mix-junior-and-senior-engineers-on-a-team)  
 - `2023-10-28` | [🐥 Exit codes for a Laravel console commands](https://www.yellowduck.be/posts/exit-codes-for-a-laravel-console-commands)  
 - `2023-10-28` | [🔗 A student asked how I keep us innovative. I don&#39;t.](https://www.yellowduck.be/posts/a-student-asked-how-i-keep-us-innovative-i-dont)  
@@ -22,6 +23,5 @@
 - `2023-10-27` | [🔗 Scrollbars are becoming a problem](https://www.yellowduck.be/posts/scrollbars-are-becoming-a-problem)  
 - `2023-10-27` | [🔗 How Code Coverage can be useful](https://www.yellowduck.be/posts/how-code-coverage-can-be-useful)  
 - `2023-10-27` | [🔗 Things I wish someone would have told me about configuring VSCode](https://www.yellowduck.be/posts/things-i-wish-someone-would-have-told-me-about-configuring-vscode)  
-- `2023-10-26` | [🐥 How to copy or move records from one table to another with Eloquent](https://www.yellowduck.be/posts/how-to-copy-or-move-records-from-one-table-to-another-with-eloquent)  
 
 <!-- BLOG-POST-LIST:END -->
