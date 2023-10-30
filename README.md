@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-30` | [🔗 Organizing multiple Git identities](https://www.yellowduck.be/posts/organizing-multiple-git-identities)  
 - `2023-10-29` | [🐥 How to check your exact Laravel version](https://www.yellowduck.be/posts/how-to-check-your-exact-laravel-version)  
 - `2023-10-29` | [🔗 Using PHP CS Fixer in PhpStorm](https://www.yellowduck.be/posts/using-php-cs-fixer-in-phpstorm)  
 - `2023-10-29` | [🔗 No one actually wants simplicity](https://www.yellowduck.be/posts/no-one-actually-wants-simplicity)  
@@ -22,6 +23,5 @@
 - `2023-10-28` | [🔗 Golang to WASM: Basic Setup and Handling HTTP Requests](https://www.yellowduck.be/posts/golang-to-wasm-basic-setup-and-handling-http-requests)  
 - `2023-10-28` | [🔗 PHPStorm tips for power users](https://www.yellowduck.be/posts/phpstorm-tips-for-power-users)  
 - `2023-10-27` | [🐥 Catching CTRL+C in a Laravel console command](https://www.yellowduck.be/posts/catching-ctrl-c-in-a-laravel-console-command)  
-- `2023-10-27` | [🔗 Scrollbars are becoming a problem](https://www.yellowduck.be/posts/scrollbars-are-becoming-a-problem)  
 
 <!-- BLOG-POST-LIST:END -->
