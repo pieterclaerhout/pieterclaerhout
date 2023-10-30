@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-10-30` | [🐥 7 Tips &amp; tricks to make your console.log&lpar;&rpar; output stand out](https://www.yellowduck.be/posts/7-tips-and-tricks-to-make-your-console-log-output-stand-out)  
 - `2023-10-30` | [🔗 The startup CTO handbook](https://www.yellowduck.be/posts/the-startup-cto-handbook)  
 - `2023-10-30` | [🔗 How to Sort Unicode Strings Alphabetically in Python](https://www.yellowduck.be/posts/how-to-sort-unicode-strings-alphabetically-in-python)  
 - `2023-10-30` | [🔗 Organizing multiple Git identities](https://www.yellowduck.be/posts/organizing-multiple-git-identities)  
@@ -22,6 +23,5 @@
 - `2023-10-29` | [🔗 How to Mix Junior and Senior Engineers on a Team](https://www.yellowduck.be/posts/how-to-mix-junior-and-senior-engineers-on-a-team)  
 - `2023-10-28` | [🐥 Exit codes for a Laravel console commands](https://www.yellowduck.be/posts/exit-codes-for-a-laravel-console-commands)  
 - `2023-10-28` | [🔗 A student asked how I keep us innovative. I don&#39;t.](https://www.yellowduck.be/posts/a-student-asked-how-i-keep-us-innovative-i-dont)  
-- `2023-10-28` | [🔗 Golang to WASM: Basic Setup and Handling HTTP Requests](https://www.yellowduck.be/posts/golang-to-wasm-basic-setup-and-handling-http-requests)  
 
 <!-- BLOG-POST-LIST:END -->
