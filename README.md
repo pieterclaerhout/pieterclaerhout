@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-11-01` | [🔗 Composables vs. Renderless Components in Vue 3](https://www.yellowduck.be/posts/composables-vs-renderless-components-in-vue-3)  
 - `2023-11-01` | [🔗 What does INT&lpar;11&rpar; mean in MySQL?](https://www.yellowduck.be/posts/what-does-int-11-mean-in-mysql)  
 - `2023-11-01` | [🔗 Advice to a novice programmer](https://www.yellowduck.be/posts/advice-to-a-novice-programmer)  
 - `2023-10-31` | [🐥 &lt;wbr&gt; for more Control](https://www.yellowduck.be/posts/wbr-for-more-control)  
@@ -22,6 +23,5 @@
 - `2023-10-30` | [🐥 7 Tips &amp; tricks to make your console.log&lpar;&rpar; output stand out](https://www.yellowduck.be/posts/7-tips-and-tricks-to-make-your-console-log-output-stand-out)  
 - `2023-10-30` | [🔗 The startup CTO handbook](https://www.yellowduck.be/posts/the-startup-cto-handbook)  
 - `2023-10-30` | [🔗 How to Sort Unicode Strings Alphabetically in Python](https://www.yellowduck.be/posts/how-to-sort-unicode-strings-alphabetically-in-python)  
-- `2023-10-30` | [🔗 Organizing multiple Git identities](https://www.yellowduck.be/posts/organizing-multiple-git-identities)  
 
 <!-- BLOG-POST-LIST:END -->
