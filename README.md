@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-11-01` | [🔗 What does INT&lpar;11&rpar; mean in MySQL?](https://www.yellowduck.be/posts/what-does-int-11-mean-in-mysql)  
 - `2023-11-01` | [🔗 Advice to a novice programmer](https://www.yellowduck.be/posts/advice-to-a-novice-programmer)  
 - `2023-10-31` | [🐥 &lt;wbr&gt; for more Control](https://www.yellowduck.be/posts/wbr-for-more-control)  
 - `2023-10-31` | [🔗 You&#39;re not lacking creativity, you&#39;re overwhelmed](https://www.yellowduck.be/posts/youre-not-lacking-creativity-youre-overwhelmed)  
@@ -22,6 +23,5 @@
 - `2023-10-30` | [🔗 The startup CTO handbook](https://www.yellowduck.be/posts/the-startup-cto-handbook)  
 - `2023-10-30` | [🔗 How to Sort Unicode Strings Alphabetically in Python](https://www.yellowduck.be/posts/how-to-sort-unicode-strings-alphabetically-in-python)  
 - `2023-10-30` | [🔗 Organizing multiple Git identities](https://www.yellowduck.be/posts/organizing-multiple-git-identities)  
-- `2023-10-29` | [🐥 How to check your exact Laravel version](https://www.yellowduck.be/posts/how-to-check-your-exact-laravel-version)  
 
 <!-- BLOG-POST-LIST:END -->
