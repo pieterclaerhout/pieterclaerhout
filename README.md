@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-11-26` | [🔗 Training log 2023](https://www.yellowduck.be/posts/training-log-2023)  
 - `2023-11-09` | [🐥 PostgreSQL database and table size](https://www.yellowduck.be/posts/postgresql-database-and-table-size)  
 - `2023-11-08` | [🐥 Demystifying CSS container queries](https://www.yellowduck.be/posts/demystifying-css-container-queries)  
 - `2023-11-08` | [🔗 New models and developer products announced at DevDay](https://www.yellowduck.be/posts/new-models-and-developer-products-announced-at-devday)  
@@ -22,6 +23,5 @@
 - `2023-11-02` | [🔗 Let&#39;s create a filter table component in Vue](https://www.yellowduck.be/posts/lets-create-a-filter-table-component-in-vue)  
 - `2023-11-01` | [🔗 Composables vs. Renderless Components in Vue 3](https://www.yellowduck.be/posts/composables-vs-renderless-components-in-vue-3)  
 - `2023-11-01` | [🔗 What does INT&lpar;11&rpar; mean in MySQL?](https://www.yellowduck.be/posts/what-does-int-11-mean-in-mysql)  
-- `2023-11-01` | [🔗 Advice to a novice programmer](https://www.yellowduck.be/posts/advice-to-a-novice-programmer)  
 
 <!-- BLOG-POST-LIST:END -->
