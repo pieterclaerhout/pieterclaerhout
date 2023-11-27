@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-11-27` | [🐥 Detect clicks outside an element in VueJS](https://www.yellowduck.be/posts/detect-clicks-outside-an-element-in-vuejs)  
 - `2023-11-27` | [🔗 How we work asynchronously](https://www.yellowduck.be/posts/how-we-work-asynchronously)  
 - `2023-11-26` | [🐥 Vue 3 defineModel experimental option](https://www.yellowduck.be/posts/vue-3-definemodel-experimental-option)  
 - `2023-11-26` | [🔗 Training log 2023](https://www.yellowduck.be/posts/training-log-2023)  
@@ -22,6 +23,5 @@
 - `2023-11-08` | [🔗 The Architecture Behind A One-Person Tech Startup](https://www.yellowduck.be/posts/the-architecture-behind-a-one-person-tech-startup)  
 - `2023-11-07` | [🔗 Takeaways &amp; lessons from 250k+ LLM calls on 100k corporate docs](https://www.yellowduck.be/posts/takeaways-and-lessons-from-250k-llm-calls-on-100k-corporate-docs)  
 - `2023-11-06` | [🔗 Tubeless Tire FAQ](https://www.yellowduck.be/posts/tubeless-tire-faq)  
-- `2023-11-02` | [🔗 Let&#39;s create a filter table component in Vue](https://www.yellowduck.be/posts/lets-create-a-filter-table-component-in-vue)  
 
 <!-- BLOG-POST-LIST:END -->
