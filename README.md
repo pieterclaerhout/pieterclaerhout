@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-11-27` | [🔗 How we work asynchronously](https://www.yellowduck.be/posts/how-we-work-asynchronously)  
 - `2023-11-26` | [🐥 Vue 3 defineModel experimental option](https://www.yellowduck.be/posts/vue-3-definemodel-experimental-option)  
 - `2023-11-26` | [🔗 Training log 2023](https://www.yellowduck.be/posts/training-log-2023)  
 - `2023-11-09` | [🐥 PostgreSQL database and table size](https://www.yellowduck.be/posts/postgresql-database-and-table-size)  
@@ -22,6 +23,5 @@
 - `2023-11-07` | [🔗 Takeaways &amp; lessons from 250k+ LLM calls on 100k corporate docs](https://www.yellowduck.be/posts/takeaways-and-lessons-from-250k-llm-calls-on-100k-corporate-docs)  
 - `2023-11-06` | [🔗 Tubeless Tire FAQ](https://www.yellowduck.be/posts/tubeless-tire-faq)  
 - `2023-11-02` | [🔗 Let&#39;s create a filter table component in Vue](https://www.yellowduck.be/posts/lets-create-a-filter-table-component-in-vue)  
-- `2023-11-01` | [🔗 Composables vs. Renderless Components in Vue 3](https://www.yellowduck.be/posts/composables-vs-renderless-components-in-vue-3)  
 
 <!-- BLOG-POST-LIST:END -->
