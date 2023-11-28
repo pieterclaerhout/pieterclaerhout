@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-11-28` | [🔗 How to turn the worst running economy ever measured into sub-3-hour marathon performance in only 14 years](https://www.yellowduck.be/posts/how-to-turn-the-worst-running-economy-ever-measured-into-sub-3-hour-marathon-performance-in-only-14-years)  
 - `2023-11-27` | [🐥 Detect clicks outside an element in VueJS](https://www.yellowduck.be/posts/detect-clicks-outside-an-element-in-vuejs)  
 - `2023-11-27` | [🔗 How we work asynchronously](https://www.yellowduck.be/posts/how-we-work-asynchronously)  
 - `2023-11-26` | [🐥 Vue 3 defineModel experimental option](https://www.yellowduck.be/posts/vue-3-definemodel-experimental-option)  
@@ -22,6 +23,5 @@
 - `2023-11-08` | [🔗 New models and developer products announced at DevDay](https://www.yellowduck.be/posts/new-models-and-developer-products-announced-at-devday)  
 - `2023-11-08` | [🔗 The Architecture Behind A One-Person Tech Startup](https://www.yellowduck.be/posts/the-architecture-behind-a-one-person-tech-startup)  
 - `2023-11-07` | [🔗 Takeaways &amp; lessons from 250k+ LLM calls on 100k corporate docs](https://www.yellowduck.be/posts/takeaways-and-lessons-from-250k-llm-calls-on-100k-corporate-docs)  
-- `2023-11-06` | [🔗 Tubeless Tire FAQ](https://www.yellowduck.be/posts/tubeless-tire-faq)  
 
 <!-- BLOG-POST-LIST:END -->
