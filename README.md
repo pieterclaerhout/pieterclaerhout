@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-12-01` | [🔗 Nilaway: Practical Nil Panic Detection for Go](https://www.yellowduck.be/posts/nilaway-practical-nil-panic-detection-for-go)  
 - `2023-11-30` | [🔗 Make Vue&#39;s template refs clean &amp; simple](https://www.yellowduck.be/posts/make-vues-template-refs-clean-and-simple)  
 - `2023-11-29` | [🔗 riverqueue/river: Fast and reliable background jobs in Go](https://www.yellowduck.be/posts/github-riverqueue-river-fast-and-reliable-background-jobs-in-go)  
 - `2023-11-28` | [🔗 How to turn the worst running economy ever measured into sub-3-hour marathon performance in only 14 years](https://www.yellowduck.be/posts/how-to-turn-the-worst-running-economy-ever-measured-into-sub-3-hour-marathon-performance-in-only-14-years)  
@@ -22,6 +23,5 @@
 - `2023-11-26` | [🔗 Training log 2023](https://www.yellowduck.be/posts/training-log-2023)  
 - `2023-11-09` | [🐥 PostgreSQL database and table size](https://www.yellowduck.be/posts/postgresql-database-and-table-size)  
 - `2023-11-08` | [🐥 Demystifying CSS container queries](https://www.yellowduck.be/posts/demystifying-css-container-queries)  
-- `2023-11-08` | [🔗 New models and developer products announced at DevDay](https://www.yellowduck.be/posts/new-models-and-developer-products-announced-at-devday)  
 
 <!-- BLOG-POST-LIST:END -->
