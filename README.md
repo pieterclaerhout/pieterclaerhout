@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-12-06` | [🔗 Intuitive Vue Console Logging for Reactive Objects](https://www.yellowduck.be/posts/intuitive-vue-console-logging-for-reactive-objects)  
 - `2023-12-02` | [🔗 Retrieval Augmented Generation in Go](https://www.yellowduck.be/posts/retrieval-augmented-generation-in-go-eli-benderskys-website)  
 - `2023-12-01` | [🔗 Nilaway: Practical Nil Panic Detection for Go](https://www.yellowduck.be/posts/nilaway-practical-nil-panic-detection-for-go)  
 - `2023-11-30` | [🔗 Make Vue&#39;s template refs clean &amp; simple](https://www.yellowduck.be/posts/make-vues-template-refs-clean-and-simple)  
@@ -22,6 +23,5 @@
 - `2023-11-27` | [🔗 How we work asynchronously](https://www.yellowduck.be/posts/how-we-work-asynchronously)  
 - `2023-11-26` | [🐥 Vue 3 defineModel experimental option](https://www.yellowduck.be/posts/vue-3-definemodel-experimental-option)  
 - `2023-11-26` | [🔗 Training log 2023](https://www.yellowduck.be/posts/training-log-2023)  
-- `2023-11-09` | [🐥 PostgreSQL database and table size](https://www.yellowduck.be/posts/postgresql-database-and-table-size)  
 
 <!-- BLOG-POST-LIST:END -->
