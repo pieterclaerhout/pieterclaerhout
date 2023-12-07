@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-12-07` | [🔗 Bulk Update Multiple Records with Separate Data with Laravel](https://www.yellowduck.be/posts/bulk-update-multiple-records-with-separate-data-laravel)  
 - `2023-12-06` | [🔗 Intuitive Vue Console Logging for Reactive Objects](https://www.yellowduck.be/posts/intuitive-vue-console-logging-for-reactive-objects)  
 - `2023-12-02` | [🔗 Retrieval Augmented Generation in Go](https://www.yellowduck.be/posts/retrieval-augmented-generation-in-go-eli-benderskys-website)  
 - `2023-12-01` | [🔗 Nilaway: Practical Nil Panic Detection for Go](https://www.yellowduck.be/posts/nilaway-practical-nil-panic-detection-for-go)  
@@ -22,6 +23,5 @@
 - `2023-11-27` | [🐥 Detect clicks outside an element in VueJS](https://www.yellowduck.be/posts/detect-clicks-outside-an-element-in-vuejs)  
 - `2023-11-27` | [🔗 How we work asynchronously](https://www.yellowduck.be/posts/how-we-work-asynchronously)  
 - `2023-11-26` | [🐥 Vue 3 defineModel experimental option](https://www.yellowduck.be/posts/vue-3-definemodel-experimental-option)  
-- `2023-11-26` | [🔗 Training log 2023](https://www.yellowduck.be/posts/training-log-2023)  
 
 <!-- BLOG-POST-LIST:END -->
