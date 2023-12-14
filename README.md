@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2023-12-14` | [🔗 Go and SQL: Pitfalls With Existing Libraries &lpar;and a  Better Solution&rpar;](https://www.yellowduck.be/posts/go-and-sql-pitfalls-with-existing-libraries-and-a-better-solution)  
 - `2023-12-13` | [🔗 Sign in with GitHub in Go - Eli Bendersky&#39;s website](https://www.yellowduck.be/posts/sign-in-with-github-in-go-eli-benderskys-website)  
 - `2023-12-08` | [🔗 How to build a SaaS in a weekend](https://www.yellowduck.be/posts/how-to-build-a-saas-in-a-weekend)  
 - `2023-12-07` | [🔗 Bulk Update Multiple Records with Separate Data with Laravel](https://www.yellowduck.be/posts/bulk-update-multiple-records-with-separate-data-laravel)  
@@ -22,6 +23,5 @@
 - `2023-11-30` | [🔗 Make Vue&#39;s template refs clean &amp; simple](https://www.yellowduck.be/posts/make-vues-template-refs-clean-and-simple)  
 - `2023-11-29` | [🔗 riverqueue/river: Fast and reliable background jobs in Go](https://www.yellowduck.be/posts/github-riverqueue-river-fast-and-reliable-background-jobs-in-go)  
 - `2023-11-28` | [🔗 How to turn the worst running economy ever measured into sub-3-hour marathon performance in only 14 years](https://www.yellowduck.be/posts/how-to-turn-the-worst-running-economy-ever-measured-into-sub-3-hour-marathon-performance-in-only-14-years)  
-- `2023-11-27` | [🐥 Detect clicks outside an element in VueJS](https://www.yellowduck.be/posts/detect-clicks-outside-an-element-in-vuejs)  
 
 <!-- BLOG-POST-LIST:END -->
