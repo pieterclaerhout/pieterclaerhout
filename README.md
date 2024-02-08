@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-02-08` | [🔗 Go 1.22 is released!](https://www.yellowduck.be/posts/go-1-22-is-released-the-go-programming-language)  
 - `2024-02-07` | [🐥 Using jq to inspect Caddy logfiles](https://www.yellowduck.be/posts/using-jq-to-inspect-caddy-logfiles)  
 - `2023-12-14` | [🔗 Go and SQL: Pitfalls With Existing Libraries &lpar;and a  Better Solution&rpar;](https://www.yellowduck.be/posts/go-and-sql-pitfalls-with-existing-libraries-and-a-better-solution)  
 - `2023-12-13` | [🔗 Sign in with GitHub in Go - Eli Bendersky&#39;s website](https://www.yellowduck.be/posts/sign-in-with-github-in-go-eli-benderskys-website)  
@@ -22,6 +23,5 @@
 - `2023-12-02` | [🔗 Retrieval Augmented Generation in Go](https://www.yellowduck.be/posts/retrieval-augmented-generation-in-go-eli-benderskys-website)  
 - `2023-12-01` | [🔗 Nilaway: Practical Nil Panic Detection for Go](https://www.yellowduck.be/posts/nilaway-practical-nil-panic-detection-for-go)  
 - `2023-11-30` | [🔗 Make Vue&#39;s template refs clean &amp; simple](https://www.yellowduck.be/posts/make-vues-template-refs-clean-and-simple)  
-- `2023-11-29` | [🔗 riverqueue/river: Fast and reliable background jobs in Go](https://www.yellowduck.be/posts/github-riverqueue-river-fast-and-reliable-background-jobs-in-go)  
 
 <!-- BLOG-POST-LIST:END -->
