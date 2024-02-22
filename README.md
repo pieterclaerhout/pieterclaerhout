@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-02-22` | [🔗 Fun With AI Embeddings in Go](https://www.yellowduck.be/posts/fun-with-ai-embeddings-in-go)  
 - `2024-02-22` | [🔗 Dear Laravel package authors...](https://www.yellowduck.be/posts/dear-laravel-package-authors-muhammed-sari)  
 - `2024-02-10` | [🔗 Lessons From Our 8 Years Of Kubernetes In Production](https://www.yellowduck.be/posts/lessons-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self)  
 - `2024-02-09` | [🔗 How much uptime can I afford?](https://www.yellowduck.be/posts/how-much-uptime-can-i-afford)  
@@ -22,6 +23,5 @@
 - `2023-12-13` | [🔗 Sign in with GitHub in Go - Eli Bendersky&#39;s website](https://www.yellowduck.be/posts/sign-in-with-github-in-go-eli-benderskys-website)  
 - `2023-12-08` | [🔗 How to build a SaaS in a weekend](https://www.yellowduck.be/posts/how-to-build-a-saas-in-a-weekend)  
 - `2023-12-07` | [🔗 Bulk Update Multiple Records with Separate Data with Laravel](https://www.yellowduck.be/posts/bulk-update-multiple-records-with-separate-data-laravel)  
-- `2023-12-06` | [🔗 Intuitive Vue Console Logging for Reactive Objects](https://www.yellowduck.be/posts/intuitive-vue-console-logging-for-reactive-objects)  
 
 <!-- BLOG-POST-LIST:END -->
