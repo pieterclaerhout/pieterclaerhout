@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-02-23` | [🔗 Q&amp;A with RAG | 🦜️🔗 Langchain](https://www.yellowduck.be/posts/qanda-with-rag-langchain)  
 - `2024-02-23` | [🔗 gemini-cli: Access Gemini models from the command-line](https://www.yellowduck.be/posts/gemini-cli-access-gemini-models-from-the-command-line-eli-benderskys-website)  
 - `2024-02-22` | [🐥 Indexing a JSON field in MySQL](https://www.yellowduck.be/posts/indexing-a-json-field-in-mysql)  
 - `2024-02-22` | [🔗 Go 1.20: Exploring Go&#39;s Web Proxy Capabilities](https://www.yellowduck.be/posts/go-1-20-exploring-gos-web-proxy-capabilities-talkative-developer)  
@@ -22,6 +23,5 @@
 - `2024-02-09` | [🔗 How much uptime can I afford?](https://www.yellowduck.be/posts/how-much-uptime-can-i-afford)  
 - `2024-02-08` | [🔗 Go 1.22 is released!](https://www.yellowduck.be/posts/go-1-22-is-released-the-go-programming-language)  
 - `2024-02-07` | [🐥 Using jq to inspect Caddy logfiles](https://www.yellowduck.be/posts/using-jq-to-inspect-caddy-logfiles)  
-- `2023-12-14` | [🔗 Go and SQL: Pitfalls With Existing Libraries &lpar;and a  Better Solution&rpar;](https://www.yellowduck.be/posts/go-and-sql-pitfalls-with-existing-libraries-and-a-better-solution)  
 
 <!-- BLOG-POST-LIST:END -->
