@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-02-23` | [🔗 Configuring PHP-FPM pools](https://www.yellowduck.be/posts/configuring-php-fpm-pools)  
+- `2024-02-23` | [🔗 1.5+ million PDFs in 25 minutes](https://www.yellowduck.be/posts/1-5-million-pdfs-in-25-minutes-zerodha-tech-blog)  
 - `2024-02-23` | [🔗 Q&amp;A with RAG | 🦜️🔗 Langchain](https://www.yellowduck.be/posts/qanda-with-rag-langchain)  
 - `2024-02-23` | [🔗 gemini-cli: Access Gemini models from the command-line](https://www.yellowduck.be/posts/gemini-cli-access-gemini-models-from-the-command-line-eli-benderskys-website)  
 - `2024-02-22` | [🐥 Indexing a JSON field in MySQL](https://www.yellowduck.be/posts/indexing-a-json-field-in-mysql)  
@@ -21,7 +23,5 @@
 - `2024-02-22` | [🔗 Dear Laravel package authors...](https://www.yellowduck.be/posts/dear-laravel-package-authors-muhammed-sari)  
 - `2024-02-10` | [🔗 Lessons From Our 8 Years Of Kubernetes In Production](https://www.yellowduck.be/posts/lessons-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self)  
 - `2024-02-09` | [🔗 How much uptime can I afford?](https://www.yellowduck.be/posts/how-much-uptime-can-i-afford)  
-- `2024-02-08` | [🔗 Go 1.22 is released!](https://www.yellowduck.be/posts/go-1-22-is-released-the-go-programming-language)  
-- `2024-02-07` | [🐥 Using jq to inspect Caddy logfiles](https://www.yellowduck.be/posts/using-jq-to-inspect-caddy-logfiles)  
 
 <!-- BLOG-POST-LIST:END -->
