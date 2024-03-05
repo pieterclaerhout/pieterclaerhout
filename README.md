@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-03-05` | [🔗 Multi-Tenant Architecture](https://www.yellowduck.be/posts/reddit-dive-into-anything)  
 - `2024-03-05` | [🔗 ARCHITECTURE.md](https://www.yellowduck.be/posts/architecture-md)  
 - `2024-03-05` | [🔗 Running Laravel Apps With FrankenPHP](https://www.yellowduck.be/posts/running-laravel-apps-with-frankenphp-laracon-eu-kevin-dunglas)  
 - `2024-03-04` | [🐥 Updating gcloud after installing Python 3.12](https://www.yellowduck.be/posts/updating-gcloud-after-installing-python-3-12)  
@@ -22,6 +23,5 @@
 - `2024-02-23` | [🔗 1.5+ million PDFs in 25 minutes](https://www.yellowduck.be/posts/1-5-million-pdfs-in-25-minutes-zerodha-tech-blog)  
 - `2024-02-23` | [🔗 Q&amp;A with RAG | 🦜️🔗 Langchain](https://www.yellowduck.be/posts/qanda-with-rag-langchain)  
 - `2024-02-23` | [🔗 gemini-cli: Access Gemini models from the command-line](https://www.yellowduck.be/posts/gemini-cli-access-gemini-models-from-the-command-line-eli-benderskys-website)  
-- `2024-02-22` | [🐥 Indexing a JSON field in MySQL](https://www.yellowduck.be/posts/indexing-a-json-field-in-mysql)  
 
 <!-- BLOG-POST-LIST:END -->
