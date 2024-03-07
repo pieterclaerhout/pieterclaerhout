@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-03-07` | [🔗 Distributed Systems Horror Stories: Kubernetes Deep Health Checks](https://www.yellowduck.be/posts/distributed-systems-horror-stories-kubernetes-deep-health-checks-encore-blog)  
 - `2024-03-07` | [🔗 Steve vs Matt — How two developers approach the same problem](https://www.yellowduck.be/posts/steve-vs-matt-how-two-developers-approach-the-same-problem-laravel-news)  
 - `2024-03-07` | [🔗 Feature flags are ruining your codebase](https://www.yellowduck.be/posts/feature-flags-are-ruining-your-codebase)  
 - `2024-03-06` | [🐥 Cancel in-progress jobs using GitHub Actions](https://www.yellowduck.be/posts/cancel-in-progress-jobs-using-github-actions)  
@@ -22,6 +23,5 @@
 - `2024-03-05` | [🐥 Saving an Eloquent model without touching its owners](https://www.yellowduck.be/posts/saving-an-eloquent-model-without-touching-its-owners)  
 - `2024-03-05` | [🔗 Multi-Tenant Architecture](https://www.yellowduck.be/posts/reddit-dive-into-anything)  
 - `2024-03-05` | [🔗 ARCHITECTURE.md](https://www.yellowduck.be/posts/architecture-md)  
-- `2024-03-05` | [🔗 Running Laravel Apps With FrankenPHP](https://www.yellowduck.be/posts/running-laravel-apps-with-frankenphp-laracon-eu-kevin-dunglas)  
 
 <!-- BLOG-POST-LIST:END -->
