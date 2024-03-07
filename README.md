@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-03-07` | [🔗 Feature flags are ruining your codebase](https://www.yellowduck.be/posts/feature-flags-are-ruining-your-codebase)  
 - `2024-03-06` | [🐥 Cancel in-progress jobs using GitHub Actions](https://www.yellowduck.be/posts/cancel-in-progress-jobs-using-github-actions)  
 - `2024-03-06` | [🔗 René Roth | Composite indexes in Laravel &amp; MySQL](https://www.yellowduck.be/posts/rene-roth-composite-indexes-in-laravel-and-mysql)  
 - `2024-03-06` | [🔗 Your First Year as a CTO: A Comprehensive Guide](https://www.yellowduck.be/posts/your-first-year-as-a-cto-a-comprehensive-guide)  
@@ -22,6 +23,5 @@
 - `2024-03-05` | [🔗 ARCHITECTURE.md](https://www.yellowduck.be/posts/architecture-md)  
 - `2024-03-05` | [🔗 Running Laravel Apps With FrankenPHP](https://www.yellowduck.be/posts/running-laravel-apps-with-frankenphp-laracon-eu-kevin-dunglas)  
 - `2024-03-04` | [🐥 Updating gcloud after installing Python 3.12](https://www.yellowduck.be/posts/updating-gcloud-after-installing-python-3-12)  
-- `2024-03-02` | [🔗 LinearB: Software Delivery Management](https://www.yellowduck.be/posts/linearb-software-delivery-management)  
 
 <!-- BLOG-POST-LIST:END -->
