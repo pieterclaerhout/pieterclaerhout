@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-03-08` | [🔗 Get Started with Milvus Vector DB in .NET](https://www.yellowduck.be/posts/get-started-with-milvus-vector-db-in-net-net-blog)  
 - `2024-03-07` | [🐥 Using non-integer primary keys in Eloquent](https://www.yellowduck.be/posts/using-non-integer-primary-keys-in-eloquent)  
 - `2024-03-07` | [🔗 Distributed Systems Horror Stories: Kubernetes Deep Health Checks](https://www.yellowduck.be/posts/distributed-systems-horror-stories-kubernetes-deep-health-checks-encore-blog)  
 - `2024-03-07` | [🔗 Steve vs Matt — How two developers approach the same problem](https://www.yellowduck.be/posts/steve-vs-matt-how-two-developers-approach-the-same-problem-laravel-news)  
@@ -22,6 +23,5 @@
 - `2024-03-06` | [🔗 Your First Year as a CTO: A Comprehensive Guide](https://www.yellowduck.be/posts/your-first-year-as-a-cto-a-comprehensive-guide)  
 - `2024-03-06` | [🔗 Having fun with &lpar;Franken&rpar;PHP | davlgd tech blog](https://www.yellowduck.be/posts/having-fun-with-franken-php-davlgd-tech-blog)  
 - `2024-03-05` | [🐥 Saving an Eloquent model without touching its owners](https://www.yellowduck.be/posts/saving-an-eloquent-model-without-touching-its-owners)  
-- `2024-03-05` | [🔗 Multi-Tenant Architecture](https://www.yellowduck.be/posts/reddit-dive-into-anything)  
 
 <!-- BLOG-POST-LIST:END -->
