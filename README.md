@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-03-08` | [🔗 goqite - persistent message queue](https://www.yellowduck.be/posts/goqite)  
 - `2024-03-08` | [🔗 Get consistent data from your LLM with JSON Schema](https://www.yellowduck.be/posts/get-consistent-data-from-your-llm-with-json-schema)  
 - `2024-03-08` | [🔗 Get Started with Milvus Vector DB in .NET](https://www.yellowduck.be/posts/get-started-with-milvus-vector-db-in-net-net-blog)  
 - `2024-03-07` | [🐥 Using non-integer primary keys in Eloquent](https://www.yellowduck.be/posts/using-non-integer-primary-keys-in-eloquent)  
@@ -22,6 +23,5 @@
 - `2024-03-06` | [🐥 Cancel in-progress jobs using GitHub Actions](https://www.yellowduck.be/posts/cancel-in-progress-jobs-using-github-actions)  
 - `2024-03-06` | [🔗 René Roth | Composite indexes in Laravel &amp; MySQL](https://www.yellowduck.be/posts/rene-roth-composite-indexes-in-laravel-and-mysql)  
 - `2024-03-06` | [🔗 Your First Year as a CTO: A Comprehensive Guide](https://www.yellowduck.be/posts/your-first-year-as-a-cto-a-comprehensive-guide)  
-- `2024-03-06` | [🔗 Having fun with &lpar;Franken&rpar;PHP | davlgd tech blog](https://www.yellowduck.be/posts/having-fun-with-franken-php-davlgd-tech-blog)  
 
 <!-- BLOG-POST-LIST:END -->
