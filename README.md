@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-03-12` | [🐥 Checking your packages for Laravel 11 compatibility](https://www.yellowduck.be/posts/checking-your-packages-for-laravel-11-compatibility)  
 - `2024-03-09` | [🔗 I made a mistake](https://www.yellowduck.be/posts/i-made-a-mistake)  
 - `2024-03-09` | [🔗 I don&#39;t get the point of Golang - That&#39;s why I need help](https://www.yellowduck.be/posts/i-dont-get-the-point-of-golang-thats-why-i-need-help)  
 - `2024-03-08` | [🔗 goqite - persistent message queue](https://www.yellowduck.be/posts/goqite)  
@@ -22,6 +23,5 @@
 - `2024-03-07` | [🔗 Distributed Systems Horror Stories: Kubernetes Deep Health Checks](https://www.yellowduck.be/posts/distributed-systems-horror-stories-kubernetes-deep-health-checks-encore-blog)  
 - `2024-03-07` | [🔗 Steve vs Matt — How two developers approach the same problem](https://www.yellowduck.be/posts/steve-vs-matt-how-two-developers-approach-the-same-problem-laravel-news)  
 - `2024-03-07` | [🔗 Feature flags are ruining your codebase](https://www.yellowduck.be/posts/feature-flags-are-ruining-your-codebase)  
-- `2024-03-06` | [🐥 Cancel in-progress jobs using GitHub Actions](https://www.yellowduck.be/posts/cancel-in-progress-jobs-using-github-actions)  
 
 <!-- BLOG-POST-LIST:END -->
