@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-03-13` | [🔗 Generative AI for Contracts](https://www.yellowduck.be/posts/generative-ai-for-contracts)  
 - `2024-03-13` | [🔗 System-wide text summarization using Ollama and AppleScript](https://www.yellowduck.be/posts/system-wide-text-summarization-using-ollama-and-applescript)  
 - `2024-03-13` | [🔗 Laravel 11: the upgrade guide from version 10](https://www.yellowduck.be/posts/laravel-11-the-upgrade-guide-from-version-10)  
 - `2024-03-12` | [🐥 Checking your packages for Laravel 11 compatibility](https://www.yellowduck.be/posts/checking-your-packages-for-laravel-11-compatibility)  
@@ -22,6 +23,5 @@
 - `2024-03-08` | [🔗 Get consistent data from your LLM with JSON Schema](https://www.yellowduck.be/posts/get-consistent-data-from-your-llm-with-json-schema)  
 - `2024-03-08` | [🔗 Get Started with Milvus Vector DB in .NET](https://www.yellowduck.be/posts/get-started-with-milvus-vector-db-in-net-net-blog)  
 - `2024-03-07` | [🐥 Using non-integer primary keys in Eloquent](https://www.yellowduck.be/posts/using-non-integer-primary-keys-in-eloquent)  
-- `2024-03-07` | [🔗 Distributed Systems Horror Stories: Kubernetes Deep Health Checks](https://www.yellowduck.be/posts/distributed-systems-horror-stories-kubernetes-deep-health-checks-encore-blog)  
 
 <!-- BLOG-POST-LIST:END -->
