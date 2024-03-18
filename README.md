@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-03-18` | [🔗 The 2038 Problem](https://www.yellowduck.be/posts/the-2038-problem)  
 - `2024-03-15` | [🔗 The Mac Admins Podcast team explain how to secure Apple devices at work and home](https://www.yellowduck.be/posts/the-mac-admins-podcast-team-explain-how-to-secure-apple-devices-at-work-and-home-1password)  
 - `2024-03-15` | [🔗 Language Policy at Google: Let&#39;s Go!](https://www.yellowduck.be/posts/language-policy-at-google-lets-go)  
 - `2024-03-15` | [🔗 Go, Python, Rust, and production AI applications](https://www.yellowduck.be/posts/go-python-rust-and-production-ai-applications)  
@@ -22,6 +23,5 @@
 - `2024-03-12` | [🐥 Checking your packages for Laravel 11 compatibility](https://www.yellowduck.be/posts/checking-your-packages-for-laravel-11-compatibility)  
 - `2024-03-09` | [🔗 I made a mistake](https://www.yellowduck.be/posts/i-made-a-mistake)  
 - `2024-03-09` | [🔗 I don&#39;t get the point of Golang - That&#39;s why I need help](https://www.yellowduck.be/posts/i-dont-get-the-point-of-golang-thats-why-i-need-help)  
-- `2024-03-08` | [🔗 goqite - persistent message queue](https://www.yellowduck.be/posts/goqite)  
 
 <!-- BLOG-POST-LIST:END -->
