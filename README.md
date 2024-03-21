@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-03-21` | [🔗 The Developer&#39;s Guide to SSO — WorkOS](https://www.yellowduck.be/posts/the-developers-guide-to-sso-workos)  
 - `2024-03-21` | [🔗 Vector Similarity Search with PostgreSQL&#39;s pgvector](https://www.yellowduck.be/posts/vector-similarity-search-with-postgresqls-pgvector)  
 - `2024-03-18` | [🔗 The 2038 Problem](https://www.yellowduck.be/posts/the-2038-problem)  
 - `2024-03-15` | [🔗 The Mac Admins Podcast team explain how to secure Apple devices at work and home](https://www.yellowduck.be/posts/the-mac-admins-podcast-team-explain-how-to-secure-apple-devices-at-work-and-home-1password)  
@@ -22,6 +23,5 @@
 - `2024-03-13` | [🔗 System-wide text summarization using Ollama and AppleScript](https://www.yellowduck.be/posts/system-wide-text-summarization-using-ollama-and-applescript)  
 - `2024-03-13` | [🔗 Laravel 11: the upgrade guide from version 10](https://www.yellowduck.be/posts/laravel-11-the-upgrade-guide-from-version-10)  
 - `2024-03-12` | [🐥 Checking your packages for Laravel 11 compatibility](https://www.yellowduck.be/posts/checking-your-packages-for-laravel-11-compatibility)  
-- `2024-03-09` | [🔗 I made a mistake](https://www.yellowduck.be/posts/i-made-a-mistake)  
 
 <!-- BLOG-POST-LIST:END -->
