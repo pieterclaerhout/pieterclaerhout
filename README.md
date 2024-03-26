@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-03-26` | [🔗 Setting Up a Multi-tenant Phoenix App for Elixir](https://www.yellowduck.be/posts/setting-up-a-multi-tenant-phoenix-app-for-elixir-appsignal-blog)  
 - `2024-03-21` | [🔗 The Developer&#39;s Guide to SSO — WorkOS](https://www.yellowduck.be/posts/the-developers-guide-to-sso-workos)  
 - `2024-03-21` | [🔗 Vector Similarity Search with PostgreSQL&#39;s pgvector](https://www.yellowduck.be/posts/vector-similarity-search-with-postgresqls-pgvector)  
 - `2024-03-18` | [🔗 The 2038 Problem](https://www.yellowduck.be/posts/the-2038-problem)  
@@ -22,6 +23,5 @@
 - `2024-03-13` | [🔗 Generative AI for Contracts](https://www.yellowduck.be/posts/generative-ai-for-contracts)  
 - `2024-03-13` | [🔗 System-wide text summarization using Ollama and AppleScript](https://www.yellowduck.be/posts/system-wide-text-summarization-using-ollama-and-applescript)  
 - `2024-03-13` | [🔗 Laravel 11: the upgrade guide from version 10](https://www.yellowduck.be/posts/laravel-11-the-upgrade-guide-from-version-10)  
-- `2024-03-12` | [🐥 Checking your packages for Laravel 11 compatibility](https://www.yellowduck.be/posts/checking-your-packages-for-laravel-11-compatibility)  
 
 <!-- BLOG-POST-LIST:END -->
