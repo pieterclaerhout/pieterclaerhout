@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-03-27` | [🔗 Laravel Read / Write Connections use multi-database](https://www.yellowduck.be/posts/laravel-read-write-connections-use-multi-database)  
 - `2024-03-27` | [🔗 Offload the majority of requests to your database with our newest update to Standby Nodes](https://www.yellowduck.be/posts/getting-started-with-blockchain-technology)  
 - `2024-03-26` | [🐥 Customizing email titles in Laravel console kernel scheduled tasks](https://www.yellowduck.be/posts/customizing-email-titles-in-laravel-console-kernel-scheduled-tasks)  
 - `2024-03-26` | [🔗 Setting Up a Multi-tenant Phoenix App for Elixir](https://www.yellowduck.be/posts/setting-up-a-multi-tenant-phoenix-app-for-elixir-appsignal-blog)  
@@ -22,6 +23,5 @@
 - `2024-03-15` | [🔗 The Mac Admins Podcast team explain how to secure Apple devices at work and home](https://www.yellowduck.be/posts/the-mac-admins-podcast-team-explain-how-to-secure-apple-devices-at-work-and-home-1password)  
 - `2024-03-15` | [🔗 Language Policy at Google: Let&#39;s Go!](https://www.yellowduck.be/posts/language-policy-at-google-lets-go)  
 - `2024-03-15` | [🔗 Go, Python, Rust, and production AI applications](https://www.yellowduck.be/posts/go-python-rust-and-production-ai-applications)  
-- `2024-03-13` | [🔗 Generative AI for Contracts](https://www.yellowduck.be/posts/generative-ai-for-contracts)  
 
 <!-- BLOG-POST-LIST:END -->
