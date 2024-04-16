@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-04-16` | [🔗 Email DNS Records Cheatsheet](https://www.yellowduck.be/posts/email-dns-records-cheatsheet)  
 - `2024-04-09` | [🔗 Here is why vim uses hjkl keys as arrow keys](https://www.yellowduck.be/posts/here-is-why-vim-uses-hjkl-keys-as-arrow-keys)  
 - `2024-04-09` | [🔗 Jeffrey Way&#39;s PhpStorm Setup in 2024](https://www.yellowduck.be/posts/jeffrey-ways-phpstorm-setup-in-2024-laravel-news)  
 - `2024-03-27` | [🔗 Laravel Read / Write Connections use multi-database](https://www.yellowduck.be/posts/laravel-read-write-connections-use-multi-database)  
@@ -22,6 +23,5 @@
 - `2024-03-21` | [🔗 The Developer&#39;s Guide to SSO — WorkOS](https://www.yellowduck.be/posts/the-developers-guide-to-sso-workos)  
 - `2024-03-21` | [🔗 Vector Similarity Search with PostgreSQL&#39;s pgvector](https://www.yellowduck.be/posts/vector-similarity-search-with-postgresqls-pgvector)  
 - `2024-03-18` | [🔗 The 2038 Problem](https://www.yellowduck.be/posts/the-2038-problem)  
-- `2024-03-15` | [🔗 The Mac Admins Podcast team explain how to secure Apple devices at work and home](https://www.yellowduck.be/posts/the-mac-admins-podcast-team-explain-how-to-secure-apple-devices-at-work-and-home-1password)  
 
 <!-- BLOG-POST-LIST:END -->
