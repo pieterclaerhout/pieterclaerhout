@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-04-24` | [🔗 Developing Rapidly with Generative AI](https://www.yellowduck.be/posts/developing-rapidly-with-generative-ai)  
 - `2024-04-24` | [🔗 Build A Route Planner For Maps Using Python](https://www.yellowduck.be/posts/build-a-route-planner-for-maps-using-python-pybites)  
 - `2024-04-24` | [🔗 OpenStreetMaps, Overpass API And Python](https://www.yellowduck.be/posts/openstreetmaps-overpass-api-and-python-pybites)  
 - `2024-04-18` | [🔗 Lessons after a half-billion GPT tokens](https://www.yellowduck.be/posts/lessons-after-a-half-billion-gpt-tokens-ken-kantzers-blog)  
@@ -22,6 +23,5 @@
 - `2024-03-27` | [🔗 Laravel Read / Write Connections use multi-database](https://www.yellowduck.be/posts/laravel-read-write-connections-use-multi-database)  
 - `2024-03-27` | [🔗 Offload the majority of requests to your database with our newest update to Standby Nodes](https://www.yellowduck.be/posts/getting-started-with-blockchain-technology)  
 - `2024-03-26` | [🐥 Customizing email titles in Laravel console kernel scheduled tasks](https://www.yellowduck.be/posts/customizing-email-titles-in-laravel-console-kernel-scheduled-tasks)  
-- `2024-03-26` | [🔗 Setting Up a Multi-tenant Phoenix App for Elixir](https://www.yellowduck.be/posts/setting-up-a-multi-tenant-phoenix-app-for-elixir-appsignal-blog)  
 
 <!-- BLOG-POST-LIST:END -->
