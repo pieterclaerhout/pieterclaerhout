@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-04-25` | [🔗 Healthy Code Reviews](https://www.yellowduck.be/posts/healthy-code-reviews)  
 - `2024-04-25` | [🔗 Tips on Adding JSON Output to Your CLI App](https://www.yellowduck.be/posts/tips-on-adding-json-output-to-your-cli-app-brazils-blog)  
 - `2024-04-24` | [🔗 Developing Rapidly with Generative AI](https://www.yellowduck.be/posts/developing-rapidly-with-generative-ai)  
 - `2024-04-24` | [🔗 Build A Route Planner For Maps Using Python](https://www.yellowduck.be/posts/build-a-route-planner-for-maps-using-python-pybites)  
@@ -22,6 +23,5 @@
 - `2024-04-09` | [🔗 Here is why vim uses hjkl keys as arrow keys](https://www.yellowduck.be/posts/here-is-why-vim-uses-hjkl-keys-as-arrow-keys)  
 - `2024-04-09` | [🔗 Jeffrey Way&#39;s PhpStorm Setup in 2024](https://www.yellowduck.be/posts/jeffrey-ways-phpstorm-setup-in-2024-laravel-news)  
 - `2024-03-27` | [🔗 Laravel Read / Write Connections use multi-database](https://www.yellowduck.be/posts/laravel-read-write-connections-use-multi-database)  
-- `2024-03-27` | [🔗 Offload the majority of requests to your database with our newest update to Standby Nodes](https://www.yellowduck.be/posts/getting-started-with-blockchain-technology)  
 
 <!-- BLOG-POST-LIST:END -->
