@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-04-27` | [🔗 Testing Patterns](https://www.yellowduck.be/posts/testing-patterns-stitcher-io)  
 - `2024-04-27` | [🔗 The Problem With LangChain](https://www.yellowduck.be/posts/the-problem-with-langchain)  
 - `2024-04-26` | [🔗 How to send progress updates](https://www.yellowduck.be/posts/how-to-send-progress-updates-slava-akhmechet)  
 - `2024-04-26` | [🔗 Fast Full-text Search with PGroonga, Postgres, and Elixir](https://www.yellowduck.be/posts/full-text-search-with-pgroonga-and-postgres)  
@@ -22,6 +23,5 @@
 - `2024-04-24` | [🔗 Build A Route Planner For Maps Using Python](https://www.yellowduck.be/posts/build-a-route-planner-for-maps-using-python-pybites)  
 - `2024-04-24` | [🔗 OpenStreetMaps, Overpass API And Python](https://www.yellowduck.be/posts/openstreetmaps-overpass-api-and-python-pybites)  
 - `2024-04-18` | [🔗 Lessons after a half-billion GPT tokens](https://www.yellowduck.be/posts/lessons-after-a-half-billion-gpt-tokens-ken-kantzers-blog)  
-- `2024-04-16` | [🔗 Email DNS Records Cheatsheet](https://www.yellowduck.be/posts/email-dns-records-cheatsheet)  
 
 <!-- BLOG-POST-LIST:END -->
