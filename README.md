@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-04-30` | [🐥 Fixing GPG errors when installing apt packages](https://www.yellowduck.be/posts/fixing-gpg-errors-when-installing-apt-packages)  
 - `2024-04-27` | [🔗 Testing Patterns](https://www.yellowduck.be/posts/testing-patterns-stitcher-io)  
 - `2024-04-27` | [🔗 The Problem With LangChain](https://www.yellowduck.be/posts/the-problem-with-langchain)  
 - `2024-04-26` | [🔗 How to send progress updates](https://www.yellowduck.be/posts/how-to-send-progress-updates-slava-akhmechet)  
@@ -22,6 +23,5 @@
 - `2024-04-24` | [🔗 Developing Rapidly with Generative AI](https://www.yellowduck.be/posts/developing-rapidly-with-generative-ai)  
 - `2024-04-24` | [🔗 Build A Route Planner For Maps Using Python](https://www.yellowduck.be/posts/build-a-route-planner-for-maps-using-python-pybites)  
 - `2024-04-24` | [🔗 OpenStreetMaps, Overpass API And Python](https://www.yellowduck.be/posts/openstreetmaps-overpass-api-and-python-pybites)  
-- `2024-04-18` | [🔗 Lessons after a half-billion GPT tokens](https://www.yellowduck.be/posts/lessons-after-a-half-billion-gpt-tokens-ken-kantzers-blog)  
 
 <!-- BLOG-POST-LIST:END -->
