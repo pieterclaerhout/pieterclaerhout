@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-05-08` | [🔗 Rotating one or more pages in a PDF in linux](https://www.yellowduck.be/posts/rotating-one-or-more-pages-in-a-pdf-in-linux-daniel-paul-odonnell)  
 - `2024-05-08` | [🔗 Force JSON response on all API routes in Laravel](https://www.yellowduck.be/posts/force-json-response-on-all-api-routes-in-laravel)  
 - `2024-05-07` | [🔗 Modern Advances in Prompt Engineering](https://www.yellowduck.be/posts/modern-advances-in-prompt-engineering)  
 - `2024-05-07` | [🔗 The ultimate guide to technical due diligence](https://www.yellowduck.be/posts/the-ultimate-guide-to-technical-due-diligence)  
@@ -22,6 +23,5 @@
 - `2024-04-26` | [🔗 How to send progress updates](https://www.yellowduck.be/posts/how-to-send-progress-updates-slava-akhmechet)  
 - `2024-04-26` | [🔗 Fast Full-text Search with PGroonga, Postgres, and Elixir](https://www.yellowduck.be/posts/full-text-search-with-pgroonga-and-postgres)  
 - `2024-04-25` | [🔗 Healthy Code Reviews](https://www.yellowduck.be/posts/healthy-code-reviews)  
-- `2024-04-25` | [🔗 Tips on Adding JSON Output to Your CLI App](https://www.yellowduck.be/posts/tips-on-adding-json-output-to-your-cli-app-brazils-blog)  
 
 <!-- BLOG-POST-LIST:END -->
