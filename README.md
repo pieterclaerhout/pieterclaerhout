@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-05-17` | [🐥 Caveat with MySQL full-text search and testing](https://www.yellowduck.be/posts/caveat-with-mysql-full-text-search-and-testing)  
 - `2024-05-08` | [🔗 Rotating one or more pages in a PDF in linux](https://www.yellowduck.be/posts/rotating-one-or-more-pages-in-a-pdf-in-linux-daniel-paul-odonnell)  
 - `2024-05-08` | [🔗 Force JSON response on all API routes in Laravel](https://www.yellowduck.be/posts/force-json-response-on-all-api-routes-in-laravel)  
 - `2024-05-07` | [🔗 Modern Advances in Prompt Engineering](https://www.yellowduck.be/posts/modern-advances-in-prompt-engineering)  
@@ -22,6 +23,5 @@
 - `2024-04-27` | [🔗 The Problem With LangChain](https://www.yellowduck.be/posts/the-problem-with-langchain)  
 - `2024-04-26` | [🔗 How to send progress updates](https://www.yellowduck.be/posts/how-to-send-progress-updates-slava-akhmechet)  
 - `2024-04-26` | [🔗 Fast Full-text Search with PGroonga, Postgres, and Elixir](https://www.yellowduck.be/posts/full-text-search-with-pgroonga-and-postgres)  
-- `2024-04-25` | [🔗 Healthy Code Reviews](https://www.yellowduck.be/posts/healthy-code-reviews)  
 
 <!-- BLOG-POST-LIST:END -->
