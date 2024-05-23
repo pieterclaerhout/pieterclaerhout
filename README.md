@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-05-23` | [🐥 Using a cookie jar with the Laravel HTTP client](https://www.yellowduck.be/posts/using-a-cookie-jar-with-the-laravel-http-client)  
 - `2024-05-23` | [🔗 VSCode: Setting line lengths in the Black Python code formatter](https://www.yellowduck.be/posts/vscode-setting-line-lengths-in-the-black-python-code-formatter)  
 - `2024-05-18` | [🔗 GitHub - integrations/slack: Bring your code to the conversations you care about with the GitHub and Slack integration](https://www.yellowduck.be/posts/github-integrations-slack-bring-your-code-to-the-conversations-you-care-about-with-the-github-and-slack-integration)  
 - `2024-05-17` | [🐥 Caveat with MySQL full-text search and testing](https://www.yellowduck.be/posts/caveat-with-mysql-full-text-search-and-testing)  
@@ -22,6 +23,5 @@
 - `2024-05-07` | [🔗 The ultimate guide to technical due diligence](https://www.yellowduck.be/posts/the-ultimate-guide-to-technical-due-diligence)  
 - `2024-04-30` | [🐥 Fixing GPG errors when installing apt packages](https://www.yellowduck.be/posts/fixing-gpg-errors-when-installing-apt-packages)  
 - `2024-04-27` | [🔗 Testing Patterns](https://www.yellowduck.be/posts/testing-patterns-stitcher-io)  
-- `2024-04-27` | [🔗 The Problem With LangChain](https://www.yellowduck.be/posts/the-problem-with-langchain)  
 
 <!-- BLOG-POST-LIST:END -->
