@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-05-29` | [🔗 Phoenix LiveView 1.0-rc is here! - Phoenix Blog](https://www.yellowduck.be/posts/phoenix-liveview-1-0-rc-is-here-phoenix-blog)  
 - `2024-05-28` | [🐥 Fast import of CSV data into PostgreSQL](https://www.yellowduck.be/posts/fast-import-of-csv-data-into-postgresql)  
 - `2024-05-28` | [🔗 Your Bike Tires Are Too Skinny. Riding on Fat, Supple Tires Is Just Better](https://www.yellowduck.be/posts/your-bike-tires-are-too-skinny-riding-on-fat-supple-tires-is-just-better)  
 - `2024-05-26` | [🐥 Laravel collections and first call callables](https://www.yellowduck.be/posts/laravel-collections-and-first-call-callables)  
@@ -22,6 +23,5 @@
 - `2024-05-17` | [🐥 Caveat with MySQL full-text search and testing](https://www.yellowduck.be/posts/caveat-with-mysql-full-text-search-and-testing)  
 - `2024-05-08` | [🔗 Rotating one or more pages in a PDF in linux](https://www.yellowduck.be/posts/rotating-one-or-more-pages-in-a-pdf-in-linux-daniel-paul-odonnell)  
 - `2024-05-08` | [🔗 Force JSON response on all API routes in Laravel](https://www.yellowduck.be/posts/force-json-response-on-all-api-routes-in-laravel)  
-- `2024-05-07` | [🔗 Modern Advances in Prompt Engineering](https://www.yellowduck.be/posts/modern-advances-in-prompt-engineering)  
 
 <!-- BLOG-POST-LIST:END -->
