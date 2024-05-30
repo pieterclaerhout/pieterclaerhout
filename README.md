@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-05-30` | [🔗 iyaja/llama-fs: A self-organizing file system with llama 3](https://www.yellowduck.be/posts/github-iyaja-llama-fs-a-self-organizing-file-system-with-llama-3)  
 - `2024-05-29` | [🐥 Streaming a download to a file using the Laravel HTTP client](https://www.yellowduck.be/posts/streaming-a-download-to-a-file-using-the-laravel-http-client)  
 - `2024-05-29` | [🔗 Phoenix LiveView 1.0-rc is here! - Phoenix Blog](https://www.yellowduck.be/posts/phoenix-liveview-1-0-rc-is-here-phoenix-blog)  
 - `2024-05-28` | [🐥 Fast import of CSV data into PostgreSQL](https://www.yellowduck.be/posts/fast-import-of-csv-data-into-postgresql)  
@@ -22,6 +23,5 @@
 - `2024-05-23` | [🔗 VSCode: Setting line lengths in the Black Python code formatter](https://www.yellowduck.be/posts/vscode-setting-line-lengths-in-the-black-python-code-formatter)  
 - `2024-05-18` | [🔗 GitHub - integrations/slack: Bring your code to the conversations you care about with the GitHub and Slack integration](https://www.yellowduck.be/posts/github-integrations-slack-bring-your-code-to-the-conversations-you-care-about-with-the-github-and-slack-integration)  
 - `2024-05-17` | [🐥 Caveat with MySQL full-text search and testing](https://www.yellowduck.be/posts/caveat-with-mysql-full-text-search-and-testing)  
-- `2024-05-08` | [🔗 Rotating one or more pages in a PDF in linux](https://www.yellowduck.be/posts/rotating-one-or-more-pages-in-a-pdf-in-linux-daniel-paul-odonnell)  
 
 <!-- BLOG-POST-LIST:END -->
