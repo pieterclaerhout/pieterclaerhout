@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-05-31` | [🐥 Using Laravel migration with different databases](https://www.yellowduck.be/posts/using-laravel-migration-with-different-databases)  
 - `2024-05-31` | [🔗 Essays on programming I think about a lot](https://www.yellowduck.be/posts/essays-on-programming-i-think-about-a-lot)  
 - `2024-05-30` | [🐥 Purging the MySQL binlogs](https://www.yellowduck.be/posts/purging-the-mysql-binlogs)  
 - `2024-05-30` | [🔗 iyaja/llama-fs: A self-organizing file system with llama 3](https://www.yellowduck.be/posts/github-iyaja-llama-fs-a-self-organizing-file-system-with-llama-3)  
@@ -22,6 +23,5 @@
 - `2024-05-28` | [🔗 Your Bike Tires Are Too Skinny. Riding on Fat, Supple Tires Is Just Better](https://www.yellowduck.be/posts/your-bike-tires-are-too-skinny-riding-on-fat-supple-tires-is-just-better)  
 - `2024-05-26` | [🐥 Laravel collections and first call callables](https://www.yellowduck.be/posts/laravel-collections-and-first-call-callables)  
 - `2024-05-23` | [🐥 Using a cookie jar with the Laravel HTTP client](https://www.yellowduck.be/posts/using-a-cookie-jar-with-the-laravel-http-client)  
-- `2024-05-23` | [🔗 VSCode: Setting line lengths in the Black Python code formatter](https://www.yellowduck.be/posts/vscode-setting-line-lengths-in-the-black-python-code-formatter)  
 
 <!-- BLOG-POST-LIST:END -->
