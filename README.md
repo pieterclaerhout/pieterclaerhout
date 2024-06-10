@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-06-10` | [🔗 Database Design for Google Calendar: a tutorial](https://www.yellowduck.be/posts/database-design-for-google-calendar-a-tutorial)  
 - `2024-06-07` | [🔗 Breaking up is hard to do: Chunking in RAG applications](https://www.yellowduck.be/posts/breaking-up-is-hard-to-do-chunking-in-rag-applications-stack-overflow)  
 - `2024-06-02` | [🔗 Custom Retriever | 🦜️🔗 LangChain](https://www.yellowduck.be/posts/custom-retriever-langchain)  
 - `2024-06-01` | [🔗 From $erverless to Elixir](https://www.yellowduck.be/posts/from-erverless-to-elixir)  
@@ -22,6 +23,5 @@
 - `2024-05-30` | [🔗 iyaja/llama-fs: A self-organizing file system with llama 3](https://www.yellowduck.be/posts/github-iyaja-llama-fs-a-self-organizing-file-system-with-llama-3)  
 - `2024-05-29` | [🐥 Streaming a download to a file using the Laravel HTTP client](https://www.yellowduck.be/posts/streaming-a-download-to-a-file-using-the-laravel-http-client)  
 - `2024-05-29` | [🔗 Phoenix LiveView 1.0-rc is here! - Phoenix Blog](https://www.yellowduck.be/posts/phoenix-liveview-1-0-rc-is-here-phoenix-blog)  
-- `2024-05-28` | [🐥 Fast import of CSV data into PostgreSQL](https://www.yellowduck.be/posts/fast-import-of-csv-data-into-postgresql)  
 
 <!-- BLOG-POST-LIST:END -->
