@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-06-18` | [🔗 A quote from Russ Cox](https://www.yellowduck.be/posts/a-quote-from-russ-cox)  
 - `2024-06-10` | [🔗 How to scale document question answering using LLMs](https://www.yellowduck.be/posts/how-to-scale-document-question-answering-using-llms)  
 - `2024-06-10` | [🔗 Database Design for Google Calendar: a tutorial](https://www.yellowduck.be/posts/database-design-for-google-calendar-a-tutorial)  
 - `2024-06-07` | [🔗 Breaking up is hard to do: Chunking in RAG applications](https://www.yellowduck.be/posts/breaking-up-is-hard-to-do-chunking-in-rag-applications-stack-overflow)  
@@ -22,6 +23,5 @@
 - `2024-05-31` | [🔗 Essays on programming I think about a lot](https://www.yellowduck.be/posts/essays-on-programming-i-think-about-a-lot)  
 - `2024-05-30` | [🐥 Purging the MySQL binlogs](https://www.yellowduck.be/posts/purging-the-mysql-binlogs)  
 - `2024-05-30` | [🔗 iyaja/llama-fs: A self-organizing file system with llama 3](https://www.yellowduck.be/posts/github-iyaja-llama-fs-a-self-organizing-file-system-with-llama-3)  
-- `2024-05-29` | [🐥 Streaming a download to a file using the Laravel HTTP client](https://www.yellowduck.be/posts/streaming-a-download-to-a-file-using-the-laravel-http-client)  
 
 <!-- BLOG-POST-LIST:END -->
