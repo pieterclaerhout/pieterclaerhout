@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-06-25` | [🔗 Modern SQLite](https://www.yellowduck.be/posts/modern-sqlite)  
 - `2024-06-25` | [🔗 How to uninstall Panda Security](https://www.yellowduck.be/posts/how-to-uninstall-products-based-on-aether-platform-in-windows-linux-macos-ios-and-android-technical-support-panda-security)  
 - `2024-06-24` | [🔗 UUIDv7 in 31 languages](https://www.yellowduck.be/posts/uuidv7-in-31-languages)  
 - `2024-06-23` | [🔗 Many yes/no attributes: table design study](https://www.yellowduck.be/posts/many-yes-no-attributes-table-design-study)  
@@ -22,6 +23,5 @@
 - `2024-06-20` | [🔗 The decline of the user interface](https://www.yellowduck.be/posts/the-decline-of-the-user-interface)  
 - `2024-06-19` | [🔗 Laravel Typed Collection](https://www.yellowduck.be/posts/laravel-typed-collection)  
 - `2024-06-18` | [🔗 A quote from Russ Cox](https://www.yellowduck.be/posts/a-quote-from-russ-cox)  
-- `2024-06-10` | [🔗 How to scale document question answering using LLMs](https://www.yellowduck.be/posts/how-to-scale-document-question-answering-using-llms)  
 
 <!-- BLOG-POST-LIST:END -->
