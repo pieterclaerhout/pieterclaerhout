@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-06-25` | [🔗 How to uninstall Panda Security](https://www.yellowduck.be/posts/how-to-uninstall-products-based-on-aether-platform-in-windows-linux-macos-ios-and-android-technical-support-panda-security)  
 - `2024-06-24` | [🔗 UUIDv7 in 31 languages](https://www.yellowduck.be/posts/uuidv7-in-31-languages)  
 - `2024-06-23` | [🔗 Many yes/no attributes: table design study](https://www.yellowduck.be/posts/many-yes-no-attributes-table-design-study)  
 - `2024-06-22` | [🔗 Web apps have client and server state &lpar;plus realtime and LiveView&rpar;](https://www.yellowduck.be/posts/web-apps-have-client-and-server-state-plus-realtime-and-liveview-dashbit-blog)  
@@ -22,6 +23,5 @@
 - `2024-06-19` | [🔗 Laravel Typed Collection](https://www.yellowduck.be/posts/laravel-typed-collection)  
 - `2024-06-18` | [🔗 A quote from Russ Cox](https://www.yellowduck.be/posts/a-quote-from-russ-cox)  
 - `2024-06-10` | [🔗 How to scale document question answering using LLMs](https://www.yellowduck.be/posts/how-to-scale-document-question-answering-using-llms)  
-- `2024-06-10` | [🔗 Database Design for Google Calendar: a tutorial](https://www.yellowduck.be/posts/database-design-for-google-calendar-a-tutorial)  
 
 <!-- BLOG-POST-LIST:END -->
