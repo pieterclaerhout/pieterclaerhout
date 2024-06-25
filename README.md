@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-06-25` | [🐥 TIL: Unpacking a .pkg file on macOS](https://www.yellowduck.be/posts/til-unpacking-a-pkg-file-on-macos)  
 - `2024-06-25` | [🔗 Modern SQLite](https://www.yellowduck.be/posts/modern-sqlite)  
 - `2024-06-25` | [🔗 How to uninstall Panda Security](https://www.yellowduck.be/posts/how-to-uninstall-products-based-on-aether-platform-in-windows-linux-macos-ios-and-android-technical-support-panda-security)  
 - `2024-06-24` | [🔗 UUIDv7 in 31 languages](https://www.yellowduck.be/posts/uuidv7-in-31-languages)  
@@ -22,6 +23,5 @@
 - `2024-06-21` | [🔗 LiveView Is Not a Zero-JS Framework, It&#39;s a Zero-Boring-JS Framework](https://www.yellowduck.be/posts/liveview-is-not-a-zero-js-framework-its-a-zero-boring-js-framework-tyler-barker)  
 - `2024-06-20` | [🔗 The decline of the user interface](https://www.yellowduck.be/posts/the-decline-of-the-user-interface)  
 - `2024-06-19` | [🔗 Laravel Typed Collection](https://www.yellowduck.be/posts/laravel-typed-collection)  
-- `2024-06-18` | [🔗 A quote from Russ Cox](https://www.yellowduck.be/posts/a-quote-from-russ-cox)  
 
 <!-- BLOG-POST-LIST:END -->
