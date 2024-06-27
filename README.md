@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-06-27` | [🐥 PHP &amp; PostgreSQL: Resource temporarily unavailable](https://www.yellowduck.be/posts/php-and-postgresql-resource-temporarily-unavailable)  
 - `2024-06-27` | [🔗 Litestream - Streaming SQLite Replication](https://www.yellowduck.be/posts/litestream-streaming-sqlite-replication)  
 - `2024-06-26` | [🐥 Using Laravel to format SQL statements](https://www.yellowduck.be/posts/using-laravel-to-format-sql-statements)  
 - `2024-06-26` | [🔗 Elixir, Phoenix, and the OWASP Top 10](https://www.yellowduck.be/posts/elixir-phoenix-and-the-owasp-top-10)  
@@ -22,6 +23,5 @@
 - `2024-06-24` | [🔗 UUIDv7 in 31 languages](https://www.yellowduck.be/posts/uuidv7-in-31-languages)  
 - `2024-06-23` | [🔗 Many yes/no attributes: table design study](https://www.yellowduck.be/posts/many-yes-no-attributes-table-design-study)  
 - `2024-06-22` | [🔗 Web apps have client and server state &lpar;plus realtime and LiveView&rpar;](https://www.yellowduck.be/posts/web-apps-have-client-and-server-state-plus-realtime-and-liveview-dashbit-blog)  
-- `2024-06-21` | [🐥 Importing CSV files into SQLite](https://www.yellowduck.be/posts/importing-csv-files-into-sqlite)  
 
 <!-- BLOG-POST-LIST:END -->
