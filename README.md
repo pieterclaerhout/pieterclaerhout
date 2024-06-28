@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-06-28` | [🔗 Why does SQLite &lpar;in production&rpar; have such a bad rep?](https://www.yellowduck.be/posts/why-does-sqlite-in-production-have-such-a-bad-rep-blag)  
 - `2024-06-27` | [🐥 PHP &amp; PostgreSQL: Resource temporarily unavailable](https://www.yellowduck.be/posts/php-and-postgresql-resource-temporarily-unavailable)  
 - `2024-06-27` | [🔗 Litestream - Streaming SQLite Replication](https://www.yellowduck.be/posts/litestream-streaming-sqlite-replication)  
 - `2024-06-26` | [🐥 Using Laravel to format SQL statements](https://www.yellowduck.be/posts/using-laravel-to-format-sql-statements)  
@@ -22,6 +23,5 @@
 - `2024-06-25` | [🔗 How to uninstall Panda Security](https://www.yellowduck.be/posts/how-to-uninstall-products-based-on-aether-platform-in-windows-linux-macos-ios-and-android-technical-support-panda-security)  
 - `2024-06-24` | [🔗 UUIDv7 in 31 languages](https://www.yellowduck.be/posts/uuidv7-in-31-languages)  
 - `2024-06-23` | [🔗 Many yes/no attributes: table design study](https://www.yellowduck.be/posts/many-yes-no-attributes-table-design-study)  
-- `2024-06-22` | [🔗 Web apps have client and server state &lpar;plus realtime and LiveView&rpar;](https://www.yellowduck.be/posts/web-apps-have-client-and-server-state-plus-realtime-and-liveview-dashbit-blog)  
 
 <!-- BLOG-POST-LIST:END -->
