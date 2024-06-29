@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-06-29` | [🔗 Why we no longer use LangChain for building our AI agents](https://www.yellowduck.be/posts/why-we-no-longer-use-langchain-for-building-our-ai-agents)  
 - `2024-06-28` | [🔗 Why does SQLite &lpar;in production&rpar; have such a bad rep?](https://www.yellowduck.be/posts/why-does-sqlite-in-production-have-such-a-bad-rep-blag)  
 - `2024-06-27` | [🐥 PHP &amp; PostgreSQL: Resource temporarily unavailable](https://www.yellowduck.be/posts/php-and-postgresql-resource-temporarily-unavailable)  
 - `2024-06-27` | [🔗 Litestream - Streaming SQLite Replication](https://www.yellowduck.be/posts/litestream-streaming-sqlite-replication)  
@@ -22,6 +23,5 @@
 - `2024-06-25` | [🔗 Modern SQLite](https://www.yellowduck.be/posts/modern-sqlite)  
 - `2024-06-25` | [🔗 How to uninstall Panda Security](https://www.yellowduck.be/posts/how-to-uninstall-products-based-on-aether-platform-in-windows-linux-macos-ios-and-android-technical-support-panda-security)  
 - `2024-06-24` | [🔗 UUIDv7 in 31 languages](https://www.yellowduck.be/posts/uuidv7-in-31-languages)  
-- `2024-06-23` | [🔗 Many yes/no attributes: table design study](https://www.yellowduck.be/posts/many-yes-no-attributes-table-design-study)  
 
 <!-- BLOG-POST-LIST:END -->
