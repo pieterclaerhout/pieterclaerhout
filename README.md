@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-07-02` | [🔗 Cookie-based authentication with Laravel Sanctum](https://www.yellowduck.be/posts/cookie-based-authentication-with-laravel-sanctum)  
 - `2024-07-01` | [🔗 Leverage Concurrency Efficiently When Managing Multiple Tasks in Elixir](https://www.yellowduck.be/posts/leverage-concurrency-efficiently-when-managing-multiple-tasks-in-elixir-appsignal-blog)  
 - `2024-06-30` | [🔗 An end-to-end ES/CQRS example with EventStoreDB and Phoenix/LiveView](https://www.yellowduck.be/posts/an-end-to-end-es-cqrs-example-with-eventstoredb-and-phoenix-liveview)  
 - `2024-06-29` | [🔗 Why we no longer use LangChain for building our AI agents](https://www.yellowduck.be/posts/why-we-no-longer-use-langchain-for-building-our-ai-agents)  
@@ -22,6 +23,5 @@
 - `2024-06-26` | [🐥 Using Laravel to format SQL statements](https://www.yellowduck.be/posts/using-laravel-to-format-sql-statements)  
 - `2024-06-26` | [🔗 Elixir, Phoenix, and the OWASP Top 10](https://www.yellowduck.be/posts/elixir-phoenix-and-the-owasp-top-10)  
 - `2024-06-25` | [🐥 TIL: Unpacking a .pkg file on macOS](https://www.yellowduck.be/posts/til-unpacking-a-pkg-file-on-macos)  
-- `2024-06-25` | [🔗 Modern SQLite](https://www.yellowduck.be/posts/modern-sqlite)  
 
 <!-- BLOG-POST-LIST:END -->
