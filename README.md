@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-07-03` | [🔗 2-Page Login Pattern, And How To Fix It](https://www.yellowduck.be/posts/2-page-login-pattern-and-how-to-fix-it-smashing-magazine)  
 - `2024-07-02` | [🔗 Cookie-based authentication with Laravel Sanctum](https://www.yellowduck.be/posts/cookie-based-authentication-with-laravel-sanctum)  
 - `2024-07-01` | [🔗 Leverage Concurrency Efficiently When Managing Multiple Tasks in Elixir](https://www.yellowduck.be/posts/leverage-concurrency-efficiently-when-managing-multiple-tasks-in-elixir-appsignal-blog)  
 - `2024-06-30` | [🔗 An end-to-end ES/CQRS example with EventStoreDB and Phoenix/LiveView](https://www.yellowduck.be/posts/an-end-to-end-es-cqrs-example-with-eventstoredb-and-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2024-06-27` | [🔗 Litestream - Streaming SQLite Replication](https://www.yellowduck.be/posts/litestream-streaming-sqlite-replication)  
 - `2024-06-26` | [🐥 Using Laravel to format SQL statements](https://www.yellowduck.be/posts/using-laravel-to-format-sql-statements)  
 - `2024-06-26` | [🔗 Elixir, Phoenix, and the OWASP Top 10](https://www.yellowduck.be/posts/elixir-phoenix-and-the-owasp-top-10)  
-- `2024-06-25` | [🐥 TIL: Unpacking a .pkg file on macOS](https://www.yellowduck.be/posts/til-unpacking-a-pkg-file-on-macos)  
 
 <!-- BLOG-POST-LIST:END -->
