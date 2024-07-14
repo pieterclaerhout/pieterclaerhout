@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-07-14` | [🔗 Startup Playbook &lpar;Sam Altman&rpar;](https://www.yellowduck.be/posts/startup-playbook)  
 - `2024-07-13` | [🔗 Learning Elixir as a frontend developer](https://www.yellowduck.be/posts/learning-elixir-as-a-frontend-developer)  
 - `2024-07-03` | [🔗 2-Page Login Pattern, And How To Fix It](https://www.yellowduck.be/posts/2-page-login-pattern-and-how-to-fix-it-smashing-magazine)  
 - `2024-07-02` | [🔗 Cookie-based authentication with Laravel Sanctum](https://www.yellowduck.be/posts/cookie-based-authentication-with-laravel-sanctum)  
@@ -22,6 +23,5 @@
 - `2024-06-28` | [🔗 Why does SQLite &lpar;in production&rpar; have such a bad rep?](https://www.yellowduck.be/posts/why-does-sqlite-in-production-have-such-a-bad-rep-blag)  
 - `2024-06-27` | [🐥 PHP &amp; PostgreSQL: Resource temporarily unavailable](https://www.yellowduck.be/posts/php-and-postgresql-resource-temporarily-unavailable)  
 - `2024-06-27` | [🔗 Litestream - Streaming SQLite Replication](https://www.yellowduck.be/posts/litestream-streaming-sqlite-replication)  
-- `2024-06-26` | [🐥 Using Laravel to format SQL statements](https://www.yellowduck.be/posts/using-laravel-to-format-sql-statements)  
 
 <!-- BLOG-POST-LIST:END -->
