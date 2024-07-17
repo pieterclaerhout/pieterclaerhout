@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-07-17` | [🔗 Postgres is Enough](https://www.yellowduck.be/posts/postgres-is-enough)  
 - `2024-07-16` | [🔗 I Probably Hate Writing Code in Your Favorite Language](https://www.yellowduck.be/posts/i-probably-hate-writing-code-in-your-favorite-language)  
 - `2024-07-15` | [🔗 How to integrate Tabler Icons into your Phoenix project](https://www.yellowduck.be/posts/how-to-integrate-tabler-icons-into-your-phoenix-project)  
 - `2024-07-14` | [🔗 Startup Playbook &lpar;Sam Altman&rpar;](https://www.yellowduck.be/posts/startup-playbook)  
@@ -22,6 +23,5 @@
 - `2024-07-01` | [🔗 Leverage Concurrency Efficiently When Managing Multiple Tasks in Elixir](https://www.yellowduck.be/posts/leverage-concurrency-efficiently-when-managing-multiple-tasks-in-elixir-appsignal-blog)  
 - `2024-06-30` | [🔗 An end-to-end ES/CQRS example with EventStoreDB and Phoenix/LiveView](https://www.yellowduck.be/posts/an-end-to-end-es-cqrs-example-with-eventstoredb-and-phoenix-liveview)  
 - `2024-06-29` | [🔗 Why we no longer use LangChain for building our AI agents](https://www.yellowduck.be/posts/why-we-no-longer-use-langchain-for-building-our-ai-agents)  
-- `2024-06-28` | [🔗 Why does SQLite &lpar;in production&rpar; have such a bad rep?](https://www.yellowduck.be/posts/why-does-sqlite-in-production-have-such-a-bad-rep-blag)  
 
 <!-- BLOG-POST-LIST:END -->
