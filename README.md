@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-07-19` | [🔗 TIL: 8 versions of UUID and when to use them](https://www.yellowduck.be/posts/til-8-versions-of-uuid-and-when-to-use-them-nicoleatweb)  
 - `2024-07-18` | [🔗 Erlang | mise-en-place](https://www.yellowduck.be/posts/erlang-mise-en-place)  
 - `2024-07-18` | [🔗 Installing Elixir and Erlang using Asdf In Ubuntu](https://www.yellowduck.be/posts/installing-elixir-and-erlang-using-asdf-in-ubuntu)  
 - `2024-07-17` | [🔗 Postgres is Enough](https://www.yellowduck.be/posts/postgres-is-enough)  
@@ -22,6 +23,5 @@
 - `2024-07-13` | [🔗 Learning Elixir as a frontend developer](https://www.yellowduck.be/posts/learning-elixir-as-a-frontend-developer)  
 - `2024-07-03` | [🔗 2-Page Login Pattern, And How To Fix It](https://www.yellowduck.be/posts/2-page-login-pattern-and-how-to-fix-it-smashing-magazine)  
 - `2024-07-02` | [🔗 Cookie-based authentication with Laravel Sanctum](https://www.yellowduck.be/posts/cookie-based-authentication-with-laravel-sanctum)  
-- `2024-07-01` | [🔗 Leverage Concurrency Efficiently When Managing Multiple Tasks in Elixir](https://www.yellowduck.be/posts/leverage-concurrency-efficiently-when-managing-multiple-tasks-in-elixir-appsignal-blog)  
 
 <!-- BLOG-POST-LIST:END -->
