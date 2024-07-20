@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-07-20` | [🔗 Serving a billion web requests with boring code](https://www.yellowduck.be/posts/serving-a-billion-web-requests-with-boring-code)  
 - `2024-07-19` | [🔗 TIL: 8 versions of UUID and when to use them](https://www.yellowduck.be/posts/til-8-versions-of-uuid-and-when-to-use-them-nicoleatweb)  
 - `2024-07-18` | [🔗 Erlang | mise-en-place](https://www.yellowduck.be/posts/erlang-mise-en-place)  
 - `2024-07-18` | [🔗 Installing Elixir and Erlang using Asdf In Ubuntu](https://www.yellowduck.be/posts/installing-elixir-and-erlang-using-asdf-in-ubuntu)  
@@ -22,6 +23,5 @@
 - `2024-07-14` | [🔗 Startup Playbook &lpar;Sam Altman&rpar;](https://www.yellowduck.be/posts/startup-playbook)  
 - `2024-07-13` | [🔗 Learning Elixir as a frontend developer](https://www.yellowduck.be/posts/learning-elixir-as-a-frontend-developer)  
 - `2024-07-03` | [🔗 2-Page Login Pattern, And How To Fix It](https://www.yellowduck.be/posts/2-page-login-pattern-and-how-to-fix-it-smashing-magazine)  
-- `2024-07-02` | [🔗 Cookie-based authentication with Laravel Sanctum](https://www.yellowduck.be/posts/cookie-based-authentication-with-laravel-sanctum)  
 
 <!-- BLOG-POST-LIST:END -->
