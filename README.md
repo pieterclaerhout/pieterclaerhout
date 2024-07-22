@@ -13,15 +13,15 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-07-22` | [🔗 Dependabot&#39;s dependency grouping is awesome](https://www.yellowduck.be/posts/dependabots-dependency-grouping-is-awesome-programming-for-fun-and-profit)  
 - `2024-07-21` | [🔗 Just Use Postgres for Everything](https://www.yellowduck.be/posts/just-use-postgres-for-everything-amazing-cto)  
 - `2024-07-20` | [🔗 Serving a billion web requests with boring code](https://www.yellowduck.be/posts/serving-a-billion-web-requests-with-boring-code)  
 - `2024-07-19` | [🔗 TIL: 8 versions of UUID and when to use them](https://www.yellowduck.be/posts/til-8-versions-of-uuid-and-when-to-use-them-nicoleatweb)  
 - `2024-07-18` | [🔗 Erlang | mise-en-place](https://www.yellowduck.be/posts/erlang-mise-en-place)  
 - `2024-07-18` | [🔗 Installing Elixir and Erlang using Asdf In Ubuntu](https://www.yellowduck.be/posts/installing-elixir-and-erlang-using-asdf-in-ubuntu)  
+- `2024-07-17` | [🔗 FakerPHP / Faker - Numbers and Strings](https://www.yellowduck.be/posts/fakerphp-faker-numbers-and-strings)  
 - `2024-07-17` | [🔗 Postgres is Enough](https://www.yellowduck.be/posts/postgres-is-enough)  
 - `2024-07-16` | [🔗 I Probably Hate Writing Code in Your Favorite Language](https://www.yellowduck.be/posts/i-probably-hate-writing-code-in-your-favorite-language)  
 - `2024-07-15` | [🔗 How to integrate Tabler Icons into your Phoenix project](https://www.yellowduck.be/posts/how-to-integrate-tabler-icons-into-your-phoenix-project)  
-- `2024-07-14` | [🔗 Startup Playbook &lpar;Sam Altman&rpar;](https://www.yellowduck.be/posts/startup-playbook)  
-- `2024-07-13` | [🔗 Learning Elixir as a frontend developer](https://www.yellowduck.be/posts/learning-elixir-as-a-frontend-developer)  
 
 <!-- BLOG-POST-LIST:END -->
