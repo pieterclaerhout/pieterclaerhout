@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-07-24` | [🔗 An ORDER BY statement improved our query times by 100x](https://www.yellowduck.be/posts/an-order-by-statement-improved-our-query-times-by-100x)  
 - `2024-07-23` | [🔗 Retrieval Augmented Generation: What It Is and How to Start Using It](https://www.yellowduck.be/posts/retrieval-augmented-generation-what-it-is-and-how-to-start-using-it)  
 - `2024-07-22` | [🔗 Dependabot&#39;s dependency grouping is awesome](https://www.yellowduck.be/posts/dependabots-dependency-grouping-is-awesome-programming-for-fun-and-profit)  
 - `2024-07-21` | [🔗 Just Use Postgres for Everything](https://www.yellowduck.be/posts/just-use-postgres-for-everything-amazing-cto)  
@@ -22,6 +23,5 @@
 - `2024-07-18` | [🔗 Installing Elixir and Erlang using Asdf In Ubuntu](https://www.yellowduck.be/posts/installing-elixir-and-erlang-using-asdf-in-ubuntu)  
 - `2024-07-17` | [🔗 FakerPHP / Faker - Numbers and Strings](https://www.yellowduck.be/posts/fakerphp-faker-numbers-and-strings)  
 - `2024-07-17` | [🔗 Postgres is Enough](https://www.yellowduck.be/posts/postgres-is-enough)  
-- `2024-07-16` | [🔗 I Probably Hate Writing Code in Your Favorite Language](https://www.yellowduck.be/posts/i-probably-hate-writing-code-in-your-favorite-language)  
 
 <!-- BLOG-POST-LIST:END -->
