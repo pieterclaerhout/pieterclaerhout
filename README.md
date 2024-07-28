@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-07-28` | [🔗 Building Real-Time Features with Phoenix Live View and PubSub](https://www.yellowduck.be/posts/building-real-time-features-with-phoenix-live-view-and-pubsub-blog-elixir-school)  
 - `2024-07-27` | [🔗 Creating an RSS feed in Elixir and Phoenix](https://www.yellowduck.be/posts/computer-things-by-erik-hanson)  
 - `2024-07-26` | [🔗 Why RSS Content Module is Popular - Including HTML Contents](https://www.yellowduck.be/posts/why-rss-content-module-is-popular-including-html-contents)  
 - `2024-07-25` | [🔗 Fine Tuning Full Text Search with PostgreSQL 12](https://www.yellowduck.be/posts/fine-tuning-full-text-search-with-postgresql-12-big-machine)  
@@ -22,6 +23,5 @@
 - `2024-07-21` | [🔗 Just Use Postgres for Everything](https://www.yellowduck.be/posts/just-use-postgres-for-everything-amazing-cto)  
 - `2024-07-20` | [🔗 Serving a billion web requests with boring code](https://www.yellowduck.be/posts/serving-a-billion-web-requests-with-boring-code)  
 - `2024-07-19` | [🔗 TIL: 8 versions of UUID and when to use them](https://www.yellowduck.be/posts/til-8-versions-of-uuid-and-when-to-use-them-nicoleatweb)  
-- `2024-07-18` | [🔗 Erlang | mise-en-place](https://www.yellowduck.be/posts/erlang-mise-en-place)  
 
 <!-- BLOG-POST-LIST:END -->
