@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-07-29` | [🔗 How to respond to channel broadcasts in a Phoenix LiveView app layout &lpar;global broadcasts&rpar;](https://www.yellowduck.be/posts/how-to-respond-to-channel-broadcasts-in-a-phoenix-liveview-app-layout-global-broadcasts)  
 - `2024-07-28` | [🔗 Building Real-Time Features with Phoenix Live View and PubSub](https://www.yellowduck.be/posts/building-real-time-features-with-phoenix-live-view-and-pubsub-blog-elixir-school)  
 - `2024-07-27` | [🔗 Creating an RSS feed in Elixir and Phoenix](https://www.yellowduck.be/posts/computer-things-by-erik-hanson)  
 - `2024-07-26` | [🔗 Why RSS Content Module is Popular - Including HTML Contents](https://www.yellowduck.be/posts/why-rss-content-module-is-popular-including-html-contents)  
@@ -22,6 +23,5 @@
 - `2024-07-22` | [🔗 Dependabot&#39;s dependency grouping is awesome](https://www.yellowduck.be/posts/dependabots-dependency-grouping-is-awesome-programming-for-fun-and-profit)  
 - `2024-07-21` | [🔗 Just Use Postgres for Everything](https://www.yellowduck.be/posts/just-use-postgres-for-everything-amazing-cto)  
 - `2024-07-20` | [🔗 Serving a billion web requests with boring code](https://www.yellowduck.be/posts/serving-a-billion-web-requests-with-boring-code)  
-- `2024-07-19` | [🔗 TIL: 8 versions of UUID and when to use them](https://www.yellowduck.be/posts/til-8-versions-of-uuid-and-when-to-use-them-nicoleatweb)  
 
 <!-- BLOG-POST-LIST:END -->
