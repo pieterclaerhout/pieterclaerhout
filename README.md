@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-07-30` | [🔗 Igniter - Rethinking code generation with project patching](https://www.yellowduck.be/posts/igniter-rethinking-code-generation-with-project-patching)  
 - `2024-07-29` | [🔗 How to respond to channel broadcasts in a Phoenix LiveView app layout &lpar;global broadcasts&rpar;](https://www.yellowduck.be/posts/how-to-respond-to-channel-broadcasts-in-a-phoenix-liveview-app-layout-global-broadcasts)  
 - `2024-07-28` | [🔗 Building Real-Time Features with Phoenix Live View and PubSub](https://www.yellowduck.be/posts/building-real-time-features-with-phoenix-live-view-and-pubsub-blog-elixir-school)  
 - `2024-07-27` | [🔗 Creating an RSS feed in Elixir and Phoenix](https://www.yellowduck.be/posts/computer-things-by-erik-hanson)  
@@ -22,6 +23,5 @@
 - `2024-07-23` | [🔗 Retrieval Augmented Generation: What It Is and How to Start Using It](https://www.yellowduck.be/posts/retrieval-augmented-generation-what-it-is-and-how-to-start-using-it)  
 - `2024-07-22` | [🔗 Dependabot&#39;s dependency grouping is awesome](https://www.yellowduck.be/posts/dependabots-dependency-grouping-is-awesome-programming-for-fun-and-profit)  
 - `2024-07-21` | [🔗 Just Use Postgres for Everything](https://www.yellowduck.be/posts/just-use-postgres-for-everything-amazing-cto)  
-- `2024-07-20` | [🔗 Serving a billion web requests with boring code](https://www.yellowduck.be/posts/serving-a-billion-web-requests-with-boring-code)  
 
 <!-- BLOG-POST-LIST:END -->
