@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-07-31` | [🐥 Testing streamed dowloads in Laravel](https://www.yellowduck.be/posts/testing-streamed-dowloads-in-laravel)  
 - `2024-07-31` | [🔗 Setting up Laravel Valet in 2024 | Undocumented Docs](https://www.yellowduck.be/posts/setting-up-laravel-valet-in-2024-undocumented-docs)  
 - `2024-07-30` | [🔗 Igniter - Rethinking code generation with project patching](https://www.yellowduck.be/posts/igniter-rethinking-code-generation-with-project-patching)  
 - `2024-07-29` | [🔗 How to respond to channel broadcasts in a Phoenix LiveView app layout &lpar;global broadcasts&rpar;](https://www.yellowduck.be/posts/how-to-respond-to-channel-broadcasts-in-a-phoenix-liveview-app-layout-global-broadcasts)  
@@ -22,6 +23,5 @@
 - `2024-07-25` | [🔗 Fine Tuning Full Text Search with PostgreSQL 12](https://www.yellowduck.be/posts/fine-tuning-full-text-search-with-postgresql-12-big-machine)  
 - `2024-07-24` | [🔗 An ORDER BY statement improved our query times by 100x](https://www.yellowduck.be/posts/an-order-by-statement-improved-our-query-times-by-100x)  
 - `2024-07-23` | [🔗 Retrieval Augmented Generation: What It Is and How to Start Using It](https://www.yellowduck.be/posts/retrieval-augmented-generation-what-it-is-and-how-to-start-using-it)  
-- `2024-07-22` | [🔗 Dependabot&#39;s dependency grouping is awesome](https://www.yellowduck.be/posts/dependabots-dependency-grouping-is-awesome-programming-for-fun-and-profit)  
 
 <!-- BLOG-POST-LIST:END -->
