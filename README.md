@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-08-01` | [🐥 Quick Access to Repo Config in Elixir](https://www.yellowduck.be/posts/quick-access-to-repo-config)  
 - `2024-08-01` | [🔗 Checking Efx - testable effects for Elixir](https://www.yellowduck.be/posts/checking-efx-testable-effects-for-elixir-katafrakts-garden)  
 - `2024-07-31` | [🐥 Testing streamed dowloads in Laravel](https://www.yellowduck.be/posts/testing-streamed-dowloads-in-laravel)  
 - `2024-07-31` | [🔗 Setting up Laravel Valet in 2024 | Undocumented Docs](https://www.yellowduck.be/posts/setting-up-laravel-valet-in-2024-undocumented-docs)  
@@ -22,6 +23,5 @@
 - `2024-07-27` | [🔗 Creating an RSS feed in Elixir and Phoenix](https://www.yellowduck.be/posts/computer-things-by-erik-hanson)  
 - `2024-07-26` | [🔗 Why RSS Content Module is Popular - Including HTML Contents](https://www.yellowduck.be/posts/why-rss-content-module-is-popular-including-html-contents)  
 - `2024-07-25` | [🔗 Fine Tuning Full Text Search with PostgreSQL 12](https://www.yellowduck.be/posts/fine-tuning-full-text-search-with-postgresql-12-big-machine)  
-- `2024-07-24` | [🔗 An ORDER BY statement improved our query times by 100x](https://www.yellowduck.be/posts/an-order-by-statement-improved-our-query-times-by-100x)  
 
 <!-- BLOG-POST-LIST:END -->
