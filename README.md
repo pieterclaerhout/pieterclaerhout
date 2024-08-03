@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-08-03` | [🔗 The RAG Engineer&#39;s Guide to Document Parsing](https://www.yellowduck.be/posts/the-rag-engineers-guide-to-document-parsing)  
 - `2024-08-02` | [🐥 One quick way to find out which functions you&#39;re executing](https://www.yellowduck.be/posts/one-quick-way-to-find-out-which-functions-youre-executing)  
 - `2024-08-02` | [🔗 CSS One-Liners to Improve &lpar;Almost&rpar; Every Project](https://www.yellowduck.be/posts/css-one-liners-to-improve-almost-every-project)  
 - `2024-08-01` | [🐥 Quick Access to Repo Config in Elixir](https://www.yellowduck.be/posts/quick-access-to-repo-config)  
@@ -22,6 +23,5 @@
 - `2024-07-30` | [🔗 Igniter - Rethinking code generation with project patching](https://www.yellowduck.be/posts/igniter-rethinking-code-generation-with-project-patching)  
 - `2024-07-29` | [🔗 How to respond to channel broadcasts in a Phoenix LiveView app layout &lpar;global broadcasts&rpar;](https://www.yellowduck.be/posts/how-to-respond-to-channel-broadcasts-in-a-phoenix-liveview-app-layout-global-broadcasts)  
 - `2024-07-28` | [🔗 Building Real-Time Features with Phoenix Live View and PubSub](https://www.yellowduck.be/posts/building-real-time-features-with-phoenix-live-view-and-pubsub-blog-elixir-school)  
-- `2024-07-27` | [🔗 Creating an RSS feed in Elixir and Phoenix](https://www.yellowduck.be/posts/computer-things-by-erik-hanson)  
 
 <!-- BLOG-POST-LIST:END -->
