@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-08-05` | [🐥 Checking and updating the version of Phoenix](https://www.yellowduck.be/posts/checking-and-updating-the-version-of-phoenix)  
 - `2024-08-05` | [🔗 Zo word je sterker met minder training](https://www.yellowduck.be/posts/zo-word-je-sterker-met-minder-training)  
 - `2024-08-04` | [🐥 Reversing a list using Elixir](https://www.yellowduck.be/posts/reversing-a-list-using-elixir)  
 - `2024-08-04` | [🔗 Interview with Jan Heine of René Herse: Low Resistance](https://www.yellowduck.be/posts/interview-with-jan-heine-of-rene-herse-low-resistance)  
@@ -22,6 +23,5 @@
 - `2024-08-02` | [🔗 CSS One-Liners to Improve &lpar;Almost&rpar; Every Project](https://www.yellowduck.be/posts/css-one-liners-to-improve-almost-every-project)  
 - `2024-08-01` | [🐥 Quick Access to Repo Config in Elixir](https://www.yellowduck.be/posts/quick-access-to-repo-config)  
 - `2024-08-01` | [🔗 Checking Efx - testable effects for Elixir](https://www.yellowduck.be/posts/checking-efx-testable-effects-for-elixir-katafrakts-garden)  
-- `2024-07-31` | [🐥 Testing streamed dowloads in Laravel](https://www.yellowduck.be/posts/testing-streamed-dowloads-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
