@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-08-06` | [🐥 Render a Phoenix template to a string](https://www.yellowduck.be/posts/render-a-phoenix-template-to-a-string)  
 - `2024-08-06` | [🔗 Trainen op vermogen](https://www.yellowduck.be/posts/trainen-op-vermogen)  
 - `2024-08-05` | [🐥 Checking and updating the version of Phoenix](https://www.yellowduck.be/posts/checking-and-updating-the-version-of-phoenix)  
 - `2024-08-05` | [🔗 Zo word je sterker met minder training](https://www.yellowduck.be/posts/zo-word-je-sterker-met-minder-training)  
@@ -22,6 +23,5 @@
 - `2024-08-03` | [🔗 The RAG Engineer&#39;s Guide to Document Parsing](https://www.yellowduck.be/posts/the-rag-engineers-guide-to-document-parsing)  
 - `2024-08-02` | [🐥 One quick way to find out which functions you&#39;re executing](https://www.yellowduck.be/posts/one-quick-way-to-find-out-which-functions-youre-executing)  
 - `2024-08-02` | [🔗 CSS One-Liners to Improve &lpar;Almost&rpar; Every Project](https://www.yellowduck.be/posts/css-one-liners-to-improve-almost-every-project)  
-- `2024-08-01` | [🐥 Quick Access to Repo Config in Elixir](https://www.yellowduck.be/posts/quick-access-to-repo-config)  
 
 <!-- BLOG-POST-LIST:END -->
