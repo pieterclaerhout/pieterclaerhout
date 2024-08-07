@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-08-07` | [🔗 If you mock, are you even testing?](https://www.yellowduck.be/posts/if-you-mock-are-you-even-testing)  
 - `2024-08-07` | [🔗 Retrieval-Augmented Generation &lpar;RAG&rpar; with Elixir](https://www.yellowduck.be/posts/retrieval-augmented-generation-rag-with-elixir)  
 - `2024-08-07` | [🔗 Why Mocking Data is a Bad Practice for Testing](https://www.yellowduck.be/posts/why-mocking-data-is-a-bad-practice-for-testing)  
 - `2024-08-06` | [🐥 Render a Phoenix template to a string](https://www.yellowduck.be/posts/render-a-phoenix-template-to-a-string)  
@@ -22,6 +23,5 @@
 - `2024-08-04` | [🐥 Reversing a list using Elixir](https://www.yellowduck.be/posts/reversing-a-list-using-elixir)  
 - `2024-08-04` | [🔗 Interview with Jan Heine of René Herse: Low Resistance](https://www.yellowduck.be/posts/interview-with-jan-heine-of-rene-herse-low-resistance)  
 - `2024-08-03` | [🐥 Get git details from Elixir](https://www.yellowduck.be/posts/get-git-details-from-elixir)  
-- `2024-08-03` | [🔗 The RAG Engineer&#39;s Guide to Document Parsing](https://www.yellowduck.be/posts/the-rag-engineers-guide-to-document-parsing)  
 
 <!-- BLOG-POST-LIST:END -->
