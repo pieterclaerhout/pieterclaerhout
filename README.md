@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-08-07` | [🔗 Retrieval-Augmented Generation &lpar;RAG&rpar; with Elixir](https://www.yellowduck.be/posts/retrieval-augmented-generation-rag-with-elixir)  
+- `2024-08-07` | [🔗 Why Mocking Data is a Bad Practice for Testing](https://www.yellowduck.be/posts/why-mocking-data-is-a-bad-practice-for-testing)  
 - `2024-08-06` | [🐥 Render a Phoenix template to a string](https://www.yellowduck.be/posts/render-a-phoenix-template-to-a-string)  
 - `2024-08-06` | [🔗 Trainen op vermogen](https://www.yellowduck.be/posts/trainen-op-vermogen)  
 - `2024-08-05` | [🐥 Checking and updating the version of Phoenix](https://www.yellowduck.be/posts/checking-and-updating-the-version-of-phoenix)  
@@ -21,7 +23,5 @@
 - `2024-08-04` | [🔗 Interview with Jan Heine of René Herse: Low Resistance](https://www.yellowduck.be/posts/interview-with-jan-heine-of-rene-herse-low-resistance)  
 - `2024-08-03` | [🐥 Get git details from Elixir](https://www.yellowduck.be/posts/get-git-details-from-elixir)  
 - `2024-08-03` | [🔗 The RAG Engineer&#39;s Guide to Document Parsing](https://www.yellowduck.be/posts/the-rag-engineers-guide-to-document-parsing)  
-- `2024-08-02` | [🐥 One quick way to find out which functions you&#39;re executing](https://www.yellowduck.be/posts/one-quick-way-to-find-out-which-functions-youre-executing)  
-- `2024-08-02` | [🔗 CSS One-Liners to Improve &lpar;Almost&rpar; Every Project](https://www.yellowduck.be/posts/css-one-liners-to-improve-almost-every-project)  
 
 <!-- BLOG-POST-LIST:END -->
