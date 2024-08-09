@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-08-09` | [🐥 Dispatching a closure after a response in Laravel](https://www.yellowduck.be/posts/dispatching-a-closure-after-a-response-in-laravel)  
 - `2024-08-09` | [🔗 The 12,000km Setup](https://www.yellowduck.be/posts/the-12-000km-setup)  
 - `2024-08-08` | [🐥 Creating a copy of a database in PostgreSQL](https://www.yellowduck.be/posts/creating-a-copy-of-a-database-in-postgresql)  
 - `2024-08-08` | [🔗 Add columns with custom types in Laravel Migrations](https://www.yellowduck.be/posts/add-columns-with-custom-types-in-laravel-migrations-hbgl)  
@@ -22,6 +23,5 @@
 - `2024-08-07` | [🔗 Why Mocking Data is a Bad Practice for Testing](https://www.yellowduck.be/posts/why-mocking-data-is-a-bad-practice-for-testing)  
 - `2024-08-06` | [🐥 Render a Phoenix template to a string](https://www.yellowduck.be/posts/render-a-phoenix-template-to-a-string)  
 - `2024-08-06` | [🔗 Trainen op vermogen](https://www.yellowduck.be/posts/trainen-op-vermogen)  
-- `2024-08-05` | [🐥 Checking and updating the version of Phoenix](https://www.yellowduck.be/posts/checking-and-updating-the-version-of-phoenix)  
 
 <!-- BLOG-POST-LIST:END -->
