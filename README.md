@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-08-12` | [🔗 Alles wat je moet weten over Critical Power](https://www.yellowduck.be/posts/alles-wat-je-moet-weten-over-critical-power)  
 - `2024-08-11` | [🐥 Using a forked package in Laravel](https://www.yellowduck.be/posts/using-a-forked-package-in-laravel)  
 - `2024-08-11` | [🔗 Stream: Go 10 Week Backend Eng Onboarding](https://www.yellowduck.be/posts/stream-go-10-week-backend-eng-onboarding)  
 - `2024-08-10` | [🐥 Laravel Tip💡: Magic Factories Methods](https://www.yellowduck.be/posts/laravel-tip-magic-factories-methods)  
@@ -22,6 +23,5 @@
 - `2024-08-08` | [🐥 Creating a copy of a database in PostgreSQL](https://www.yellowduck.be/posts/creating-a-copy-of-a-database-in-postgresql)  
 - `2024-08-08` | [🔗 Add columns with custom types in Laravel Migrations](https://www.yellowduck.be/posts/add-columns-with-custom-types-in-laravel-migrations-hbgl)  
 - `2024-08-07` | [🐥 Installing psql version 16 on Ubuntu](https://www.yellowduck.be/posts/installing-psql-version-16-on-ubuntu)  
-- `2024-08-07` | [🔗 If you mock, are you even testing?](https://www.yellowduck.be/posts/if-you-mock-are-you-even-testing)  
 
 <!-- BLOG-POST-LIST:END -->
