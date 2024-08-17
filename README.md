@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-08-17` | [🔗 Understanding Policies in Laravel](https://www.yellowduck.be/posts/understanding-policies-in-laravel)  
 - `2024-08-16` | [🐥 Formatting JSON on save with VS Code](https://www.yellowduck.be/posts/formatting-json-on-save-with-vs-code)  
 - `2024-08-16` | [🔗 Get more specific when asserting events dispatched](https://www.yellowduck.be/posts/get-more-specific-when-asserting-events-dispatched-mastering-laravel)  
 - `2024-08-15` | [🔗 The Science behind Ultra-Wide Rims](https://www.yellowduck.be/posts/the-science-behind-ultra-wide-rims)  
@@ -22,6 +23,5 @@
 - `2024-08-11` | [🐥 Using a forked package in Laravel](https://www.yellowduck.be/posts/using-a-forked-package-in-laravel)  
 - `2024-08-11` | [🔗 Stream: Go 10 Week Backend Eng Onboarding](https://www.yellowduck.be/posts/stream-go-10-week-backend-eng-onboarding)  
 - `2024-08-10` | [🐥 Laravel Tip💡: Magic Factories Methods](https://www.yellowduck.be/posts/laravel-tip-magic-factories-methods)  
-- `2024-08-10` | [🔗 Security Tip: Stop Using MD5 and SHA-1!](https://www.yellowduck.be/posts/security-tip-stop-using-md5-and-sha-1)  
 
 <!-- BLOG-POST-LIST:END -->
