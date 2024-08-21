@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-08-21` | [🔗 Suggesting Changes on GitHub](https://www.yellowduck.be/posts/suggesting-changes-on-github)  
 - `2024-08-19` | [🔗 Verifying Slack Requests in Phoenix](https://www.yellowduck.be/posts/verifying-slack-requests-in-phoenix)  
 - `2024-08-18` | [🔗 Formatting Phoenix HEEx Templates in VS Code](https://www.yellowduck.be/posts/formatting-heex-templates-in-vscode)  
 - `2024-08-17` | [🔗 Understanding Policies in Laravel](https://www.yellowduck.be/posts/understanding-policies-in-laravel)  
@@ -22,6 +23,5 @@
 - `2024-08-14` | [🔗 Free Disk Space &lpar;Ubuntu&rpar; - GitHub Marketplace](https://www.yellowduck.be/posts/free-disk-space-ubuntu-github-marketplace)  
 - `2024-08-13` | [🔗 GitHub - stefanzweifel/laravel-backup-restore](https://www.yellowduck.be/posts/github-stefanzweifel-laravel-backup-restore-a-package-to-restore-database-backups-made-with-spatie-laravel-backup)  
 - `2024-08-12` | [🔗 Alles wat je moet weten over Critical Power](https://www.yellowduck.be/posts/alles-wat-je-moet-weten-over-critical-power)  
-- `2024-08-11` | [🐥 Using a forked package in Laravel](https://www.yellowduck.be/posts/using-a-forked-package-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
