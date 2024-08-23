@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-08-23` | [🔗 Effective Changelogs](https://www.yellowduck.be/posts/effective-changelogs)  
 - `2024-08-22` | [🔗 Pom &lpar;Jozef van Hove&rpar;](https://www.yellowduck.be/posts/pom)  
 - `2024-08-21` | [🔗 Suggesting Changes on GitHub](https://www.yellowduck.be/posts/suggesting-changes-on-github)  
 - `2024-08-19` | [🔗 Verifying Slack Requests in Phoenix](https://www.yellowduck.be/posts/verifying-slack-requests-in-phoenix)  
@@ -22,6 +23,5 @@
 - `2024-08-16` | [🔗 Get more specific when asserting events dispatched](https://www.yellowduck.be/posts/get-more-specific-when-asserting-events-dispatched-mastering-laravel)  
 - `2024-08-15` | [🔗 The Science behind Ultra-Wide Rims](https://www.yellowduck.be/posts/the-science-behind-ultra-wide-rims)  
 - `2024-08-14` | [🔗 Free Disk Space &lpar;Ubuntu&rpar; - GitHub Marketplace](https://www.yellowduck.be/posts/free-disk-space-ubuntu-github-marketplace)  
-- `2024-08-13` | [🔗 GitHub - stefanzweifel/laravel-backup-restore](https://www.yellowduck.be/posts/github-stefanzweifel-laravel-backup-restore-a-package-to-restore-database-backups-made-with-spatie-laravel-backup)  
 
 <!-- BLOG-POST-LIST:END -->
