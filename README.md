@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-08-25` | [🔗 Postgres as a search engine](https://www.yellowduck.be/posts/postgres-as-a-search-engine)  
 - `2024-08-24` | [🔗 An unpopular perspective on the SSO tax](https://www.yellowduck.be/posts/an-unpopular-perspective-on-the-sso-tax-ssoready)  
 - `2024-08-23` | [🔗 Effective Changelogs](https://www.yellowduck.be/posts/effective-changelogs)  
 - `2024-08-22` | [🔗 Pom &lpar;Jozef van Hove&rpar;](https://www.yellowduck.be/posts/pom)  
@@ -22,6 +23,5 @@
 - `2024-08-17` | [🔗 Understanding Policies in Laravel](https://www.yellowduck.be/posts/understanding-policies-in-laravel)  
 - `2024-08-16` | [🐥 Formatting JSON on save with VS Code](https://www.yellowduck.be/posts/formatting-json-on-save-with-vs-code)  
 - `2024-08-16` | [🔗 Get more specific when asserting events dispatched](https://www.yellowduck.be/posts/get-more-specific-when-asserting-events-dispatched-mastering-laravel)  
-- `2024-08-15` | [🔗 The Science behind Ultra-Wide Rims](https://www.yellowduck.be/posts/the-science-behind-ultra-wide-rims)  
 
 <!-- BLOG-POST-LIST:END -->
