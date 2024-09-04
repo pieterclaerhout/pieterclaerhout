@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-04` | [🔗 Departure Mono](https://www.yellowduck.be/posts/departure-mono)  
 - `2024-09-01` | [🔗 Wielertermen - Wikipedia](https://www.yellowduck.be/posts/wielertermen-wikipedia)  
 - `2024-09-01` | [🐥 My .iex.exs file](https://www.yellowduck.be/posts/my-iex-exs-file)  
 - `2024-08-29` | [🔗 Laravel Pagination: Keep Query Parameters on Second Page](https://www.yellowduck.be/posts/laravel-pagination-keep-query-parameters-on-second-page)  
@@ -22,6 +23,5 @@
 - `2024-08-23` | [🔗 Effective Changelogs](https://www.yellowduck.be/posts/effective-changelogs)  
 - `2024-08-22` | [🔗 Pom &lpar;Jozef van Hove&rpar;](https://www.yellowduck.be/posts/pom)  
 - `2024-08-21` | [🔗 Suggesting Changes on GitHub](https://www.yellowduck.be/posts/suggesting-changes-on-github)  
-- `2024-08-19` | [🔗 Verifying Slack Requests in Phoenix](https://www.yellowduck.be/posts/verifying-slack-requests-in-phoenix)  
 
 <!-- BLOG-POST-LIST:END -->
