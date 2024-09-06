@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-06` | [🔗 Add an use a JSONB field in Phoenix and Ecto](https://www.yellowduck.be/posts/add-an-use-a-jsonb-field-in-phoenix-and-ecto)  
 - `2024-09-05` | [🔗 Doing Background Work Using a Native Elixir Approach](https://www.yellowduck.be/posts/doing-background-work-using-a-native-elixir-approach-appsignal-blog)  
 - `2024-09-04` | [🔗 Departure Mono](https://www.yellowduck.be/posts/departure-mono)  
 - `2024-09-01` | [🔗 Wielertermen - Wikipedia](https://www.yellowduck.be/posts/wielertermen-wikipedia)  
@@ -22,6 +23,5 @@
 - `2024-08-25` | [🔗 Postgres as a search engine](https://www.yellowduck.be/posts/postgres-as-a-search-engine)  
 - `2024-08-24` | [🔗 An unpopular perspective on the SSO tax](https://www.yellowduck.be/posts/an-unpopular-perspective-on-the-sso-tax-ssoready)  
 - `2024-08-23` | [🔗 Effective Changelogs](https://www.yellowduck.be/posts/effective-changelogs)  
-- `2024-08-22` | [🔗 Pom &lpar;Jozef van Hove&rpar;](https://www.yellowduck.be/posts/pom)  
 
 <!-- BLOG-POST-LIST:END -->
