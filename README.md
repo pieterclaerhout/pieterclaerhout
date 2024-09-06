@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-06` | [🔗 Build a Roles and Permissions System for Phoenix - Part 2](https://www.yellowduck.be/posts/build-a-roles-and-permissions-system-for-phoenix-part-2)  
+- `2024-09-06` | [🔗 Build a Roles and Permissions System for Phoenix - Part 1](https://www.yellowduck.be/posts/build-a-roles-and-permissions-system-for-phoenix-part-1)  
 - `2024-09-06` | [🔗 Add an use a JSONB field in Phoenix and Ecto](https://www.yellowduck.be/posts/add-an-use-a-jsonb-field-in-phoenix-and-ecto)  
 - `2024-09-05` | [🔗 Doing Background Work Using a Native Elixir Approach](https://www.yellowduck.be/posts/doing-background-work-using-a-native-elixir-approach-appsignal-blog)  
 - `2024-09-04` | [🔗 Departure Mono](https://www.yellowduck.be/posts/departure-mono)  
@@ -21,7 +23,5 @@
 - `2024-08-29` | [🔗 Laravel Pagination: Keep Query Parameters on Second Page](https://www.yellowduck.be/posts/laravel-pagination-keep-query-parameters-on-second-page)  
 - `2024-08-25` | [🔗 How To Add Swap Space on Ubuntu 20.04](https://www.yellowduck.be/posts/how-to-add-swap-space-on-ubuntu-20-04-digitalocean)  
 - `2024-08-25` | [🔗 Postgres as a search engine](https://www.yellowduck.be/posts/postgres-as-a-search-engine)  
-- `2024-08-24` | [🔗 An unpopular perspective on the SSO tax](https://www.yellowduck.be/posts/an-unpopular-perspective-on-the-sso-tax-ssoready)  
-- `2024-08-23` | [🔗 Effective Changelogs](https://www.yellowduck.be/posts/effective-changelogs)  
 
 <!-- BLOG-POST-LIST:END -->
