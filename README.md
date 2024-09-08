@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-08` | [🔗 Give me /events, not webhooks](https://www.yellowduck.be/posts/give-me-events-not-webhooks)  
 - `2024-09-07` | [🐥 Pinning packages in Homebrew](https://www.yellowduck.be/posts/pinning-packages-in-homebrew)  
 - `2024-09-07` | [🔗 Elixir Task.async_stream/3](https://www.yellowduck.be/posts/elixir-task-async-stream)  
 - `2024-09-06` | [🔗 Build a Roles and Permissions System for Phoenix - Part 2](https://www.yellowduck.be/posts/build-a-roles-and-permissions-system-for-phoenix-part-2)  
@@ -22,6 +23,5 @@
 - `2024-09-04` | [🔗 Departure Mono](https://www.yellowduck.be/posts/departure-mono)  
 - `2024-09-01` | [🔗 Wielertermen - Wikipedia](https://www.yellowduck.be/posts/wielertermen-wikipedia)  
 - `2024-09-01` | [🐥 My .iex.exs file](https://www.yellowduck.be/posts/my-iex-exs-file)  
-- `2024-08-29` | [🔗 Laravel Pagination: Keep Query Parameters on Second Page](https://www.yellowduck.be/posts/laravel-pagination-keep-query-parameters-on-second-page)  
 
 <!-- BLOG-POST-LIST:END -->
