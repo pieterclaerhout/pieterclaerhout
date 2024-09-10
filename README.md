@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-10` | [🐥 TIL: Preserving keys in Laravel resources](https://www.yellowduck.be/posts/preserving-keys-in-laravel-resources)  
 - `2024-09-10` | [🔗 How we build forms in LiveView + LiveSvelte](https://www.yellowduck.be/posts/how-we-build-forms-in-liveview-livesvelte)  
 - `2024-09-09` | [🔗 LiveView is best with Svelte](https://www.yellowduck.be/posts/liveview-is-best-with-svelte)  
 - `2024-09-08` | [🔗 Give me /events, not webhooks](https://www.yellowduck.be/posts/give-me-events-not-webhooks)  
@@ -22,6 +23,5 @@
 - `2024-09-06` | [🔗 Build a Roles and Permissions System for Phoenix - Part 1](https://www.yellowduck.be/posts/build-a-roles-and-permissions-system-for-phoenix-part-1)  
 - `2024-09-06` | [🔗 Add an use a JSONB field in Phoenix and Ecto](https://www.yellowduck.be/posts/add-an-use-a-jsonb-field-in-phoenix-and-ecto)  
 - `2024-09-05` | [🔗 Doing Background Work Using a Native Elixir Approach](https://www.yellowduck.be/posts/doing-background-work-using-a-native-elixir-approach-appsignal-blog)  
-- `2024-09-04` | [🔗 Departure Mono](https://www.yellowduck.be/posts/departure-mono)  
 
 <!-- BLOG-POST-LIST:END -->
