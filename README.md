@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-13` | [🔗 uv under discussion on Mastodon](https://www.yellowduck.be/posts/uv-under-discussion-on-mastodon)  
 - `2024-09-12` | [🔗 Vue 3.5 Released: New features and improvements](https://www.yellowduck.be/posts/vue-3-5-released-new-features-and-improvements-freek-dev)  
 - `2024-09-11` | [🔗 Do Macs need third-party antivirus for SOC 2 compliance?](https://www.yellowduck.be/posts/do-macs-need-third-party-antivirus-for-soc-2-compliance-1password)  
 - `2024-09-10` | [🐥 TIL: Preserving keys in Laravel resources](https://www.yellowduck.be/posts/preserving-keys-in-laravel-resources)  
@@ -22,6 +23,5 @@
 - `2024-09-07` | [🐥 Pinning packages in Homebrew](https://www.yellowduck.be/posts/pinning-packages-in-homebrew)  
 - `2024-09-07` | [🔗 Elixir Task.async_stream/3](https://www.yellowduck.be/posts/elixir-task-async-stream)  
 - `2024-09-06` | [🔗 Build a Roles and Permissions System for Phoenix - Part 2](https://www.yellowduck.be/posts/build-a-roles-and-permissions-system-for-phoenix-part-2)  
-- `2024-09-06` | [🔗 Build a Roles and Permissions System for Phoenix - Part 1](https://www.yellowduck.be/posts/build-a-roles-and-permissions-system-for-phoenix-part-1)  
 
 <!-- BLOG-POST-LIST:END -->
