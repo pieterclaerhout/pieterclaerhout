@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-16` | [🔗 Six Degrees of Kevin Bacon - Postgres Style](https://www.yellowduck.be/posts/six-degrees-of-kevin-bacon-postgres-style-crunchy-data-blog)  
 - `2024-09-15` | [🐥 How to Build a Simple Cron Job in an Elixir Web App](https://www.yellowduck.be/posts/how-to-build-a-simple-cron-job-in-an-elixir-web-app)  
 - `2024-09-15` | [🔗 Your company needs Junior devs](https://www.yellowduck.be/posts/your-company-needs-junior-devs)  
 - `2024-09-14` | [🔗 Is Linux collapsing under its own weight? On Rust for Linux](https://www.yellowduck.be/posts/is-linux-collapsing-under-its-own-weight-on-rust-for-linux-the-sporks-space)  
@@ -22,6 +23,5 @@
 - `2024-09-10` | [🐥 TIL: Preserving keys in Laravel resources](https://www.yellowduck.be/posts/preserving-keys-in-laravel-resources)  
 - `2024-09-10` | [🔗 How we build forms in LiveView + LiveSvelte](https://www.yellowduck.be/posts/how-we-build-forms-in-liveview-livesvelte)  
 - `2024-09-09` | [🔗 LiveView is best with Svelte](https://www.yellowduck.be/posts/liveview-is-best-with-svelte)  
-- `2024-09-08` | [🔗 Give me /events, not webhooks](https://www.yellowduck.be/posts/give-me-events-not-webhooks)  
 
 <!-- BLOG-POST-LIST:END -->
