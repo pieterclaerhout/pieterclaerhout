@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-17` | [🔗 Why GitHub Actually Won](https://www.yellowduck.be/posts/why-github-actually-won)  
 - `2024-09-16` | [🐥 How to get class constants with Reflection in PHP](https://www.yellowduck.be/posts/how-to-get-class-constants-with-reflection-in-php)  
 - `2024-09-16` | [🔗 Six Degrees of Kevin Bacon - Postgres Style](https://www.yellowduck.be/posts/six-degrees-of-kevin-bacon-postgres-style-crunchy-data-blog)  
 - `2024-09-15` | [🐥 How to Build a Simple Cron Job in an Elixir Web App](https://www.yellowduck.be/posts/how-to-build-a-simple-cron-job-in-an-elixir-web-app)  
@@ -22,6 +23,5 @@
 - `2024-09-12` | [🔗 Vue 3.5 Released: New features and improvements](https://www.yellowduck.be/posts/vue-3-5-released-new-features-and-improvements-freek-dev)  
 - `2024-09-11` | [🔗 Do Macs need third-party antivirus for SOC 2 compliance?](https://www.yellowduck.be/posts/do-macs-need-third-party-antivirus-for-soc-2-compliance-1password)  
 - `2024-09-10` | [🐥 TIL: Preserving keys in Laravel resources](https://www.yellowduck.be/posts/preserving-keys-in-laravel-resources)  
-- `2024-09-10` | [🔗 How we build forms in LiveView + LiveSvelte](https://www.yellowduck.be/posts/how-we-build-forms-in-liveview-livesvelte)  
 
 <!-- BLOG-POST-LIST:END -->
