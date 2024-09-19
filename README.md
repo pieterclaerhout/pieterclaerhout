@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-19` | [🔗 SQLite is not a toy database](https://www.yellowduck.be/posts/sqlite-is-not-a-toy-database)  
 - `2024-09-18` | [🔗 New talk: Making Hard Things Easy](https://www.yellowduck.be/posts/new-talk-making-hard-things-easy)  
 - `2024-09-17` | [🔗 Why GitHub Actually Won](https://www.yellowduck.be/posts/why-github-actually-won)  
 - `2024-09-16` | [🐥 How to get class constants with Reflection in PHP](https://www.yellowduck.be/posts/how-to-get-class-constants-with-reflection-in-php)  
@@ -22,6 +23,5 @@
 - `2024-09-14` | [🔗 Is Linux collapsing under its own weight? On Rust for Linux](https://www.yellowduck.be/posts/is-linux-collapsing-under-its-own-weight-on-rust-for-linux-the-sporks-space)  
 - `2024-09-13` | [🔗 uv under discussion on Mastodon](https://www.yellowduck.be/posts/uv-under-discussion-on-mastodon)  
 - `2024-09-12` | [🔗 Vue 3.5 Released: New features and improvements](https://www.yellowduck.be/posts/vue-3-5-released-new-features-and-improvements-freek-dev)  
-- `2024-09-11` | [🔗 Do Macs need third-party antivirus for SOC 2 compliance?](https://www.yellowduck.be/posts/do-macs-need-third-party-antivirus-for-soc-2-compliance-1password)  
 
 <!-- BLOG-POST-LIST:END -->
