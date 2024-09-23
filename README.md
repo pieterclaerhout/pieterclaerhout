@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-23` | [🔗 VMware Fusion Pro: Now Available Free for Personal Use](https://www.yellowduck.be/posts/vmware-fusion-pro-now-available-free-for-personal-use)  
 - `2024-09-22` | [🐥 A subtlety of Ecto.Query.preload](https://www.yellowduck.be/posts/a-subtlety-of)  
 - `2024-09-22` | [🔗 Elixir Idioms for JavaScript Developers](https://www.yellowduck.be/posts/elixir-idioms-for-javascript-developers-pspdfkit)  
 - `2024-09-21` | [🔗 Tackling ChatGPT&#39;s UX woes with optimistic updates in Phoenix LiveView](https://www.yellowduck.be/posts/tackling-chatgpts-ux-woes-with-optimistic-updates-in-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2024-09-18` | [🔗 New talk: Making Hard Things Easy](https://www.yellowduck.be/posts/new-talk-making-hard-things-easy)  
 - `2024-09-17` | [🔗 Why GitHub Actually Won](https://www.yellowduck.be/posts/why-github-actually-won)  
 - `2024-09-16` | [🐥 How to get class constants with Reflection in PHP](https://www.yellowduck.be/posts/how-to-get-class-constants-with-reflection-in-php)  
-- `2024-09-16` | [🔗 Six Degrees of Kevin Bacon - Postgres Style](https://www.yellowduck.be/posts/six-degrees-of-kevin-bacon-postgres-style-crunchy-data-blog)  
 
 <!-- BLOG-POST-LIST:END -->
