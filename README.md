@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 - `2024-09-23` | [🐥 .gitignore files on GitHub](https://www.yellowduck.be/posts/gitignore-files-on-github)  
 - `2024-09-23` | [🔗 VMware Fusion Pro: Now Available Free for Personal Use](https://www.yellowduck.be/posts/vmware-fusion-pro-now-available-free-for-personal-use)  
-- `2024-09-22` | [🐥 A subtlety of Ecto.Query.preload](https://www.yellowduck.be/posts/a-subtlety-of)  
+- `2024-09-22` | [🐥 A subtlety of Ecto.Query.preload](https://www.yellowduck.be/posts/a-subtlety-of-ecto-query-preload)  
 - `2024-09-22` | [🔗 Elixir Idioms for JavaScript Developers](https://www.yellowduck.be/posts/elixir-idioms-for-javascript-developers-pspdfkit)  
 - `2024-09-21` | [🔗 Tackling ChatGPT&#39;s UX woes with optimistic updates in Phoenix LiveView](https://www.yellowduck.be/posts/tackling-chatgpts-ux-woes-with-optimistic-updates-in-phoenix-liveview)  
 - `2024-09-20` | [🔗 Why I Prefer Exceptions to Error Values](https://www.yellowduck.be/posts/why-i-prefer-exceptions-to-error-values)  
