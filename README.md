@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-24` | [🐥 Removing a commit from a remote git branch](https://www.yellowduck.be/posts/removing-a-commit-from-a-remote-git-branch)  
 - `2024-09-24` | [🔗 10 Practical Tips for Better Vue Apps](https://www.yellowduck.be/posts/10-practical-tips-for-better-vue-apps-vue-school-articles)  
 - `2024-09-23` | [🐥 .gitignore files on GitHub](https://www.yellowduck.be/posts/gitignore-files-on-github)  
 - `2024-09-23` | [🔗 VMware Fusion Pro: Now Available Free for Personal Use](https://www.yellowduck.be/posts/vmware-fusion-pro-now-available-free-for-personal-use)  
@@ -22,6 +23,5 @@
 - `2024-09-20` | [🔗 Why I Prefer Exceptions to Error Values](https://www.yellowduck.be/posts/why-i-prefer-exceptions-to-error-values)  
 - `2024-09-19` | [🐥 Hide network requests from extensions](https://www.yellowduck.be/posts/hide-network-requests-from-extensions)  
 - `2024-09-19` | [🔗 SQLite is not a toy database](https://www.yellowduck.be/posts/sqlite-is-not-a-toy-database)  
-- `2024-09-18` | [🔗 New talk: Making Hard Things Easy](https://www.yellowduck.be/posts/new-talk-making-hard-things-easy)  
 
 <!-- BLOG-POST-LIST:END -->
