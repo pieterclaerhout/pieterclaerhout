@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-26` | [🐥 Using zsh to batch change file extensions](https://www.yellowduck.be/posts/using-zsh-to-batch-change-file-extensions)  
+- `2024-09-26` | [🔗 Good software development habits](https://www.yellowduck.be/posts/good-software-development-habits)  
 - `2024-09-26` | [🔗 What happens when you type a Phoenix URL into your address bar and press &quot;Enter&quot;?](https://www.yellowduck.be/posts/what-happens-when-you-type-a-phoenix-url-into-your-address-bar-and-press-enter)  
 - `2024-09-25` | [🐥 Elixir can pack a lot into a little](https://www.yellowduck.be/posts/elixir-can-pack-a-lot-into-a-little)  
 - `2024-09-25` | [🔗 Small Batch Thinking in UX Improves Usability and Code Quality](https://www.yellowduck.be/posts/small-batch-thinking-in-ux-improves-usability-and-code-quality)  
@@ -21,7 +23,5 @@
 - `2024-09-23` | [🐥 .gitignore files on GitHub](https://www.yellowduck.be/posts/gitignore-files-on-github)  
 - `2024-09-23` | [🔗 VMware Fusion Pro: Now Available Free for Personal Use](https://www.yellowduck.be/posts/vmware-fusion-pro-now-available-free-for-personal-use)  
 - `2024-09-22` | [🐥 A subtlety of Ecto.Query.preload](https://www.yellowduck.be/posts/a-subtlety-of-ecto-query-preload)  
-- `2024-09-22` | [🔗 Elixir Idioms for JavaScript Developers](https://www.yellowduck.be/posts/elixir-idioms-for-javascript-developers-pspdfkit)  
-- `2024-09-21` | [🔗 Tackling ChatGPT&#39;s UX woes with optimistic updates in Phoenix LiveView](https://www.yellowduck.be/posts/tackling-chatgpts-ux-woes-with-optimistic-updates-in-phoenix-liveview)  
 
 <!-- BLOG-POST-LIST:END -->
