@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-27` | [🔗 PostgreSQL 17 Released!](https://www.yellowduck.be/posts/postgresql-17-released)  
 - `2024-09-26` | [🐥 Using zsh to batch change file extensions](https://www.yellowduck.be/posts/using-zsh-to-batch-change-file-extensions)  
 - `2024-09-26` | [🔗 Good software development habits](https://www.yellowduck.be/posts/good-software-development-habits)  
 - `2024-09-26` | [🔗 What happens when you type a Phoenix URL into your address bar and press &quot;Enter&quot;?](https://www.yellowduck.be/posts/what-happens-when-you-type-a-phoenix-url-into-your-address-bar-and-press-enter)  
@@ -22,6 +23,5 @@
 - `2024-09-24` | [🔗 10 Practical Tips for Better Vue Apps](https://www.yellowduck.be/posts/10-practical-tips-for-better-vue-apps-vue-school-articles)  
 - `2024-09-23` | [🐥 .gitignore files on GitHub](https://www.yellowduck.be/posts/gitignore-files-on-github)  
 - `2024-09-23` | [🔗 VMware Fusion Pro: Now Available Free for Personal Use](https://www.yellowduck.be/posts/vmware-fusion-pro-now-available-free-for-personal-use)  
-- `2024-09-22` | [🐥 A subtlety of Ecto.Query.preload](https://www.yellowduck.be/posts/a-subtlety-of-ecto-query-preload)  
 
 <!-- BLOG-POST-LIST:END -->
