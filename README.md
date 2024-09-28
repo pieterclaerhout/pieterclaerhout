@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-28` | [🐥 Fixing the gettext warning in Phoenix](https://www.yellowduck.be/posts/fixing-the-gettext-warning-in-phoenix)  
+- `2024-09-28` | [🔗 De 11 leukste route-tips voor op de fiets](https://www.yellowduck.be/posts/de-11-leukste-route-tips-voor-op-de-fiets)  
 - `2024-09-28` | [🔗 4 Software Design Principles I Learned the Hard Way](https://www.yellowduck.be/posts/4-software-design-principles-i-learned-the-hard-way)  
 - `2024-09-27` | [🔗 What happens when you touch a Pickle to an AM radio tower?](https://www.yellowduck.be/posts/what-happens-when-you-touch-a-pickle-to-an-am-radio-tower-jeff-geerling)  
 - `2024-09-27` | [🔗 PostgreSQL 17 Released!](https://www.yellowduck.be/posts/postgresql-17-released)  
@@ -21,7 +23,5 @@
 - `2024-09-26` | [🔗 What happens when you type a Phoenix URL into your address bar and press &quot;Enter&quot;?](https://www.yellowduck.be/posts/what-happens-when-you-type-a-phoenix-url-into-your-address-bar-and-press-enter)  
 - `2024-09-25` | [🐥 Elixir can pack a lot into a little](https://www.yellowduck.be/posts/elixir-can-pack-a-lot-into-a-little)  
 - `2024-09-25` | [🔗 Small Batch Thinking in UX Improves Usability and Code Quality](https://www.yellowduck.be/posts/small-batch-thinking-in-ux-improves-usability-and-code-quality)  
-- `2024-09-24` | [🐥 Removing a commit from a remote git branch](https://www.yellowduck.be/posts/removing-a-commit-from-a-remote-git-branch)  
-- `2024-09-24` | [🔗 10 Practical Tips for Better Vue Apps](https://www.yellowduck.be/posts/10-practical-tips-for-better-vue-apps-vue-school-articles)  
 
 <!-- BLOG-POST-LIST:END -->
