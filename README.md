@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-30` | [🐥 Implementing a Python Singleton with Decorators](https://www.yellowduck.be/posts/implementing-a-python-singleton-with-decorators)  
 - `2024-09-30` | [🔗 GitHub trick to find the commit that deleted a file](https://www.yellowduck.be/posts/github-trick-to-find-the-commit-that-deleted-a-file-the-old-new-thing)  
 - `2024-09-29` | [🔗 MySQL ORDER BY with nulls first or last &lpar;at bottom or top&rpar;](https://www.yellowduck.be/posts/mysql-order-by-with-nulls-first-or-last-at-bottom-or-top)  
 - `2024-09-28` | [🐥 Fixing the gettext warning in Phoenix](https://www.yellowduck.be/posts/fixing-the-gettext-warning-in-phoenix)  
@@ -22,6 +23,5 @@
 - `2024-09-27` | [🔗 PostgreSQL 17 Released!](https://www.yellowduck.be/posts/postgresql-17-released)  
 - `2024-09-26` | [🐥 Using zsh to batch change file extensions](https://www.yellowduck.be/posts/using-zsh-to-batch-change-file-extensions)  
 - `2024-09-26` | [🔗 Good software development habits](https://www.yellowduck.be/posts/good-software-development-habits)  
-- `2024-09-26` | [🔗 What happens when you type a Phoenix URL into your address bar and press &quot;Enter&quot;?](https://www.yellowduck.be/posts/what-happens-when-you-type-a-phoenix-url-into-your-address-bar-and-press-enter)  
 
 <!-- BLOG-POST-LIST:END -->
