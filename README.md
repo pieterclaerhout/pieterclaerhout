@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-03` | [🔗 Tree hierarchies in Laravel](https://www.yellowduck.be/posts/tree-hierarchies-in-laravel)  
 - `2024-10-03` | [🔗 Start with unit tests on LiveView modules](https://www.yellowduck.be/posts/start-with-unit-tests-on-liveview-modules)  
 - `2024-10-02` | [🔗 Spice up your LiveView app with a cool loading spinner!](https://www.yellowduck.be/posts/spice-up-your-liveview-app-with-a-cool-loading-spinner)  
 - `2024-10-01` | [🐥 Rewriting links in a Phoenix LiveView app](https://www.yellowduck.be/posts/rewriting-links-in-a-phoenix-liveview-app)  
@@ -22,6 +23,5 @@
 - `2024-09-29` | [🔗 MySQL ORDER BY with nulls first or last &lpar;at bottom or top&rpar;](https://www.yellowduck.be/posts/mysql-order-by-with-nulls-first-or-last-at-bottom-or-top)  
 - `2024-09-28` | [🐥 Fixing the gettext warning in Phoenix](https://www.yellowduck.be/posts/fixing-the-gettext-warning-in-phoenix)  
 - `2024-09-28` | [🔗 De 11 leukste route-tips voor op de fiets](https://www.yellowduck.be/posts/de-11-leukste-route-tips-voor-op-de-fiets)  
-- `2024-09-28` | [🔗 4 Software Design Principles I Learned the Hard Way](https://www.yellowduck.be/posts/4-software-design-principles-i-learned-the-hard-way)  
 
 <!-- BLOG-POST-LIST:END -->
