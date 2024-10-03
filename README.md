@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-03` | [🔗 Start with unit tests on LiveView modules](https://www.yellowduck.be/posts/start-with-unit-tests-on-liveview-modules)  
 - `2024-10-02` | [🔗 Spice up your LiveView app with a cool loading spinner!](https://www.yellowduck.be/posts/spice-up-your-liveview-app-with-a-cool-loading-spinner)  
 - `2024-10-01` | [🐥 Rewriting links in a Phoenix LiveView app](https://www.yellowduck.be/posts/rewriting-links-in-a-phoenix-liveview-app)  
 - `2024-10-01` | [🔗 defer&lpar;&rpar; function in Laravel](https://www.yellowduck.be/posts/defer-function-in-laravel-laravel-eco)  
@@ -22,6 +23,5 @@
 - `2024-09-28` | [🐥 Fixing the gettext warning in Phoenix](https://www.yellowduck.be/posts/fixing-the-gettext-warning-in-phoenix)  
 - `2024-09-28` | [🔗 De 11 leukste route-tips voor op de fiets](https://www.yellowduck.be/posts/de-11-leukste-route-tips-voor-op-de-fiets)  
 - `2024-09-28` | [🔗 4 Software Design Principles I Learned the Hard Way](https://www.yellowduck.be/posts/4-software-design-principles-i-learned-the-hard-way)  
-- `2024-09-27` | [🔗 What happens when you touch a Pickle to an AM radio tower?](https://www.yellowduck.be/posts/what-happens-when-you-touch-a-pickle-to-an-am-radio-tower-jeff-geerling)  
 
 <!-- BLOG-POST-LIST:END -->
