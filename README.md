@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-04` | [🔗 Request for developer feedback: customizable select](https://www.yellowduck.be/posts/request-for-developer-feedback-customizable-select-blog-chrome-for-developers)  
 - `2024-10-03` | [🔗 Tree hierarchies in Laravel](https://www.yellowduck.be/posts/tree-hierarchies-in-laravel)  
 - `2024-10-03` | [🔗 Start with unit tests on LiveView modules](https://www.yellowduck.be/posts/start-with-unit-tests-on-liveview-modules)  
 - `2024-10-02` | [🔗 Spice up your LiveView app with a cool loading spinner!](https://www.yellowduck.be/posts/spice-up-your-liveview-app-with-a-cool-loading-spinner)  
@@ -22,6 +23,5 @@
 - `2024-09-30` | [🔗 GitHub trick to find the commit that deleted a file](https://www.yellowduck.be/posts/github-trick-to-find-the-commit-that-deleted-a-file-the-old-new-thing)  
 - `2024-09-29` | [🔗 MySQL ORDER BY with nulls first or last &lpar;at bottom or top&rpar;](https://www.yellowduck.be/posts/mysql-order-by-with-nulls-first-or-last-at-bottom-or-top)  
 - `2024-09-28` | [🐥 Fixing the gettext warning in Phoenix](https://www.yellowduck.be/posts/fixing-the-gettext-warning-in-phoenix)  
-- `2024-09-28` | [🔗 De 11 leukste route-tips voor op de fiets](https://www.yellowduck.be/posts/de-11-leukste-route-tips-voor-op-de-fiets)  
 
 <!-- BLOG-POST-LIST:END -->
