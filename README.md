@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-06` | [🔗 Read Easier With our Free Font](https://www.yellowduck.be/posts/braille-institute-freefont-braille-institute)  
 - `2024-10-05` | [🔗 The Saga Pattern in Elixir](https://www.yellowduck.be/posts/the-saga-pattern-in-elixir)  
 - `2024-10-05` | [🔗 Building RAG with Postgres](https://www.yellowduck.be/posts/building-rag-with-postgres)  
 - `2024-10-04` | [🔗 Personal Elixir Code Aesthetics](https://www.yellowduck.be/posts/personal-elixir-code-aesthetics-mike-zornek)  
@@ -22,6 +23,5 @@
 - `2024-10-02` | [🔗 Spice up your LiveView app with a cool loading spinner!](https://www.yellowduck.be/posts/spice-up-your-liveview-app-with-a-cool-loading-spinner)  
 - `2024-10-01` | [🐥 Rewriting links in a Phoenix LiveView app](https://www.yellowduck.be/posts/rewriting-links-in-a-phoenix-liveview-app)  
 - `2024-10-01` | [🔗 defer&lpar;&rpar; function in Laravel](https://www.yellowduck.be/posts/defer-function-in-laravel-laravel-eco)  
-- `2024-09-30` | [🐥 Implementing a Python Singleton with Decorators](https://www.yellowduck.be/posts/implementing-a-python-singleton-with-decorators)  
 
 <!-- BLOG-POST-LIST:END -->
