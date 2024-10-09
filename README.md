@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-09` | [🔗 Building LLM-powered applications in Go - The Go Programming Language](https://www.yellowduck.be/posts/building-llm-powered-applications-in-go-the-go-programming-language)  
 - `2024-10-08` | [🔗 OpenFreeMap](https://www.yellowduck.be/posts/openfreemap)  
 - `2024-10-08` | [🔗 Stop using SERIAL in Postgres](https://www.yellowduck.be/posts/stop-using-serial-in-postgres)  
 - `2024-10-07` | [🔗 Getting Started with Ash Framework in Elixir](https://www.yellowduck.be/posts/getting-started-with-ash-framework-in-elixir)  
@@ -22,6 +23,5 @@
 - `2024-10-05` | [🔗 The Saga Pattern in Elixir](https://www.yellowduck.be/posts/the-saga-pattern-in-elixir)  
 - `2024-10-05` | [🔗 Building RAG with Postgres](https://www.yellowduck.be/posts/building-rag-with-postgres)  
 - `2024-10-04` | [🔗 Personal Elixir Code Aesthetics](https://www.yellowduck.be/posts/personal-elixir-code-aesthetics-mike-zornek)  
-- `2024-10-04` | [🔗 Request for developer feedback: customizable select](https://www.yellowduck.be/posts/request-for-developer-feedback-customizable-select-blog-chrome-for-developers)  
 
 <!-- BLOG-POST-LIST:END -->
