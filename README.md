@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-11` | [🔗 PostgreSQL and UUID as primary key](https://www.yellowduck.be/posts/postgresql-and-uuid-as-primary-key)  
 - `2024-10-10` | [🔗 Tools - What and When to use](https://www.yellowduck.be/posts/tools-what-and-when-to-use-tomas-votruba)  
 - `2024-10-09` | [🐥 Showing Elixir server logs in the browser console](https://www.yellowduck.be/posts/showing-elixir-server-logs-in-the-browser-console)  
 - `2024-10-09` | [🔗 Building LLM-powered applications in Go - The Go Programming Language](https://www.yellowduck.be/posts/building-llm-powered-applications-in-go-the-go-programming-language)  
@@ -22,6 +23,5 @@
 - `2024-10-07` | [🔗 Wonderful vi](https://www.yellowduck.be/posts/wonderful-vi)  
 - `2024-10-06` | [🔗 Types vs No Types - How Types Allow Code to Scale across Developers, Organizations, and Lines of Code](https://www.yellowduck.be/posts/types-vs-no-types-how-types-allow-code-to-scale-across-developers-organizations-and-lines-of-code)  
 - `2024-10-06` | [🔗 Read Easier With our Free Font](https://www.yellowduck.be/posts/braille-institute-freefont-braille-institute)  
-- `2024-10-05` | [🔗 The Saga Pattern in Elixir](https://www.yellowduck.be/posts/the-saga-pattern-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
