@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-12` | [🔗 Note: Alias for fast testing in Elixir](https://www.yellowduck.be/posts/note-alias-for-fast-testing-in-elixir)  
 - `2024-10-11` | [🐥 Backing up a PostgreSQL database](https://www.yellowduck.be/posts/backing-up-a-postgresql-database)  
 - `2024-10-11` | [🔗 PostgreSQL and UUID as primary key](https://www.yellowduck.be/posts/postgresql-and-uuid-as-primary-key)  
 - `2024-10-10` | [🔗 Tools - What and When to use](https://www.yellowduck.be/posts/tools-what-and-when-to-use-tomas-votruba)  
@@ -22,6 +23,5 @@
 - `2024-10-08` | [🔗 Stop using SERIAL in Postgres](https://www.yellowduck.be/posts/stop-using-serial-in-postgres)  
 - `2024-10-07` | [🔗 Getting Started with Ash Framework in Elixir](https://www.yellowduck.be/posts/getting-started-with-ash-framework-in-elixir)  
 - `2024-10-07` | [🔗 Wonderful vi](https://www.yellowduck.be/posts/wonderful-vi)  
-- `2024-10-06` | [🔗 Types vs No Types - How Types Allow Code to Scale across Developers, Organizations, and Lines of Code](https://www.yellowduck.be/posts/types-vs-no-types-how-types-allow-code-to-scale-across-developers-organizations-and-lines-of-code)  
 
 <!-- BLOG-POST-LIST:END -->
