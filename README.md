@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-14` | [🔗 Proposal to make MariaDB the default MySQL variant in Ubuntu 25.04](https://www.yellowduck.be/posts/proposal-to-make-mariadb-the-default-mysql-variant-in-ubuntu-25-04)  
 - `2024-10-13` | [🔗 PostgreSQL: Full text search with the &quot;websearch&quot; syntax](https://www.yellowduck.be/posts/postgresql-full-text-search-with-the-websearch-syntax-adam-johnson)  
 - `2024-10-12` | [🔗 Note: Alias for fast testing in Elixir](https://www.yellowduck.be/posts/note-alias-for-fast-testing-in-elixir)  
 - `2024-10-11` | [🐥 Backing up a PostgreSQL database](https://www.yellowduck.be/posts/backing-up-a-postgresql-database)  
@@ -22,6 +23,5 @@
 - `2024-10-09` | [🔗 Building LLM-powered applications in Go - The Go Programming Language](https://www.yellowduck.be/posts/building-llm-powered-applications-in-go-the-go-programming-language)  
 - `2024-10-08` | [🔗 OpenFreeMap](https://www.yellowduck.be/posts/openfreemap)  
 - `2024-10-08` | [🔗 Stop using SERIAL in Postgres](https://www.yellowduck.be/posts/stop-using-serial-in-postgres)  
-- `2024-10-07` | [🔗 Getting Started with Ash Framework in Elixir](https://www.yellowduck.be/posts/getting-started-with-ash-framework-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
