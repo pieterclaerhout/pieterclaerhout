@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-17` | [🔗 Papercups: Customer Service Platform](https://www.yellowduck.be/posts/papercups-customer-service-platform-blog-by-roman-glushko)  
 - `2024-10-16` | [🐥 Measuring code performance with console.time and console.timeEnd in JavaScript](https://www.yellowduck.be/posts/measuring-code-performance-with-console-time-and-console-timeend-in-javascript)  
 - `2024-10-16` | [🔗 Serialization is the Secret](https://www.yellowduck.be/posts/serialization-is-the-secret)  
 - `2024-10-15` | [🔗 Building Multiplayer Tetris from scratch with OTP, Elixir, and Phoenix](https://www.yellowduck.be/posts/building-multiplayer-tetris-from-scratch-with-otp-elixir-and-phoenix-by-merlin-webster-code-beam)  
@@ -22,6 +23,5 @@
 - `2024-10-12` | [🔗 Note: Alias for fast testing in Elixir](https://www.yellowduck.be/posts/note-alias-for-fast-testing-in-elixir)  
 - `2024-10-11` | [🐥 Backing up a PostgreSQL database](https://www.yellowduck.be/posts/backing-up-a-postgresql-database)  
 - `2024-10-11` | [🔗 PostgreSQL and UUID as primary key](https://www.yellowduck.be/posts/postgresql-and-uuid-as-primary-key)  
-- `2024-10-10` | [🔗 Tools - What and When to use](https://www.yellowduck.be/posts/tools-what-and-when-to-use-tomas-votruba)  
 
 <!-- BLOG-POST-LIST:END -->
