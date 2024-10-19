@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-19` | [🔗 What happens when you visit a LiveView URL?](https://www.yellowduck.be/posts/what-happens-when-you-visit-a-liveview-url)  
 - `2024-10-18` | [🔗 LiveView JS: The Comprehensive Guide](https://www.yellowduck.be/posts/liveview-js-the-comprehensive-guide)  
 - `2024-10-17` | [🔗 Papercups: Customer Service Platform](https://www.yellowduck.be/posts/papercups-customer-service-platform-blog-by-roman-glushko)  
 - `2024-10-16` | [🐥 Measuring code performance with console.time and console.timeEnd in JavaScript](https://www.yellowduck.be/posts/measuring-code-performance-with-console-time-and-console-timeend-in-javascript)  
@@ -22,6 +23,5 @@
 - `2024-10-14` | [🔗 Proposal to make MariaDB the default MySQL variant in Ubuntu 25.04](https://www.yellowduck.be/posts/proposal-to-make-mariadb-the-default-mysql-variant-in-ubuntu-25-04)  
 - `2024-10-13` | [🔗 PostgreSQL: Full text search with the &quot;websearch&quot; syntax](https://www.yellowduck.be/posts/postgresql-full-text-search-with-the-websearch-syntax-adam-johnson)  
 - `2024-10-12` | [🔗 Note: Alias for fast testing in Elixir](https://www.yellowduck.be/posts/note-alias-for-fast-testing-in-elixir)  
-- `2024-10-11` | [🐥 Backing up a PostgreSQL database](https://www.yellowduck.be/posts/backing-up-a-postgresql-database)  
 
 <!-- BLOG-POST-LIST:END -->
