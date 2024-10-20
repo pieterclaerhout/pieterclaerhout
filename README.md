@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-20` | [🔗 What is the history of the use of &quot;foo&quot; and &quot;bar&quot; in source code examples?](https://www.yellowduck.be/posts/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples)  
 - `2024-10-19` | [🐥 How to properly annotate a custom Laravel Eloquent Builder](https://www.yellowduck.be/posts/how-to-properly-annotate-a-custom-laravel-eloquent-builder)  
 - `2024-10-19` | [🔗 What happens when you visit a LiveView URL?](https://www.yellowduck.be/posts/what-happens-when-you-visit-a-liveview-url)  
 - `2024-10-18` | [🔗 LiveView JS: The Comprehensive Guide](https://www.yellowduck.be/posts/liveview-js-the-comprehensive-guide)  
@@ -22,6 +23,5 @@
 - `2024-10-15` | [🔗 Building Multiplayer Tetris from scratch with OTP, Elixir, and Phoenix](https://www.yellowduck.be/posts/building-multiplayer-tetris-from-scratch-with-otp-elixir-and-phoenix-by-merlin-webster-code-beam)  
 - `2024-10-14` | [🐥 TIL: Deleting duplicate rows in a database](https://www.yellowduck.be/posts/til-deleting-duplicate-rows-in-a-database)  
 - `2024-10-14` | [🔗 Proposal to make MariaDB the default MySQL variant in Ubuntu 25.04](https://www.yellowduck.be/posts/proposal-to-make-mariadb-the-default-mysql-variant-in-ubuntu-25-04)  
-- `2024-10-13` | [🔗 PostgreSQL: Full text search with the &quot;websearch&quot; syntax](https://www.yellowduck.be/posts/postgresql-full-text-search-with-the-websearch-syntax-adam-johnson)  
 
 <!-- BLOG-POST-LIST:END -->
