@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-22` | [🐥 Use Logger metadata in Elixir to spruce up your logs](https://www.yellowduck.be/posts/use-logger-metadata-in-elixir-to-spruce-up-your-logs)  
 - `2024-10-22` | [🔗 Does it scale &lpar;down&rpar;?](https://www.yellowduck.be/posts/does-it-scale-down)  
 - `2024-10-21` | [🔗 Optimizing Postgres table layout for maximum efficiency](https://www.yellowduck.be/posts/optimizing-postgres-table-layout-for-maximum-efficiency)  
 - `2024-10-20` | [🔗 What is the history of the use of &quot;foo&quot; and &quot;bar&quot; in source code examples?](https://www.yellowduck.be/posts/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples)  
@@ -22,6 +23,5 @@
 - `2024-10-17` | [🔗 Papercups: Customer Service Platform](https://www.yellowduck.be/posts/papercups-customer-service-platform-blog-by-roman-glushko)  
 - `2024-10-16` | [🐥 Measuring code performance with console.time and console.timeEnd in JavaScript](https://www.yellowduck.be/posts/measuring-code-performance-with-console-time-and-console-timeend-in-javascript)  
 - `2024-10-16` | [🔗 Serialization is the Secret](https://www.yellowduck.be/posts/serialization-is-the-secret)  
-- `2024-10-15` | [🔗 Building Multiplayer Tetris from scratch with OTP, Elixir, and Phoenix](https://www.yellowduck.be/posts/building-multiplayer-tetris-from-scratch-with-otp-elixir-and-phoenix-by-merlin-webster-code-beam)  
 
 <!-- BLOG-POST-LIST:END -->
