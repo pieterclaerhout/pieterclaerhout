@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-25` | [🔗 Streamline Your Laravel Models with Stringable Attributes](https://www.yellowduck.be/posts/streamline-your-laravel-models-with-stringable-attributes)  
 - `2024-10-24` | [🔗 Context maintainability &amp; guidelines in Elixir &amp; Phoenix](https://www.yellowduck.be/posts/context-maintainability-and-guidelines-in-elixir-and-phoenix-curiosum)  
 - `2024-10-23` | [🔗 Understanding Hooks in the Phoenix Framework](https://www.yellowduck.be/posts/understanding-hooks-in-the-phoenix-framework)  
 - `2024-10-22` | [🐥 Use Logger metadata in Elixir to spruce up your logs](https://www.yellowduck.be/posts/use-logger-metadata-in-elixir-to-spruce-up-your-logs)  
@@ -22,6 +23,5 @@
 - `2024-10-19` | [🐥 How to properly annotate a custom Laravel Eloquent Builder](https://www.yellowduck.be/posts/how-to-properly-annotate-a-custom-laravel-eloquent-builder)  
 - `2024-10-19` | [🔗 What happens when you visit a LiveView URL?](https://www.yellowduck.be/posts/what-happens-when-you-visit-a-liveview-url)  
 - `2024-10-18` | [🔗 LiveView JS: The Comprehensive Guide](https://www.yellowduck.be/posts/liveview-js-the-comprehensive-guide)  
-- `2024-10-17` | [🔗 Papercups: Customer Service Platform](https://www.yellowduck.be/posts/papercups-customer-service-platform-blog-by-roman-glushko)  
 
 <!-- BLOG-POST-LIST:END -->
