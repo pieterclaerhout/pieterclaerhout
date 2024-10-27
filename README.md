@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-27` | [🔗 The Magic of Phoenix LiveView and PubSub](https://www.yellowduck.be/posts/the-magic-of-phoenix-liveview-and-pubsub)  
 - `2024-10-26` | [🔗 IEx &quot;any&quot; Helper](https://www.yellowduck.be/posts/iex-any-helper-bretts-dev-blog-v2024-9-28)  
 - `2024-10-25` | [🐥 Setting up a firewall on your VPS](https://www.yellowduck.be/posts/setting-up-a-firewall-on-your-vps)  
 - `2024-10-25` | [🔗 Streamline Your Laravel Models with Stringable Attributes](https://www.yellowduck.be/posts/streamline-your-laravel-models-with-stringable-attributes)  
@@ -22,6 +23,5 @@
 - `2024-10-22` | [🔗 Does it scale &lpar;down&rpar;?](https://www.yellowduck.be/posts/does-it-scale-down)  
 - `2024-10-21` | [🔗 Optimizing Postgres table layout for maximum efficiency](https://www.yellowduck.be/posts/optimizing-postgres-table-layout-for-maximum-efficiency)  
 - `2024-10-20` | [🔗 What is the history of the use of &quot;foo&quot; and &quot;bar&quot; in source code examples?](https://www.yellowduck.be/posts/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples)  
-- `2024-10-19` | [🐥 How to properly annotate a custom Laravel Eloquent Builder](https://www.yellowduck.be/posts/how-to-properly-annotate-a-custom-laravel-eloquent-builder)  
 
 <!-- BLOG-POST-LIST:END -->
