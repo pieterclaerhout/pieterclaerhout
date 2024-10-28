@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-28` | [🐥 Setting up fail2ban on your VPS](https://www.yellowduck.be/posts/setting-up-fail2ban-on-your-vps)  
 - `2024-10-28` | [🔗 Adding Infinite scroll in Phoenix LiveView App](https://www.yellowduck.be/posts/adding-infinite-scroll-in-phoenix-liveview-app)  
 - `2024-10-27` | [🔗 The Magic of Phoenix LiveView and PubSub](https://www.yellowduck.be/posts/the-magic-of-phoenix-liveview-and-pubsub)  
 - `2024-10-26` | [🔗 IEx &quot;any&quot; Helper](https://www.yellowduck.be/posts/iex-any-helper-bretts-dev-blog-v2024-9-28)  
@@ -22,6 +23,5 @@
 - `2024-10-23` | [🔗 Understanding Hooks in the Phoenix Framework](https://www.yellowduck.be/posts/understanding-hooks-in-the-phoenix-framework)  
 - `2024-10-22` | [🐥 Use Logger metadata in Elixir to spruce up your logs](https://www.yellowduck.be/posts/use-logger-metadata-in-elixir-to-spruce-up-your-logs)  
 - `2024-10-22` | [🔗 Does it scale &lpar;down&rpar;?](https://www.yellowduck.be/posts/does-it-scale-down)  
-- `2024-10-21` | [🔗 Optimizing Postgres table layout for maximum efficiency](https://www.yellowduck.be/posts/optimizing-postgres-table-layout-for-maximum-efficiency)  
 
 <!-- BLOG-POST-LIST:END -->
