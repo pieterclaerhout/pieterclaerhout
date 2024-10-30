@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-10-30` | [🔗 10 Tailwind techniques](https://www.yellowduck.be/posts/10-tailwind-techniques)  
 - `2024-10-29` | [🔗 Search is not magic with PostgreSQL](https://www.yellowduck.be/posts/search-is-not-magic-with-postgresql)  
 - `2024-10-28` | [🐥 Setting up fail2ban on your VPS](https://www.yellowduck.be/posts/setting-up-fail2ban-on-your-vps)  
 - `2024-10-28` | [🔗 Adding Infinite scroll in Phoenix LiveView App](https://www.yellowduck.be/posts/adding-infinite-scroll-in-phoenix-liveview-app)  
@@ -22,6 +23,5 @@
 - `2024-10-25` | [🔗 Streamline Your Laravel Models with Stringable Attributes](https://www.yellowduck.be/posts/streamline-your-laravel-models-with-stringable-attributes)  
 - `2024-10-24` | [🔗 Context maintainability &amp; guidelines in Elixir &amp; Phoenix](https://www.yellowduck.be/posts/context-maintainability-and-guidelines-in-elixir-and-phoenix-curiosum)  
 - `2024-10-23` | [🔗 Understanding Hooks in the Phoenix Framework](https://www.yellowduck.be/posts/understanding-hooks-in-the-phoenix-framework)  
-- `2024-10-22` | [🐥 Use Logger metadata in Elixir to spruce up your logs](https://www.yellowduck.be/posts/use-logger-metadata-in-elixir-to-spruce-up-your-logs)  
 
 <!-- BLOG-POST-LIST:END -->
