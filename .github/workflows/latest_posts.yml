@@ -14,7 +14,7 @@ jobs:
      - uses: gautamkrishnar/blog-post-workflow@master
        with:
          # Replace this URL with your rss feed URL/s
-         feed_list: "https://www.yellowduck.be/index.xml"
+         feed_list: "https://www.yellowduck.be/posts/feed"
          max_post_count: 10
          template: "- `$date` | [$title]($url)  $newline"
          date_format: yyyy-mm-dd
