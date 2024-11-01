@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-01` | [🔗 The Copenhagen Book](https://www.yellowduck.be/posts/the-copenhagen-book)  
 - `2024-10-31` | [🐥 Logging Execution Time in Elixir](https://www.yellowduck.be/posts/logging-execution-time-in-elixir)  
 - `2024-10-31` | [🔗 ElixirConf 2023 - Wojtek Mach - Req - a batteries-included HTTP client for Elixir](https://www.yellowduck.be/posts/elixirconf-2023-wojtek-mach-req-a-batteries-included-http-client-for-elixir)  
 - `2024-10-30` | [🔗 10 Tailwind techniques](https://www.yellowduck.be/posts/10-tailwind-techniques)  
@@ -22,6 +23,5 @@
 - `2024-10-27` | [🔗 The Magic of Phoenix LiveView and PubSub](https://www.yellowduck.be/posts/the-magic-of-phoenix-liveview-and-pubsub)  
 - `2024-10-26` | [🔗 IEx &quot;any&quot; Helper](https://www.yellowduck.be/posts/iex-any-helper-bretts-dev-blog-v2024-9-28)  
 - `2024-10-25` | [🐥 Setting up a firewall on your VPS](https://www.yellowduck.be/posts/setting-up-a-firewall-on-your-vps)  
-- `2024-10-25` | [🔗 Streamline Your Laravel Models with Stringable Attributes](https://www.yellowduck.be/posts/streamline-your-laravel-models-with-stringable-attributes)  
 
 <!-- BLOG-POST-LIST:END -->
