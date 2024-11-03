@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-03` | [🔗 Prevent Destructive Commands From Running in Laravel](https://www.yellowduck.be/posts/prevent-destructive-commands-from-running-in-laravel-laravel-news)  
 - `2024-11-03` | [🐥 Rendering a HEEx component in code](https://www.yellowduck.be/posts/rendering-a-heex-component-in-code)  
 - `2024-11-02` | [🔗 Line Clamp - Tailwind CSS](https://www.yellowduck.be/posts/line-clamp-tailwind-css)  
 - `2024-11-01` | [🔗 The Copenhagen Book](https://www.yellowduck.be/posts/the-copenhagen-book)  
@@ -22,6 +23,5 @@
 - `2024-10-29` | [🔗 Search is not magic with PostgreSQL](https://www.yellowduck.be/posts/search-is-not-magic-with-postgresql)  
 - `2024-10-28` | [🐥 Setting up fail2ban on your VPS](https://www.yellowduck.be/posts/setting-up-fail2ban-on-your-vps)  
 - `2024-10-28` | [🔗 Adding Infinite scroll in Phoenix LiveView App](https://www.yellowduck.be/posts/adding-infinite-scroll-in-phoenix-liveview-app)  
-- `2024-10-27` | [🔗 The Magic of Phoenix LiveView and PubSub](https://www.yellowduck.be/posts/the-magic-of-phoenix-liveview-and-pubsub)  
 
 <!-- BLOG-POST-LIST:END -->
