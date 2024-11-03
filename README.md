@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-03` | [🐥 Rendering a HEEx component in code](https://www.yellowduck.be/posts/rendering-a-heex-component-in-code)  
 - `2024-11-02` | [🔗 Line Clamp - Tailwind CSS](https://www.yellowduck.be/posts/line-clamp-tailwind-css)  
 - `2024-11-01` | [🔗 The Copenhagen Book](https://www.yellowduck.be/posts/the-copenhagen-book)  
 - `2024-10-31` | [🐥 Logging Execution Time in Elixir](https://www.yellowduck.be/posts/logging-execution-time-in-elixir)  
@@ -22,6 +23,5 @@
 - `2024-10-28` | [🐥 Setting up fail2ban on your VPS](https://www.yellowduck.be/posts/setting-up-fail2ban-on-your-vps)  
 - `2024-10-28` | [🔗 Adding Infinite scroll in Phoenix LiveView App](https://www.yellowduck.be/posts/adding-infinite-scroll-in-phoenix-liveview-app)  
 - `2024-10-27` | [🔗 The Magic of Phoenix LiveView and PubSub](https://www.yellowduck.be/posts/the-magic-of-phoenix-liveview-and-pubsub)  
-- `2024-10-26` | [🔗 IEx &quot;any&quot; Helper](https://www.yellowduck.be/posts/iex-any-helper-bretts-dev-blog-v2024-9-28)  
 
 <!-- BLOG-POST-LIST:END -->
