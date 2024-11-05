@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-05` | [🔗 Recursive Laravel Collection Macros](https://www.yellowduck.be/posts/recursive-laravel-collection-macros)  
 - `2024-11-04` | [🔗 The data_get method in Laravel](https://www.yellowduck.be/posts/laravel-data_get-method)  
 - `2024-11-03` | [🔗 Prevent Destructive Commands From Running in Laravel](https://www.yellowduck.be/posts/prevent-destructive-commands-from-running-in-laravel-laravel-news)  
 - `2024-11-03` | [🐥 Rendering a HEEx component in code](https://www.yellowduck.be/posts/rendering-a-heex-component-in-code)  
@@ -22,6 +23,5 @@
 - `2024-10-31` | [🔗 ElixirConf 2023 - Wojtek Mach - Req - a batteries-included HTTP client for Elixir](https://www.yellowduck.be/posts/elixirconf-2023-wojtek-mach-req-a-batteries-included-http-client-for-elixir)  
 - `2024-10-30` | [🔗 10 Tailwind techniques](https://www.yellowduck.be/posts/10-tailwind-techniques)  
 - `2024-10-29` | [🔗 Search is not magic with PostgreSQL](https://www.yellowduck.be/posts/search-is-not-magic-with-postgresql)  
-- `2024-10-28` | [🐥 Setting up fail2ban on your VPS](https://www.yellowduck.be/posts/setting-up-fail2ban-on-your-vps)  
 
 <!-- BLOG-POST-LIST:END -->
