@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-06` | [🔗 Red Blob Games: Introduction to A*](https://www.yellowduck.be/posts/red-blob-games-introduction-to-a)  
 - `2024-11-05` | [🐥 Retrieving the final URL after auto redirect with Elixir Req](https://www.yellowduck.be/posts/retrieving-the-final-url-after-auto-redirect-with-elixir-req)  
 - `2024-11-05` | [🔗 Recursive Laravel Collection Macros](https://www.yellowduck.be/posts/recursive-laravel-collection-macros)  
 - `2024-11-04` | [🔗 The data_get method in Laravel](https://www.yellowduck.be/posts/laravel-data_get-method)  
@@ -22,6 +23,5 @@
 - `2024-11-01` | [🔗 The Copenhagen Book](https://www.yellowduck.be/posts/the-copenhagen-book)  
 - `2024-10-31` | [🐥 Logging Execution Time in Elixir](https://www.yellowduck.be/posts/logging-execution-time-in-elixir)  
 - `2024-10-31` | [🔗 ElixirConf 2023 - Wojtek Mach - Req - a batteries-included HTTP client for Elixir](https://www.yellowduck.be/posts/elixirconf-2023-wojtek-mach-req-a-batteries-included-http-client-for-elixir)  
-- `2024-10-30` | [🔗 10 Tailwind techniques](https://www.yellowduck.be/posts/10-tailwind-techniques)  
 
 <!-- BLOG-POST-LIST:END -->
