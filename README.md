@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-08` | [🔗 Being the Third Engineer](https://www.yellowduck.be/posts/being-the-third-engineer)  
 - `2024-11-07` | [🔗 Interesting startup idea: benchmarking cloud platform pricing](https://www.yellowduck.be/posts/interesting-startup-idea-benchmarking-cloud-platform-pricing)  
 - `2024-11-06` | [🔗 Red Blob Games: Introduction to A*](https://www.yellowduck.be/posts/red-blob-games-introduction-to-a)  
 - `2024-11-05` | [🐥 Retrieving the final URL after auto redirect with Elixir Req](https://www.yellowduck.be/posts/retrieving-the-final-url-after-auto-redirect-with-elixir-req)  
@@ -22,6 +23,5 @@
 - `2024-11-03` | [🐥 Rendering a HEEx component in code](https://www.yellowduck.be/posts/rendering-a-heex-component-in-code)  
 - `2024-11-02` | [🔗 Line Clamp - Tailwind CSS](https://www.yellowduck.be/posts/line-clamp-tailwind-css)  
 - `2024-11-01` | [🔗 The Copenhagen Book](https://www.yellowduck.be/posts/the-copenhagen-book)  
-- `2024-10-31` | [🐥 Logging Execution Time in Elixir](https://www.yellowduck.be/posts/logging-execution-time-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
