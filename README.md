@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-08` | [🐥 How to Convert an SVG to PNG using qlmanage on macOS](https://www.yellowduck.be/posts/how-to-convert-an-svg-to-png-using-qlmanage-on-macos)  
 - `2024-11-08` | [🔗 Being the Third Engineer](https://www.yellowduck.be/posts/being-the-third-engineer)  
 - `2024-11-07` | [🔗 Interesting startup idea: benchmarking cloud platform pricing](https://www.yellowduck.be/posts/interesting-startup-idea-benchmarking-cloud-platform-pricing)  
 - `2024-11-06` | [🔗 Red Blob Games: Introduction to A*](https://www.yellowduck.be/posts/red-blob-games-introduction-to-a)  
@@ -22,6 +23,5 @@
 - `2024-11-03` | [🔗 Prevent Destructive Commands From Running in Laravel](https://www.yellowduck.be/posts/prevent-destructive-commands-from-running-in-laravel-laravel-news)  
 - `2024-11-03` | [🐥 Rendering a HEEx component in code](https://www.yellowduck.be/posts/rendering-a-heex-component-in-code)  
 - `2024-11-02` | [🔗 Line Clamp - Tailwind CSS](https://www.yellowduck.be/posts/line-clamp-tailwind-css)  
-- `2024-11-01` | [🔗 The Copenhagen Book](https://www.yellowduck.be/posts/the-copenhagen-book)  
 
 <!-- BLOG-POST-LIST:END -->
