@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-11` | [🔗 Cloning queries in Laravel](https://www.yellowduck.be/posts/cloning-queries-in-laravel)  
 - `2024-11-10` | [🐥 Exploring Laravel Collections: Creating a Recursive Macro](https://www.yellowduck.be/posts/exploring-laravel-collections-creating-a-recursive-macro)  
 - `2024-11-10` | [🔗 Svelte 5 is alive](https://www.yellowduck.be/posts/svelte-5-is-alive)  
 - `2024-11-09` | [🔗 Quick Code Examples Demonstrating Python Unpacking](https://www.yellowduck.be/posts/quick-code-examples-demonstrating-python-unpacking)  
@@ -22,6 +23,5 @@
 - `2024-11-07` | [🔗 Interesting startup idea: benchmarking cloud platform pricing](https://www.yellowduck.be/posts/interesting-startup-idea-benchmarking-cloud-platform-pricing)  
 - `2024-11-06` | [🔗 Red Blob Games: Introduction to A*](https://www.yellowduck.be/posts/red-blob-games-introduction-to-a)  
 - `2024-11-05` | [🐥 Retrieving the final URL after auto redirect with Elixir Req](https://www.yellowduck.be/posts/retrieving-the-final-url-after-auto-redirect-with-elixir-req)  
-- `2024-11-05` | [🔗 Recursive Laravel Collection Macros](https://www.yellowduck.be/posts/recursive-laravel-collection-macros)  
 
 <!-- BLOG-POST-LIST:END -->
