@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-11` | [🔗 Kubernetes and the Erlang VM: Orchestration on the Large and the Small](https://www.yellowduck.be/posts/kubernetes-and-the-erlang-vm-orchestration-on-the-large-and-the-small)  
 - `2024-11-11` | [🔗 Cloning queries in Laravel](https://www.yellowduck.be/posts/cloning-queries-in-laravel)  
 - `2024-11-10` | [🐥 Exploring Laravel Collections: Creating a Recursive Macro](https://www.yellowduck.be/posts/exploring-laravel-collections-creating-a-recursive-macro)  
 - `2024-11-10` | [🔗 Svelte 5 is alive](https://www.yellowduck.be/posts/svelte-5-is-alive)  
@@ -22,6 +23,5 @@
 - `2024-11-08` | [🔗 Being the Third Engineer](https://www.yellowduck.be/posts/being-the-third-engineer)  
 - `2024-11-07` | [🔗 Interesting startup idea: benchmarking cloud platform pricing](https://www.yellowduck.be/posts/interesting-startup-idea-benchmarking-cloud-platform-pricing)  
 - `2024-11-06` | [🔗 Red Blob Games: Introduction to A*](https://www.yellowduck.be/posts/red-blob-games-introduction-to-a)  
-- `2024-11-05` | [🐥 Retrieving the final URL after auto redirect with Elixir Req](https://www.yellowduck.be/posts/retrieving-the-final-url-after-auto-redirect-with-elixir-req)  
 
 <!-- BLOG-POST-LIST:END -->
