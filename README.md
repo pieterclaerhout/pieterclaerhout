@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-13` | [🔗 You can use text-wrap: balance; on icons](https://www.yellowduck.be/posts/you-can-use-text-wrap-balance-on-icons)  
 - `2024-11-12` | [🐥 Parsing dates with different formats using Elixir Timex](https://www.yellowduck.be/posts/parsing-dates-with-different-formats-using-elixir-timex)  
 - `2024-11-12` | [🔗 Streamlining Request Handling in Laravel with whenHas&lpar;&rpar;](https://www.yellowduck.be/posts/streamlining-request-handling-in-laravel-with-whenhas)  
 - `2024-11-11` | [🐥 Pattern Matching on Strings in Elixir](https://www.yellowduck.be/posts/pattern-matching-on-strings-in-elixir)  
@@ -22,6 +23,5 @@
 - `2024-11-10` | [🔗 Svelte 5 is alive](https://www.yellowduck.be/posts/svelte-5-is-alive)  
 - `2024-11-09` | [🔗 Quick Code Examples Demonstrating Python Unpacking](https://www.yellowduck.be/posts/quick-code-examples-demonstrating-python-unpacking)  
 - `2024-11-09` | [🔗 Announcement: Community-maintained OTP builds for macOS](https://www.yellowduck.be/posts/announcement-community-maintained-otp-builds-for-macos)  
-- `2024-11-08` | [🐥 How to Convert an SVG to PNG using qlmanage on macOS](https://www.yellowduck.be/posts/how-to-convert-an-svg-to-png-using-qlmanage-on-macos)  
 
 <!-- BLOG-POST-LIST:END -->
