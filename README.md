@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-13` | [🐥 Filtering an array by keys in PHP](https://www.yellowduck.be/posts/filtering-an-array-by-keys-in-php)  
 - `2024-11-13` | [🔗 You can use text-wrap: balance; on icons](https://www.yellowduck.be/posts/you-can-use-text-wrap-balance-on-icons)  
 - `2024-11-12` | [🐥 Parsing dates with different formats using Elixir Timex](https://www.yellowduck.be/posts/parsing-dates-with-different-formats-using-elixir-timex)  
 - `2024-11-12` | [🔗 Streamlining Request Handling in Laravel with whenHas&lpar;&rpar;](https://www.yellowduck.be/posts/streamlining-request-handling-in-laravel-with-whenhas)  
@@ -22,6 +23,5 @@
 - `2024-11-10` | [🐥 Exploring Laravel Collections: Creating a Recursive Macro](https://www.yellowduck.be/posts/exploring-laravel-collections-creating-a-recursive-macro)  
 - `2024-11-10` | [🔗 Svelte 5 is alive](https://www.yellowduck.be/posts/svelte-5-is-alive)  
 - `2024-11-09` | [🔗 Quick Code Examples Demonstrating Python Unpacking](https://www.yellowduck.be/posts/quick-code-examples-demonstrating-python-unpacking)  
-- `2024-11-09` | [🔗 Announcement: Community-maintained OTP builds for macOS](https://www.yellowduck.be/posts/announcement-community-maintained-otp-builds-for-macos)  
 
 <!-- BLOG-POST-LIST:END -->
