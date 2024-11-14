@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-14` | [🔗 LiveView: The javascript you need while keeping the Elixir you love](https://www.yellowduck.be/posts/elixirconf-2023-chris-nelson-liveview-the-javascript-you-need-while-keeping-the-elixir-you-love)  
 - `2024-11-13` | [🐥 Filtering an array by keys in PHP](https://www.yellowduck.be/posts/filtering-an-array-by-keys-in-php)  
 - `2024-11-13` | [🔗 You can use text-wrap: balance; on icons](https://www.yellowduck.be/posts/you-can-use-text-wrap-balance-on-icons)  
 - `2024-11-12` | [🐥 Parsing dates with different formats using Elixir Timex](https://www.yellowduck.be/posts/parsing-dates-with-different-formats-using-elixir-timex)  
@@ -22,6 +23,5 @@
 - `2024-11-11` | [🔗 Cloning queries in Laravel](https://www.yellowduck.be/posts/cloning-queries-in-laravel)  
 - `2024-11-10` | [🐥 Exploring Laravel Collections: Creating a Recursive Macro](https://www.yellowduck.be/posts/exploring-laravel-collections-creating-a-recursive-macro)  
 - `2024-11-10` | [🔗 Svelte 5 is alive](https://www.yellowduck.be/posts/svelte-5-is-alive)  
-- `2024-11-09` | [🔗 Quick Code Examples Demonstrating Python Unpacking](https://www.yellowduck.be/posts/quick-code-examples-demonstrating-python-unpacking)  
 
 <!-- BLOG-POST-LIST:END -->
