@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-17` | [🔗 Dynamic Cache, Database, and Mail Builders in Laravel 11.31](https://www.yellowduck.be/posts/dynamic-cache-database-and-mail-builders-in-laravel-11-31)  
 - `2024-11-17` | [🔗 Easy Mocking in Elixir](https://www.yellowduck.be/posts/easy-mocking-in-elixir)  
 - `2024-11-16` | [🐥 Using each in collections: breaking loops in Laravel](https://www.yellowduck.be/posts/using-each-in-collections-breaking-loops-in-laravel)  
 - `2024-11-16` | [🔗 What I learned from tracking 443 SaaS pricing pages](https://www.yellowduck.be/posts/what-i-learned-from-tracking-443-saas-pricing-pages)  
@@ -22,6 +23,5 @@
 - `2024-11-14` | [🔗 LiveView: The javascript you need while keeping the Elixir you love](https://www.yellowduck.be/posts/elixirconf-2023-chris-nelson-liveview-the-javascript-you-need-while-keeping-the-elixir-you-love)  
 - `2024-11-13` | [🐥 Filtering an array by keys in PHP](https://www.yellowduck.be/posts/filtering-an-array-by-keys-in-php)  
 - `2024-11-13` | [🔗 You can use text-wrap: balance; on icons](https://www.yellowduck.be/posts/you-can-use-text-wrap-balance-on-icons)  
-- `2024-11-12` | [🐥 Parsing dates with different formats using Elixir Timex](https://www.yellowduck.be/posts/parsing-dates-with-different-formats-using-elixir-timex)  
 
 <!-- BLOG-POST-LIST:END -->
