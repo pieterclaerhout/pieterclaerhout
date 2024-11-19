@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-19` | [🔗 A Bluesky Starter Guide for Elixir Devs](https://www.yellowduck.be/posts/a-bluesky-starter-guide-for-elixir-devs)  
 - `2024-11-18` | [🐥 The Hidden Dangers of Sorting and Pagination in MySQL: Handling Nullable Columns](https://www.yellowduck.be/posts/the-hidden-dangers-of-sorting-and-pagination-in-mysql-handling-nullable-columns)  
 - `2024-11-17` | [🔗 Dynamic Cache, Database, and Mail Builders in Laravel 11.31](https://www.yellowduck.be/posts/dynamic-cache-database-and-mail-builders-in-laravel-11-31)  
 - `2024-11-17` | [🔗 Easy Mocking in Elixir](https://www.yellowduck.be/posts/easy-mocking-in-elixir)  
@@ -22,6 +23,5 @@
 - `2024-11-15` | [🔗 Understanding essential SOLID Principles in OOP: A Developer&#39;s Guide](https://www.yellowduck.be/posts/understanding-essential-solid-principles-in-oop-a-developers-guide-curiosum)  
 - `2024-11-14` | [🐥 Adding a health check to a Phoenix web app](https://www.yellowduck.be/posts/adding-a-health-check-to-a-phoenix-web-app)  
 - `2024-11-14` | [🔗 LiveView: The javascript you need while keeping the Elixir you love](https://www.yellowduck.be/posts/elixirconf-2023-chris-nelson-liveview-the-javascript-you-need-while-keeping-the-elixir-you-love)  
-- `2024-11-13` | [🐥 Filtering an array by keys in PHP](https://www.yellowduck.be/posts/filtering-an-array-by-keys-in-php)  
 
 <!-- BLOG-POST-LIST:END -->
