@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-20` | [🔗 eShop infused with AI - a comprehensive intelligent app sample](https://www.yellowduck.be/posts/eshop-infused-with-ai-a-comprehensive-intelligent-app-sample-net-blog)  
 - `2024-11-20` | [🔗 How to Implement a Global Transaction for All Routes in Laravel](https://www.yellowduck.be/posts/how-to-implement-a-global-transaction-for-all-routes-in-laravel)  
 - `2024-11-19` | [🐥 Exporting all variables from a .env file](https://www.yellowduck.be/posts/exporting-all-variables-from-a-env-file)  
 - `2024-11-19` | [🔗 Running prompts against images and PDFs with Google Gemini](https://www.yellowduck.be/posts/running-prompts-against-images-and-pdfs-with-google-gemini)  
@@ -22,6 +23,5 @@
 - `2024-11-17` | [🔗 Easy Mocking in Elixir](https://www.yellowduck.be/posts/easy-mocking-in-elixir)  
 - `2024-11-16` | [🐥 Using each in collections: breaking loops in Laravel](https://www.yellowduck.be/posts/using-each-in-collections-breaking-loops-in-laravel)  
 - `2024-11-16` | [🔗 What I learned from tracking 443 SaaS pricing pages](https://www.yellowduck.be/posts/what-i-learned-from-tracking-443-saas-pricing-pages)  
-- `2024-11-15` | [🐥 Adding or updating query string parameters using Elixir](https://www.yellowduck.be/posts/adding-or-updating-query-string-parameters-using-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
