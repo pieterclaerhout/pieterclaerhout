@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-21` | [🔗 PHP 8.4 Release Announcement](https://www.yellowduck.be/posts/php-8-4-release-announcement)  
 - `2024-11-21` | [🔗 Accessing Databases in PhpStorm](https://www.yellowduck.be/posts/accessing-databases-in-phpstorm)  
 - `2024-11-20` | [🐥 TIL: Fixing the require error in tailwind.config.js after updating NodeJS to version 23](https://www.yellowduck.be/posts/til-fixing-the-require-error-in-tailwind-config-js-after-updating-nodejs-to-version-23)  
 - `2024-11-20` | [🔗 eShop infused with AI - a comprehensive intelligent app sample](https://www.yellowduck.be/posts/eshop-infused-with-ai-a-comprehensive-intelligent-app-sample-net-blog)  
@@ -22,6 +23,5 @@
 - `2024-11-19` | [🔗 A Bluesky Starter Guide for Elixir Devs](https://www.yellowduck.be/posts/a-bluesky-starter-guide-for-elixir-devs)  
 - `2024-11-18` | [🐥 The Hidden Dangers of Sorting and Pagination in MySQL: Handling Nullable Columns](https://www.yellowduck.be/posts/the-hidden-dangers-of-sorting-and-pagination-in-mysql-handling-nullable-columns)  
 - `2024-11-17` | [🔗 Dynamic Cache, Database, and Mail Builders in Laravel 11.31](https://www.yellowduck.be/posts/dynamic-cache-database-and-mail-builders-in-laravel-11-31)  
-- `2024-11-17` | [🔗 Easy Mocking in Elixir](https://www.yellowduck.be/posts/easy-mocking-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
