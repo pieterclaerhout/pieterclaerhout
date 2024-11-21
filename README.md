@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-21` | [🐥 How to add relative percentages to MySQL query results](https://www.yellowduck.be/posts/how-to-add-relative-percentages-to-mysql-query-results)  
 - `2024-11-21` | [🔗 Using Rust in Non-Rust Servers to Improve Performance](https://www.yellowduck.be/posts/rust-blog-posts-rust-in-non-rust-servers-md-at-master-pretzelhammer-rust-blog)  
 - `2024-11-21` | [🔗 PHP 8.4 Release Announcement](https://www.yellowduck.be/posts/php-8-4-release-announcement)  
 - `2024-11-21` | [🔗 Accessing Databases in PhpStorm](https://www.yellowduck.be/posts/accessing-databases-in-phpstorm)  
@@ -22,6 +23,5 @@
 - `2024-11-19` | [🐥 Exporting all variables from a .env file](https://www.yellowduck.be/posts/exporting-all-variables-from-a-env-file)  
 - `2024-11-19` | [🔗 Running prompts against images and PDFs with Google Gemini](https://www.yellowduck.be/posts/running-prompts-against-images-and-pdfs-with-google-gemini)  
 - `2024-11-19` | [🔗 A Bluesky Starter Guide for Elixir Devs](https://www.yellowduck.be/posts/a-bluesky-starter-guide-for-elixir-devs)  
-- `2024-11-18` | [🐥 The Hidden Dangers of Sorting and Pagination in MySQL: Handling Nullable Columns](https://www.yellowduck.be/posts/the-hidden-dangers-of-sorting-and-pagination-in-mysql-handling-nullable-columns)  
 
 <!-- BLOG-POST-LIST:END -->
