@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-23` | [🔗 How to do a preload good using Ecto](https://www.yellowduck.be/posts/how-to-do-a-preload-good-using-ecto)  
 - `2024-11-22` | [🐥 Using Tailwind 4.0.0-beta.1 with Elixir Phoenix](https://www.yellowduck.be/posts/using-tailwind-4-0-0-beta-1-with-elixir-phoenix)  
 - `2024-11-22` | [🔗 Tailwind CSS v4.0 Beta](https://www.yellowduck.be/posts/tailwind-css-v4-0-beta)  
 - `2024-11-22` | [🔗 Content Type Negotiation Made Easy: Laravel&#39;s prefers Method](https://www.yellowduck.be/posts/content-type-negotiation-made-easy-laravels-prefers-method)  
@@ -22,6 +23,5 @@
 - `2024-11-21` | [🔗 Accessing Databases in PhpStorm](https://www.yellowduck.be/posts/accessing-databases-in-phpstorm)  
 - `2024-11-20` | [🐥 TIL: Fixing the require error in tailwind.config.js after updating NodeJS to version 23](https://www.yellowduck.be/posts/til-fixing-the-require-error-in-tailwind-config-js-after-updating-nodejs-to-version-23)  
 - `2024-11-20` | [🔗 eShop infused with AI - a comprehensive intelligent app sample](https://www.yellowduck.be/posts/eshop-infused-with-ai-a-comprehensive-intelligent-app-sample-net-blog)  
-- `2024-11-20` | [🔗 How to Implement a Global Transaction for All Routes in Laravel](https://www.yellowduck.be/posts/how-to-implement-a-global-transaction-for-all-routes-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
