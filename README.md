@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-24` | [🔗 Prevent Stray HTTP Requests in Laravel Tests: Using preventStrayRequests](https://www.yellowduck.be/posts/prevent-stray-http-requests-in-laravel-tests-using-preventstrayrequests)  
 - `2024-11-23` | [🐥 Getting the real client IP using Elixir Phoenix](https://www.yellowduck.be/posts/getting-the-real-client-ip-using-elixir-phoenix)  
 - `2024-11-23` | [🔗 Building Beacon #1 - Site Config](https://www.yellowduck.be/posts/building-beacon-1-site-config)  
 - `2024-11-23` | [🔗 How to do a preload good using Ecto](https://www.yellowduck.be/posts/how-to-do-a-preload-good-using-ecto)  
@@ -22,6 +23,5 @@
 - `2024-11-21` | [🐥 How to add relative percentages to MySQL query results](https://www.yellowduck.be/posts/how-to-add-relative-percentages-to-mysql-query-results)  
 - `2024-11-21` | [🔗 Using Rust in Non-Rust Servers to Improve Performance](https://www.yellowduck.be/posts/rust-blog-posts-rust-in-non-rust-servers-md-at-master-pretzelhammer-rust-blog)  
 - `2024-11-21` | [🔗 PHP 8.4 Release Announcement](https://www.yellowduck.be/posts/php-8-4-release-announcement)  
-- `2024-11-21` | [🔗 Accessing Databases in PhpStorm](https://www.yellowduck.be/posts/accessing-databases-in-phpstorm)  
 
 <!-- BLOG-POST-LIST:END -->
