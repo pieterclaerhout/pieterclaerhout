@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-25` | [🔗 How We Choose Technologies at PostHog](https://www.yellowduck.be/posts/how-we-choose-technologies-at-posthog)  
 - `2024-11-24` | [🐥 TIL: How does Laravel format a Carbon date in a resource](https://www.yellowduck.be/posts/til-how-does-laravel-format-a-carbon-date-in-a-resource)  
 - `2024-11-24` | [🔗 Elixir API from Scratch](https://www.yellowduck.be/posts/elixir-api-from-scratch-inter-caetera)  
 - `2024-11-24` | [🔗 Prevent Stray HTTP Requests in Laravel Tests: Using preventStrayRequests](https://www.yellowduck.be/posts/prevent-stray-http-requests-in-laravel-tests-using-preventstrayrequests)  
@@ -22,6 +23,5 @@
 - `2024-11-22` | [🐥 Using Tailwind 4.0.0-beta.1 with Elixir Phoenix](https://www.yellowduck.be/posts/using-tailwind-4-0-0-beta-1-with-elixir-phoenix)  
 - `2024-11-22` | [🔗 Tailwind CSS v4.0 Beta](https://www.yellowduck.be/posts/tailwind-css-v4-0-beta)  
 - `2024-11-22` | [🔗 Content Type Negotiation Made Easy: Laravel&#39;s prefers Method](https://www.yellowduck.be/posts/content-type-negotiation-made-easy-laravels-prefers-method)  
-- `2024-11-21` | [🐥 How to add relative percentages to MySQL query results](https://www.yellowduck.be/posts/how-to-add-relative-percentages-to-mysql-query-results)  
 
 <!-- BLOG-POST-LIST:END -->
