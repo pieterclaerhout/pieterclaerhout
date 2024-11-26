@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-26` | [🐥 Be careful with building delete statements using Laravel Query Builder](https://www.yellowduck.be/posts/be-careful-with-building-delete-statements-using-laravel-query-builder)  
 - `2024-11-26` | [🔗 Why Bad Code Exists](https://www.yellowduck.be/posts/why-bad-code-exists)  
 - `2024-11-26` | [🔗 Choosing the right Postgres indexes | Blog](https://www.yellowduck.be/posts/choosing-the-right-postgres-indexes-blog)  
 - `2024-11-25` | [🐥 Using multiple CSS files in your Elixir Phoenix project](https://www.yellowduck.be/posts/using-multiple-css-files-in-your-elixir-phoenix-project)  
@@ -22,6 +23,5 @@
 - `2024-11-24` | [🔗 Elixir API from Scratch](https://www.yellowduck.be/posts/elixir-api-from-scratch-inter-caetera)  
 - `2024-11-24` | [🔗 Prevent Stray HTTP Requests in Laravel Tests: Using preventStrayRequests](https://www.yellowduck.be/posts/prevent-stray-http-requests-in-laravel-tests-using-preventstrayrequests)  
 - `2024-11-23` | [🐥 Getting the real client IP using Elixir Phoenix](https://www.yellowduck.be/posts/getting-the-real-client-ip-using-elixir-phoenix)  
-- `2024-11-23` | [🔗 Building Beacon #1 - Site Config](https://www.yellowduck.be/posts/building-beacon-1-site-config)  
 
 <!-- BLOG-POST-LIST:END -->
