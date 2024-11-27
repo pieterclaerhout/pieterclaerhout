@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-27` | [🔗 The complete guide to handling IMAP e-mails from within Elixir](https://www.yellowduck.be/posts/the-complete-guide-to-handling-imap-e-mails-from-within-elixir)  
 - `2024-11-26` | [🐥 Be careful with building delete statements using Laravel Query Builder](https://www.yellowduck.be/posts/be-careful-with-building-delete-statements-using-laravel-query-builder)  
 - `2024-11-26` | [🔗 Why Bad Code Exists](https://www.yellowduck.be/posts/why-bad-code-exists)  
 - `2024-11-26` | [🔗 Choosing the right Postgres indexes | Blog](https://www.yellowduck.be/posts/choosing-the-right-postgres-indexes-blog)  
@@ -22,6 +23,5 @@
 - `2024-11-24` | [🐥 TIL: How does Laravel format a Carbon date in a resource](https://www.yellowduck.be/posts/til-how-does-laravel-format-a-carbon-date-in-a-resource)  
 - `2024-11-24` | [🔗 Elixir API from Scratch](https://www.yellowduck.be/posts/elixir-api-from-scratch-inter-caetera)  
 - `2024-11-24` | [🔗 Prevent Stray HTTP Requests in Laravel Tests: Using preventStrayRequests](https://www.yellowduck.be/posts/prevent-stray-http-requests-in-laravel-tests-using-preventstrayrequests)  
-- `2024-11-23` | [🐥 Getting the real client IP using Elixir Phoenix](https://www.yellowduck.be/posts/getting-the-real-client-ip-using-elixir-phoenix)  
 
 <!-- BLOG-POST-LIST:END -->
