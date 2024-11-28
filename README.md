@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-28` | [🐥 Removing query string parameters from a URL given a prefix](https://www.yellowduck.be/posts/removing-query-string-parameters-from-a-url-given-a-prefix)  
 - `2024-11-28` | [🔗 How I Tuned My CI/CD Pipeline To Be Done in 60 Seconds](https://www.yellowduck.be/posts/how-i-tuned-my-ci-cd-pipeline-to-be-done-in-60-seconds)  
 - `2024-11-28` | [🔗 Map Lookup in Elixir - A Taxonomy](https://www.yellowduck.be/posts/map-lookup-in-elixir-a-taxonomy)  
 - `2024-11-27` | [🐥 Dynamic order by using Phoenix Ecto](https://www.yellowduck.be/posts/dynamic-order-by-using-phoenix-ecto)  
@@ -22,6 +23,5 @@
 - `2024-11-26` | [🔗 Why Bad Code Exists](https://www.yellowduck.be/posts/why-bad-code-exists)  
 - `2024-11-26` | [🔗 Choosing the right Postgres indexes | Blog](https://www.yellowduck.be/posts/choosing-the-right-postgres-indexes-blog)  
 - `2024-11-25` | [🐥 Using multiple CSS files in your Elixir Phoenix project](https://www.yellowduck.be/posts/using-multiple-css-files-in-your-elixir-phoenix-project)  
-- `2024-11-25` | [🔗 Implementing Phoenix LiveView from Concept to Production](https://www.yellowduck.be/posts/implementing-phoenix-liveview-from-concept-to-production)  
 
 <!-- BLOG-POST-LIST:END -->
