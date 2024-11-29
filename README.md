@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-29` | [🔗 Writing system software: code comments](https://www.yellowduck.be/posts/writing-system-software-code-comments-antirez)  
 - `2024-11-29` | [🔗 Ash Calculations - Cond](https://www.yellowduck.be/posts/ash-calculations-cond)  
 - `2024-11-28` | [🐥 Removing query string parameters from a URL given a prefix](https://www.yellowduck.be/posts/removing-query-string-parameters-from-a-url-given-a-prefix)  
 - `2024-11-28` | [🔗 How I Tuned My CI/CD Pipeline To Be Done in 60 Seconds](https://www.yellowduck.be/posts/how-i-tuned-my-ci-cd-pipeline-to-be-done-in-60-seconds)  
@@ -22,6 +23,5 @@
 - `2024-11-27` | [🔗 The complete guide to handling IMAP e-mails from within Elixir](https://www.yellowduck.be/posts/the-complete-guide-to-handling-imap-e-mails-from-within-elixir)  
 - `2024-11-26` | [🐥 Be careful with building delete statements using Laravel Query Builder](https://www.yellowduck.be/posts/be-careful-with-building-delete-statements-using-laravel-query-builder)  
 - `2024-11-26` | [🔗 Why Bad Code Exists](https://www.yellowduck.be/posts/why-bad-code-exists)  
-- `2024-11-26` | [🔗 Choosing the right Postgres indexes | Blog](https://www.yellowduck.be/posts/choosing-the-right-postgres-indexes-blog)  
 
 <!-- BLOG-POST-LIST:END -->
