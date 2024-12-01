@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-01` | [🔗 Default values for function arguments can work differently in Elixir](https://www.yellowduck.be/posts/default-values-for-function-arguments-can-work-differently-in-elixir)  
 - `2024-11-30` | [🐥 Posting from Elixir to Bluesky using Req part 1](https://www.yellowduck.be/posts/posting-from-elixir-to-bluesky-using-req-part-1)  
 - `2024-11-30` | [🔗 Elixir is dynamically and strongly typed](https://www.yellowduck.be/posts/elixir-is-dynamically-and-strongly-typed)  
 - `2024-11-30` | [🔗 SQL style guide](https://www.yellowduck.be/posts/sql-style-guide)  
@@ -22,6 +23,5 @@
 - `2024-11-28` | [🐥 Removing query string parameters from a URL given a prefix](https://www.yellowduck.be/posts/removing-query-string-parameters-from-a-url-given-a-prefix)  
 - `2024-11-28` | [🔗 How I Tuned My CI/CD Pipeline To Be Done in 60 Seconds](https://www.yellowduck.be/posts/how-i-tuned-my-ci-cd-pipeline-to-be-done-in-60-seconds)  
 - `2024-11-28` | [🔗 Map Lookup in Elixir - A Taxonomy](https://www.yellowduck.be/posts/map-lookup-in-elixir-a-taxonomy)  
-- `2024-11-27` | [🐥 Dynamic order by using Phoenix Ecto](https://www.yellowduck.be/posts/dynamic-order-by-using-phoenix-ecto)  
 
 <!-- BLOG-POST-LIST:END -->
