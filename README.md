@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-02` | [🔗 Build a Static Site in Elixir Under 5 Minutes with Phoenix Components](https://www.yellowduck.be/posts/build-a-static-site-in-elixir-under-5-minutes-with-phoenix-components)  
 - `2024-12-02` | [🔗 Introducing the Ash Framework: Zach Daniel&#39;s talk in Tokyo](https://www.yellowduck.be/posts/introducing-the-ash-framework-zach-daniels-talk-in-tokyo)  
 - `2024-12-01` | [🐥 Posting from Elixir to Bluesky using Req part 2](https://www.yellowduck.be/posts/posting-from-elixir-to-bluesky-using-req-part-2)  
 - `2024-12-01` | [🔗 Better LiveView Hooks with Typescript](https://www.yellowduck.be/posts/better-liveview-hooks-with-typescript)  
@@ -22,6 +23,5 @@
 - `2024-11-30` | [🔗 SQL style guide](https://www.yellowduck.be/posts/sql-style-guide)  
 - `2024-11-29` | [🐥 The beauty of debugging in Elixir when using dbg&lpar;&rpar;](https://www.yellowduck.be/posts/the-beauty-of-debugging-in-elixir-when-using-dbg)  
 - `2024-11-29` | [🔗 Writing system software: code comments](https://www.yellowduck.be/posts/writing-system-software-code-comments-antirez)  
-- `2024-11-29` | [🔗 Ash Calculations - Cond](https://www.yellowduck.be/posts/ash-calculations-cond)  
 
 <!-- BLOG-POST-LIST:END -->
