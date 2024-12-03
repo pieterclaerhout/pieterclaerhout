@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-03` | [🔗 A Case For Custom Collections](https://www.yellowduck.be/posts/a-case-for-custom-collections)  
 - `2024-12-03` | [🔗 Historized Attributes: Systematic Table Design](https://www.yellowduck.be/posts/historized-attributes-systematic-table-design)  
 - `2024-12-02` | [🐥 Posting from Elixir to Bluesky using Req part 3](https://www.yellowduck.be/posts/posting-from-elixir-to-bluesky-using-req-part-3)  
 - `2024-12-02` | [🔗 Build a Static Site in Elixir Under 5 Minutes with Phoenix Components](https://www.yellowduck.be/posts/build-a-static-site-in-elixir-under-5-minutes-with-phoenix-components)  
@@ -22,6 +23,5 @@
 - `2024-12-01` | [🔗 Default values for function arguments can work differently in Elixir](https://www.yellowduck.be/posts/default-values-for-function-arguments-can-work-differently-in-elixir)  
 - `2024-11-30` | [🐥 Posting from Elixir to Bluesky using Req part 1](https://www.yellowduck.be/posts/posting-from-elixir-to-bluesky-using-req-part-1)  
 - `2024-11-30` | [🔗 Elixir is dynamically and strongly typed](https://www.yellowduck.be/posts/elixir-is-dynamically-and-strongly-typed)  
-- `2024-11-30` | [🔗 SQL style guide](https://www.yellowduck.be/posts/sql-style-guide)  
 
 <!-- BLOG-POST-LIST:END -->
