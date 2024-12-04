@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-04` | [🔗 Interactive Select component using Phoenix LiveView and vanilla JS Hook](https://www.yellowduck.be/posts/interactive-select-component-using-phoenix-liveview-and-vanilla-js-hook)  
 - `2024-12-03` | [🐥 Posting from Elixir to Bluesky using Req part 4](https://www.yellowduck.be/posts/posting-from-elixir-to-bluesky-using-req-part-4)  
 - `2024-12-03` | [🔗 A Case For Custom Collections](https://www.yellowduck.be/posts/a-case-for-custom-collections)  
 - `2024-12-03` | [🔗 Historized Attributes: Systematic Table Design](https://www.yellowduck.be/posts/historized-attributes-systematic-table-design)  
@@ -22,6 +23,5 @@
 - `2024-12-01` | [🐥 Posting from Elixir to Bluesky using Req part 2](https://www.yellowduck.be/posts/posting-from-elixir-to-bluesky-using-req-part-2)  
 - `2024-12-01` | [🔗 Better LiveView Hooks with Typescript](https://www.yellowduck.be/posts/better-liveview-hooks-with-typescript)  
 - `2024-12-01` | [🔗 Default values for function arguments can work differently in Elixir](https://www.yellowduck.be/posts/default-values-for-function-arguments-can-work-differently-in-elixir)  
-- `2024-11-30` | [🐥 Posting from Elixir to Bluesky using Req part 1](https://www.yellowduck.be/posts/posting-from-elixir-to-bluesky-using-req-part-1)  
 
 <!-- BLOG-POST-LIST:END -->
