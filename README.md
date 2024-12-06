@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-06` | [🔗 Use the New Fluent Helper to Work With Multi-dimensional Arrays](https://www.yellowduck.be/posts/use-the-new-fluent-helper-to-work-with-multi-dimensional-arrays-in-laravel-11-2-laravel-news)  
 - `2024-12-05` | [🐥 Connecting to your production instance using iex](https://www.yellowduck.be/posts/connecting-to-your-production-instance-using-iex)  
 - `2024-12-05` | [🔗 Beacon v0.1 and the Future](https://www.yellowduck.be/posts/beacon-v0-1-and-the-future)  
 - `2024-12-05` | [🔗 GitHub Actions | uv](https://www.yellowduck.be/posts/github-actions-uv)  
@@ -22,6 +23,5 @@
 - `2024-12-03` | [🐥 Posting from Elixir to Bluesky using Req part 4](https://www.yellowduck.be/posts/posting-from-elixir-to-bluesky-using-req-part-4)  
 - `2024-12-03` | [🔗 A Case For Custom Collections](https://www.yellowduck.be/posts/a-case-for-custom-collections)  
 - `2024-12-03` | [🔗 Historized Attributes: Systematic Table Design](https://www.yellowduck.be/posts/historized-attributes-systematic-table-design)  
-- `2024-12-02` | [🐥 Posting from Elixir to Bluesky using Req part 3](https://www.yellowduck.be/posts/posting-from-elixir-to-bluesky-using-req-part-3)  
 
 <!-- BLOG-POST-LIST:END -->
