@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-07` | [🔗 Shorthand maps for Elixir](https://www.yellowduck.be/posts/shorthand-maps-for-elixir)  
 - `2024-12-07` | [🔗 UUID, ORM and Strange Deadlocks](https://www.yellowduck.be/posts/uuid-orm-and-strange-deadlocks)  
 - `2024-12-06` | [🐥 TIL: skip formatting for specific elements in Heex](https://www.yellowduck.be/posts/til-skip-formatting-for-specific-elements-in-heex)  
 - `2024-12-06` | [🔗 Introduction to Ecto.Multi](https://www.yellowduck.be/posts/introduction-to-ecto-multi)  
@@ -22,6 +23,5 @@
 - `2024-12-05` | [🔗 GitHub Actions | uv](https://www.yellowduck.be/posts/github-actions-uv)  
 - `2024-12-04` | [🐥 Transform strings using Str::replaceMatches in Laravel](https://www.yellowduck.be/posts/transform-strings-using-str-replacematches-in-laravel)  
 - `2024-12-04` | [🔗 When is a CTO not a CTO?](https://www.yellowduck.be/posts/when-is-a-cto-not-a-cto)  
-- `2024-12-04` | [🔗 Interactive Select component using Phoenix LiveView and vanilla JS Hook](https://www.yellowduck.be/posts/interactive-select-component-using-phoenix-liveview-and-vanilla-js-hook)  
 
 <!-- BLOG-POST-LIST:END -->
