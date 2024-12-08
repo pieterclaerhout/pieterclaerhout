@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-08` | [🔗 Chekhov&#39;s gun principle for testing](https://www.yellowduck.be/posts/chekhovs-gun-principle-for-testing)  
 - `2024-12-07` | [🐥 Using the RouteParameter annotation in Laravel FormRequest classes](https://www.yellowduck.be/posts/using-the-routeparameter-annotation-in-laravel-formrequest-classes)  
 - `2024-12-07` | [🔗 Shorthand maps for Elixir](https://www.yellowduck.be/posts/shorthand-maps-for-elixir)  
 - `2024-12-07` | [🔗 UUID, ORM and Strange Deadlocks](https://www.yellowduck.be/posts/uuid-orm-and-strange-deadlocks)  
@@ -22,6 +23,5 @@
 - `2024-12-05` | [🐥 Connecting to your production instance using iex](https://www.yellowduck.be/posts/connecting-to-your-production-instance-using-iex)  
 - `2024-12-05` | [🔗 Beacon v0.1 and the Future](https://www.yellowduck.be/posts/beacon-v0-1-and-the-future)  
 - `2024-12-05` | [🔗 GitHub Actions | uv](https://www.yellowduck.be/posts/github-actions-uv)  
-- `2024-12-04` | [🐥 Transform strings using Str::replaceMatches in Laravel](https://www.yellowduck.be/posts/transform-strings-using-str-replacematches-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
