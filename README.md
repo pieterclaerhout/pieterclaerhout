@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-10` | [🔗 Useful built-in macOS command-line utilities](https://www.yellowduck.be/posts/useful-built-in-macos-command-line-utilities)  
 - `2024-12-09` | [🐥 Mail merge using docx and Python](https://www.yellowduck.be/posts/mail-merge-using-docx-and-python)  
 - `2024-12-09` | [🔗 Modelling `through` relationships with Ash](https://www.yellowduck.be/posts/modelling-through-relationships-with-ash)  
 - `2024-12-09` | [🔗 Be Suspicious of Success](https://www.yellowduck.be/posts/be-suspicious-of-success)  
@@ -22,6 +23,5 @@
 - `2024-12-07` | [🐥 Using the RouteParameter annotation in Laravel FormRequest classes](https://www.yellowduck.be/posts/using-the-routeparameter-annotation-in-laravel-formrequest-classes)  
 - `2024-12-07` | [🔗 Shorthand maps for Elixir](https://www.yellowduck.be/posts/shorthand-maps-for-elixir)  
 - `2024-12-07` | [🔗 UUID, ORM and Strange Deadlocks](https://www.yellowduck.be/posts/uuid-orm-and-strange-deadlocks)  
-- `2024-12-06` | [🐥 TIL: skip formatting for specific elements in Heex](https://www.yellowduck.be/posts/til-skip-formatting-for-specific-elements-in-heex)  
 
 <!-- BLOG-POST-LIST:END -->
