@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-11` | [🔗 For loops and comprehensions in Elixir - transforming imperative code](https://www.yellowduck.be/posts/for-loops-and-comprehensions-in-elixir-transforming-imperative-code)  
 - `2024-12-11` | [🔗 On Typesetting Engines: A Programmer&#39;s Perspective](https://www.yellowduck.be/posts/on-typesetting-engines-a-programmers-perspective)  
 - `2024-12-10` | [🐥 Creating a reusable &quot;Copy to Clipboard&quot; component in Phoenix LiveView](https://www.yellowduck.be/posts/creating-a-reusable-copy-to-clipboard-component-in-phoenix-liveview)  
 - `2024-12-10` | [🔗 What is Utility-First CSS?](https://www.yellowduck.be/posts/what-is-utility-first-css)  
@@ -22,6 +23,5 @@
 - `2024-12-09` | [🔗 Be Suspicious of Success](https://www.yellowduck.be/posts/be-suspicious-of-success)  
 - `2024-12-08` | [🐥 Using streaming HTTP responses in Laravel](https://www.yellowduck.be/posts/using-streaming-http-responses-in-laravel)  
 - `2024-12-08` | [🔗 Phoenix LiveView, hooks and push_event: json-view](https://www.yellowduck.be/posts/phoenix-liveview-hooks-and-push-event-json-view)  
-- `2024-12-08` | [🔗 Chekhov&#39;s gun principle for testing](https://www.yellowduck.be/posts/chekhovs-gun-principle-for-testing)  
 
 <!-- BLOG-POST-LIST:END -->
