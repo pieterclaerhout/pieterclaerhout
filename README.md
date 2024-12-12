@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-12` | [🔗 LiveView got braces: a complete guide to Phoenix LiveView v1.0.0&#39;s new curly brace syntax](https://www.yellowduck.be/posts/liveview-got-braces-a-complete-guide-to-phoenix-liveview-v1-0-0s-new-curly-brace-syntax)  
 - `2024-12-11` | [🐥 Sending a plain text email using Laravel](https://www.yellowduck.be/posts/sending-a-plain-text-email-using-laravel)  
 - `2024-12-11` | [🔗 For loops and comprehensions in Elixir - transforming imperative code](https://www.yellowduck.be/posts/for-loops-and-comprehensions-in-elixir-transforming-imperative-code)  
 - `2024-12-11` | [🔗 On Typesetting Engines: A Programmer&#39;s Perspective](https://www.yellowduck.be/posts/on-typesetting-engines-a-programmers-perspective)  
@@ -22,6 +23,5 @@
 - `2024-12-09` | [🐥 Mail merge using docx and Python](https://www.yellowduck.be/posts/mail-merge-using-docx-and-python)  
 - `2024-12-09` | [🔗 Modelling `through` relationships with Ash](https://www.yellowduck.be/posts/modelling-through-relationships-with-ash)  
 - `2024-12-09` | [🔗 Be Suspicious of Success](https://www.yellowduck.be/posts/be-suspicious-of-success)  
-- `2024-12-08` | [🐥 Using streaming HTTP responses in Laravel](https://www.yellowduck.be/posts/using-streaming-http-responses-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
