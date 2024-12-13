@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-13` | [🔗 How some of the world&#39;s most brilliant computer scientists got password policies so wrong](https://www.yellowduck.be/posts/how-some-of-the-worlds-most-brilliant-computer-scientists-got-password-policies-so-wrong)  
 - `2024-12-12` | [🐥 TIL: running a scheduled command manually in Laravel](https://www.yellowduck.be/posts/til-running-a-scheduled-command-manually-in-laravel)  
 - `2024-12-12` | [🔗 How to Dynamically Add and Remove Embedded Item Inputs in a Form Using `sort_param` and `drop_param`](https://www.yellowduck.be/posts/how-to-dynamically-add-and-remove-embedded-item-inputs-in-a-form-using-sort-param-and-drop-param)  
 - `2024-12-12` | [🔗 LiveView got braces: a complete guide to Phoenix LiveView v1.0.0&#39;s new curly brace syntax](https://www.yellowduck.be/posts/liveview-got-braces-a-complete-guide-to-phoenix-liveview-v1-0-0s-new-curly-brace-syntax)  
@@ -22,6 +23,5 @@
 - `2024-12-10` | [🐥 Creating a reusable &quot;Copy to Clipboard&quot; component in Phoenix LiveView](https://www.yellowduck.be/posts/creating-a-reusable-copy-to-clipboard-component-in-phoenix-liveview)  
 - `2024-12-10` | [🔗 What is Utility-First CSS?](https://www.yellowduck.be/posts/what-is-utility-first-css)  
 - `2024-12-10` | [🔗 Useful built-in macOS command-line utilities](https://www.yellowduck.be/posts/useful-built-in-macos-command-line-utilities)  
-- `2024-12-09` | [🐥 Mail merge using docx and Python](https://www.yellowduck.be/posts/mail-merge-using-docx-and-python)  
 
 <!-- BLOG-POST-LIST:END -->
