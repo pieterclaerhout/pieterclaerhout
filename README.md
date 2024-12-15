@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-15` | [🔗 A Friendly Introduction to Container Queries](https://www.yellowduck.be/posts/a-friendly-introduction-to-container-queries)  
 - `2024-12-14` | [🐥 Pretty printing JSON using Elixir](https://www.yellowduck.be/posts/pretty-printing-json-using-elixir)  
 - `2024-12-14` | [🔗 Speeding up with ETS](https://www.yellowduck.be/posts/speeding-up-with-ets)  
 - `2024-12-14` | [🔗 Content Security Policy header with Phoenix LiveView](https://www.yellowduck.be/posts/dan-schultzer-content-security-policy-header-with-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2024-12-12` | [🐥 TIL: running a scheduled command manually in Laravel](https://www.yellowduck.be/posts/til-running-a-scheduled-command-manually-in-laravel)  
 - `2024-12-12` | [🔗 How to Dynamically Add and Remove Embedded Item Inputs in a Form Using `sort_param` and `drop_param`](https://www.yellowduck.be/posts/how-to-dynamically-add-and-remove-embedded-item-inputs-in-a-form-using-sort-param-and-drop-param)  
 - `2024-12-12` | [🔗 LiveView got braces: a complete guide to Phoenix LiveView v1.0.0&#39;s new curly brace syntax](https://www.yellowduck.be/posts/liveview-got-braces-a-complete-guide-to-phoenix-liveview-v1-0-0s-new-curly-brace-syntax)  
-- `2024-12-11` | [🐥 Sending a plain text email using Laravel](https://www.yellowduck.be/posts/sending-a-plain-text-email-using-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
