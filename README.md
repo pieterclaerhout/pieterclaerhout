@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-16` | [🔗 Keyword.get considered harmful in Elixir](https://www.yellowduck.be/posts/keyword-get-considered-harmful)  
 - `2024-12-15` | [🐥 Pretty-printing SQL using Elixir](https://www.yellowduck.be/posts/pretty-printing-sql-using-elixir)  
 - `2024-12-15` | [🔗 Making content-aware components using CSS :has&lpar;&rpar;, grid, and quantity queries](https://www.yellowduck.be/posts/making-content-aware-components-using-css-has-grid-and-quantity-queries)  
 - `2024-12-15` | [🔗 A Friendly Introduction to Container Queries](https://www.yellowduck.be/posts/a-friendly-introduction-to-container-queries)  
@@ -22,6 +23,5 @@
 - `2024-12-13` | [🐥 Assigning values from a map to a socket in Elixir Phoenix](https://www.yellowduck.be/posts/assigning-values-from-a-map-to-a-socket-in-elixir-phoenix)  
 - `2024-12-13` | [🔗 Phoenix Autocomplete Input Component w/o Javascript](https://www.yellowduck.be/posts/autocomplete-input-component-w-o-javascript)  
 - `2024-12-13` | [🔗 How some of the world&#39;s most brilliant computer scientists got password policies so wrong](https://www.yellowduck.be/posts/how-some-of-the-worlds-most-brilliant-computer-scientists-got-password-policies-so-wrong)  
-- `2024-12-12` | [🐥 TIL: running a scheduled command manually in Laravel](https://www.yellowduck.be/posts/til-running-a-scheduled-command-manually-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
