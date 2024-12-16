@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-16` | [🐥 Using encryption in Laravel queued jobs](https://www.yellowduck.be/posts/using-encryption-in-laravel-queued-jobs)  
 - `2024-12-16` | [🔗 Safer Error Systems in Elixir](https://www.yellowduck.be/posts/safer-error-systems-in-elixir)  
 - `2024-12-16` | [🔗 Keyword.get considered harmful in Elixir](https://www.yellowduck.be/posts/keyword-get-considered-harmful)  
 - `2024-12-15` | [🐥 Pretty-printing SQL using Elixir](https://www.yellowduck.be/posts/pretty-printing-sql-using-elixir)  
@@ -22,6 +23,5 @@
 - `2024-12-14` | [🔗 Speeding up with ETS](https://www.yellowduck.be/posts/speeding-up-with-ets)  
 - `2024-12-14` | [🔗 Content Security Policy header with Phoenix LiveView](https://www.yellowduck.be/posts/dan-schultzer-content-security-policy-header-with-phoenix-liveview)  
 - `2024-12-13` | [🐥 Assigning values from a map to a socket in Elixir Phoenix](https://www.yellowduck.be/posts/assigning-values-from-a-map-to-a-socket-in-elixir-phoenix)  
-- `2024-12-13` | [🔗 Phoenix Autocomplete Input Component w/o Javascript](https://www.yellowduck.be/posts/autocomplete-input-component-w-o-javascript)  
 
 <!-- BLOG-POST-LIST:END -->
