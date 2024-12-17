@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-17` | [🔗 Optimizing SQLite for servers](https://www.yellowduck.be/posts/optimizing-sqlite-for-servers)  
 - `2024-12-17` | [🔗 Laravel Debugbar: 4 Less-Known Features](https://www.yellowduck.be/posts/laravel-debugbar-4-less-known-features)  
 - `2024-12-16` | [🐥 Using encryption in Laravel queued jobs](https://www.yellowduck.be/posts/using-encryption-in-laravel-queued-jobs)  
 - `2024-12-16` | [🔗 Safer Error Systems in Elixir](https://www.yellowduck.be/posts/safer-error-systems-in-elixir)  
@@ -22,6 +23,5 @@
 - `2024-12-15` | [🔗 A Friendly Introduction to Container Queries](https://www.yellowduck.be/posts/a-friendly-introduction-to-container-queries)  
 - `2024-12-14` | [🐥 Pretty printing JSON using Elixir](https://www.yellowduck.be/posts/pretty-printing-json-using-elixir)  
 - `2024-12-14` | [🔗 Speeding up with ETS](https://www.yellowduck.be/posts/speeding-up-with-ets)  
-- `2024-12-14` | [🔗 Content Security Policy header with Phoenix LiveView](https://www.yellowduck.be/posts/dan-schultzer-content-security-policy-header-with-phoenix-liveview)  
 
 <!-- BLOG-POST-LIST:END -->
