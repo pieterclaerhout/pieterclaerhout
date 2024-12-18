@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-18` | [🔗 Advanced IEx helpers: mastering commands and features in Elixir](https://www.yellowduck.be/posts/advanced-iex-helpers-mastering-commands-and-features-in-elixir)  
 - `2024-12-17` | [🐥 Converting Collections to Queries in Laravel Using toQuery&lpar;&rpar;](https://www.yellowduck.be/posts/converting-collections-to-queries-in-laravel-using-toquery)  
 - `2024-12-17` | [🔗 Optimizing SQLite for servers](https://www.yellowduck.be/posts/optimizing-sqlite-for-servers)  
 - `2024-12-17` | [🔗 Laravel Debugbar: 4 Less-Known Features](https://www.yellowduck.be/posts/laravel-debugbar-4-less-known-features)  
@@ -22,6 +23,5 @@
 - `2024-12-15` | [🐥 Pretty-printing SQL using Elixir](https://www.yellowduck.be/posts/pretty-printing-sql-using-elixir)  
 - `2024-12-15` | [🔗 Making content-aware components using CSS :has&lpar;&rpar;, grid, and quantity queries](https://www.yellowduck.be/posts/making-content-aware-components-using-css-has-grid-and-quantity-queries)  
 - `2024-12-15` | [🔗 A Friendly Introduction to Container Queries](https://www.yellowduck.be/posts/a-friendly-introduction-to-container-queries)  
-- `2024-12-14` | [🐥 Pretty printing JSON using Elixir](https://www.yellowduck.be/posts/pretty-printing-json-using-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
