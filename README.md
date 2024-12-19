@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-19` | [🔗 Debugging Phoenix LiveView with open_browser/2](https://www.yellowduck.be/posts/debugging-phoenix-liveview-with-open-browser-2)  
 - `2024-12-19` | [🔗 Handle Phoenix Exceptions Gracefully](https://www.yellowduck.be/posts/handle-phoenix-exceptions-gracefully)  
 - `2024-12-18` | [🐥 Implement the Inspect protocol for your Ecto / Ash models](https://www.yellowduck.be/posts/implement-the-inspect-protocol-for-your-ecto-ash-models)  
 - `2024-12-18` | [🔗 Easy totals and subtotals in Postgres with rollup and cube](https://www.yellowduck.be/posts/easy-totals-and-subtotals-in-postgres-with-rollup-and-cube)  
@@ -22,6 +23,5 @@
 - `2024-12-17` | [🔗 Laravel Debugbar: 4 Less-Known Features](https://www.yellowduck.be/posts/laravel-debugbar-4-less-known-features)  
 - `2024-12-16` | [🐥 Using encryption in Laravel queued jobs](https://www.yellowduck.be/posts/using-encryption-in-laravel-queued-jobs)  
 - `2024-12-16` | [🔗 Safer Error Systems in Elixir](https://www.yellowduck.be/posts/safer-error-systems-in-elixir)  
-- `2024-12-16` | [🔗 Keyword.get considered harmful in Elixir](https://www.yellowduck.be/posts/keyword-get-considered-harmful)  
 
 <!-- BLOG-POST-LIST:END -->
