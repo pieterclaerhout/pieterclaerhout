@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-20` | [🔗 Feature story: why we got rid of plans](https://www.yellowduck.be/posts/fly-io-november-24-newsletter)  
 - `2024-12-19` | [🐥 High CPU usage in PhpStorm with some VueJS files using TypeScript](https://www.yellowduck.be/posts/high-cpu-usage-in-phpstorm-with-some-vuejs-files-using-typescript)  
 - `2024-12-19` | [🔗 Debugging Phoenix LiveView with open_browser/2](https://www.yellowduck.be/posts/debugging-phoenix-liveview-with-open-browser-2)  
 - `2024-12-19` | [🔗 Handle Phoenix Exceptions Gracefully](https://www.yellowduck.be/posts/handle-phoenix-exceptions-gracefully)  
@@ -22,6 +23,5 @@
 - `2024-12-17` | [🐥 Converting Collections to Queries in Laravel Using toQuery&lpar;&rpar;](https://www.yellowduck.be/posts/converting-collections-to-queries-in-laravel-using-toquery)  
 - `2024-12-17` | [🔗 Optimizing SQLite for servers](https://www.yellowduck.be/posts/optimizing-sqlite-for-servers)  
 - `2024-12-17` | [🔗 Laravel Debugbar: 4 Less-Known Features](https://www.yellowduck.be/posts/laravel-debugbar-4-less-known-features)  
-- `2024-12-16` | [🐥 Using encryption in Laravel queued jobs](https://www.yellowduck.be/posts/using-encryption-in-laravel-queued-jobs)  
 
 <!-- BLOG-POST-LIST:END -->
