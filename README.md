@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-21` | [🔗 I don&#39;t know how to build software and you don&#39;t either](https://www.yellowduck.be/posts/i-dont-know-how-to-build-software-and-you-dont-either)  
 - `2024-12-21` | [🔗 Don&#39;t Do This in PostgreSQL](https://www.yellowduck.be/posts/dont-do-this-in-postgresql)  
 - `2024-12-20` | [🐥 Clickable links in Laravel console output](https://www.yellowduck.be/posts/clickable-links-in-laravel-console-output)  
 - `2024-12-20` | [🔗 LiveBook for Testing](https://www.yellowduck.be/posts/livebook-for-testing)  
@@ -22,6 +23,5 @@
 - `2024-12-19` | [🔗 Handle Phoenix Exceptions Gracefully](https://www.yellowduck.be/posts/handle-phoenix-exceptions-gracefully)  
 - `2024-12-18` | [🐥 Implement the Inspect protocol for your Ecto / Ash models](https://www.yellowduck.be/posts/implement-the-inspect-protocol-for-your-ecto-ash-models)  
 - `2024-12-18` | [🔗 Easy totals and subtotals in Postgres with rollup and cube](https://www.yellowduck.be/posts/easy-totals-and-subtotals-in-postgres-with-rollup-and-cube)  
-- `2024-12-18` | [🔗 Advanced IEx helpers: mastering commands and features in Elixir](https://www.yellowduck.be/posts/advanced-iex-helpers-mastering-commands-and-features-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
