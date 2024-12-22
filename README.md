@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-22` | [🐥 Redis when using cache, onOneServer and Horizon together](https://www.yellowduck.be/posts/redis-when-using-cache-ononeserver-and-horizon-together)  
 - `2024-12-22` | [🔗 Bridging the Gap: Simplifying Live Component Invocation in Phoenix LiveView](https://www.yellowduck.be/posts/bridging-the-gap-simplifying-live-component-invocation-in-phoenix-liveview)  
 - `2024-12-22` | [🔗 SQL Best Practices: Don&#39;t Compare count&lpar;*&rpar; with 0](https://www.yellowduck.be/posts/sql-best-practices-dont-compare-count-with-0)  
 - `2024-12-21` | [🐥 Mocking facades for testing in Laravel](https://www.yellowduck.be/posts/mocking-facades-for-testing-in-laravel)  
@@ -22,6 +23,5 @@
 - `2024-12-20` | [🔗 LiveBook for Testing](https://www.yellowduck.be/posts/livebook-for-testing)  
 - `2024-12-20` | [🔗 Feature story: why we got rid of plans](https://www.yellowduck.be/posts/fly-io-november-24-newsletter)  
 - `2024-12-19` | [🐥 High CPU usage in PhpStorm with some VueJS files using TypeScript](https://www.yellowduck.be/posts/high-cpu-usage-in-phpstorm-with-some-vuejs-files-using-typescript)  
-- `2024-12-19` | [🔗 Debugging Phoenix LiveView with open_browser/2](https://www.yellowduck.be/posts/debugging-phoenix-liveview-with-open-browser-2)  
 
 <!-- BLOG-POST-LIST:END -->
