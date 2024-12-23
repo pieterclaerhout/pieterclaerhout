@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-23` | [🔗 Try...Catch As Little As Possible](https://www.yellowduck.be/posts/try-catch-as-little-as-possible)  
 - `2024-12-23` | [🔗 Thoughts on Tailwind 4](https://www.yellowduck.be/posts/thoughts-on-tailwind-4)  
 - `2024-12-22` | [🐥 Redis when using cache, onOneServer and Horizon together](https://www.yellowduck.be/posts/redis-when-using-cache-ononeserver-and-horizon-together)  
 - `2024-12-22` | [🔗 Bridging the Gap: Simplifying Live Component Invocation in Phoenix LiveView](https://www.yellowduck.be/posts/bridging-the-gap-simplifying-live-component-invocation-in-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2024-12-21` | [🔗 Don&#39;t Do This in PostgreSQL](https://www.yellowduck.be/posts/dont-do-this-in-postgresql)  
 - `2024-12-20` | [🐥 Clickable links in Laravel console output](https://www.yellowduck.be/posts/clickable-links-in-laravel-console-output)  
 - `2024-12-20` | [🔗 LiveBook for Testing](https://www.yellowduck.be/posts/livebook-for-testing)  
-- `2024-12-20` | [🔗 Feature story: why we got rid of plans](https://www.yellowduck.be/posts/fly-io-november-24-newsletter)  
 
 <!-- BLOG-POST-LIST:END -->
