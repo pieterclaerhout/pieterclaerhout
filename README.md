@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-24` | [🔗 The Modifications I Make to Every New Phoenix Project](https://www.yellowduck.be/posts/the-modifications-i-make-to-every-new-phoenix-project)  
 - `2024-12-23` | [🐥 Get full HTTP responses in exceptions when using Laravel](https://www.yellowduck.be/posts/get-full-http-responses-in-exceptions-when-using-laravel)  
 - `2024-12-23` | [🔗 Try...Catch As Little As Possible](https://www.yellowduck.be/posts/try-catch-as-little-as-possible)  
 - `2024-12-23` | [🔗 Thoughts on Tailwind 4](https://www.yellowduck.be/posts/thoughts-on-tailwind-4)  
@@ -22,6 +23,5 @@
 - `2024-12-21` | [🐥 Mocking facades for testing in Laravel](https://www.yellowduck.be/posts/mocking-facades-for-testing-in-laravel)  
 - `2024-12-21` | [🔗 I don&#39;t know how to build software and you don&#39;t either](https://www.yellowduck.be/posts/i-dont-know-how-to-build-software-and-you-dont-either)  
 - `2024-12-21` | [🔗 Don&#39;t Do This in PostgreSQL](https://www.yellowduck.be/posts/dont-do-this-in-postgresql)  
-- `2024-12-20` | [🐥 Clickable links in Laravel console output](https://www.yellowduck.be/posts/clickable-links-in-laravel-console-output)  
 
 <!-- BLOG-POST-LIST:END -->
