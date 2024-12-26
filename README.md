@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-26` | [🔗 A love letter to Golang](https://www.yellowduck.be/posts/a-love-letter-to-golang)  
 - `2024-12-25` | [🐥 2024 Year in Code: it has been a busy year](https://www.yellowduck.be/posts/github-wrapped-2024-it-has-been-a-busy-year)  
 - `2024-12-25` | [🔗 What I Wish Someone Told Me About Postgres](https://www.yellowduck.be/posts/what-i-wish-someone-told-me-about-postgres)  
 - `2024-12-25` | [🔗 Storing times for human events](https://www.yellowduck.be/posts/storing-times-for-human-events)  
@@ -22,6 +23,5 @@
 - `2024-12-23` | [🐥 Get full HTTP responses in exceptions when using Laravel](https://www.yellowduck.be/posts/get-full-http-responses-in-exceptions-when-using-laravel)  
 - `2024-12-23` | [🔗 Try...Catch As Little As Possible](https://www.yellowduck.be/posts/try-catch-as-little-as-possible)  
 - `2024-12-23` | [🔗 Thoughts on Tailwind 4](https://www.yellowduck.be/posts/thoughts-on-tailwind-4)  
-- `2024-12-22` | [🐥 Redis when using cache, onOneServer and Horizon together](https://www.yellowduck.be/posts/redis-when-using-cache-ononeserver-and-horizon-together)  
 
 <!-- BLOG-POST-LIST:END -->
