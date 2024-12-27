@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-27` | [🔗 Changelog for Elixir v1.18](https://www.yellowduck.be/posts/changelog-for-elixir-v1-18)  
 - `2024-12-27` | [🔗 Safe Ecto Migrations](https://www.yellowduck.be/posts/safe-ecto-migrations)  
 - `2024-12-26` | [🐥 Most viewed posts from 2024](https://www.yellowduck.be/posts/most-viewed-posts-from-2024)  
 - `2024-12-26` | [🔗 5 Ways to Extract Value from Overmocked Tests](https://www.yellowduck.be/posts/5-ways-to-extract-value-from-overmocked-tests)  
@@ -22,6 +23,5 @@
 - `2024-12-25` | [🔗 Storing times for human events](https://www.yellowduck.be/posts/storing-times-for-human-events)  
 - `2024-12-24` | [🐥 The fastest way to install Elixir on any platform](https://www.yellowduck.be/posts/the-fastest-way-to-install-elixir-on-any-platform)  
 - `2024-12-24` | [🔗 Haunted by my own projects](https://www.yellowduck.be/posts/haunted-by-my-own-projects)  
-- `2024-12-24` | [🔗 The Modifications I Make to Every New Phoenix Project](https://www.yellowduck.be/posts/the-modifications-i-make-to-every-new-phoenix-project)  
 
 <!-- BLOG-POST-LIST:END -->
