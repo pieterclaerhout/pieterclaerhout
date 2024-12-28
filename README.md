@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-28` | [🔗 Parsing HTML with PHP 8.4](https://www.yellowduck.be/posts/parsing-html-with-php-8-4)  
 - `2024-12-27` | [🐥 My Strava results from 2024](https://www.yellowduck.be/posts/my-strava-results-from-2024)  
 - `2024-12-27` | [🔗 Changelog for Elixir v1.18](https://www.yellowduck.be/posts/changelog-for-elixir-v1-18)  
 - `2024-12-27` | [🔗 Safe Ecto Migrations](https://www.yellowduck.be/posts/safe-ecto-migrations)  
@@ -22,6 +23,5 @@
 - `2024-12-25` | [🐥 2024 Year in Code: it has been a busy year](https://www.yellowduck.be/posts/github-wrapped-2024-it-has-been-a-busy-year)  
 - `2024-12-25` | [🔗 What I Wish Someone Told Me About Postgres](https://www.yellowduck.be/posts/what-i-wish-someone-told-me-about-postgres)  
 - `2024-12-25` | [🔗 Storing times for human events](https://www.yellowduck.be/posts/storing-times-for-human-events)  
-- `2024-12-24` | [🐥 The fastest way to install Elixir on any platform](https://www.yellowduck.be/posts/the-fastest-way-to-install-elixir-on-any-platform)  
 
 <!-- BLOG-POST-LIST:END -->
