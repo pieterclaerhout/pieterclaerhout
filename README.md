@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-29` | [🔗 Using Fluent to Work With HTTP Client Responses in Laravel](https://www.yellowduck.be/posts/using-fluent-to-work-with-http-client-responses-in-laravel)  
 - `2024-12-29` | [🔗 Running Go code from Elixir Using Web Assembly](https://www.yellowduck.be/posts/running-go-code-from-elixir-using-web-assembly)  
 - `2024-12-28` | [🔗 Dear OAuth providers](https://www.yellowduck.be/posts/dear-oauth-providers)  
 - `2024-12-28` | [🔗 Parsing HTML with PHP 8.4](https://www.yellowduck.be/posts/parsing-html-with-php-8-4)  
@@ -22,6 +23,5 @@
 - `2024-12-26` | [🐥 Most viewed posts from 2024](https://www.yellowduck.be/posts/most-viewed-posts-from-2024)  
 - `2024-12-26` | [🔗 5 Ways to Extract Value from Overmocked Tests](https://www.yellowduck.be/posts/5-ways-to-extract-value-from-overmocked-tests)  
 - `2024-12-26` | [🔗 A love letter to Golang](https://www.yellowduck.be/posts/a-love-letter-to-golang)  
-- `2024-12-25` | [🐥 2024 Year in Code: it has been a busy year](https://www.yellowduck.be/posts/github-wrapped-2024-it-has-been-a-busy-year)  
 
 <!-- BLOG-POST-LIST:END -->
