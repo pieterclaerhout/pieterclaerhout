@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-30` | [🔗 Real ways to maintain your technical edge as an engineering manager](https://www.yellowduck.be/posts/real-ways-to-maintain-your-technical-edge-as-an-engineering-manager)  
 - `2024-12-30` | [🔗 Elixir Survey 2024](https://www.yellowduck.be/posts/elixir-survey-2024)  
 - `2024-12-29` | [🔗 Using Fluent to Work With HTTP Client Responses in Laravel](https://www.yellowduck.be/posts/using-fluent-to-work-with-http-client-responses-in-laravel)  
 - `2024-12-29` | [🔗 Running Go code from Elixir Using Web Assembly](https://www.yellowduck.be/posts/running-go-code-from-elixir-using-web-assembly)  
@@ -22,6 +23,5 @@
 - `2024-12-27` | [🔗 Changelog for Elixir v1.18](https://www.yellowduck.be/posts/changelog-for-elixir-v1-18)  
 - `2024-12-27` | [🔗 Safe Ecto Migrations](https://www.yellowduck.be/posts/safe-ecto-migrations)  
 - `2024-12-26` | [🐥 Most viewed posts from 2024](https://www.yellowduck.be/posts/most-viewed-posts-from-2024)  
-- `2024-12-26` | [🔗 5 Ways to Extract Value from Overmocked Tests](https://www.yellowduck.be/posts/5-ways-to-extract-value-from-overmocked-tests)  
 
 <!-- BLOG-POST-LIST:END -->
