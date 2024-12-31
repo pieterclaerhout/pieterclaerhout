@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2024-12-31` | [🔗 I&#39;m a programmer and I&#39;m stupid](https://www.yellowduck.be/posts/im-a-programmer-and-im-stupid)  
 - `2024-12-31` | [🔗 Heads Up Display / Zwift](https://www.yellowduck.be/posts/heads-up-display-zwift)  
 - `2024-12-30` | [🔗 Real ways to maintain your technical edge as an engineering manager](https://www.yellowduck.be/posts/real-ways-to-maintain-your-technical-edge-as-an-engineering-manager)  
 - `2024-12-30` | [🔗 Elixir Survey 2024](https://www.yellowduck.be/posts/elixir-survey-2024)  
@@ -22,6 +23,5 @@
 - `2024-12-28` | [🔗 Parsing HTML with PHP 8.4](https://www.yellowduck.be/posts/parsing-html-with-php-8-4)  
 - `2024-12-27` | [🐥 My Strava results from 2024](https://www.yellowduck.be/posts/my-strava-results-from-2024)  
 - `2024-12-27` | [🔗 Changelog for Elixir v1.18](https://www.yellowduck.be/posts/changelog-for-elixir-v1-18)  
-- `2024-12-27` | [🔗 Safe Ecto Migrations](https://www.yellowduck.be/posts/safe-ecto-migrations)  
 
 <!-- BLOG-POST-LIST:END -->
