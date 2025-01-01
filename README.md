@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-01` | [🔗 Keeping a CHANGELOG at Work](https://www.yellowduck.be/posts/keeping-a-changelog-at-work)  
 - `2025-01-01` | [🔗 Choosing a hash function for 2030 and beyond: SHA2 vs SHA3 vs BLAKE3](https://www.yellowduck.be/posts/choosing-a-hash-function-for-2030-and-beyond-sha2-vs-sha3-vs-blake3)  
 - `2024-12-31` | [🔗 I&#39;m a programmer and I&#39;m stupid](https://www.yellowduck.be/posts/im-a-programmer-and-im-stupid)  
 - `2024-12-31` | [🔗 Heads Up Display / Zwift](https://www.yellowduck.be/posts/heads-up-display-zwift)  
@@ -22,6 +23,5 @@
 - `2024-12-29` | [🔗 Running Go code from Elixir Using Web Assembly](https://www.yellowduck.be/posts/running-go-code-from-elixir-using-web-assembly)  
 - `2024-12-28` | [🔗 Dear OAuth providers](https://www.yellowduck.be/posts/dear-oauth-providers)  
 - `2024-12-28` | [🔗 Parsing HTML with PHP 8.4](https://www.yellowduck.be/posts/parsing-html-with-php-8-4)  
-- `2024-12-27` | [🐥 My Strava results from 2024](https://www.yellowduck.be/posts/my-strava-results-from-2024)  
 
 <!-- BLOG-POST-LIST:END -->
