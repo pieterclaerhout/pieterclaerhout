@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-02` | [🔗 The Adaptive Chief Technology Officer](https://www.yellowduck.be/posts/the-adaptive-chief-technology-officer)  
 - `2025-01-02` | [🔗 Elixir 1.18&#39;s New &quot;auto_reload&quot; Option in IEx](https://www.yellowduck.be/posts/elixir-1-18s-new-auto-reload-option-in-iex)  
 - `2025-01-01` | [🔗 Keeping a CHANGELOG at Work](https://www.yellowduck.be/posts/keeping-a-changelog-at-work)  
 - `2025-01-01` | [🔗 Choosing a hash function for 2030 and beyond: SHA2 vs SHA3 vs BLAKE3](https://www.yellowduck.be/posts/choosing-a-hash-function-for-2030-and-beyond-sha2-vs-sha3-vs-blake3)  
@@ -22,6 +23,5 @@
 - `2024-12-30` | [🔗 Elixir Survey 2024](https://www.yellowduck.be/posts/elixir-survey-2024)  
 - `2024-12-29` | [🔗 Using Fluent to Work With HTTP Client Responses in Laravel](https://www.yellowduck.be/posts/using-fluent-to-work-with-http-client-responses-in-laravel)  
 - `2024-12-29` | [🔗 Running Go code from Elixir Using Web Assembly](https://www.yellowduck.be/posts/running-go-code-from-elixir-using-web-assembly)  
-- `2024-12-28` | [🔗 Dear OAuth providers](https://www.yellowduck.be/posts/dear-oauth-providers)  
 
 <!-- BLOG-POST-LIST:END -->
