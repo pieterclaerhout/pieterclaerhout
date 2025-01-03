@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-03` | [🔗 Working with JSON Attributes Using Laravel&#39;s Array Casts](https://www.yellowduck.be/posts/working-with-json-attributes-using-laravels-array-casts)  
 - `2025-01-02` | [🔗 The Adaptive Chief Technology Officer](https://www.yellowduck.be/posts/the-adaptive-chief-technology-officer)  
 - `2025-01-02` | [🔗 Elixir 1.18&#39;s New &quot;auto_reload&quot; Option in IEx](https://www.yellowduck.be/posts/elixir-1-18s-new-auto-reload-option-in-iex)  
 - `2025-01-01` | [🔗 Keeping a CHANGELOG at Work](https://www.yellowduck.be/posts/keeping-a-changelog-at-work)  
@@ -22,6 +23,5 @@
 - `2024-12-30` | [🔗 Real ways to maintain your technical edge as an engineering manager](https://www.yellowduck.be/posts/real-ways-to-maintain-your-technical-edge-as-an-engineering-manager)  
 - `2024-12-30` | [🔗 Elixir Survey 2024](https://www.yellowduck.be/posts/elixir-survey-2024)  
 - `2024-12-29` | [🔗 Using Fluent to Work With HTTP Client Responses in Laravel](https://www.yellowduck.be/posts/using-fluent-to-work-with-http-client-responses-in-laravel)  
-- `2024-12-29` | [🔗 Running Go code from Elixir Using Web Assembly](https://www.yellowduck.be/posts/running-go-code-from-elixir-using-web-assembly)  
 
 <!-- BLOG-POST-LIST:END -->
