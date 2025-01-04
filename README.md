@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-04` | [🔗 Writing dynamic Ecto queries with Composite](https://www.yellowduck.be/posts/writing-dynamic-ecto-queries-with-composite)  
 - `2025-01-04` | [🔗 Elixir v1.18 Released: Type Checking of Calls, LSP Listeners, Built-In JSON, and More](https://www.yellowduck.be/posts/elixir-v1-18-released-type-checking-of-calls-lsp-listeners-built-in-json-and-more)  
 - `2025-01-03` | [🔗 Cognitive load is what matters](https://www.yellowduck.be/posts/cognitive-load-is-what-matters)  
 - `2025-01-03` | [🔗 Working with JSON Attributes Using Laravel&#39;s Array Casts](https://www.yellowduck.be/posts/working-with-json-attributes-using-laravels-array-casts)  
@@ -22,6 +23,5 @@
 - `2025-01-01` | [🔗 Choosing a hash function for 2030 and beyond: SHA2 vs SHA3 vs BLAKE3](https://www.yellowduck.be/posts/choosing-a-hash-function-for-2030-and-beyond-sha2-vs-sha3-vs-blake3)  
 - `2024-12-31` | [🔗 I&#39;m a programmer and I&#39;m stupid](https://www.yellowduck.be/posts/im-a-programmer-and-im-stupid)  
 - `2024-12-31` | [🔗 Heads Up Display / Zwift](https://www.yellowduck.be/posts/heads-up-display-zwift)  
-- `2024-12-30` | [🔗 Real ways to maintain your technical edge as an engineering manager](https://www.yellowduck.be/posts/real-ways-to-maintain-your-technical-edge-as-an-engineering-manager)  
 
 <!-- BLOG-POST-LIST:END -->
