@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-06` | [🔗 The Elixir Year: A Technical Sabbatical](https://www.yellowduck.be/posts/the-elixir-year-a-technical-sabbatical)  
 - `2025-01-06` | [🔗 Create an Address Autocomplete Using Google API, Elixir, and Phoenix LiveView Part 2](https://www.yellowduck.be/posts/create-an-address-autocomplete-using-google-api-elixir-and-phoenix-liveview-part-2)  
 - `2025-01-05` | [🔗 Adding RSS to a static site](https://www.yellowduck.be/posts/adding-rss-to-a-static-site)  
 - `2025-01-05` | [🔗 Create an Address Autocomplete Using Google API, Elixir and Phoenix Liveview](https://www.yellowduck.be/posts/create-an-address-autocomplete-using-google-api-elixir-and-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2025-01-03` | [🔗 Working with JSON Attributes Using Laravel&#39;s Array Casts](https://www.yellowduck.be/posts/working-with-json-attributes-using-laravels-array-casts)  
 - `2025-01-02` | [🔗 The Adaptive Chief Technology Officer](https://www.yellowduck.be/posts/the-adaptive-chief-technology-officer)  
 - `2025-01-02` | [🔗 Elixir 1.18&#39;s New &quot;auto_reload&quot; Option in IEx](https://www.yellowduck.be/posts/elixir-1-18s-new-auto-reload-option-in-iex)  
-- `2025-01-01` | [🔗 Keeping a CHANGELOG at Work](https://www.yellowduck.be/posts/keeping-a-changelog-at-work)  
 
 <!-- BLOG-POST-LIST:END -->
