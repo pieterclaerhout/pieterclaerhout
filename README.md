@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-08` | [🔗 Little Feed Reader on Bluesky](https://www.yellowduck.be/posts/little-feed-reader-on-bluesky)  
 - `2025-01-07` | [🐥 Disable scout in Laravel Nova for certain models](https://www.yellowduck.be/posts/disable-scout-in-laravel-nova-for-certain-models)  
 - `2025-01-07` | [🔗 How to make your RSS feed pretty](https://www.yellowduck.be/posts/how-to-make-your-rss-feed-pretty)  
 - `2025-01-07` | [🔗 Improved Pull Request Merge Experience Now in Public Preview](https://www.yellowduck.be/posts/improved-pull-request-merge-experience-now-in-public-preview)  
@@ -22,6 +23,5 @@
 - `2025-01-05` | [🔗 Adding RSS to a static site](https://www.yellowduck.be/posts/adding-rss-to-a-static-site)  
 - `2025-01-05` | [🔗 Create an Address Autocomplete Using Google API, Elixir and Phoenix Liveview](https://www.yellowduck.be/posts/create-an-address-autocomplete-using-google-api-elixir-and-phoenix-liveview)  
 - `2025-01-04` | [🔗 Writing dynamic Ecto queries with Composite](https://www.yellowduck.be/posts/writing-dynamic-ecto-queries-with-composite)  
-- `2025-01-04` | [🔗 Elixir v1.18 Released: Type Checking of Calls, LSP Listeners, Built-In JSON, and More](https://www.yellowduck.be/posts/elixir-v1-18-released-type-checking-of-calls-lsp-listeners-built-in-json-and-more)  
 
 <!-- BLOG-POST-LIST:END -->
