@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-08` | [🐥 Dependabot: individual pull requests for major updates and grouped for minor/patch updates](https://www.yellowduck.be/posts/dependabot-individual-pull-requests-for-major-updates-and-grouped-for-minor-patch-updates)  
 - `2025-01-08` | [🔗 De Beste Zwift Beklimmingen: 7 Routes aanbevolen door experts](https://www.yellowduck.be/posts/de-beste-zwift-beklimmingen-7-routes-aanbevolen-door-experts)  
 - `2025-01-08` | [🔗 Little Feed Reader on Bluesky](https://www.yellowduck.be/posts/little-feed-reader-on-bluesky)  
 - `2025-01-07` | [🐥 Disable scout in Laravel Nova for certain models](https://www.yellowduck.be/posts/disable-scout-in-laravel-nova-for-certain-models)  
@@ -22,6 +23,5 @@
 - `2025-01-06` | [🔗 The Elixir Year: A Technical Sabbatical](https://www.yellowduck.be/posts/the-elixir-year-a-technical-sabbatical)  
 - `2025-01-06` | [🔗 Create an Address Autocomplete Using Google API, Elixir, and Phoenix LiveView Part 2](https://www.yellowduck.be/posts/create-an-address-autocomplete-using-google-api-elixir-and-phoenix-liveview-part-2)  
 - `2025-01-05` | [🔗 Adding RSS to a static site](https://www.yellowduck.be/posts/adding-rss-to-a-static-site)  
-- `2025-01-05` | [🔗 Create an Address Autocomplete Using Google API, Elixir and Phoenix Liveview](https://www.yellowduck.be/posts/create-an-address-autocomplete-using-google-api-elixir-and-phoenix-liveview)  
 
 <!-- BLOG-POST-LIST:END -->
