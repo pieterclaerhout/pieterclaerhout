@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-09` | [🔗 Algorithms we develop software by](https://www.yellowduck.be/posts/algorithms-we-develop-software-by)  
 - `2025-01-09` | [🔗 How to write complex software](https://www.yellowduck.be/posts/how-to-write-complex-software)  
 - `2025-01-08` | [🐥 Dependabot: individual pull requests for major updates and grouped for minor/patch updates](https://www.yellowduck.be/posts/dependabot-individual-pull-requests-for-major-updates-and-grouped-for-minor-patch-updates)  
 - `2025-01-08` | [🔗 De Beste Zwift Beklimmingen: 7 Routes aanbevolen door experts](https://www.yellowduck.be/posts/de-beste-zwift-beklimmingen-7-routes-aanbevolen-door-experts)  
@@ -22,6 +23,5 @@
 - `2025-01-07` | [🔗 Improved Pull Request Merge Experience Now in Public Preview](https://www.yellowduck.be/posts/improved-pull-request-merge-experience-now-in-public-preview)  
 - `2025-01-06` | [🐥 Troubleshooting blocked queries in PostgreSQL](https://www.yellowduck.be/posts/troubleshooting-blocked-queries-in-postgresql)  
 - `2025-01-06` | [🔗 The Elixir Year: A Technical Sabbatical](https://www.yellowduck.be/posts/the-elixir-year-a-technical-sabbatical)  
-- `2025-01-06` | [🔗 Create an Address Autocomplete Using Google API, Elixir, and Phoenix LiveView Part 2](https://www.yellowduck.be/posts/create-an-address-autocomplete-using-google-api-elixir-and-phoenix-liveview-part-2)  
 
 <!-- BLOG-POST-LIST:END -->
