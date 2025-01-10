@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-10` | [🔗 Databases in 2024: A Year in Review](https://www.yellowduck.be/posts/databases-in-2024-a-year-in-review)  
 - `2025-01-09` | [🐥 Killing commands by matching their name and parameters](https://www.yellowduck.be/posts/killing-commands-by-matching-their-name-and-parameters)  
 - `2025-01-09` | [🔗 Algorithms we develop software by](https://www.yellowduck.be/posts/algorithms-we-develop-software-by)  
 - `2025-01-09` | [🔗 How to write complex software](https://www.yellowduck.be/posts/how-to-write-complex-software)  
@@ -22,6 +23,5 @@
 - `2025-01-07` | [🐥 Disable scout in Laravel Nova for certain models](https://www.yellowduck.be/posts/disable-scout-in-laravel-nova-for-certain-models)  
 - `2025-01-07` | [🔗 How to make your RSS feed pretty](https://www.yellowduck.be/posts/how-to-make-your-rss-feed-pretty)  
 - `2025-01-07` | [🔗 Improved Pull Request Merge Experience Now in Public Preview](https://www.yellowduck.be/posts/improved-pull-request-merge-experience-now-in-public-preview)  
-- `2025-01-06` | [🐥 Troubleshooting blocked queries in PostgreSQL](https://www.yellowduck.be/posts/troubleshooting-blocked-queries-in-postgresql)  
 
 <!-- BLOG-POST-LIST:END -->
