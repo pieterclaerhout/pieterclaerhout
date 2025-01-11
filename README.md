@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-11` | [🔗 Why the mentality of lean and small always wins](https://www.yellowduck.be/posts/why-the-mentality-of-lean-and-small-always-wins)  
 - `2025-01-11` | [🔗 Easy SVG Sparklines](https://www.yellowduck.be/posts/easy-svg-sparklines)  
 - `2025-01-10` | [🐥 Useful apt commands](https://www.yellowduck.be/posts/useful-apt-commands)  
 - `2025-01-10` | [🔗 Collection of Insane and Fun Facts About SQLite](https://www.yellowduck.be/posts/collection-of-insane-and-fun-facts-about-sqlite)  
@@ -22,6 +23,5 @@
 - `2025-01-09` | [🔗 How to write complex software](https://www.yellowduck.be/posts/how-to-write-complex-software)  
 - `2025-01-08` | [🐥 Dependabot: individual pull requests for major updates and grouped for minor/patch updates](https://www.yellowduck.be/posts/dependabot-individual-pull-requests-for-major-updates-and-grouped-for-minor-patch-updates)  
 - `2025-01-08` | [🔗 De Beste Zwift Beklimmingen: 7 Routes aanbevolen door experts](https://www.yellowduck.be/posts/de-beste-zwift-beklimmingen-7-routes-aanbevolen-door-experts)  
-- `2025-01-08` | [🔗 Little Feed Reader on Bluesky](https://www.yellowduck.be/posts/little-feed-reader-on-bluesky)  
 
 <!-- BLOG-POST-LIST:END -->
