@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-12` | [🔗 On Long Term Software Development](https://www.yellowduck.be/posts/on-long-term-software-development)  
 - `2025-01-11` | [🐥 Running an Elixir Phoenix release using systemd](https://www.yellowduck.be/posts/running-an-elixir-phoenix-release-using-systemd)  
 - `2025-01-11` | [🔗 Why the mentality of lean and small always wins](https://www.yellowduck.be/posts/why-the-mentality-of-lean-and-small-always-wins)  
 - `2025-01-11` | [🔗 Easy SVG Sparklines](https://www.yellowduck.be/posts/easy-svg-sparklines)  
@@ -22,6 +23,5 @@
 - `2025-01-09` | [🐥 Killing commands by matching their name and parameters](https://www.yellowduck.be/posts/killing-commands-by-matching-their-name-and-parameters)  
 - `2025-01-09` | [🔗 Algorithms we develop software by](https://www.yellowduck.be/posts/algorithms-we-develop-software-by)  
 - `2025-01-09` | [🔗 How to write complex software](https://www.yellowduck.be/posts/how-to-write-complex-software)  
-- `2025-01-08` | [🐥 Dependabot: individual pull requests for major updates and grouped for minor/patch updates](https://www.yellowduck.be/posts/dependabot-individual-pull-requests-for-major-updates-and-grouped-for-minor-patch-updates)  
 
 <!-- BLOG-POST-LIST:END -->
