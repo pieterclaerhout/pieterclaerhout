@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-13` | [🔗 TIL: How to remove unused dependencies from mix.lock](https://www.yellowduck.be/posts/til-how-to-remove-unused-dependencies-from-mix-lock)  
 - `2025-01-13` | [🔗 Creating a type-safe pipe&lpar;&rpar; in PHP](https://www.yellowduck.be/posts/creating-a-type-safe-pipe-in-php)  
 - `2025-01-12` | [🐥 Using the Caddy webserver with Elixir Phoenix](https://www.yellowduck.be/posts/using-the-caddy-webserver-with-elixir-phoenix)  
 - `2025-01-12` | [🔗 TIL: Sum Types With `instructor_ex`](https://www.yellowduck.be/posts/til-sum-types-with-instructor-ex)  
@@ -22,6 +23,5 @@
 - `2025-01-11` | [🔗 Easy SVG Sparklines](https://www.yellowduck.be/posts/easy-svg-sparklines)  
 - `2025-01-10` | [🐥 Useful apt commands](https://www.yellowduck.be/posts/useful-apt-commands)  
 - `2025-01-10` | [🔗 Collection of Insane and Fun Facts About SQLite](https://www.yellowduck.be/posts/collection-of-insane-and-fun-facts-about-sqlite)  
-- `2025-01-10` | [🔗 Databases in 2024: A Year in Review](https://www.yellowduck.be/posts/databases-in-2024-a-year-in-review)  
 
 <!-- BLOG-POST-LIST:END -->
