@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-15` | [🔗 Elixir and Kubernetes &lpar;for your developers&rpar;](https://www.yellowduck.be/posts/elixir-and-kubernetes-for-your-developers)  
 - `2025-01-14` | [🐥 TIL: Generic components in VueJS](https://www.yellowduck.be/posts/til-generic-components-in-vuejs)  
 - `2025-01-14` | [🔗 Installing Elixir on Mac OS](https://www.yellowduck.be/posts/installing-elixir-on-mac-os)  
 - `2025-01-14` | [🔗 Building Sweatmaps.io](https://www.yellowduck.be/posts/building-sweatmaps-io)  
@@ -22,6 +23,5 @@
 - `2025-01-12` | [🔗 TIL: Sum Types With `instructor_ex`](https://www.yellowduck.be/posts/til-sum-types-with-instructor-ex)  
 - `2025-01-12` | [🔗 On Long Term Software Development](https://www.yellowduck.be/posts/on-long-term-software-development)  
 - `2025-01-11` | [🐥 Running an Elixir Phoenix release using systemd](https://www.yellowduck.be/posts/running-an-elixir-phoenix-release-using-systemd)  
-- `2025-01-11` | [🔗 Why the mentality of lean and small always wins](https://www.yellowduck.be/posts/why-the-mentality-of-lean-and-small-always-wins)  
 
 <!-- BLOG-POST-LIST:END -->
