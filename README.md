@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-16` | [🔗 A Letter to Open-Source Maintainers](https://www.yellowduck.be/posts/a-letter-to-open-source-maintainers)  
 - `2025-01-16` | [🔗 Nobody Gets Fired for Picking JSON, but Maybe They Should?](https://www.yellowduck.be/posts/nobody-gets-fired-for-picking-json-but-maybe-they-should)  
 - `2025-01-15` | [🐥 Ecto migrations and custom commands](https://www.yellowduck.be/posts/ecto-migrations-and-custom-commands)  
 - `2025-01-15` | [🔗 Shell Scripting with Elixir](https://www.yellowduck.be/posts/shell-scripting-with-elixir)  
@@ -22,6 +23,5 @@
 - `2025-01-14` | [🔗 Building Sweatmaps.io](https://www.yellowduck.be/posts/building-sweatmaps-io)  
 - `2025-01-13` | [🔗 TIL: How to remove unused dependencies from mix.lock](https://www.yellowduck.be/posts/til-how-to-remove-unused-dependencies-from-mix-lock)  
 - `2025-01-13` | [🔗 Creating a type-safe pipe&lpar;&rpar; in PHP](https://www.yellowduck.be/posts/creating-a-type-safe-pipe-in-php)  
-- `2025-01-12` | [🐥 Using the Caddy webserver with Elixir Phoenix](https://www.yellowduck.be/posts/using-the-caddy-webserver-with-elixir-phoenix)  
 
 <!-- BLOG-POST-LIST:END -->
