@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-17` | [🔗 The Definitive Guide to Webhooks in Laravel](https://www.yellowduck.be/posts/the-definitive-guide-to-webhooks-in-laravel)  
 - `2025-01-17` | [🔗 Server-Sent Events &lpar;SSE&rpar; Are Underrated](https://www.yellowduck.be/posts/server-sent-events-sse-are-underrated)  
 - `2025-01-16` | [🐥 GitHub Actions will update ubuntu:latest to Ubuntu 24.04](https://www.yellowduck.be/posts/github-actions-will-update-ubuntu-latest-to-ubuntu-24-04)  
 - `2025-01-16` | [🔗 A Letter to Open-Source Maintainers](https://www.yellowduck.be/posts/a-letter-to-open-source-maintainers)  
@@ -22,6 +23,5 @@
 - `2025-01-15` | [🔗 Elixir and Kubernetes &lpar;for your developers&rpar;](https://www.yellowduck.be/posts/elixir-and-kubernetes-for-your-developers)  
 - `2025-01-14` | [🐥 TIL: Generic components in VueJS](https://www.yellowduck.be/posts/til-generic-components-in-vuejs)  
 - `2025-01-14` | [🔗 Installing Elixir on Mac OS](https://www.yellowduck.be/posts/installing-elixir-on-mac-os)  
-- `2025-01-14` | [🔗 Building Sweatmaps.io](https://www.yellowduck.be/posts/building-sweatmaps-io)  
 
 <!-- BLOG-POST-LIST:END -->
