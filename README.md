@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-18` | [🐥 Getting the target of a symbolic link using PHP or Elixir](https://www.yellowduck.be/posts/getting-the-target-of-a-symbolic-link-using-php-or-elixir)  
 - `2025-01-18` | [🔗 Cursed Oban Uses](https://www.yellowduck.be/posts/cursed-oban-uses)  
 - `2025-01-18` | [🔗 Setting Up Elixir/Erlang Github Actions Using .tool-versions](https://www.yellowduck.be/posts/setting-up-elixir-erlang-github-actions-using-tool-versions)  
 - `2025-01-17` | [🐥 TIL: Storage::fake&lpar;&rpar; gotcha in Laravel](https://www.yellowduck.be/posts/til-storage-fake-gotcha-in-laravel)  
@@ -22,6 +23,5 @@
 - `2025-01-16` | [🔗 A Letter to Open-Source Maintainers](https://www.yellowduck.be/posts/a-letter-to-open-source-maintainers)  
 - `2025-01-16` | [🔗 Nobody Gets Fired for Picking JSON, but Maybe They Should?](https://www.yellowduck.be/posts/nobody-gets-fired-for-picking-json-but-maybe-they-should)  
 - `2025-01-15` | [🐥 Ecto migrations and custom commands](https://www.yellowduck.be/posts/ecto-migrations-and-custom-commands)  
-- `2025-01-15` | [🔗 Shell Scripting with Elixir](https://www.yellowduck.be/posts/shell-scripting-with-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
