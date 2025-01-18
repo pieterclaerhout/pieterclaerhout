@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-18` | [🔗 Setting Up Elixir/Erlang Github Actions Using .tool-versions](https://www.yellowduck.be/posts/setting-up-elixir-erlang-github-actions-using-tool-versions)  
 - `2025-01-17` | [🐥 TIL: Storage::fake&lpar;&rpar; gotcha in Laravel](https://www.yellowduck.be/posts/til-storage-fake-gotcha-in-laravel)  
 - `2025-01-17` | [🔗 The Definitive Guide to Webhooks in Laravel](https://www.yellowduck.be/posts/the-definitive-guide-to-webhooks-in-laravel)  
 - `2025-01-17` | [🔗 Server-Sent Events &lpar;SSE&rpar; Are Underrated](https://www.yellowduck.be/posts/server-sent-events-sse-are-underrated)  
@@ -22,6 +23,5 @@
 - `2025-01-15` | [🐥 Ecto migrations and custom commands](https://www.yellowduck.be/posts/ecto-migrations-and-custom-commands)  
 - `2025-01-15` | [🔗 Shell Scripting with Elixir](https://www.yellowduck.be/posts/shell-scripting-with-elixir)  
 - `2025-01-15` | [🔗 Elixir and Kubernetes &lpar;for your developers&rpar;](https://www.yellowduck.be/posts/elixir-and-kubernetes-for-your-developers)  
-- `2025-01-14` | [🐥 TIL: Generic components in VueJS](https://www.yellowduck.be/posts/til-generic-components-in-vuejs)  
 
 <!-- BLOG-POST-LIST:END -->
