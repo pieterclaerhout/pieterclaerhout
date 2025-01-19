@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-19` | [🐥 Configuring Caddy for load balancing](https://www.yellowduck.be/posts/configuring-caddy-for-load-balancing)  
 - `2025-01-19` | [🔗 Keep your Elixir projects up-to-date with Dependabot](https://www.yellowduck.be/posts/keep-your-elixir-projects-up-to-date-with-dependabot)  
 - `2025-01-19` | [🔗 You Don&#39;t Need Ecto.Multi](https://www.yellowduck.be/posts/you-dont-need-ecto-multi)  
 - `2025-01-18` | [🐥 Getting the target of a symbolic link using PHP or Elixir](https://www.yellowduck.be/posts/getting-the-target-of-a-symbolic-link-using-php-or-elixir)  
@@ -22,6 +23,5 @@
 - `2025-01-17` | [🔗 The Definitive Guide to Webhooks in Laravel](https://www.yellowduck.be/posts/the-definitive-guide-to-webhooks-in-laravel)  
 - `2025-01-17` | [🔗 Server-Sent Events &lpar;SSE&rpar; Are Underrated](https://www.yellowduck.be/posts/server-sent-events-sse-are-underrated)  
 - `2025-01-16` | [🐥 GitHub Actions will update ubuntu:latest to Ubuntu 24.04](https://www.yellowduck.be/posts/github-actions-will-update-ubuntu-latest-to-ubuntu-24-04)  
-- `2025-01-16` | [🔗 A Letter to Open-Source Maintainers](https://www.yellowduck.be/posts/a-letter-to-open-source-maintainers)  
 
 <!-- BLOG-POST-LIST:END -->
