@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-20` | [🐥 Converting docx to PDF using Python](https://www.yellowduck.be/posts/converting-docx-to-pdf)  
 - `2025-01-20` | [🔗 Simple Req Cookie Jar](https://www.yellowduck.be/posts/simple-req-cookie-jar)  
 - `2025-01-20` | [🔗 GitHub Actions for Elixir CI/CD](https://www.yellowduck.be/posts/github-actions-for-elixir-ci-cd)  
 - `2025-01-19` | [🐥 Configuring Caddy for load balancing](https://www.yellowduck.be/posts/configuring-caddy-for-load-balancing)  
@@ -22,6 +23,5 @@
 - `2025-01-18` | [🔗 Cursed Oban Uses](https://www.yellowduck.be/posts/cursed-oban-uses)  
 - `2025-01-18` | [🔗 Setting Up Elixir/Erlang Github Actions Using .tool-versions](https://www.yellowduck.be/posts/setting-up-elixir-erlang-github-actions-using-tool-versions)  
 - `2025-01-17` | [🐥 TIL: Storage::fake&lpar;&rpar; gotcha in Laravel](https://www.yellowduck.be/posts/til-storage-fake-gotcha-in-laravel)  
-- `2025-01-17` | [🔗 The Definitive Guide to Webhooks in Laravel](https://www.yellowduck.be/posts/the-definitive-guide-to-webhooks-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
