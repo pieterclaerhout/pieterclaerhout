@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-21` | [🔗 Turbocharge Your Ecto Schemas with This One Trick](https://www.yellowduck.be/posts/turbocharge-your-ecto-schemas-with-this-one-trick)  
 - `2025-01-21` | [🔗 How I Ship Projects at Big Tech Companies](https://www.yellowduck.be/posts/how-i-ship-projects-at-big-tech-companies)  
 - `2025-01-20` | [🐥 Converting docx to PDF using Python](https://www.yellowduck.be/posts/converting-docx-to-pdf)  
 - `2025-01-20` | [🔗 Simple Req Cookie Jar](https://www.yellowduck.be/posts/simple-req-cookie-jar)  
@@ -22,6 +23,5 @@
 - `2025-01-19` | [🔗 You Don&#39;t Need Ecto.Multi](https://www.yellowduck.be/posts/you-dont-need-ecto-multi)  
 - `2025-01-18` | [🐥 Getting the target of a symbolic link using PHP or Elixir](https://www.yellowduck.be/posts/getting-the-target-of-a-symbolic-link-using-php-or-elixir)  
 - `2025-01-18` | [🔗 Cursed Oban Uses](https://www.yellowduck.be/posts/cursed-oban-uses)  
-- `2025-01-18` | [🔗 Setting Up Elixir/Erlang Github Actions Using .tool-versions](https://www.yellowduck.be/posts/setting-up-elixir-erlang-github-actions-using-tool-versions)  
 
 <!-- BLOG-POST-LIST:END -->
