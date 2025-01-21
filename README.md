@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-21` | [🔗 How I Ship Projects at Big Tech Companies](https://www.yellowduck.be/posts/how-i-ship-projects-at-big-tech-companies)  
 - `2025-01-20` | [🐥 Converting docx to PDF using Python](https://www.yellowduck.be/posts/converting-docx-to-pdf)  
 - `2025-01-20` | [🔗 Simple Req Cookie Jar](https://www.yellowduck.be/posts/simple-req-cookie-jar)  
 - `2025-01-20` | [🔗 GitHub Actions for Elixir CI/CD](https://www.yellowduck.be/posts/github-actions-for-elixir-ci-cd)  
@@ -22,6 +23,5 @@
 - `2025-01-18` | [🐥 Getting the target of a symbolic link using PHP or Elixir](https://www.yellowduck.be/posts/getting-the-target-of-a-symbolic-link-using-php-or-elixir)  
 - `2025-01-18` | [🔗 Cursed Oban Uses](https://www.yellowduck.be/posts/cursed-oban-uses)  
 - `2025-01-18` | [🔗 Setting Up Elixir/Erlang Github Actions Using .tool-versions](https://www.yellowduck.be/posts/setting-up-elixir-erlang-github-actions-using-tool-versions)  
-- `2025-01-17` | [🐥 TIL: Storage::fake&lpar;&rpar; gotcha in Laravel](https://www.yellowduck.be/posts/til-storage-fake-gotcha-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
