@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-23` | [🔗 SQL NULLs are Weird!](https://www.yellowduck.be/posts/sql-nulls-are-weird)  
 - `2025-01-22` | [🐥 TIL: Using Reader API to convert HTML to markdown](https://www.yellowduck.be/posts/til-using-reader-api-to-convert-html-to-markdown)  
 - `2025-01-22` | [🔗 Eliminate Slow Queries with Ecto Telemetry](https://www.yellowduck.be/posts/eliminate-slow-queries-with-ecto-telemetry)  
 - `2025-01-22` | [🔗 AI Driven Development Series: Create an URL Shortener in Elixir](https://www.yellowduck.be/posts/ai-driven-development-series-create-an-url-shortener-in-elixir)  
@@ -22,6 +23,5 @@
 - `2025-01-20` | [🐥 Converting docx to PDF using Python](https://www.yellowduck.be/posts/converting-docx-to-pdf)  
 - `2025-01-20` | [🔗 Simple Req Cookie Jar](https://www.yellowduck.be/posts/simple-req-cookie-jar)  
 - `2025-01-20` | [🔗 GitHub Actions for Elixir CI/CD](https://www.yellowduck.be/posts/github-actions-for-elixir-ci-cd)  
-- `2025-01-19` | [🐥 Configuring Caddy for load balancing](https://www.yellowduck.be/posts/configuring-caddy-for-load-balancing)  
 
 <!-- BLOG-POST-LIST:END -->
