@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-23` | [🐥 Using slots.default&lpar;&rpar; in VueJS to conditionally render components](https://www.yellowduck.be/posts/using-slots-default-in-vuejs-to-conditionally-render-components)  
 - `2025-01-23` | [🔗 Tool Structure Guide](https://www.yellowduck.be/posts/tool-structure-guide)  
 - `2025-01-23` | [🔗 SQL NULLs are Weird!](https://www.yellowduck.be/posts/sql-nulls-are-weird)  
 - `2025-01-22` | [🐥 TIL: Using Reader API to convert HTML to markdown](https://www.yellowduck.be/posts/til-using-reader-api-to-convert-html-to-markdown)  
@@ -22,6 +23,5 @@
 - `2025-01-21` | [🔗 Turbocharge Your Ecto Schemas with This One Trick](https://www.yellowduck.be/posts/turbocharge-your-ecto-schemas-with-this-one-trick)  
 - `2025-01-21` | [🔗 How I Ship Projects at Big Tech Companies](https://www.yellowduck.be/posts/how-i-ship-projects-at-big-tech-companies)  
 - `2025-01-20` | [🐥 Converting docx to PDF using Python](https://www.yellowduck.be/posts/converting-docx-to-pdf)  
-- `2025-01-20` | [🔗 Simple Req Cookie Jar](https://www.yellowduck.be/posts/simple-req-cookie-jar)  
 
 <!-- BLOG-POST-LIST:END -->
