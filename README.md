@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-24` | [🔗 Who Watches Watchmen? - Part 1](https://www.yellowduck.be/posts/who-watches-watchmen-part-1)  
 - `2025-01-24` | [🔗 Clean Architecture: A Practical Example of Dependency Inversion in Go using Plugins](https://www.yellowduck.be/posts/clean-architecture-a-practical-example-of-dependency-inversion-in-go-using-plugins)  
 - `2025-01-23` | [🐥 Using slots.default&lpar;&rpar; in VueJS to conditionally render components](https://www.yellowduck.be/posts/using-slots-default-in-vuejs-to-conditionally-render-components)  
 - `2025-01-23` | [🔗 Tool Structure Guide](https://www.yellowduck.be/posts/tool-structure-guide)  
@@ -22,6 +23,5 @@
 - `2025-01-22` | [🔗 AI Driven Development Series: Create an URL Shortener in Elixir](https://www.yellowduck.be/posts/ai-driven-development-series-create-an-url-shortener-in-elixir)  
 - `2025-01-21` | [🐥 Overload and alias when using Mockery](https://www.yellowduck.be/posts/overload-and-alias-when-using-mockery)  
 - `2025-01-21` | [🔗 Turbocharge Your Ecto Schemas with This One Trick](https://www.yellowduck.be/posts/turbocharge-your-ecto-schemas-with-this-one-trick)  
-- `2025-01-21` | [🔗 How I Ship Projects at Big Tech Companies](https://www.yellowduck.be/posts/how-i-ship-projects-at-big-tech-companies)  
 
 <!-- BLOG-POST-LIST:END -->
