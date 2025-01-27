@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-27` | [🔗 Uv has a killer feature you should know about](https://www.yellowduck.be/posts/uv-has-a-killer-feature-you-should-know-about)  
 - `2025-01-27` | [🔗 Avoiding the soft delete anti-pattern](https://www.yellowduck.be/posts/avoiding-the-soft-delete-anti-pattern)  
 - `2025-01-26` | [🔗 My role as a founder CTO: Year Seven](https://www.yellowduck.be/posts/my-role-as-a-founder-cto-year-seven)  
 - `2025-01-26` | [🔗 antirez &lpar;Salvatore Sanfilippo&rpar; on Technical Blogging](https://www.yellowduck.be/posts/antirez-salvatore-sanfilippo-on-technical-blogging)  
@@ -22,6 +23,5 @@
 - `2025-01-24` | [🔗 Who Watches Watchmen? - Part 1](https://www.yellowduck.be/posts/who-watches-watchmen-part-1)  
 - `2025-01-24` | [🔗 Clean Architecture: A Practical Example of Dependency Inversion in Go using Plugins](https://www.yellowduck.be/posts/clean-architecture-a-practical-example-of-dependency-inversion-in-go-using-plugins)  
 - `2025-01-23` | [🐥 Using slots.default&lpar;&rpar; in VueJS to conditionally render components](https://www.yellowduck.be/posts/using-slots-default-in-vuejs-to-conditionally-render-components)  
-- `2025-01-23` | [🔗 Tool Structure Guide](https://www.yellowduck.be/posts/tool-structure-guide)  
 
 <!-- BLOG-POST-LIST:END -->
