@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-29` | [🐥 Simple trick to validate a URL in JavaScript](https://www.yellowduck.be/posts/simple-trick-to-validate-a-url-in-javascript)  
 - `2025-01-29` | [🔗 Integrating OpenSearch](https://www.yellowduck.be/posts/integrating-opensearch)  
 - `2025-01-29` | [🔗 Download Files Easily with Laravel&#39;s HTTP sink Method](https://www.yellowduck.be/posts/download-files-easily-with-laravels-http-sink-method)  
 - `2025-01-28` | [🔗 MySQL can do more than you think](https://www.yellowduck.be/posts/mysql-can-do-more-than-you-think)  
@@ -22,6 +23,5 @@
 - `2025-01-26` | [🔗 My role as a founder CTO: Year Seven](https://www.yellowduck.be/posts/my-role-as-a-founder-cto-year-seven)  
 - `2025-01-26` | [🔗 antirez &lpar;Salvatore Sanfilippo&rpar; on Technical Blogging](https://www.yellowduck.be/posts/antirez-salvatore-sanfilippo-on-technical-blogging)  
 - `2025-01-25` | [🔗 I tried to build an AI product with LangChain, Vue 3, Svelte 5 with Phoenix LiveView, so you don’t have to](https://www.yellowduck.be/posts/i-tried-to-build-an-ai-product-with-langchain-vue-3-svelte-5-with-phoenix-liveview-so-you-dont-have-to)  
-- `2025-01-25` | [🔗 Best practices for deploying Elixir apps](https://www.yellowduck.be/posts/best-practices-for-deploying-elixir-apps)  
 
 <!-- BLOG-POST-LIST:END -->
