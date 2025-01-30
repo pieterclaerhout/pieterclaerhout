@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-30` | [🔗 Introducing Ant: a simple background job processing library for Elixir](https://www.yellowduck.be/posts/introducing-ant-a-simple-background-job-processing-library-for-elixir)  
 - `2025-01-30` | [🔗 How I use Nix on macOS](https://www.yellowduck.be/posts/how-i-use-nix-on-macos)  
 - `2025-01-29` | [🐥 Simple trick to validate a URL in JavaScript](https://www.yellowduck.be/posts/simple-trick-to-validate-a-url-in-javascript)  
 - `2025-01-29` | [🔗 Integrating OpenSearch](https://www.yellowduck.be/posts/integrating-opensearch)  
@@ -22,6 +23,5 @@
 - `2025-01-27` | [🔗 Uv has a killer feature you should know about](https://www.yellowduck.be/posts/uv-has-a-killer-feature-you-should-know-about)  
 - `2025-01-27` | [🔗 Avoiding the soft delete anti-pattern](https://www.yellowduck.be/posts/avoiding-the-soft-delete-anti-pattern)  
 - `2025-01-26` | [🔗 My role as a founder CTO: Year Seven](https://www.yellowduck.be/posts/my-role-as-a-founder-cto-year-seven)  
-- `2025-01-26` | [🔗 antirez &lpar;Salvatore Sanfilippo&rpar; on Technical Blogging](https://www.yellowduck.be/posts/antirez-salvatore-sanfilippo-on-technical-blogging)  
 
 <!-- BLOG-POST-LIST:END -->
