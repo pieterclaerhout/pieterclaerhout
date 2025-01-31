@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-31` | [🔗 Making an existing Laravel application multi-tenant with Tenancy for Laravel](https://www.yellowduck.be/posts/making-an-existing-laravel-application-multi-tenant-with-tenancy-for-laravel)  
 - `2025-01-31` | [🔗 Getting and Displaying the User’s Local Time in LiveView](https://www.yellowduck.be/posts/getting-and-displaying-the-users-local-time-in-liveview)  
 - `2025-01-30` | [🐥 Vue Tip: Check if Component Has Event Listener Attached](https://www.yellowduck.be/posts/vue-tip-check-if-component-has-event-listener-attached)  
 - `2025-01-30` | [🔗 Introducing Ant: a simple background job processing library for Elixir](https://www.yellowduck.be/posts/introducing-ant-a-simple-background-job-processing-library-for-elixir)  
@@ -22,6 +23,5 @@
 - `2025-01-29` | [🔗 Download Files Easily with Laravel&#39;s HTTP sink Method](https://www.yellowduck.be/posts/download-files-easily-with-laravels-http-sink-method)  
 - `2025-01-28` | [🔗 MySQL can do more than you think](https://www.yellowduck.be/posts/mysql-can-do-more-than-you-think)  
 - `2025-01-28` | [🔗 Full text in RSS, please](https://www.yellowduck.be/posts/full-text-in-rss-please)  
-- `2025-01-27` | [🔗 Uv has a killer feature you should know about](https://www.yellowduck.be/posts/uv-has-a-killer-feature-you-should-know-about)  
 
 <!-- BLOG-POST-LIST:END -->
