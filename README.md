@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-01-31` | [🔗 Getting and Displaying the User’s Local Time in LiveView](https://www.yellowduck.be/posts/getting-and-displaying-the-users-local-time-in-liveview)  
 - `2025-01-30` | [🐥 Vue Tip: Check if Component Has Event Listener Attached](https://www.yellowduck.be/posts/vue-tip-check-if-component-has-event-listener-attached)  
 - `2025-01-30` | [🔗 Introducing Ant: a simple background job processing library for Elixir](https://www.yellowduck.be/posts/introducing-ant-a-simple-background-job-processing-library-for-elixir)  
 - `2025-01-30` | [🔗 How I use Nix on macOS](https://www.yellowduck.be/posts/how-i-use-nix-on-macos)  
@@ -22,6 +23,5 @@
 - `2025-01-28` | [🔗 MySQL can do more than you think](https://www.yellowduck.be/posts/mysql-can-do-more-than-you-think)  
 - `2025-01-28` | [🔗 Full text in RSS, please](https://www.yellowduck.be/posts/full-text-in-rss-please)  
 - `2025-01-27` | [🔗 Uv has a killer feature you should know about](https://www.yellowduck.be/posts/uv-has-a-killer-feature-you-should-know-about)  
-- `2025-01-27` | [🔗 Avoiding the soft delete anti-pattern](https://www.yellowduck.be/posts/avoiding-the-soft-delete-anti-pattern)  
 
 <!-- BLOG-POST-LIST:END -->
