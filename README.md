@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-01` | [🔗 Streaming OpenAI in Elixir Phoenix part I](https://www.yellowduck.be/posts/streaming-openai-in-elixir-phoenix-part-i)  
 - `2025-01-31` | [🐥 Vue Tip: How I Write Class &amp; Style Bindings](https://www.yellowduck.be/posts/vue-tip-how-i-write-class-style-bindings)  
 - `2025-01-31` | [🔗 Making an existing Laravel application multi-tenant with Tenancy for Laravel](https://www.yellowduck.be/posts/making-an-existing-laravel-application-multi-tenant-with-tenancy-for-laravel)  
 - `2025-01-31` | [🔗 Getting and Displaying the User’s Local Time in LiveView](https://www.yellowduck.be/posts/getting-and-displaying-the-users-local-time-in-liveview)  
@@ -22,6 +23,5 @@
 - `2025-01-29` | [🐥 Simple trick to validate a URL in JavaScript](https://www.yellowduck.be/posts/simple-trick-to-validate-a-url-in-javascript)  
 - `2025-01-29` | [🔗 Integrating OpenSearch](https://www.yellowduck.be/posts/integrating-opensearch)  
 - `2025-01-29` | [🔗 Download Files Easily with Laravel&#39;s HTTP sink Method](https://www.yellowduck.be/posts/download-files-easily-with-laravels-http-sink-method)  
-- `2025-01-28` | [🔗 MySQL can do more than you think](https://www.yellowduck.be/posts/mysql-can-do-more-than-you-think)  
 
 <!-- BLOG-POST-LIST:END -->
