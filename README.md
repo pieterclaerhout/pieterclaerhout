@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-02` | [🔗 What&#39;s involved in getting a &quot;modern&quot; terminal setup?](https://www.yellowduck.be/posts/whats-involved-in-getting-a-modern-terminal-setup)  
 - `2025-02-02` | [🔗 Streaming OpenAI in Elixir Phoenix Part III](https://www.yellowduck.be/posts/streaming-openai-in-elixir-phoenix-part-iii)  
 - `2025-02-01` | [🐥 Efficiently streaming large files using the Laravel Http Client](https://www.yellowduck.be/posts/efficiently-streaming-large-files-using-the-laravel-http-client)  
 - `2025-02-01` | [🔗 Streaming OpenAI in Elixir Phoenix Part II](https://www.yellowduck.be/posts/streaming-openai-in-elixir-phoenix-part-ii)  
@@ -22,6 +23,5 @@
 - `2025-01-31` | [🔗 Getting and Displaying the User’s Local Time in LiveView](https://www.yellowduck.be/posts/getting-and-displaying-the-users-local-time-in-liveview)  
 - `2025-01-30` | [🐥 Vue Tip: Check if Component Has Event Listener Attached](https://www.yellowduck.be/posts/vue-tip-check-if-component-has-event-listener-attached)  
 - `2025-01-30` | [🔗 Introducing Ant: a simple background job processing library for Elixir](https://www.yellowduck.be/posts/introducing-ant-a-simple-background-job-processing-library-for-elixir)  
-- `2025-01-30` | [🔗 How I use Nix on macOS](https://www.yellowduck.be/posts/how-i-use-nix-on-macos)  
 
 <!-- BLOG-POST-LIST:END -->
