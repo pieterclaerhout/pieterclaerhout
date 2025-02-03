@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-03` | [🔗 In response to a frontend developer asking about database development](https://www.yellowduck.be/posts/in-response-to-a-frontend-developer-asking-about-database-development)  
 - `2025-02-03` | [🔗 BEAM-ing to the Future: Exploring Phoenix and Elixir](https://www.yellowduck.be/posts/beam-ing-to-the-future-exploring-phoenix-and-elixir)  
 - `2025-02-02` | [🔗 What&#39;s involved in getting a &quot;modern&quot; terminal setup?](https://www.yellowduck.be/posts/whats-involved-in-getting-a-modern-terminal-setup)  
 - `2025-02-02` | [🔗 Streaming OpenAI in Elixir Phoenix Part III](https://www.yellowduck.be/posts/streaming-openai-in-elixir-phoenix-part-iii)  
@@ -22,6 +23,5 @@
 - `2025-01-31` | [🐥 Vue Tip: How I Write Class &amp; Style Bindings](https://www.yellowduck.be/posts/vue-tip-how-i-write-class-style-bindings)  
 - `2025-01-31` | [🔗 Making an existing Laravel application multi-tenant with Tenancy for Laravel](https://www.yellowduck.be/posts/making-an-existing-laravel-application-multi-tenant-with-tenancy-for-laravel)  
 - `2025-01-31` | [🔗 Getting and Displaying the User’s Local Time in LiveView](https://www.yellowduck.be/posts/getting-and-displaying-the-users-local-time-in-liveview)  
-- `2025-01-30` | [🐥 Vue Tip: Check if Component Has Event Listener Attached](https://www.yellowduck.be/posts/vue-tip-check-if-component-has-event-listener-attached)  
 
 <!-- BLOG-POST-LIST:END -->
