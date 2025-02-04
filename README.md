@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-04` | [🐥 Getting the size of all postgres databases on a server](https://www.yellowduck.be/posts/getting-the-size-of-all-postgres-databases-on-a-server)  
 - `2025-02-04` | [🔗 TIL Ecto Constraints and Validations](https://www.yellowduck.be/posts/til-ecto-constraints-and-validations)  
 - `2025-02-04` | [🔗 OSS Oban Web &amp; Oban v2.19](https://www.yellowduck.be/posts/oss-oban-web-oban-v2-19)  
 - `2025-02-03` | [🔗 In response to a frontend developer asking about database development](https://www.yellowduck.be/posts/in-response-to-a-frontend-developer-asking-about-database-development)  
@@ -22,6 +23,5 @@
 - `2025-02-01` | [🐥 Efficiently streaming large files using the Laravel Http Client](https://www.yellowduck.be/posts/efficiently-streaming-large-files-using-the-laravel-http-client)  
 - `2025-02-01` | [🔗 Streaming OpenAI in Elixir Phoenix Part II](https://www.yellowduck.be/posts/streaming-openai-in-elixir-phoenix-part-ii)  
 - `2025-02-01` | [🔗 Streaming OpenAI in Elixir Phoenix part I](https://www.yellowduck.be/posts/streaming-openai-in-elixir-phoenix-part-i)  
-- `2025-01-31` | [🐥 Vue Tip: How I Write Class &amp; Style Bindings](https://www.yellowduck.be/posts/vue-tip-how-i-write-class-style-bindings)  
 
 <!-- BLOG-POST-LIST:END -->
