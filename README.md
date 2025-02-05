@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-05` | [🔗 Faster similarity search performance with pgvector indexes](https://www.yellowduck.be/posts/faster-similarity-search-performance-with-pgvector-indexes)  
 - `2025-02-05` | [🔗 Everything I Know About Shipping Code Faster](https://www.yellowduck.be/posts/everything-i-know-about-shipping-code-faster)  
 - `2025-02-04` | [🐥 Getting the size of all postgres databases on a server](https://www.yellowduck.be/posts/getting-the-size-of-all-postgres-databases-on-a-server)  
 - `2025-02-04` | [🔗 TIL Ecto Constraints and Validations](https://www.yellowduck.be/posts/til-ecto-constraints-and-validations)  
@@ -22,6 +23,5 @@
 - `2025-02-02` | [🔗 What&#39;s involved in getting a &quot;modern&quot; terminal setup?](https://www.yellowduck.be/posts/whats-involved-in-getting-a-modern-terminal-setup)  
 - `2025-02-02` | [🔗 Streaming OpenAI in Elixir Phoenix Part III](https://www.yellowduck.be/posts/streaming-openai-in-elixir-phoenix-part-iii)  
 - `2025-02-01` | [🐥 Efficiently streaming large files using the Laravel Http Client](https://www.yellowduck.be/posts/efficiently-streaming-large-files-using-the-laravel-http-client)  
-- `2025-02-01` | [🔗 Streaming OpenAI in Elixir Phoenix Part II](https://www.yellowduck.be/posts/streaming-openai-in-elixir-phoenix-part-ii)  
 
 <!-- BLOG-POST-LIST:END -->
