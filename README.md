@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-06` | [🐥 Is your function REALLY a Vue composable?](https://www.yellowduck.be/posts/is-your-function-really-a-vue-composable)  
 - `2025-02-06` | [🔗 Extracting structured information from documents with LLMs](https://www.yellowduck.be/posts/extracting-structured-information-from-documents-with-llms)  
 - `2025-02-06` | [🔗 Articles - High Performance SQLite](https://www.yellowduck.be/posts/articles-high-performance-sqlite)  
 - `2025-02-05` | [🐥 Using assign_async in Phoenix LiveView](https://www.yellowduck.be/posts/using-assign-async-in-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2025-02-04` | [🔗 TIL Ecto Constraints and Validations](https://www.yellowduck.be/posts/til-ecto-constraints-and-validations)  
 - `2025-02-04` | [🔗 OSS Oban Web &amp; Oban v2.19](https://www.yellowduck.be/posts/oss-oban-web-oban-v2-19)  
 - `2025-02-03` | [🔗 In response to a frontend developer asking about database development](https://www.yellowduck.be/posts/in-response-to-a-frontend-developer-asking-about-database-development)  
-- `2025-02-03` | [🔗 BEAM-ing to the Future: Exploring Phoenix and Elixir](https://www.yellowduck.be/posts/beam-ing-to-the-future-exploring-phoenix-and-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
