@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-06` | [🔗 Articles - High Performance SQLite](https://www.yellowduck.be/posts/articles-high-performance-sqlite)  
 - `2025-02-05` | [🐥 Using assign_async in Phoenix LiveView](https://www.yellowduck.be/posts/using-assign-async-in-phoenix-liveview)  
 - `2025-02-05` | [🔗 Faster similarity search performance with pgvector indexes](https://www.yellowduck.be/posts/faster-similarity-search-performance-with-pgvector-indexes)  
 - `2025-02-05` | [🔗 Everything I Know About Shipping Code Faster](https://www.yellowduck.be/posts/everything-i-know-about-shipping-code-faster)  
@@ -22,6 +23,5 @@
 - `2025-02-03` | [🔗 In response to a frontend developer asking about database development](https://www.yellowduck.be/posts/in-response-to-a-frontend-developer-asking-about-database-development)  
 - `2025-02-03` | [🔗 BEAM-ing to the Future: Exploring Phoenix and Elixir](https://www.yellowduck.be/posts/beam-ing-to-the-future-exploring-phoenix-and-elixir)  
 - `2025-02-02` | [🔗 What&#39;s involved in getting a &quot;modern&quot; terminal setup?](https://www.yellowduck.be/posts/whats-involved-in-getting-a-modern-terminal-setup)  
-- `2025-02-02` | [🔗 Streaming OpenAI in Elixir Phoenix Part III](https://www.yellowduck.be/posts/streaming-openai-in-elixir-phoenix-part-iii)  
 
 <!-- BLOG-POST-LIST:END -->
