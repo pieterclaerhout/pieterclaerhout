@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-07` | [🔗 My experience with Phoenix LiveView | Dimitrios Lytras](https://www.yellowduck.be/posts/my-experience-with-phoenix-liveview-dimitrios-lytras)  
 - `2025-02-07` | [🔗 Things You Can Do With Ecto](https://www.yellowduck.be/posts/things-you-can-do-with-ecto)  
 - `2025-02-06` | [🐥 Is your function REALLY a Vue composable?](https://www.yellowduck.be/posts/is-your-function-really-a-vue-composable)  
 - `2025-02-06` | [🔗 Extracting structured information from documents with LLMs](https://www.yellowduck.be/posts/extracting-structured-information-from-documents-with-llms)  
@@ -22,6 +23,5 @@
 - `2025-02-05` | [🔗 Everything I Know About Shipping Code Faster](https://www.yellowduck.be/posts/everything-i-know-about-shipping-code-faster)  
 - `2025-02-04` | [🐥 Getting the size of all postgres databases on a server](https://www.yellowduck.be/posts/getting-the-size-of-all-postgres-databases-on-a-server)  
 - `2025-02-04` | [🔗 TIL Ecto Constraints and Validations](https://www.yellowduck.be/posts/til-ecto-constraints-and-validations)  
-- `2025-02-04` | [🔗 OSS Oban Web &amp; Oban v2.19](https://www.yellowduck.be/posts/oss-oban-web-oban-v2-19)  
 
 <!-- BLOG-POST-LIST:END -->
