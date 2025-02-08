@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-08` | [🔗 Translating Ecto Changeset Errors in Phoenix](https://www.yellowduck.be/posts/translating-ecto-changeset-errors-in-phoenix)  
 - `2025-02-07` | [🐥 If your VS Code is slow or unresponding](https://www.yellowduck.be/posts/if-your-vs-code-is-slow-or-unresponding)  
 - `2025-02-07` | [🔗 My experience with Phoenix LiveView | Dimitrios Lytras](https://www.yellowduck.be/posts/my-experience-with-phoenix-liveview-dimitrios-lytras)  
 - `2025-02-07` | [🔗 Things You Can Do With Ecto](https://www.yellowduck.be/posts/things-you-can-do-with-ecto)  
@@ -22,6 +23,5 @@
 - `2025-02-05` | [🐥 Using assign_async in Phoenix LiveView](https://www.yellowduck.be/posts/using-assign-async-in-phoenix-liveview)  
 - `2025-02-05` | [🔗 Faster similarity search performance with pgvector indexes](https://www.yellowduck.be/posts/faster-similarity-search-performance-with-pgvector-indexes)  
 - `2025-02-05` | [🔗 Everything I Know About Shipping Code Faster](https://www.yellowduck.be/posts/everything-i-know-about-shipping-code-faster)  
-- `2025-02-04` | [🐥 Getting the size of all postgres databases on a server](https://www.yellowduck.be/posts/getting-the-size-of-all-postgres-databases-on-a-server)  
 
 <!-- BLOG-POST-LIST:END -->
