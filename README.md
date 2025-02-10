@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-10` | [🐥 TypeScript utility types](https://www.yellowduck.be/posts/typescript-utility-types)  
 - `2025-02-10` | [🔗 Want to Build AI Agents? Tired of LangChain, CrewAI, AutoGen &amp; Other AI Agent Frameworks? Read this! | AI Advances](https://www.yellowduck.be/posts/want-to-build-ai-agents-tired-of-langchain-crewai-autogen-other-ai-agent-frameworks-read-this-ai-advances)  
 - `2025-02-10` | [🔗 Set a flash message from a LiveComponent](https://www.yellowduck.be/posts/set-a-flash-message-from-a-livecomponent)  
 - `2025-02-09` | [🐥 Running parameterized tests in Vitest](https://www.yellowduck.be/posts/running-parameterized-tests-in-vitest)  
@@ -22,6 +23,5 @@
 - `2025-02-08` | [🔗 Translating Ecto Changeset Errors in Phoenix](https://www.yellowduck.be/posts/translating-ecto-changeset-errors-in-phoenix)  
 - `2025-02-07` | [🐥 If your VS Code is slow or unresponding](https://www.yellowduck.be/posts/if-your-vs-code-is-slow-or-unresponding)  
 - `2025-02-07` | [🔗 My experience with Phoenix LiveView | Dimitrios Lytras](https://www.yellowduck.be/posts/my-experience-with-phoenix-liveview-dimitrios-lytras)  
-- `2025-02-07` | [🔗 Things You Can Do With Ecto](https://www.yellowduck.be/posts/things-you-can-do-with-ecto)  
 
 <!-- BLOG-POST-LIST:END -->
