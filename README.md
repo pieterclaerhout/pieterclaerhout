@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-11` | [🐥 Useful VS Code snippets for Elixir development](https://www.yellowduck.be/posts/useful-vs-code-snippets-for-elixir-development)  
 - `2025-02-11` | [🔗 How to add darkmode to tailwind in a Elixir Phoenix LiveView App](https://www.yellowduck.be/posts/how-to-add-darkmode-to-tailwind-in-a-elixir-phoenix-liveview-app)  
 - `2025-02-11` | [🔗 Rambo — Rambo v0.3.4](https://www.yellowduck.be/posts/rambo-rambo-v0-3-4)  
 - `2025-02-10` | [🐥 TypeScript utility types](https://www.yellowduck.be/posts/typescript-utility-types)  
@@ -22,6 +23,5 @@
 - `2025-02-09` | [🔗 Remote: growing from zero to unicorn with Elixir](https://www.yellowduck.be/posts/remote-growing-from-zero-to-unicorn-with-elixir)  
 - `2025-02-09` | [🔗 Don&#39;t use NOT IN in PostgreSQL](https://www.yellowduck.be/posts/dont-use-not-in-in-postgresql)  
 - `2025-02-08` | [🔗 Free tutorial: Learn Phoenix LiveView and OTP](https://www.yellowduck.be/posts/free-tutorial-learn-phoenix-liveview-and-otp)  
-- `2025-02-08` | [🔗 Translating Ecto Changeset Errors in Phoenix](https://www.yellowduck.be/posts/translating-ecto-changeset-errors-in-phoenix)  
 
 <!-- BLOG-POST-LIST:END -->
