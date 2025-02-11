@@ -13,7 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
-- `2025-02-11` | [🔗 ⚗️ How to add darkmode to tailwind in a Elixir Phoenix LiveView App](https://www.yellowduck.be/posts/how-to-add-darkmode-to-tailwind-in-a-elixir-phoenix-liveview-app)  
+- `2025-02-11` | [🔗 How to add darkmode to tailwind in a Elixir Phoenix LiveView App](https://www.yellowduck.be/posts/how-to-add-darkmode-to-tailwind-in-a-elixir-phoenix-liveview-app)  
 - `2025-02-11` | [🔗 Rambo — Rambo v0.3.4](https://www.yellowduck.be/posts/rambo-rambo-v0-3-4)  
 - `2025-02-10` | [🐥 TypeScript utility types](https://www.yellowduck.be/posts/typescript-utility-types)  
 - `2025-02-10` | [🔗 Want to Build AI Agents? Tired of LangChain, CrewAI, AutoGen &amp; Other AI Agent Frameworks? Read this! | AI Advances](https://www.yellowduck.be/posts/want-to-build-ai-agents-tired-of-langchain-crewai-autogen-other-ai-agent-frameworks-read-this-ai-advances)  
