@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-12` | [🔗 27 Fundamental Techniques for Software Architects](https://www.yellowduck.be/posts/27-fundamental-techniques-for-software-architects)  
 - `2025-02-12` | [🔗 Taking Elixir 1.18&#39;s new type system changes for a spin](https://www.yellowduck.be/posts/taking-elixir-1-18s-new-type-system-changes-for-a-spin)  
 - `2025-02-11` | [🐥 Useful VS Code snippets for Elixir development](https://www.yellowduck.be/posts/useful-vs-code-snippets-for-elixir-development)  
 - `2025-02-11` | [🔗 How to add darkmode to tailwind in a Elixir Phoenix LiveView App](https://www.yellowduck.be/posts/how-to-add-darkmode-to-tailwind-in-a-elixir-phoenix-liveview-app)  
@@ -22,6 +23,5 @@
 - `2025-02-10` | [🔗 Set a flash message from a LiveComponent](https://www.yellowduck.be/posts/set-a-flash-message-from-a-livecomponent)  
 - `2025-02-09` | [🐥 Running parameterized tests in Vitest](https://www.yellowduck.be/posts/running-parameterized-tests-in-vitest)  
 - `2025-02-09` | [🔗 Remote: growing from zero to unicorn with Elixir](https://www.yellowduck.be/posts/remote-growing-from-zero-to-unicorn-with-elixir)  
-- `2025-02-09` | [🔗 Don&#39;t use NOT IN in PostgreSQL](https://www.yellowduck.be/posts/dont-use-not-in-in-postgresql)  
 
 <!-- BLOG-POST-LIST:END -->
