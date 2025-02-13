@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-13` | [🐥 Setting command mac configuration settings using the terminal](https://www.yellowduck.be/posts/setting-command-mac-configuration-settings-using-the-terminal)  
 - `2025-02-13` | [🔗 I Ditched the Algorithm for RSS—and You Should Too](https://www.yellowduck.be/posts/i-ditched-the-algorithm-for-rss-and-you-should-too)  
 - `2025-02-13` | [🔗 The Lazy Programmer&#39;s Intro to LiveView](https://www.yellowduck.be/posts/the-lazy-programmers-intro-to-liveview)  
 - `2025-02-12` | [🐥 Using a brewfile with homebrew](https://www.yellowduck.be/posts/using-a-brewfile-with-homebrew)  
@@ -22,6 +23,5 @@
 - `2025-02-11` | [🔗 How to add darkmode to tailwind in a Elixir Phoenix LiveView App](https://www.yellowduck.be/posts/how-to-add-darkmode-to-tailwind-in-a-elixir-phoenix-liveview-app)  
 - `2025-02-11` | [🔗 Rambo — Rambo v0.3.4](https://www.yellowduck.be/posts/rambo-rambo-v0-3-4)  
 - `2025-02-10` | [🐥 TypeScript utility types](https://www.yellowduck.be/posts/typescript-utility-types)  
-- `2025-02-10` | [🔗 Want to Build AI Agents? Tired of LangChain, CrewAI, AutoGen &amp; Other AI Agent Frameworks? Read this! | AI Advances](https://www.yellowduck.be/posts/want-to-build-ai-agents-tired-of-langchain-crewai-autogen-other-ai-agent-frameworks-read-this-ai-advances)  
 
 <!-- BLOG-POST-LIST:END -->
