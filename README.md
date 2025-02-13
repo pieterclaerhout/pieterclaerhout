@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-13` | [🔗 The Lazy Programmer&#39;s Intro to LiveView](https://www.yellowduck.be/posts/the-lazy-programmers-intro-to-liveview)  
 - `2025-02-12` | [🐥 Using a brewfile with homebrew](https://www.yellowduck.be/posts/using-a-brewfile-with-homebrew)  
 - `2025-02-12` | [🔗 27 Fundamental Techniques for Software Architects](https://www.yellowduck.be/posts/27-fundamental-techniques-for-software-architects)  
 - `2025-02-12` | [🔗 Taking Elixir 1.18&#39;s new type system changes for a spin](https://www.yellowduck.be/posts/taking-elixir-1-18s-new-type-system-changes-for-a-spin)  
@@ -22,6 +23,5 @@
 - `2025-02-10` | [🐥 TypeScript utility types](https://www.yellowduck.be/posts/typescript-utility-types)  
 - `2025-02-10` | [🔗 Want to Build AI Agents? Tired of LangChain, CrewAI, AutoGen &amp; Other AI Agent Frameworks? Read this! | AI Advances](https://www.yellowduck.be/posts/want-to-build-ai-agents-tired-of-langchain-crewai-autogen-other-ai-agent-frameworks-read-this-ai-advances)  
 - `2025-02-10` | [🔗 Set a flash message from a LiveComponent](https://www.yellowduck.be/posts/set-a-flash-message-from-a-livecomponent)  
-- `2025-02-09` | [🐥 Running parameterized tests in Vitest](https://www.yellowduck.be/posts/running-parameterized-tests-in-vitest)  
 
 <!-- BLOG-POST-LIST:END -->
