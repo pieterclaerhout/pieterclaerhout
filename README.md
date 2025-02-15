@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-15` | [🔗 5 Rekoefeningen voor je bilspieren die je elke dag zou moeten doen](https://www.yellowduck.be/posts/5-rekoefeningen-voor-je-bilspieren-die-je-elke-dag-zou-moeten-doen)  
 - `2025-02-15` | [🔗 Design your website to work best with 1Password | 1Password Developer](https://www.yellowduck.be/posts/design-your-website-to-work-best-with-1password-1password-developer)  
 - `2025-02-14` | [🐥 Finding the latest version of each record using SQL](https://www.yellowduck.be/posts/finding-the-latest-version-of-each-record-using-sql)  
 - `2025-02-14` | [🔗 Idempotent APIs and safe retries](https://www.yellowduck.be/posts/idempotent-apis-and-safe-retries)  
@@ -22,6 +23,5 @@
 - `2025-02-13` | [🔗 The Lazy Programmer&#39;s Intro to LiveView](https://www.yellowduck.be/posts/the-lazy-programmers-intro-to-liveview)  
 - `2025-02-12` | [🐥 Using a brewfile with homebrew](https://www.yellowduck.be/posts/using-a-brewfile-with-homebrew)  
 - `2025-02-12` | [🔗 27 Fundamental Techniques for Software Architects](https://www.yellowduck.be/posts/27-fundamental-techniques-for-software-architects)  
-- `2025-02-12` | [🔗 Taking Elixir 1.18&#39;s new type system changes for a spin](https://www.yellowduck.be/posts/taking-elixir-1-18s-new-type-system-changes-for-a-spin)  
 
 <!-- BLOG-POST-LIST:END -->
