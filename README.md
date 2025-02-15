@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-15` | [🐥 Implementing custom validations in Ecto Changesets](https://www.yellowduck.be/posts/implementing-custom-validations-in-ecto-changesets)  
 - `2025-02-15` | [🔗 5 Rekoefeningen voor je bilspieren die je elke dag zou moeten doen](https://www.yellowduck.be/posts/5-rekoefeningen-voor-je-bilspieren-die-je-elke-dag-zou-moeten-doen)  
 - `2025-02-15` | [🔗 Design your website to work best with 1Password | 1Password Developer](https://www.yellowduck.be/posts/design-your-website-to-work-best-with-1password-1password-developer)  
 - `2025-02-14` | [🐥 Finding the latest version of each record using SQL](https://www.yellowduck.be/posts/finding-the-latest-version-of-each-record-using-sql)  
@@ -22,6 +23,5 @@
 - `2025-02-13` | [🔗 I Ditched the Algorithm for RSS—and You Should Too](https://www.yellowduck.be/posts/i-ditched-the-algorithm-for-rss-and-you-should-too)  
 - `2025-02-13` | [🔗 The Lazy Programmer&#39;s Intro to LiveView](https://www.yellowduck.be/posts/the-lazy-programmers-intro-to-liveview)  
 - `2025-02-12` | [🐥 Using a brewfile with homebrew](https://www.yellowduck.be/posts/using-a-brewfile-with-homebrew)  
-- `2025-02-12` | [🔗 27 Fundamental Techniques for Software Architects](https://www.yellowduck.be/posts/27-fundamental-techniques-for-software-architects)  
 
 <!-- BLOG-POST-LIST:END -->
