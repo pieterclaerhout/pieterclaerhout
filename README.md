@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-17` | [🔗 Mocking Time in Elixir Tests: A Practical Guide](https://www.yellowduck.be/posts/mocking-time-in-elixir-tests-a-practical-guide)  
 - `2025-02-17` | [🔗 Tutorial: Finding Important Words in Text Using TF-IDF](https://www.yellowduck.be/posts/tutorial-finding-important-words-in-text-using-tf-idf)  
 - `2025-02-16` | [🐥 Fixing default argument errors in multi-clause functions in Elixir](https://www.yellowduck.be/posts/fixing-default-argument-errors-in-multi-clause-functions-in-elixir)  
 - `2025-02-16` | [🔗 Create a Native-Like App in 4 Steps: PWA Magic with Vue 3 and Vite | alexop.dev](https://www.yellowduck.be/posts/create-a-native-like-app-in-4-steps-pwa-magic-with-vue-3-and-vite-alexop-dev)  
@@ -22,6 +23,5 @@
 - `2025-02-15` | [🔗 Design your website to work best with 1Password | 1Password Developer](https://www.yellowduck.be/posts/design-your-website-to-work-best-with-1password-1password-developer)  
 - `2025-02-14` | [🐥 Finding the latest version of each record using SQL](https://www.yellowduck.be/posts/finding-the-latest-version-of-each-record-using-sql)  
 - `2025-02-14` | [🔗 Idempotent APIs and safe retries](https://www.yellowduck.be/posts/idempotent-apis-and-safe-retries)  
-- `2025-02-14` | [🔗 Phoenix LiveView: Presenting DateTime in User&#39;s Time Zone](https://www.yellowduck.be/posts/phoenix-liveview-presenting-datetime-in-users-time-zone)  
 
 <!-- BLOG-POST-LIST:END -->
