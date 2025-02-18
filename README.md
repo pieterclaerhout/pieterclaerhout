@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-18` | [🔗 GigCityElixir 2023 - Andrew Ek &quot;Better Forms With LiveView&quot;](https://www.yellowduck.be/posts/gigcityelixir-2023-andrew-ek-better-forms-with-liveview)  
 - `2025-02-18` | [🔗 Parsing PDFs &lpar;and more&rpar; in Elixir using Rust](https://www.yellowduck.be/posts/parsing-pdfs-and-more-in-elixir-using-rust)  
 - `2025-02-17` | [🐥 The Road To LiveView 1.0 by Chris McCord | ElixirConf EU 2023](https://www.yellowduck.be/posts/the-road-to-liveview-1-0-by-chris-mccord-elixirconf-eu-2023)  
 - `2025-02-17` | [🔗 Mocking Time in Elixir Tests: A Practical Guide](https://www.yellowduck.be/posts/mocking-time-in-elixir-tests-a-practical-guide)  
@@ -22,6 +23,5 @@
 - `2025-02-16` | [🔗 SQLite in Vue: Complete Guide to Building Offline-First Web Apps | alexop.dev](https://www.yellowduck.be/posts/sqlite-in-vue-complete-guide-to-building-offline-first-web-apps-alexop-dev)  
 - `2025-02-15` | [🐥 Implementing custom validations in Ecto Changesets](https://www.yellowduck.be/posts/implementing-custom-validations-in-ecto-changesets)  
 - `2025-02-15` | [🔗 5 Rekoefeningen voor je bilspieren die je elke dag zou moeten doen](https://www.yellowduck.be/posts/5-rekoefeningen-voor-je-bilspieren-die-je-elke-dag-zou-moeten-doen)  
-- `2025-02-15` | [🔗 Design your website to work best with 1Password | 1Password Developer](https://www.yellowduck.be/posts/design-your-website-to-work-best-with-1password-1password-developer)  
 
 <!-- BLOG-POST-LIST:END -->
