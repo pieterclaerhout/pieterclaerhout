@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-19` | [🐥 Deploying a Phoenix app using mix release and a GitHub action](https://www.yellowduck.be/posts/deploying-a-phoenix-app-using-mix-release-and-a-github-action)  
 - `2025-02-19` | [🔗 Multi tenancy Example for Phoenix](https://www.yellowduck.be/posts/multi-tenancy-example-for-phoenix)  
 - `2025-02-19` | [🔗 Freezing Time: Testing Laravel Temporary Storage URLs](https://www.yellowduck.be/posts/freezing-time-testing-laravel-temporary-storage-urls)  
 - `2025-02-18` | [🐥 Defining props and emits in VueJS using TypeScript](https://www.yellowduck.be/posts/defining-props-and-emits-in-vuejs-using-typescript)  
@@ -22,6 +23,5 @@
 - `2025-02-17` | [🔗 Mocking Time in Elixir Tests: A Practical Guide](https://www.yellowduck.be/posts/mocking-time-in-elixir-tests-a-practical-guide)  
 - `2025-02-17` | [🔗 Tutorial: Finding Important Words in Text Using TF-IDF](https://www.yellowduck.be/posts/tutorial-finding-important-words-in-text-using-tf-idf)  
 - `2025-02-16` | [🐥 Fixing default argument errors in multi-clause functions in Elixir](https://www.yellowduck.be/posts/fixing-default-argument-errors-in-multi-clause-functions-in-elixir)  
-- `2025-02-16` | [🔗 Create a Native-Like App in 4 Steps: PWA Magic with Vue 3 and Vite | alexop.dev](https://www.yellowduck.be/posts/create-a-native-like-app-in-4-steps-pwa-magic-with-vue-3-and-vite-alexop-dev)  
 
 <!-- BLOG-POST-LIST:END -->
