@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-20` | [🐥 TypeScript template literal types](https://www.yellowduck.be/posts/typescript-template-literal-types)  
 - `2025-02-20` | [🔗 Ecto Datetime With Time Zone](https://www.yellowduck.be/posts/ecto-datetime-with-time-zone)  
 - `2025-02-20` | [🔗 Intro to Elixir Applications on Kubernetes](https://www.yellowduck.be/posts/intro-to-elixir-applications-on-kubernetes)  
 - `2025-02-19` | [🐥 Deploying a Phoenix app using mix release and a GitHub action](https://www.yellowduck.be/posts/deploying-a-phoenix-app-using-mix-release-and-a-github-action)  
@@ -22,6 +23,5 @@
 - `2025-02-18` | [🔗 GigCityElixir 2023 - Andrew Ek &quot;Better Forms With LiveView&quot;](https://www.yellowduck.be/posts/gigcityelixir-2023-andrew-ek-better-forms-with-liveview)  
 - `2025-02-18` | [🔗 Parsing PDFs &lpar;and more&rpar; in Elixir using Rust](https://www.yellowduck.be/posts/parsing-pdfs-and-more-in-elixir-using-rust)  
 - `2025-02-17` | [🐥 The Road To LiveView 1.0 by Chris McCord | ElixirConf EU 2023](https://www.yellowduck.be/posts/the-road-to-liveview-1-0-by-chris-mccord-elixirconf-eu-2023)  
-- `2025-02-17` | [🔗 Mocking Time in Elixir Tests: A Practical Guide](https://www.yellowduck.be/posts/mocking-time-in-elixir-tests-a-practical-guide)  
 
 <!-- BLOG-POST-LIST:END -->
