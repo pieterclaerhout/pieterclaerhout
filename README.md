@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-21` | [🔗 What&#39;s OAuth2 Anyway?](https://www.yellowduck.be/posts/whats-oauth2-anyway)  
 - `2025-02-21` | [🔗 How to Use LiveView&#39;s Async Assigns](https://www.yellowduck.be/posts/how-to-use-liveviews-async-assigns)  
 - `2025-02-20` | [🐥 TypeScript template literal types](https://www.yellowduck.be/posts/typescript-template-literal-types)  
 - `2025-02-20` | [🔗 Ecto Datetime With Time Zone](https://www.yellowduck.be/posts/ecto-datetime-with-time-zone)  
@@ -22,6 +23,5 @@
 - `2025-02-19` | [🔗 Freezing Time: Testing Laravel Temporary Storage URLs](https://www.yellowduck.be/posts/freezing-time-testing-laravel-temporary-storage-urls)  
 - `2025-02-18` | [🐥 Defining props and emits in VueJS using TypeScript](https://www.yellowduck.be/posts/defining-props-and-emits-in-vuejs-using-typescript)  
 - `2025-02-18` | [🔗 GigCityElixir 2023 - Andrew Ek &quot;Better Forms With LiveView&quot;](https://www.yellowduck.be/posts/gigcityelixir-2023-andrew-ek-better-forms-with-liveview)  
-- `2025-02-18` | [🔗 Parsing PDFs &lpar;and more&rpar; in Elixir using Rust](https://www.yellowduck.be/posts/parsing-pdfs-and-more-in-elixir-using-rust)  
 
 <!-- BLOG-POST-LIST:END -->
