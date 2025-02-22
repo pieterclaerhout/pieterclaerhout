@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-22` | [🔗 Software development topics I&#39;ve changed my mind on after 10 years in the industry](https://www.yellowduck.be/posts/software-development-topics-ive-changed-my-mind-on-after-10-years-in-the-industry)  
 - `2025-02-22` | [🔗 Resize Image Uploads with Phoenix LiveView](https://www.yellowduck.be/posts/resize-image-uploads-with-phoenix-liveview)  
 - `2025-02-21` | [🐥 Using pattern matching with TypeScript](https://www.yellowduck.be/posts/using-pattern-matching-with-typescript)  
 - `2025-02-21` | [🔗 What&#39;s OAuth2 Anyway?](https://www.yellowduck.be/posts/whats-oauth2-anyway)  
@@ -22,6 +23,5 @@
 - `2025-02-20` | [🔗 Intro to Elixir Applications on Kubernetes](https://www.yellowduck.be/posts/intro-to-elixir-applications-on-kubernetes)  
 - `2025-02-19` | [🐥 Deploying a Phoenix app using mix release and a GitHub action](https://www.yellowduck.be/posts/deploying-a-phoenix-app-using-mix-release-and-a-github-action)  
 - `2025-02-19` | [🔗 Multi tenancy Example for Phoenix](https://www.yellowduck.be/posts/multi-tenancy-example-for-phoenix)  
-- `2025-02-19` | [🔗 Freezing Time: Testing Laravel Temporary Storage URLs](https://www.yellowduck.be/posts/freezing-time-testing-laravel-temporary-storage-urls)  
 
 <!-- BLOG-POST-LIST:END -->
