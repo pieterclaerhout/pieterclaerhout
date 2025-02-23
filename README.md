@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-23` | [🐥 Updating the enum values of a database column definition](https://www.yellowduck.be/posts/updating-the-enum-values-of-a-database-column-definition)  
 - `2025-02-23` | [🔗 Using Your Best Efforts Power Curve](https://www.yellowduck.be/posts/using-your-best-efforts-power-curve)  
 - `2025-02-23` | [🔗 Writing a good design document](https://www.yellowduck.be/posts/writing-a-good-design-document)  
 - `2025-02-22` | [🐥 Manually syncing data using Laravel Scout](https://www.yellowduck.be/posts/manually-syncing-data-using-laravel-scout)  
@@ -22,6 +23,5 @@
 - `2025-02-21` | [🔗 What&#39;s OAuth2 Anyway?](https://www.yellowduck.be/posts/whats-oauth2-anyway)  
 - `2025-02-21` | [🔗 How to Use LiveView&#39;s Async Assigns](https://www.yellowduck.be/posts/how-to-use-liveviews-async-assigns)  
 - `2025-02-20` | [🐥 TypeScript template literal types](https://www.yellowduck.be/posts/typescript-template-literal-types)  
-- `2025-02-20` | [🔗 Ecto Datetime With Time Zone](https://www.yellowduck.be/posts/ecto-datetime-with-time-zone)  
 
 <!-- BLOG-POST-LIST:END -->
