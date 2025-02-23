@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-23` | [🔗 Writing a good design document](https://www.yellowduck.be/posts/writing-a-good-design-document)  
 - `2025-02-22` | [🐥 Manually syncing data using Laravel Scout](https://www.yellowduck.be/posts/manually-syncing-data-using-laravel-scout)  
 - `2025-02-22` | [🔗 Software development topics I&#39;ve changed my mind on after 10 years in the industry](https://www.yellowduck.be/posts/software-development-topics-ive-changed-my-mind-on-after-10-years-in-the-industry)  
 - `2025-02-22` | [🔗 Resize Image Uploads with Phoenix LiveView](https://www.yellowduck.be/posts/resize-image-uploads-with-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2025-02-20` | [🐥 TypeScript template literal types](https://www.yellowduck.be/posts/typescript-template-literal-types)  
 - `2025-02-20` | [🔗 Ecto Datetime With Time Zone](https://www.yellowduck.be/posts/ecto-datetime-with-time-zone)  
 - `2025-02-20` | [🔗 Intro to Elixir Applications on Kubernetes](https://www.yellowduck.be/posts/intro-to-elixir-applications-on-kubernetes)  
-- `2025-02-19` | [🐥 Deploying a Phoenix app using mix release and a GitHub action](https://www.yellowduck.be/posts/deploying-a-phoenix-app-using-mix-release-and-a-github-action)  
 
 <!-- BLOG-POST-LIST:END -->
