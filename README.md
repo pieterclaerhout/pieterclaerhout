@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-24` | [🔗 Using uv as your shebang line](https://www.yellowduck.be/posts/using-uv-as-your-shebang-line)  
 - `2025-02-24` | [🔗 Seven things I know after 25 years of development](https://www.yellowduck.be/posts/seven-things-i-know-after-25-years-of-development)  
 - `2025-02-23` | [🐥 Updating the enum values of a database column definition](https://www.yellowduck.be/posts/updating-the-enum-values-of-a-database-column-definition)  
 - `2025-02-23` | [🔗 Using Your Best Efforts Power Curve](https://www.yellowduck.be/posts/using-your-best-efforts-power-curve)  
@@ -22,6 +23,5 @@
 - `2025-02-22` | [🔗 Resize Image Uploads with Phoenix LiveView](https://www.yellowduck.be/posts/resize-image-uploads-with-phoenix-liveview)  
 - `2025-02-21` | [🐥 Using pattern matching with TypeScript](https://www.yellowduck.be/posts/using-pattern-matching-with-typescript)  
 - `2025-02-21` | [🔗 What&#39;s OAuth2 Anyway?](https://www.yellowduck.be/posts/whats-oauth2-anyway)  
-- `2025-02-21` | [🔗 How to Use LiveView&#39;s Async Assigns](https://www.yellowduck.be/posts/how-to-use-liveviews-async-assigns)  
 
 <!-- BLOG-POST-LIST:END -->
