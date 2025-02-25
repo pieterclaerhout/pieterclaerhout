@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-25` | [🔗 HNSW Indexes with Postgres and pgvector | Crunchy Data Blog](https://www.yellowduck.be/posts/hnsw-indexes-with-postgres-and-pgvector-crunchy-data-blog)  
 - `2025-02-24` | [🐥 Optimizing your shell scripts: installing dependencies only when needed](https://www.yellowduck.be/posts/optimizing-your-shell-scripts-installing-dependencies-only-when-needed)  
 - `2025-02-24` | [🔗 Using uv as your shebang line](https://www.yellowduck.be/posts/using-uv-as-your-shebang-line)  
 - `2025-02-24` | [🔗 Seven things I know after 25 years of development](https://www.yellowduck.be/posts/seven-things-i-know-after-25-years-of-development)  
@@ -22,6 +23,5 @@
 - `2025-02-22` | [🐥 Manually syncing data using Laravel Scout](https://www.yellowduck.be/posts/manually-syncing-data-using-laravel-scout)  
 - `2025-02-22` | [🔗 Software development topics I&#39;ve changed my mind on after 10 years in the industry](https://www.yellowduck.be/posts/software-development-topics-ive-changed-my-mind-on-after-10-years-in-the-industry)  
 - `2025-02-22` | [🔗 Resize Image Uploads with Phoenix LiveView](https://www.yellowduck.be/posts/resize-image-uploads-with-phoenix-liveview)  
-- `2025-02-21` | [🐥 Using pattern matching with TypeScript](https://www.yellowduck.be/posts/using-pattern-matching-with-typescript)  
 
 <!-- BLOG-POST-LIST:END -->
