@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-26` | [🐥 Sharing a site using Valet and an ngrok static domain](https://www.yellowduck.be/posts/sharing-a-site-using-valet-and-an-ngrok-static-domain)  
 - `2025-02-26` | [🔗 Asdf Has Been Re-Written in Golang](https://www.yellowduck.be/posts/asdf-has-been-re-written-in-golang)  
 - `2025-02-26` | [🔗 Easy Ubuntu on Mac &lpar;ARM/x86&rpar;](https://www.yellowduck.be/posts/easy-ubuntu-on-mac-arm-x86-coppieters-new-zealand)  
 - `2025-02-25` | [🐥 TIL: TypeScript allowSyntheticDefaultImports](https://www.yellowduck.be/posts/til-typescript-allowsyntheticdefaultimports)  
@@ -22,6 +23,5 @@
 - `2025-02-24` | [🔗 Using uv as your shebang line](https://www.yellowduck.be/posts/using-uv-as-your-shebang-line)  
 - `2025-02-24` | [🔗 Seven things I know after 25 years of development](https://www.yellowduck.be/posts/seven-things-i-know-after-25-years-of-development)  
 - `2025-02-23` | [🐥 Updating the enum values of a database column definition](https://www.yellowduck.be/posts/updating-the-enum-values-of-a-database-column-definition)  
-- `2025-02-23` | [🔗 Using Your Best Efforts Power Curve](https://www.yellowduck.be/posts/using-your-best-efforts-power-curve)  
 
 <!-- BLOG-POST-LIST:END -->
