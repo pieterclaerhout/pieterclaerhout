@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-27` | [🐥 A simple when function for conditional execution in TypeScript](https://www.yellowduck.be/posts/a-simple-when-function-for-conditional-execution-in-typescript)  
 - `2025-02-27` | [🔗 strongly-typed-thoughts.net](https://www.yellowduck.be/posts/strongly-typed-thoughts-net)  
 - `2025-02-27` | [🔗 Implement Advanced Data Tables with AG Grid in Phoenix LiveView](https://www.yellowduck.be/posts/implement-advanced-data-tables-with-ag-grid-in-phoenix-liveview)  
 - `2025-02-26` | [🐥 Sharing a site using Valet and an ngrok static domain](https://www.yellowduck.be/posts/sharing-a-site-using-valet-and-an-ngrok-static-domain)  
@@ -22,6 +23,5 @@
 - `2025-02-25` | [🔗 Scalar and binary quantization for pgvector vector search and storage](https://www.yellowduck.be/posts/scalar-and-binary-quantization-for-pgvector-vector-search-and-storage)  
 - `2025-02-25` | [🔗 HNSW Indexes with Postgres and pgvector | Crunchy Data Blog](https://www.yellowduck.be/posts/hnsw-indexes-with-postgres-and-pgvector-crunchy-data-blog)  
 - `2025-02-24` | [🐥 Optimizing your shell scripts: installing dependencies only when needed](https://www.yellowduck.be/posts/optimizing-your-shell-scripts-installing-dependencies-only-when-needed)  
-- `2025-02-24` | [🔗 Using uv as your shebang line](https://www.yellowduck.be/posts/using-uv-as-your-shebang-line)  
 
 <!-- BLOG-POST-LIST:END -->
