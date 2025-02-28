@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-02-28` | [🔗 SQLite or PostgreSQL? It&#39;s Complicated!](https://www.yellowduck.be/posts/sqlite-or-postgresql-its-complicated)  
 - `2025-02-28` | [🔗 Tooltips in Phoenix LiveView](https://www.yellowduck.be/posts/tooltips-in-phoenix-liveview)  
 - `2025-02-27` | [🐥 A simple when function for conditional execution in TypeScript](https://www.yellowduck.be/posts/a-simple-when-function-for-conditional-execution-in-typescript)  
 - `2025-02-27` | [🔗 strongly-typed-thoughts.net](https://www.yellowduck.be/posts/strongly-typed-thoughts-net)  
@@ -22,6 +23,5 @@
 - `2025-02-26` | [🔗 Easy Ubuntu on Mac &lpar;ARM/x86&rpar;](https://www.yellowduck.be/posts/easy-ubuntu-on-mac-arm-x86-coppieters-new-zealand)  
 - `2025-02-25` | [🐥 TIL: TypeScript allowSyntheticDefaultImports](https://www.yellowduck.be/posts/til-typescript-allowsyntheticdefaultimports)  
 - `2025-02-25` | [🔗 Scalar and binary quantization for pgvector vector search and storage](https://www.yellowduck.be/posts/scalar-and-binary-quantization-for-pgvector-vector-search-and-storage)  
-- `2025-02-25` | [🔗 HNSW Indexes with Postgres and pgvector | Crunchy Data Blog](https://www.yellowduck.be/posts/hnsw-indexes-with-postgres-and-pgvector-crunchy-data-blog)  
 
 <!-- BLOG-POST-LIST:END -->
