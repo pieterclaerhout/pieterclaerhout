@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-01` | [🔗 Not every Dependency is worth it.](https://www.yellowduck.be/posts/not-every-dependency-is-worth-it)  
 - `2025-02-28` | [🐥 TIL: Setting an env var for all processes on your mac](https://www.yellowduck.be/posts/til-setting-an-env-var-for-all-processes-on-your-mac)  
 - `2025-02-28` | [🔗 SQLite or PostgreSQL? It&#39;s Complicated!](https://www.yellowduck.be/posts/sqlite-or-postgresql-its-complicated)  
 - `2025-02-28` | [🔗 Tooltips in Phoenix LiveView](https://www.yellowduck.be/posts/tooltips-in-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2025-02-26` | [🐥 Sharing a site using Valet and an ngrok static domain](https://www.yellowduck.be/posts/sharing-a-site-using-valet-and-an-ngrok-static-domain)  
 - `2025-02-26` | [🔗 Asdf Has Been Re-Written in Golang](https://www.yellowduck.be/posts/asdf-has-been-re-written-in-golang)  
 - `2025-02-26` | [🔗 Easy Ubuntu on Mac &lpar;ARM/x86&rpar;](https://www.yellowduck.be/posts/easy-ubuntu-on-mac-arm-x86-coppieters-new-zealand)  
-- `2025-02-25` | [🐥 TIL: TypeScript allowSyntheticDefaultImports](https://www.yellowduck.be/posts/til-typescript-allowsyntheticdefaultimports)  
 
 <!-- BLOG-POST-LIST:END -->
