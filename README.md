@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-02` | [🔗 Importing 1.7 billion rows of CSV data from Stripe with PHP](https://www.yellowduck.be/posts/importing-1-7-billion-rows-of-csv-data-from-stripe-with-php)  
 - `2025-03-02` | [🔗 We are destroying software](https://www.yellowduck.be/posts/we-are-destroying-software-antirez)  
 - `2025-03-01` | [🐥 Bumping the PHP version in composer.json](https://www.yellowduck.be/posts/bumping-the-php-version-in-composer-json)  
 - `2025-03-01` | [🔗 Using Phoenix with React and Inertia | Dimitrios Lytras](https://www.yellowduck.be/posts/using-phoenix-with-react-and-inertia-dimitrios-lytras)  
@@ -22,6 +23,5 @@
 - `2025-02-28` | [🔗 Tooltips in Phoenix LiveView](https://www.yellowduck.be/posts/tooltips-in-phoenix-liveview)  
 - `2025-02-27` | [🐥 A simple when function for conditional execution in TypeScript](https://www.yellowduck.be/posts/a-simple-when-function-for-conditional-execution-in-typescript)  
 - `2025-02-27` | [🔗 strongly-typed-thoughts.net](https://www.yellowduck.be/posts/strongly-typed-thoughts-net)  
-- `2025-02-27` | [🔗 Implement Advanced Data Tables with AG Grid in Phoenix LiveView](https://www.yellowduck.be/posts/implement-advanced-data-tables-with-ag-grid-in-phoenix-liveview)  
 
 <!-- BLOG-POST-LIST:END -->
