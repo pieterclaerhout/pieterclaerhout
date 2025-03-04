@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-04` | [🔗 Laravel Queues Performance Test: Sending 5,000 PDFs](https://www.yellowduck.be/posts/laravel-queues-performance-test-sending-5-000-pdfs)  
 - `2025-03-04` | [🔗 Developer philosophy](https://www.yellowduck.be/posts/developer-philosophy)  
 - `2025-03-03` | [🐥 How to safely clean up /var/log/journal on Ubuntu Server](https://www.yellowduck.be/posts/how-to-safely-clean-up-var-log-journal-on-ubuntu-server)  
 - `2025-03-03` | [🔗 Patterns for building realtime features](https://www.yellowduck.be/posts/patterns-for-building-realtime-features)  
@@ -22,6 +23,5 @@
 - `2025-03-01` | [🐥 Bumping the PHP version in composer.json](https://www.yellowduck.be/posts/bumping-the-php-version-in-composer-json)  
 - `2025-03-01` | [🔗 Using Phoenix with React and Inertia | Dimitrios Lytras](https://www.yellowduck.be/posts/using-phoenix-with-react-and-inertia-dimitrios-lytras)  
 - `2025-03-01` | [🔗 Not every Dependency is worth it.](https://www.yellowduck.be/posts/not-every-dependency-is-worth-it)  
-- `2025-02-28` | [🐥 TIL: Setting an env var for all processes on your mac](https://www.yellowduck.be/posts/til-setting-an-env-var-for-all-processes-on-your-mac)  
 
 <!-- BLOG-POST-LIST:END -->
