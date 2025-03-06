@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-06` | [🔗 ok/1 &amp; noreply/1 LiveView helpers](https://www.yellowduck.be/posts/ok-1-noreply-1-liveview-helpers)  
 - `2025-03-05` | [🐥 Red versus brown Chocotoffs](https://www.yellowduck.be/posts/red-versus-brown-chocotoffs)  
 - `2025-03-05` | [🔗 Go 1.24 is released! - The Go Programming Language](https://www.yellowduck.be/posts/go-1-24-is-released-the-go-programming-language)  
 - `2025-03-05` | [🔗 Elixir and Phoenix Security Checklist: 11 Best Practices](https://www.yellowduck.be/posts/elixir-and-phoenix-security-checklist-11-best-practices)  
@@ -22,6 +23,5 @@
 - `2025-03-03` | [🐥 How to safely clean up /var/log/journal on Ubuntu Server](https://www.yellowduck.be/posts/how-to-safely-clean-up-var-log-journal-on-ubuntu-server)  
 - `2025-03-03` | [🔗 Patterns for building realtime features](https://www.yellowduck.be/posts/patterns-for-building-realtime-features)  
 - `2025-03-03` | [🔗 Deleted record audit log with Ecto and PostgreSQL](https://www.yellowduck.be/posts/deleted-record-audit-log-with-ecto-and-postgresql)  
-- `2025-03-02` | [🔗 Importing 1.7 billion rows of CSV data from Stripe with PHP](https://www.yellowduck.be/posts/importing-1-7-billion-rows-of-csv-data-from-stripe-with-php)  
 
 <!-- BLOG-POST-LIST:END -->
