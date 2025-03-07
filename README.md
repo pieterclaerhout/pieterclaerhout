@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-07` | [🔗 Building RAG systems in Go with Ent, Atlas, and pgvector](https://www.yellowduck.be/posts/building-rag-systems-in-go-with-ent-atlas-and-pgvector)  
 - `2025-03-07` | [🔗 Build A Simple Tracing System in Elixir](https://www.yellowduck.be/posts/build-a-simple-tracing-system-in-elixir)  
 - `2025-03-06` | [🐥 How to use calc&lpar;&rpar; in Tailwind CSS](https://www.yellowduck.be/posts/how-to-use-calc-in-tailwind-css)  
 - `2025-03-06` | [🔗 Rouvy Adds Zwift Cog/Click/Ride Virtual Shifting: Battle Royale Begins?](https://www.yellowduck.be/posts/rouvy-adds-zwift-cog-click-ride-virtual-shifting-battle-royale-begins)  
@@ -22,6 +23,5 @@
 - `2025-03-05` | [🔗 Elixir and Phoenix Security Checklist: 11 Best Practices](https://www.yellowduck.be/posts/elixir-and-phoenix-security-checklist-11-best-practices)  
 - `2025-03-04` | [🐥 Inspecting journald logs on Ubuntu Server](https://www.yellowduck.be/posts/inspecting-journald-logs-on-ubuntu-server)  
 - `2025-03-04` | [🔗 Laravel Queues Performance Test: Sending 5,000 PDFs](https://www.yellowduck.be/posts/laravel-queues-performance-test-sending-5-000-pdfs)  
-- `2025-03-04` | [🔗 Developer philosophy](https://www.yellowduck.be/posts/developer-philosophy)  
 
 <!-- BLOG-POST-LIST:END -->
