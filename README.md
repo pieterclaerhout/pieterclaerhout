@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-08` | [🔗 ChromicPDF: Generating PDF/A files with Chrome, Ghostscript, and Elixir | bitcrowd blog](https://www.yellowduck.be/posts/chromicpdf-generating-pdf-a-files-with-chrome-ghostscript-and-elixir-bitcrowd-blog)  
 - `2025-03-07` | [🐥 TIL: Removing all failed jobs from a Laravel Horizon queue](https://www.yellowduck.be/posts/til-removing-all-failed-jobs-from-a-laravel-horizon-queue)  
 - `2025-03-07` | [🔗 Building RAG systems in Go with Ent, Atlas, and pgvector](https://www.yellowduck.be/posts/building-rag-systems-in-go-with-ent-atlas-and-pgvector)  
 - `2025-03-07` | [🔗 Build A Simple Tracing System in Elixir](https://www.yellowduck.be/posts/build-a-simple-tracing-system-in-elixir)  
@@ -22,6 +23,5 @@
 - `2025-03-05` | [🐥 Red versus brown Chocotoffs](https://www.yellowduck.be/posts/red-versus-brown-chocotoffs)  
 - `2025-03-05` | [🔗 Go 1.24 is released! - The Go Programming Language](https://www.yellowduck.be/posts/go-1-24-is-released-the-go-programming-language)  
 - `2025-03-05` | [🔗 Elixir and Phoenix Security Checklist: 11 Best Practices](https://www.yellowduck.be/posts/elixir-and-phoenix-security-checklist-11-best-practices)  
-- `2025-03-04` | [🐥 Inspecting journald logs on Ubuntu Server](https://www.yellowduck.be/posts/inspecting-journald-logs-on-ubuntu-server)  
 
 <!-- BLOG-POST-LIST:END -->
