@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-09` | [🐥 Updating the query string in Phoenix LiveView while typing](https://www.yellowduck.be/posts/updating-the-query-string-in-phoenix-liveview-while-typing)  
 - `2025-03-09` | [🔗 Siren Call of SQLite on the Server](https://www.yellowduck.be/posts/siren-call-of-sqlite-on-the-server)  
 - `2025-03-09` | [🔗 Mocking HTTP Requests in Elixir: A Practical Guide](https://www.yellowduck.be/posts/mocking-http-requests-in-elixir-a-practical-guide)  
 - `2025-03-08` | [🐥 Mitigating security risks of zip file processing with Elixir](https://www.yellowduck.be/posts/mitigating-security-risks-of-zip-file-processing-with-elixir)  
@@ -22,6 +23,5 @@
 - `2025-03-07` | [🔗 Building RAG systems in Go with Ent, Atlas, and pgvector](https://www.yellowduck.be/posts/building-rag-systems-in-go-with-ent-atlas-and-pgvector)  
 - `2025-03-07` | [🔗 Build A Simple Tracing System in Elixir](https://www.yellowduck.be/posts/build-a-simple-tracing-system-in-elixir)  
 - `2025-03-06` | [🐥 How to use calc&lpar;&rpar; in Tailwind CSS](https://www.yellowduck.be/posts/how-to-use-calc-in-tailwind-css)  
-- `2025-03-06` | [🔗 Rouvy Adds Zwift Cog/Click/Ride Virtual Shifting: Battle Royale Begins?](https://www.yellowduck.be/posts/rouvy-adds-zwift-cog-click-ride-virtual-shifting-battle-royale-begins)  
 
 <!-- BLOG-POST-LIST:END -->
