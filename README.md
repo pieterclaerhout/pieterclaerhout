@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-09` | [🔗 Siren Call of SQLite on the Server](https://www.yellowduck.be/posts/siren-call-of-sqlite-on-the-server)  
 - `2025-03-09` | [🔗 Mocking HTTP Requests in Elixir: A Practical Guide](https://www.yellowduck.be/posts/mocking-http-requests-in-elixir-a-practical-guide)  
 - `2025-03-08` | [🐥 Mitigating security risks of zip file processing with Elixir](https://www.yellowduck.be/posts/mitigating-security-risks-of-zip-file-processing-with-elixir)  
 - `2025-03-08` | [🔗 Unpacking Elixir: Phoenix](https://www.yellowduck.be/posts/unpacking-elixir-phoenix)  
@@ -22,6 +23,5 @@
 - `2025-03-07` | [🔗 Build A Simple Tracing System in Elixir](https://www.yellowduck.be/posts/build-a-simple-tracing-system-in-elixir)  
 - `2025-03-06` | [🐥 How to use calc&lpar;&rpar; in Tailwind CSS](https://www.yellowduck.be/posts/how-to-use-calc-in-tailwind-css)  
 - `2025-03-06` | [🔗 Rouvy Adds Zwift Cog/Click/Ride Virtual Shifting: Battle Royale Begins?](https://www.yellowduck.be/posts/rouvy-adds-zwift-cog-click-ride-virtual-shifting-battle-royale-begins)  
-- `2025-03-06` | [🔗 ok/1 &amp; noreply/1 LiveView helpers](https://www.yellowduck.be/posts/ok-1-noreply-1-liveview-helpers)  
 
 <!-- BLOG-POST-LIST:END -->
