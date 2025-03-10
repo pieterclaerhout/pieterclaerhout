@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-10` | [🔗 A year of uv: pros, cons, and should you migrate](https://www.yellowduck.be/posts/a-year-of-uv-pros-cons-and-should-you-migrate)  
 - `2025-03-10` | [🔗 A new interpreter in Python 3.14 delivers a free speed boost](https://www.yellowduck.be/posts/a-new-interpreter-in-python-3-14-delivers-a-free-speed-boost)  
 - `2025-03-09` | [🐥 Updating the query string in Phoenix LiveView while typing](https://www.yellowduck.be/posts/updating-the-query-string-in-phoenix-liveview-while-typing)  
 - `2025-03-09` | [🔗 Siren Call of SQLite on the Server](https://www.yellowduck.be/posts/siren-call-of-sqlite-on-the-server)  
@@ -22,6 +23,5 @@
 - `2025-03-08` | [🔗 ChromicPDF: Generating PDF/A files with Chrome, Ghostscript, and Elixir | bitcrowd blog](https://www.yellowduck.be/posts/chromicpdf-generating-pdf-a-files-with-chrome-ghostscript-and-elixir-bitcrowd-blog)  
 - `2025-03-07` | [🐥 TIL: Removing all failed jobs from a Laravel Horizon queue](https://www.yellowduck.be/posts/til-removing-all-failed-jobs-from-a-laravel-horizon-queue)  
 - `2025-03-07` | [🔗 Building RAG systems in Go with Ent, Atlas, and pgvector](https://www.yellowduck.be/posts/building-rag-systems-in-go-with-ent-atlas-and-pgvector)  
-- `2025-03-07` | [🔗 Build A Simple Tracing System in Elixir](https://www.yellowduck.be/posts/build-a-simple-tracing-system-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
