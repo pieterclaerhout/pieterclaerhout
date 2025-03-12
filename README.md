@@ -13,7 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
-- `2025-03-12` | [🔗 LiveView feels faster with a delayed loading indicator](https://www.yellowduck.be/posts/liveview-feels-faster-with-a-delayed-loading-indicator)  
+- `2025-03-12` | [🔗 Adding PDF generate feature in Phoenix LiveView app](https://www.yellowduck.be/posts/adding-pdf-generate-feature-in-phoenix-liveview-app)  
 - `2025-03-11` | [🔗 Lies CTOs Tell &lpar;Themselves and Others&rpar;](https://www.yellowduck.be/posts/lies-ctos-tell-themselves-and-others)  
 - `2025-03-11` | [🔗 System tests have failed](https://www.yellowduck.be/posts/system-tests-have-failed)  
 - `2025-03-10` | [🔗 A year of uv: pros, cons, and should you migrate](https://www.yellowduck.be/posts/a-year-of-uv-pros-cons-and-should-you-migrate)  
