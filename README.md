@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-12` | [🔗 LiveView feels faster with a delayed loading indicator](https://www.yellowduck.be/posts/liveview-feels-faster-with-a-delayed-loading-indicator)  
 - `2025-03-11` | [🔗 Lies CTOs Tell &lpar;Themselves and Others&rpar;](https://www.yellowduck.be/posts/lies-ctos-tell-themselves-and-others)  
 - `2025-03-11` | [🔗 System tests have failed](https://www.yellowduck.be/posts/system-tests-have-failed)  
 - `2025-03-10` | [🔗 A year of uv: pros, cons, and should you migrate](https://www.yellowduck.be/posts/a-year-of-uv-pros-cons-and-should-you-migrate)  
@@ -22,6 +23,5 @@
 - `2025-03-09` | [🔗 Mocking HTTP Requests in Elixir: A Practical Guide](https://www.yellowduck.be/posts/mocking-http-requests-in-elixir-a-practical-guide)  
 - `2025-03-08` | [🐥 Mitigating security risks of zip file processing with Elixir](https://www.yellowduck.be/posts/mitigating-security-risks-of-zip-file-processing-with-elixir)  
 - `2025-03-08` | [🔗 Unpacking Elixir: Phoenix](https://www.yellowduck.be/posts/unpacking-elixir-phoenix)  
-- `2025-03-08` | [🔗 ChromicPDF: Generating PDF/A files with Chrome, Ghostscript, and Elixir | bitcrowd blog](https://www.yellowduck.be/posts/chromicpdf-generating-pdf-a-files-with-chrome-ghostscript-and-elixir-bitcrowd-blog)  
 
 <!-- BLOG-POST-LIST:END -->
