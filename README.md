@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-13` | [🔗 How to manage tool dependencies in Go 1.24+ - Alex Edwards](https://www.yellowduck.be/posts/how-to-manage-tool-dependencies-in-go-1-24-alex-edwards)  
 - `2025-03-12` | [🔗 Laravel IDEA v10 is Here - Laravel News](https://www.yellowduck.be/posts/laravel-idea-v10-is-here-laravel-news)  
 - `2025-03-12` | [🔗 Adding PDF generate feature in Phoenix LiveView app](https://www.yellowduck.be/posts/adding-pdf-generate-feature-in-phoenix-liveview-app)  
 - `2025-03-11` | [🔗 Lies CTOs Tell &lpar;Themselves and Others&rpar;](https://www.yellowduck.be/posts/lies-ctos-tell-themselves-and-others)  
@@ -22,6 +23,5 @@
 - `2025-03-09` | [🐥 Updating the query string in Phoenix LiveView while typing](https://www.yellowduck.be/posts/updating-the-query-string-in-phoenix-liveview-while-typing)  
 - `2025-03-09` | [🔗 Siren Call of SQLite on the Server](https://www.yellowduck.be/posts/siren-call-of-sqlite-on-the-server)  
 - `2025-03-09` | [🔗 Mocking HTTP Requests in Elixir: A Practical Guide](https://www.yellowduck.be/posts/mocking-http-requests-in-elixir-a-practical-guide)  
-- `2025-03-08` | [🐥 Mitigating security risks of zip file processing with Elixir](https://www.yellowduck.be/posts/mitigating-security-risks-of-zip-file-processing-with-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
