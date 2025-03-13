@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-13` | [🐥 Using multiple cachex instances in your Elixir Phoenix application](https://www.yellowduck.be/posts/using-multiple-cachex-instances-in-your-elixir-phoenix-application)  
 - `2025-03-13` | [🔗 How PostgreSQL&#39;s Aggregate FILTER  Will Spoil You](https://www.yellowduck.be/posts/how-postgresqls-aggregate-filter-will-spoil-you)  
 - `2025-03-13` | [🔗 How to manage tool dependencies in Go 1.24+ - Alex Edwards](https://www.yellowduck.be/posts/how-to-manage-tool-dependencies-in-go-1-24-alex-edwards)  
 - `2025-03-12` | [🔗 Laravel IDEA v10 is Here - Laravel News](https://www.yellowduck.be/posts/laravel-idea-v10-is-here-laravel-news)  
@@ -22,6 +23,5 @@
 - `2025-03-10` | [🔗 A year of uv: pros, cons, and should you migrate](https://www.yellowduck.be/posts/a-year-of-uv-pros-cons-and-should-you-migrate)  
 - `2025-03-10` | [🔗 A new interpreter in Python 3.14 delivers a free speed boost](https://www.yellowduck.be/posts/a-new-interpreter-in-python-3-14-delivers-a-free-speed-boost)  
 - `2025-03-09` | [🐥 Updating the query string in Phoenix LiveView while typing](https://www.yellowduck.be/posts/updating-the-query-string-in-phoenix-liveview-while-typing)  
-- `2025-03-09` | [🔗 Siren Call of SQLite on the Server](https://www.yellowduck.be/posts/siren-call-of-sqlite-on-the-server)  
 
 <!-- BLOG-POST-LIST:END -->
