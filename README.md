@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-15` | [🔗 Hash Functions Deep Dive](https://www.yellowduck.be/posts/hash-functions-deep-dive)  
 - `2025-03-14` | [🐥 Mocking the DB facade in Laravel](https://www.yellowduck.be/posts/mocking-the-db-facade-in-laravel)  
 - `2025-03-14` | [🔗 software-mansion/live-debugger: Tool for debugging LiveView applications.](https://www.yellowduck.be/posts/github-software-mansion-live-debugger-tool-for-debugging-liveview-applications)  
 - `2025-03-14` | [🔗 How to provide undo delete with Phoenix LiveView](https://www.yellowduck.be/posts/how-to-provide-undo-delete-with-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2025-03-12` | [🔗 Laravel IDEA v10 is Here - Laravel News](https://www.yellowduck.be/posts/laravel-idea-v10-is-here-laravel-news)  
 - `2025-03-12` | [🔗 Adding PDF generate feature in Phoenix LiveView app](https://www.yellowduck.be/posts/adding-pdf-generate-feature-in-phoenix-liveview-app)  
 - `2025-03-11` | [🔗 Lies CTOs Tell &lpar;Themselves and Others&rpar;](https://www.yellowduck.be/posts/lies-ctos-tell-themselves-and-others)  
-- `2025-03-11` | [🔗 System tests have failed](https://www.yellowduck.be/posts/system-tests-have-failed)  
 
 <!-- BLOG-POST-LIST:END -->
