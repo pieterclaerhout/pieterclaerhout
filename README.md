@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-16` | [🔗 A0 = 1](https://www.yellowduck.be/posts/a0-1)  
 - `2025-03-16` | [🔗 Why does target=”_blank” have an underscore in front?](https://www.yellowduck.be/posts/why-does-target-blank-have-an-underscore-in-front)  
 - `2025-03-15` | [🐥 Using the current URL in a Phoenix LiveView layout](https://www.yellowduck.be/posts/using-the-current-url-in-a-phoenix-liveview-layout)  
 - `2025-03-15` | [🔗 CSV Export using NimbleCSV](https://www.yellowduck.be/posts/csv-export-using-nimblecsv)  
@@ -22,6 +23,5 @@
 - `2025-03-14` | [🔗 How to provide undo delete with Phoenix LiveView](https://www.yellowduck.be/posts/how-to-provide-undo-delete-with-phoenix-liveview)  
 - `2025-03-13` | [🐥 Using multiple cachex instances in your Elixir Phoenix application](https://www.yellowduck.be/posts/using-multiple-cachex-instances-in-your-elixir-phoenix-application)  
 - `2025-03-13` | [🔗 How PostgreSQL&#39;s Aggregate FILTER  Will Spoil You](https://www.yellowduck.be/posts/how-postgresqls-aggregate-filter-will-spoil-you)  
-- `2025-03-13` | [🔗 How to manage tool dependencies in Go 1.24+ - Alex Edwards](https://www.yellowduck.be/posts/how-to-manage-tool-dependencies-in-go-1-24-alex-edwards)  
 
 <!-- BLOG-POST-LIST:END -->
