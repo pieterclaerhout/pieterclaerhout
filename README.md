@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-17` | [🔗 Running ML models in Elixir using Pythonx](https://www.yellowduck.be/posts/running-ml-models-in-elixir-using-pythonx)  
 - `2025-03-16` | [🐥 Handling multiple date formats in Elixir with timex](https://www.yellowduck.be/posts/handling-multiple-date-formats-in-elixir-with-timex)  
 - `2025-03-16` | [🔗 A0 = 1](https://www.yellowduck.be/posts/a0-1)  
 - `2025-03-16` | [🔗 Why does target=”_blank” have an underscore in front?](https://www.yellowduck.be/posts/why-does-target-blank-have-an-underscore-in-front)  
@@ -22,6 +23,5 @@
 - `2025-03-14` | [🐥 Mocking the DB facade in Laravel](https://www.yellowduck.be/posts/mocking-the-db-facade-in-laravel)  
 - `2025-03-14` | [🔗 software-mansion/live-debugger: Tool for debugging LiveView applications.](https://www.yellowduck.be/posts/github-software-mansion-live-debugger-tool-for-debugging-liveview-applications)  
 - `2025-03-14` | [🔗 How to provide undo delete with Phoenix LiveView](https://www.yellowduck.be/posts/how-to-provide-undo-delete-with-phoenix-liveview)  
-- `2025-03-13` | [🐥 Using multiple cachex instances in your Elixir Phoenix application](https://www.yellowduck.be/posts/using-multiple-cachex-instances-in-your-elixir-phoenix-application)  
 
 <!-- BLOG-POST-LIST:END -->
