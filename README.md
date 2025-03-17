@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-17` | [🐥 PHPUnit Consecutive Parameters](https://www.yellowduck.be/posts/phpunit-consecutive-parameters)  
 - `2025-03-17` | [🔗 Hacking Phoenix LiveUpload](https://www.yellowduck.be/posts/hacking-phoenix-liveupload)  
 - `2025-03-17` | [🔗 Running ML models in Elixir using Pythonx](https://www.yellowduck.be/posts/running-ml-models-in-elixir-using-pythonx)  
 - `2025-03-16` | [🐥 Handling multiple date formats in Elixir with timex](https://www.yellowduck.be/posts/handling-multiple-date-formats-in-elixir-with-timex)  
@@ -22,6 +23,5 @@
 - `2025-03-15` | [🔗 CSV Export using NimbleCSV](https://www.yellowduck.be/posts/csv-export-using-nimblecsv)  
 - `2025-03-15` | [🔗 Hash Functions Deep Dive](https://www.yellowduck.be/posts/hash-functions-deep-dive)  
 - `2025-03-14` | [🐥 Mocking the DB facade in Laravel](https://www.yellowduck.be/posts/mocking-the-db-facade-in-laravel)  
-- `2025-03-14` | [🔗 software-mansion/live-debugger: Tool for debugging LiveView applications.](https://www.yellowduck.be/posts/github-software-mansion-live-debugger-tool-for-debugging-liveview-applications)  
 
 <!-- BLOG-POST-LIST:END -->
