@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-19` | [🔗 Ready, Set, Go! A multi-player triathlon timing app built with Elixir and Phoenix](https://www.yellowduck.be/posts/ready-set-go-a-multi-player-triathlon-timing-app-built-with-elixir-and-phoenix)  
 - `2025-03-19` | [🔗 A guide to `tsconfig.json`](https://www.yellowduck.be/posts/a-guide-to-tsconfig-json)  
 - `2025-03-18` | [🐥 Null vs. Undefined in TypeScript and JavaScript: what&#39;s the difference?](https://www.yellowduck.be/posts/null-vs-undefined-in-typescript-and-javascript-whats-the-difference)  
 - `2025-03-18` | [🔗 Using server side events with Req](https://www.yellowduck.be/posts/wojtekmach-status-1872370654764576905)  
@@ -22,6 +23,5 @@
 - `2025-03-17` | [🔗 Running ML models in Elixir using Pythonx](https://www.yellowduck.be/posts/running-ml-models-in-elixir-using-pythonx)  
 - `2025-03-16` | [🐥 Handling multiple date formats in Elixir with timex](https://www.yellowduck.be/posts/handling-multiple-date-formats-in-elixir-with-timex)  
 - `2025-03-16` | [🔗 A0 = 1](https://www.yellowduck.be/posts/a0-1)  
-- `2025-03-16` | [🔗 Why does target=”_blank” have an underscore in front?](https://www.yellowduck.be/posts/why-does-target-blank-have-an-underscore-in-front)  
 
 <!-- BLOG-POST-LIST:END -->
