@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-21` | [🔗 It&#39;s still worth blogging in the age of AI](https://www.yellowduck.be/posts/its-still-worth-blogging-in-the-age-of-ai)  
 - `2025-03-20` | [🔗 How should we control access to user data?](https://www.yellowduck.be/posts/how-should-we-control-access-to-user-data)  
 - `2025-03-20` | [🔗 GitHub - tontonsb/laravel-bester-practices](https://www.yellowduck.be/posts/github-tontonsb-laravel-bester-practices)  
 - `2025-03-19` | [🐥 TIL: prevent uv from stripping extras while compiling](https://www.yellowduck.be/posts/til-prevent-uv-from-stripping-extras-while-compiling)  
@@ -22,6 +23,5 @@
 - `2025-03-18` | [🔗 Using server side events with Req](https://www.yellowduck.be/posts/wojtekmach-status-1872370654764576905)  
 - `2025-03-18` | [🔗 Biome: One toolchain for your web project](https://www.yellowduck.be/posts/biome-one-toolchain-for-your-web-project)  
 - `2025-03-17` | [🐥 PHPUnit Consecutive Parameters](https://www.yellowduck.be/posts/phpunit-consecutive-parameters)  
-- `2025-03-17` | [🔗 Hacking Phoenix LiveUpload](https://www.yellowduck.be/posts/hacking-phoenix-liveupload)  
 
 <!-- BLOG-POST-LIST:END -->
