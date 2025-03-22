@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-22` | [🐥 Converting an image into a black and white SVG](https://www.yellowduck.be/posts/converting-an-image-into-a-black-and-white-svg)  
 - `2025-03-22` | [🔗 Build a Glassmorphic Navbar with TailwindCSS backdrop-filter &amp; backdrop-blur - Braydon Coyer](https://www.yellowduck.be/posts/build-a-glassmorphic-navbar-with-tailwindcss-backdrop-filter-backdrop-blur-braydon-coyer)  
 - `2025-03-22` | [🔗 Promoted from Dev to Team Lead: 8 Things They Didn’t Tell Me](https://www.yellowduck.be/posts/promoted-from-dev-to-team-lead-8-things-they-didnt-tell-me)  
 - `2025-03-21` | [🔗 20 years working on the same software product](https://www.yellowduck.be/posts/20-years-working-on-the-same-software-product)  
@@ -22,6 +23,5 @@
 - `2025-03-19` | [🐥 TIL: prevent uv from stripping extras while compiling](https://www.yellowduck.be/posts/til-prevent-uv-from-stripping-extras-while-compiling)  
 - `2025-03-19` | [🔗 Ready, Set, Go! A multi-player triathlon timing app built with Elixir and Phoenix](https://www.yellowduck.be/posts/ready-set-go-a-multi-player-triathlon-timing-app-built-with-elixir-and-phoenix)  
 - `2025-03-19` | [🔗 A guide to `tsconfig.json`](https://www.yellowduck.be/posts/a-guide-to-tsconfig-json)  
-- `2025-03-18` | [🐥 Null vs. Undefined in TypeScript and JavaScript: what&#39;s the difference?](https://www.yellowduck.be/posts/null-vs-undefined-in-typescript-and-javascript-whats-the-difference)  
 
 <!-- BLOG-POST-LIST:END -->
