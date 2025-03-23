@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-23` | [🔗 The Art of Tech Interviewing](https://www.yellowduck.be/posts/the-art-of-tech-interviewing)  
 - `2025-03-22` | [🐥 Converting an image into a black and white SVG](https://www.yellowduck.be/posts/converting-an-image-into-a-black-and-white-svg)  
 - `2025-03-22` | [🔗 Build a Glassmorphic Navbar with TailwindCSS backdrop-filter &amp; backdrop-blur - Braydon Coyer](https://www.yellowduck.be/posts/build-a-glassmorphic-navbar-with-tailwindcss-backdrop-filter-backdrop-blur-braydon-coyer)  
 - `2025-03-22` | [🔗 Promoted from Dev to Team Lead: 8 Things They Didn’t Tell Me](https://www.yellowduck.be/posts/promoted-from-dev-to-team-lead-8-things-they-didnt-tell-me)  
@@ -22,6 +23,5 @@
 - `2025-03-20` | [🔗 GitHub - tontonsb/laravel-bester-practices](https://www.yellowduck.be/posts/github-tontonsb-laravel-bester-practices)  
 - `2025-03-19` | [🐥 TIL: prevent uv from stripping extras while compiling](https://www.yellowduck.be/posts/til-prevent-uv-from-stripping-extras-while-compiling)  
 - `2025-03-19` | [🔗 Ready, Set, Go! A multi-player triathlon timing app built with Elixir and Phoenix](https://www.yellowduck.be/posts/ready-set-go-a-multi-player-triathlon-timing-app-built-with-elixir-and-phoenix)  
-- `2025-03-19` | [🔗 A guide to `tsconfig.json`](https://www.yellowduck.be/posts/a-guide-to-tsconfig-json)  
 
 <!-- BLOG-POST-LIST:END -->
