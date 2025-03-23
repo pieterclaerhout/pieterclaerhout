@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-23` | [🔗 50 things we’ve learned about building successful products](https://www.yellowduck.be/posts/50-things-weve-learned-about-building-successful-products)  
 - `2025-03-23` | [🔗 The Art of Tech Interviewing](https://www.yellowduck.be/posts/the-art-of-tech-interviewing)  
 - `2025-03-22` | [🐥 Converting an image into a black and white SVG](https://www.yellowduck.be/posts/converting-an-image-into-a-black-and-white-svg)  
 - `2025-03-22` | [🔗 Build a Glassmorphic Navbar with TailwindCSS backdrop-filter &amp; backdrop-blur - Braydon Coyer](https://www.yellowduck.be/posts/build-a-glassmorphic-navbar-with-tailwindcss-backdrop-filter-backdrop-blur-braydon-coyer)  
@@ -22,6 +23,5 @@
 - `2025-03-20` | [🔗 How should we control access to user data?](https://www.yellowduck.be/posts/how-should-we-control-access-to-user-data)  
 - `2025-03-20` | [🔗 GitHub - tontonsb/laravel-bester-practices](https://www.yellowduck.be/posts/github-tontonsb-laravel-bester-practices)  
 - `2025-03-19` | [🐥 TIL: prevent uv from stripping extras while compiling](https://www.yellowduck.be/posts/til-prevent-uv-from-stripping-extras-while-compiling)  
-- `2025-03-19` | [🔗 Ready, Set, Go! A multi-player triathlon timing app built with Elixir and Phoenix](https://www.yellowduck.be/posts/ready-set-go-a-multi-player-triathlon-timing-app-built-with-elixir-and-phoenix)  
 
 <!-- BLOG-POST-LIST:END -->
