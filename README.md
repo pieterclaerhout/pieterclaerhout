@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-25` | [🔗 Why you shouldn&#39;t let customers pay for features](https://www.yellowduck.be/posts/why-you-shouldnt-let-customers-pay-for-features)  
 - `2025-03-24` | [🔗 Why &quot;alias&quot; is my last resort for aliases](https://www.yellowduck.be/posts/why-alias-is-my-last-resort-for-aliases)  
 - `2025-03-24` | [🔗 My changes to the default Phoenix boilerplate](https://www.yellowduck.be/posts/my-changes-to-the-default-phoenix-boilerplate)  
 - `2025-03-23` | [🔗 50 things we’ve learned about building successful products](https://www.yellowduck.be/posts/50-things-weve-learned-about-building-successful-products)  
@@ -22,6 +23,5 @@
 - `2025-03-22` | [🔗 Promoted from Dev to Team Lead: 8 Things They Didn’t Tell Me](https://www.yellowduck.be/posts/promoted-from-dev-to-team-lead-8-things-they-didnt-tell-me)  
 - `2025-03-21` | [🔗 20 years working on the same software product](https://www.yellowduck.be/posts/20-years-working-on-the-same-software-product)  
 - `2025-03-21` | [🔗 It&#39;s still worth blogging in the age of AI](https://www.yellowduck.be/posts/its-still-worth-blogging-in-the-age-of-ai)  
-- `2025-03-20` | [🔗 How should we control access to user data?](https://www.yellowduck.be/posts/how-should-we-control-access-to-user-data)  
 
 <!-- BLOG-POST-LIST:END -->
