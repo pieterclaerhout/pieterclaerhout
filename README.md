@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-26` | [🔗 Dmitri Shuralyov - Idiomatic Go](https://www.yellowduck.be/posts/dmitri-shuralyov-idiomatic-go)  
 - `2025-03-25` | [🔗 Great software design looks underwhelming](https://www.yellowduck.be/posts/great-software-design-looks-underwhelming)  
 - `2025-03-25` | [🔗 Why you shouldn&#39;t let customers pay for features](https://www.yellowduck.be/posts/why-you-shouldnt-let-customers-pay-for-features)  
 - `2025-03-24` | [🔗 Why &quot;alias&quot; is my last resort for aliases](https://www.yellowduck.be/posts/why-alias-is-my-last-resort-for-aliases)  
@@ -22,6 +23,5 @@
 - `2025-03-22` | [🐥 Converting an image into a black and white SVG](https://www.yellowduck.be/posts/converting-an-image-into-a-black-and-white-svg)  
 - `2025-03-22` | [🔗 Build a Glassmorphic Navbar with TailwindCSS backdrop-filter &amp; backdrop-blur - Braydon Coyer](https://www.yellowduck.be/posts/build-a-glassmorphic-navbar-with-tailwindcss-backdrop-filter-backdrop-blur-braydon-coyer)  
 - `2025-03-22` | [🔗 Promoted from Dev to Team Lead: 8 Things They Didn’t Tell Me](https://www.yellowduck.be/posts/promoted-from-dev-to-team-lead-8-things-they-didnt-tell-me)  
-- `2025-03-21` | [🔗 20 years working on the same software product](https://www.yellowduck.be/posts/20-years-working-on-the-same-software-product)  
 
 <!-- BLOG-POST-LIST:END -->
