@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-28` | [🐥 Preserve working directory when splitting panes in iTerm](https://www.yellowduck.be/posts/preserve-working-directory-when-splitting-panes-in-iterm)  
 - `2025-03-28` | [🔗 Standard Webhooks](https://www.yellowduck.be/posts/standard-webhooks)  
 - `2025-03-28` | [🔗 A 10x Faster TypeScript - TypeScript](https://www.yellowduck.be/posts/a-10x-faster-typescript-typescript)  
 - `2025-03-27` | [🐥 Adding custom metadata to Laravel Passport Personal Access Tokens](https://www.yellowduck.be/posts/adding-custom-metadata-to-laravel-passport-personal-access-tokens)  
@@ -22,6 +23,5 @@
 - `2025-03-26` | [🔗 How to Write Useful Commit Messages](https://www.yellowduck.be/posts/how-to-write-useful-commit-messages)  
 - `2025-03-26` | [🔗 Dmitri Shuralyov - Idiomatic Go](https://www.yellowduck.be/posts/dmitri-shuralyov-idiomatic-go)  
 - `2025-03-25` | [🔗 Great software design looks underwhelming](https://www.yellowduck.be/posts/great-software-design-looks-underwhelming)  
-- `2025-03-25` | [🔗 Why you shouldn&#39;t let customers pay for features](https://www.yellowduck.be/posts/why-you-shouldnt-let-customers-pay-for-features)  
 
 <!-- BLOG-POST-LIST:END -->
