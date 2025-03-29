@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-29` | [🔗 Elixir Makes You Make Good Decisions](https://www.yellowduck.be/posts/elixir-makes-you-make-good-decisions)  
 - `2025-03-29` | [🔗 Why I Don&#39;t Like TypeScript Enums](https://www.yellowduck.be/posts/why-i-dont-like-enums)  
 - `2025-03-28` | [🐥 Preserve working directory when splitting panes in iTerm](https://www.yellowduck.be/posts/preserve-working-directory-when-splitting-panes-in-iterm)  
 - `2025-03-28` | [🔗 Standard Webhooks](https://www.yellowduck.be/posts/standard-webhooks)  
@@ -22,6 +23,5 @@
 - `2025-03-27` | [🔗 Why Elixir/OTP doesn&#39;t need an Agent framework: Part 1](https://www.yellowduck.be/posts/why-elixir-otp-doesnt-need-an-agent-framework-part-1)  
 - `2025-03-26` | [🐥 Caveat when creating fake text using Faker in PHP tests](https://www.yellowduck.be/posts/caveat-when-creating-fake-text-using-faker-in-php-tests)  
 - `2025-03-26` | [🔗 How to Write Useful Commit Messages](https://www.yellowduck.be/posts/how-to-write-useful-commit-messages)  
-- `2025-03-26` | [🔗 Dmitri Shuralyov - Idiomatic Go](https://www.yellowduck.be/posts/dmitri-shuralyov-idiomatic-go)  
 
 <!-- BLOG-POST-LIST:END -->
