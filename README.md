@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-31` | [🐥 Efficiently downloading stuff with Req and concurrency in Elixir](https://www.yellowduck.be/posts/efficiently-downloading-stuff-with-req-and-concurrency-in-elixir)  
 - `2025-03-31` | [🔗 Choosing Languages](https://www.yellowduck.be/posts/choosing-languages)  
 - `2025-03-31` | [🔗 TIL: Styling an HTML dialog modal to take the full height of the viewport](https://www.yellowduck.be/posts/til-styling-an-html-dialog-modal-to-take-the-full-height-of-the-viewport)  
 - `2025-03-30` | [🐥 Configuring Caddy for multiple static paths](https://www.yellowduck.be/posts/configuring-caddy-for-multiple-static-paths)  
@@ -22,6 +23,5 @@
 - `2025-03-29` | [🔗 Elixir Makes You Make Good Decisions](https://www.yellowduck.be/posts/elixir-makes-you-make-good-decisions)  
 - `2025-03-29` | [🔗 Why I Don&#39;t Like TypeScript Enums](https://www.yellowduck.be/posts/why-i-dont-like-enums)  
 - `2025-03-28` | [🐥 Preserve working directory when splitting panes in iTerm](https://www.yellowduck.be/posts/preserve-working-directory-when-splitting-panes-in-iterm)  
-- `2025-03-28` | [🔗 Standard Webhooks](https://www.yellowduck.be/posts/standard-webhooks)  
 
 <!-- BLOG-POST-LIST:END -->
