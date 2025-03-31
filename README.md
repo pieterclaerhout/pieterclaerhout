@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-31` | [🔗 Choosing Languages](https://www.yellowduck.be/posts/choosing-languages)  
 - `2025-03-31` | [🔗 TIL: Styling an HTML dialog modal to take the full height of the viewport](https://www.yellowduck.be/posts/til-styling-an-html-dialog-modal-to-take-the-full-height-of-the-viewport)  
 - `2025-03-30` | [🐥 Configuring Caddy for multiple static paths](https://www.yellowduck.be/posts/configuring-caddy-for-multiple-static-paths)  
 - `2025-03-30` | [🔗 How to create Github-like references to your database records with a Liveview hook](https://www.yellowduck.be/posts/how-to-create-github-like-references-to-your-database-records-with-a-liveview-hook)  
@@ -22,6 +23,5 @@
 - `2025-03-29` | [🔗 Why I Don&#39;t Like TypeScript Enums](https://www.yellowduck.be/posts/why-i-dont-like-enums)  
 - `2025-03-28` | [🐥 Preserve working directory when splitting panes in iTerm](https://www.yellowduck.be/posts/preserve-working-directory-when-splitting-panes-in-iterm)  
 - `2025-03-28` | [🔗 Standard Webhooks](https://www.yellowduck.be/posts/standard-webhooks)  
-- `2025-03-28` | [🔗 A 10x Faster TypeScript - TypeScript](https://www.yellowduck.be/posts/a-10x-faster-typescript-typescript)  
 
 <!-- BLOG-POST-LIST:END -->
