@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-01` | [🔗 Understanding Multitenancy in Ash Framework: A Practical Guide](https://www.yellowduck.be/posts/understanding-multitenancy-in-ash-framework-a-practical-guide)  
 - `2025-04-01` | [🔗 Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://www.yellowduck.be/posts/thoughts-on-elixir-phoenix-and-liveview-after-18-months-of-commercial-use)  
 - `2025-03-31` | [🐥 Efficiently downloading stuff with Req and concurrency in Elixir](https://www.yellowduck.be/posts/efficiently-downloading-stuff-with-req-and-concurrency-in-elixir)  
 - `2025-03-31` | [🔗 Choosing Languages](https://www.yellowduck.be/posts/choosing-languages)  
@@ -22,6 +23,5 @@
 - `2025-03-30` | [🔗 Postgres query cancellation](https://www.yellowduck.be/posts/postgres-query-cancellation)  
 - `2025-03-29` | [🐥 TIL: Resetting the state in a Pinia store](https://www.yellowduck.be/posts/til-resetting-the-state-in-a-pinia-store)  
 - `2025-03-29` | [🔗 Elixir Makes You Make Good Decisions](https://www.yellowduck.be/posts/elixir-makes-you-make-good-decisions)  
-- `2025-03-29` | [🔗 Why I Don&#39;t Like TypeScript Enums](https://www.yellowduck.be/posts/why-i-dont-like-enums)  
 
 <!-- BLOG-POST-LIST:END -->
