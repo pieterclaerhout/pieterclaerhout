@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-02` | [🐥 Understanding the difference between Map and Keyword modules in Elixir](https://www.yellowduck.be/posts/understanding-the-difference-between-map-and-keyword-modules-in-elixir)  
 - `2025-04-02` | [🔗 Elixir, Phoenix, Ash: policies](https://www.yellowduck.be/posts/elixir-phoenix-ash-policies)  
 - `2025-04-02` | [🔗 Use a view model with Phoenix LiveView](https://www.yellowduck.be/posts/use-a-view-model-with-phoenix-liveview)  
 - `2025-04-01` | [🐥 Creating an empty PNG in Elixir](https://www.yellowduck.be/posts/creating-an-empty-png-in-elixir)  
@@ -22,6 +23,5 @@
 - `2025-03-31` | [🔗 Choosing Languages](https://www.yellowduck.be/posts/choosing-languages)  
 - `2025-03-31` | [🔗 TIL: Styling an HTML dialog modal to take the full height of the viewport](https://www.yellowduck.be/posts/til-styling-an-html-dialog-modal-to-take-the-full-height-of-the-viewport)  
 - `2025-03-30` | [🐥 Configuring Caddy for multiple static paths](https://www.yellowduck.be/posts/configuring-caddy-for-multiple-static-paths)  
-- `2025-03-30` | [🔗 How to create Github-like references to your database records with a Liveview hook](https://www.yellowduck.be/posts/how-to-create-github-like-references-to-your-database-records-with-a-liveview-hook)  
 
 <!-- BLOG-POST-LIST:END -->
