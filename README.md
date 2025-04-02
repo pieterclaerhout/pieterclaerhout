@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-02` | [🔗 Use a view model with Phoenix LiveView](https://www.yellowduck.be/posts/use-a-view-model-with-phoenix-liveview)  
 - `2025-04-01` | [🐥 Creating an empty PNG in Elixir](https://www.yellowduck.be/posts/creating-an-empty-png-in-elixir)  
 - `2025-04-01` | [🔗 Understanding Multitenancy in Ash Framework: A Practical Guide](https://www.yellowduck.be/posts/understanding-multitenancy-in-ash-framework-a-practical-guide)  
 - `2025-04-01` | [🔗 Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://www.yellowduck.be/posts/thoughts-on-elixir-phoenix-and-liveview-after-18-months-of-commercial-use)  
@@ -22,6 +23,5 @@
 - `2025-03-30` | [🐥 Configuring Caddy for multiple static paths](https://www.yellowduck.be/posts/configuring-caddy-for-multiple-static-paths)  
 - `2025-03-30` | [🔗 How to create Github-like references to your database records with a Liveview hook](https://www.yellowduck.be/posts/how-to-create-github-like-references-to-your-database-records-with-a-liveview-hook)  
 - `2025-03-30` | [🔗 Postgres query cancellation](https://www.yellowduck.be/posts/postgres-query-cancellation)  
-- `2025-03-29` | [🐥 TIL: Resetting the state in a Pinia store](https://www.yellowduck.be/posts/til-resetting-the-state-in-a-pinia-store)  
 
 <!-- BLOG-POST-LIST:END -->
