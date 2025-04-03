@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-03` | [🔗 Golang concurrency explained](https://www.yellowduck.be/posts/golang-concurrency-explained)  
 - `2025-04-03` | [🔗 Getting Started with Dialyzer in Elixir](https://www.yellowduck.be/posts/getting-started-with-dialyzer-in-elixir)  
 - `2025-04-02` | [🐥 Understanding the difference between Map and Keyword modules in Elixir](https://www.yellowduck.be/posts/understanding-the-difference-between-map-and-keyword-modules-in-elixir)  
 - `2025-04-02` | [🔗 Elixir, Phoenix, Ash: policies](https://www.yellowduck.be/posts/elixir-phoenix-ash-policies)  
@@ -22,6 +23,5 @@
 - `2025-04-01` | [🔗 Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://www.yellowduck.be/posts/thoughts-on-elixir-phoenix-and-liveview-after-18-months-of-commercial-use)  
 - `2025-03-31` | [🐥 Efficiently downloading stuff with Req and concurrency in Elixir](https://www.yellowduck.be/posts/efficiently-downloading-stuff-with-req-and-concurrency-in-elixir)  
 - `2025-03-31` | [🔗 Choosing Languages](https://www.yellowduck.be/posts/choosing-languages)  
-- `2025-03-31` | [🔗 TIL: Styling an HTML dialog modal to take the full height of the viewport](https://www.yellowduck.be/posts/til-styling-an-html-dialog-modal-to-take-the-full-height-of-the-viewport)  
 
 <!-- BLOG-POST-LIST:END -->
