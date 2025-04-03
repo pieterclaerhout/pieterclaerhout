@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-03` | [🔗 Getting Started with Dialyzer in Elixir](https://www.yellowduck.be/posts/getting-started-with-dialyzer-in-elixir)  
 - `2025-04-02` | [🐥 Understanding the difference between Map and Keyword modules in Elixir](https://www.yellowduck.be/posts/understanding-the-difference-between-map-and-keyword-modules-in-elixir)  
 - `2025-04-02` | [🔗 Elixir, Phoenix, Ash: policies](https://www.yellowduck.be/posts/elixir-phoenix-ash-policies)  
 - `2025-04-02` | [🔗 Use a view model with Phoenix LiveView](https://www.yellowduck.be/posts/use-a-view-model-with-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2025-03-31` | [🐥 Efficiently downloading stuff with Req and concurrency in Elixir](https://www.yellowduck.be/posts/efficiently-downloading-stuff-with-req-and-concurrency-in-elixir)  
 - `2025-03-31` | [🔗 Choosing Languages](https://www.yellowduck.be/posts/choosing-languages)  
 - `2025-03-31` | [🔗 TIL: Styling an HTML dialog modal to take the full height of the viewport](https://www.yellowduck.be/posts/til-styling-an-html-dialog-modal-to-take-the-full-height-of-the-viewport)  
-- `2025-03-30` | [🐥 Configuring Caddy for multiple static paths](https://www.yellowduck.be/posts/configuring-caddy-for-multiple-static-paths)  
 
 <!-- BLOG-POST-LIST:END -->
