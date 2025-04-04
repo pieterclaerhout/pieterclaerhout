@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-04` | [🔗 The Pain That is Github Actions](https://www.yellowduck.be/posts/the-pain-that-is-github-actions)  
 - `2025-04-04` | [🔗 How big is a kilobyte?](https://www.yellowduck.be/posts/how-big-is-a-kilobyte)  
 - `2025-04-03` | [🐥 Validating an Amazon S3 bucket name using TypeScript and PHP](https://www.yellowduck.be/posts/validating-an-amazon-s3-bucket-name-using-typescript-and-php)  
 - `2025-04-03` | [🔗 Golang concurrency explained](https://www.yellowduck.be/posts/golang-concurrency-explained)  
@@ -22,6 +23,5 @@
 - `2025-04-02` | [🔗 Use a view model with Phoenix LiveView](https://www.yellowduck.be/posts/use-a-view-model-with-phoenix-liveview)  
 - `2025-04-01` | [🐥 Creating an empty PNG in Elixir](https://www.yellowduck.be/posts/creating-an-empty-png-in-elixir)  
 - `2025-04-01` | [🔗 Understanding Multitenancy in Ash Framework: A Practical Guide](https://www.yellowduck.be/posts/understanding-multitenancy-in-ash-framework-a-practical-guide)  
-- `2025-04-01` | [🔗 Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://www.yellowduck.be/posts/thoughts-on-elixir-phoenix-and-liveview-after-18-months-of-commercial-use)  
 
 <!-- BLOG-POST-LIST:END -->
