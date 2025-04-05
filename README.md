@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-05` | [🐥 How to update the path of a URL in JavaScript](https://www.yellowduck.be/posts/how-to-update-the-path-of-a-url-in-javascript)  
 - `2025-04-05` | [🔗 Life Altering Postgresql Patterns](https://www.yellowduck.be/posts/life-altering-postgresql-patterns)  
 - `2025-04-05` | [🔗 Unspoken git secrets that save you mountains ⛰️ of time as an engineer](https://www.yellowduck.be/posts/unspoken-git-secrets-that-save-you-mountains-of-time-as-an-engineer)  
 - `2025-04-04` | [🐥 A simple Komoot API client using Elixir Req](https://www.yellowduck.be/posts/a-simple-komoot-api-client-using-elixir-req)  
@@ -22,6 +23,5 @@
 - `2025-04-03` | [🔗 Golang concurrency explained](https://www.yellowduck.be/posts/golang-concurrency-explained)  
 - `2025-04-03` | [🔗 Getting Started with Dialyzer in Elixir](https://www.yellowduck.be/posts/getting-started-with-dialyzer-in-elixir)  
 - `2025-04-02` | [🐥 Understanding the difference between Map and Keyword modules in Elixir](https://www.yellowduck.be/posts/understanding-the-difference-between-map-and-keyword-modules-in-elixir)  
-- `2025-04-02` | [🔗 Elixir, Phoenix, Ash: policies](https://www.yellowduck.be/posts/elixir-phoenix-ash-policies)  
 
 <!-- BLOG-POST-LIST:END -->
