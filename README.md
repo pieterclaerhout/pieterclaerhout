@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-05` | [🔗 Unspoken git secrets that save you mountains ⛰️ of time as an engineer](https://www.yellowduck.be/posts/unspoken-git-secrets-that-save-you-mountains-of-time-as-an-engineer)  
 - `2025-04-04` | [🐥 A simple Komoot API client using Elixir Req](https://www.yellowduck.be/posts/a-simple-komoot-api-client-using-elixir-req)  
 - `2025-04-04` | [🔗 The Pain That is Github Actions](https://www.yellowduck.be/posts/the-pain-that-is-github-actions)  
 - `2025-04-04` | [🔗 How big is a kilobyte?](https://www.yellowduck.be/posts/how-big-is-a-kilobyte)  
@@ -22,6 +23,5 @@
 - `2025-04-02` | [🐥 Understanding the difference between Map and Keyword modules in Elixir](https://www.yellowduck.be/posts/understanding-the-difference-between-map-and-keyword-modules-in-elixir)  
 - `2025-04-02` | [🔗 Elixir, Phoenix, Ash: policies](https://www.yellowduck.be/posts/elixir-phoenix-ash-policies)  
 - `2025-04-02` | [🔗 Use a view model with Phoenix LiveView](https://www.yellowduck.be/posts/use-a-view-model-with-phoenix-liveview)  
-- `2025-04-01` | [🐥 Creating an empty PNG in Elixir](https://www.yellowduck.be/posts/creating-an-empty-png-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
