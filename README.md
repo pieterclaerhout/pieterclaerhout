@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-06` | [🔗 TypeScript Migrates to Go: What&#39;s Really Behind That 10x Performance Claim?](https://www.yellowduck.be/posts/typescript-migrates-to-go-whats-really-behind-that-10x-performance-claim)  
 - `2025-04-06` | [🔗 Using the Keyword module for options](https://www.yellowduck.be/posts/using-the-keyword-module-for-options)  
 - `2025-04-05` | [🐥 How to update the path of a URL in JavaScript](https://www.yellowduck.be/posts/how-to-update-the-path-of-a-url-in-javascript)  
 - `2025-04-05` | [🔗 Life Altering Postgresql Patterns](https://www.yellowduck.be/posts/life-altering-postgresql-patterns)  
@@ -22,6 +23,5 @@
 - `2025-04-04` | [🔗 How big is a kilobyte?](https://www.yellowduck.be/posts/how-big-is-a-kilobyte)  
 - `2025-04-03` | [🐥 Validating an Amazon S3 bucket name using TypeScript and PHP](https://www.yellowduck.be/posts/validating-an-amazon-s3-bucket-name-using-typescript-and-php)  
 - `2025-04-03` | [🔗 Golang concurrency explained](https://www.yellowduck.be/posts/golang-concurrency-explained)  
-- `2025-04-03` | [🔗 Getting Started with Dialyzer in Elixir](https://www.yellowduck.be/posts/getting-started-with-dialyzer-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
