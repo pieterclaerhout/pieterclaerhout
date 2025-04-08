@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-08` | [🔗 Understanding use and using in Elixir](https://www.yellowduck.be/posts/understanding-use-and-using-in-elixir)  
 - `2025-04-08` | [🔗 TypeScript enums: Usage, advantages, and best practices](https://www.yellowduck.be/posts/typescript-enums-usage-advantages-and-best-practices)  
 - `2025-04-07` | [🔗 How to Write Blog Posts that Developers Read](https://www.yellowduck.be/posts/how-to-write-blog-posts-that-developers-read)  
 - `2025-04-07` | [🔗 The Product Engineer](https://www.yellowduck.be/posts/the-product-engineer)  
@@ -22,6 +23,5 @@
 - `2025-04-05` | [🔗 Life Altering Postgresql Patterns](https://www.yellowduck.be/posts/life-altering-postgresql-patterns)  
 - `2025-04-05` | [🔗 Unspoken git secrets that save you mountains ⛰️ of time as an engineer](https://www.yellowduck.be/posts/unspoken-git-secrets-that-save-you-mountains-of-time-as-an-engineer)  
 - `2025-04-04` | [🐥 A simple Komoot API client using Elixir Req](https://www.yellowduck.be/posts/a-simple-komoot-api-client-using-elixir-req)  
-- `2025-04-04` | [🔗 The Pain That is Github Actions](https://www.yellowduck.be/posts/the-pain-that-is-github-actions)  
 
 <!-- BLOG-POST-LIST:END -->
