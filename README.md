@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-09` | [🔗 My Journey into Elixir/Erlang &lpar;Part One&rpar;](https://www.yellowduck.be/posts/my-journey-into-elixir-erlang-part-one)  
 - `2025-04-09` | [🔗 The Great ESLint v9 Migration Adventure: A Developer&#39;s Survival Guide](https://www.yellowduck.be/posts/the-great-eslint-v9-migration-adventure-a-developers-survival-guide)  
 - `2025-04-08` | [🔗 Understanding use and using in Elixir](https://www.yellowduck.be/posts/understanding-use-and-using-in-elixir)  
 - `2025-04-08` | [🔗 TypeScript enums: Usage, advantages, and best practices](https://www.yellowduck.be/posts/typescript-enums-usage-advantages-and-best-practices)  
@@ -22,6 +23,5 @@
 - `2025-04-06` | [🔗 Using the Keyword module for options](https://www.yellowduck.be/posts/using-the-keyword-module-for-options)  
 - `2025-04-05` | [🐥 How to update the path of a URL in JavaScript](https://www.yellowduck.be/posts/how-to-update-the-path-of-a-url-in-javascript)  
 - `2025-04-05` | [🔗 Life Altering Postgresql Patterns](https://www.yellowduck.be/posts/life-altering-postgresql-patterns)  
-- `2025-04-05` | [🔗 Unspoken git secrets that save you mountains ⛰️ of time as an engineer](https://www.yellowduck.be/posts/unspoken-git-secrets-that-save-you-mountains-of-time-as-an-engineer)  
 
 <!-- BLOG-POST-LIST:END -->
