@@ -2,7 +2,7 @@
 [![Follow Me](https://img.shields.io/github/followers/pieterclaerhout?label=Follow&style=social)](https://github.com/pieterclaerhout)
 
 - 🏢 I'm working as a senior backend developer / CTO at [contractify.io](https://contractify.io)
-- 🌱 I’m currently playing around with Laravel
+- 🌱 I’m currently playing around with Elixir, Phoenix and functional programming
 - 💬 Ask me about [PHP](https://php.net), [Laravel](http://laravel.com) and [VueJS](https://vuejs.org)
 - 😄 Pronouns: Pieter, Duckie, YellowDuck
 - 📫 How to reach me: pieter@yellowduck.be
