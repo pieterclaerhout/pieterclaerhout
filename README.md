@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-13` | [🔗 How Do Engineering Leaders Onboard at HubSpot?](https://www.yellowduck.be/posts/how-do-engineering-leaders-onboard-at-hubspot)  
 - `2025-04-13` | [🔗 Eliminating SPOFs: the importance of documentation](https://www.yellowduck.be/posts/eliminating-spofs-the-importance-of-documentation)  
 - `2025-04-12` | [🔗 Why I&#39;m &quot;All In&quot; on TypeScript](https://www.yellowduck.be/posts/why-im-all-in-on-typescript)  
 - `2025-04-12` | [🔗 LiveSvelte](https://www.yellowduck.be/posts/livesvelte)  
@@ -22,6 +23,5 @@
 - `2025-04-10` | [🔗 CurlReq &lpar;a love letter to sigils&rpar;](https://www.yellowduck.be/posts/curlreq-a-love-letter-to-sigils-code-code-ship)  
 - `2025-04-10` | [🔗 What Makes Code Hard To Read: Visual Patterns of Complexity](https://www.yellowduck.be/posts/what-makes-code-hard-to-read-visual-patterns-of-complexity)  
 - `2025-04-09` | [🔗 My Journey into Elixir/Erlang &lpar;Part One&rpar;](https://www.yellowduck.be/posts/my-journey-into-elixir-erlang-part-one)  
-- `2025-04-09` | [🔗 The Great ESLint v9 Migration Adventure: A Developer&#39;s Survival Guide](https://www.yellowduck.be/posts/the-great-eslint-v9-migration-adventure-a-developers-survival-guide)  
 
 <!-- BLOG-POST-LIST:END -->
