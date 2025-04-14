@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-14` | [🔗 Data fetching using LiveComponents](https://www.yellowduck.be/posts/data-fetching-using-livecomponents)  
 - `2025-04-14` | [🔗 Multiple hooks per element in Phoenix LiveView](https://www.yellowduck.be/posts/multiple-hooks-per-element-in-phoenix-liveview)  
 - `2025-04-13` | [🔗 How Do Engineering Leaders Onboard at HubSpot?](https://www.yellowduck.be/posts/how-do-engineering-leaders-onboard-at-hubspot)  
 - `2025-04-13` | [🔗 Eliminating SPOFs: the importance of documentation](https://www.yellowduck.be/posts/eliminating-spofs-the-importance-of-documentation)  
@@ -22,6 +23,5 @@
 - `2025-04-11` | [🔗 Using streams and async together in LiveView](https://www.yellowduck.be/posts/using-streams-and-async-together-in-liveview)  
 - `2025-04-10` | [🐥 A simple parallel mapping pattern using Elixir](https://www.yellowduck.be/posts/a-simple-parallel-mapping-pattern-using-elixir)  
 - `2025-04-10` | [🔗 CurlReq &lpar;a love letter to sigils&rpar;](https://www.yellowduck.be/posts/curlreq-a-love-letter-to-sigils-code-code-ship)  
-- `2025-04-10` | [🔗 What Makes Code Hard To Read: Visual Patterns of Complexity](https://www.yellowduck.be/posts/what-makes-code-hard-to-read-visual-patterns-of-complexity)  
 
 <!-- BLOG-POST-LIST:END -->
