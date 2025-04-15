@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-15` | [🐥 Laravel: Casting Arrays of Enums](https://www.yellowduck.be/posts/laravel-casting-arrays-of-enums)  
 - `2025-04-15` | [🔗 Soft skill books that will make you a better developer](https://www.yellowduck.be/posts/soft-skill-books-that-will-make-you-a-better-developer)  
 - `2025-04-15` | [🔗 Data to Responses](https://www.yellowduck.be/posts/data-to-responses)  
 - `2025-04-14` | [🔗 Data fetching using LiveComponents](https://www.yellowduck.be/posts/data-fetching-using-livecomponents)  
@@ -22,6 +23,5 @@
 - `2025-04-12` | [🔗 Why I&#39;m &quot;All In&quot; on TypeScript](https://www.yellowduck.be/posts/why-im-all-in-on-typescript)  
 - `2025-04-12` | [🔗 LiveSvelte](https://www.yellowduck.be/posts/livesvelte)  
 - `2025-04-11` | [🔗 Model context protocol &lpar;MCP&rpar; - OpenAI Agents SDK](https://www.yellowduck.be/posts/model-context-protocol-mcp-openai-agents-sdk)  
-- `2025-04-11` | [🔗 Using streams and async together in LiveView](https://www.yellowduck.be/posts/using-streams-and-async-together-in-liveview)  
 
 <!-- BLOG-POST-LIST:END -->
