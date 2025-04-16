@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-16` | [🔗 Surviving 11 Application and Database Failures with CockroachDB](https://www.yellowduck.be/posts/surviving-11-application-and-database-failures-with-cockroachdb)  
 - `2025-04-16` | [🔗 MCP - It&#39;s Hot, But Will It Win?](https://www.yellowduck.be/posts/230-mcp-its-hot-but-will-it-win)  
 - `2025-04-15` | [🐥 Laravel: Casting Arrays of Enums](https://www.yellowduck.be/posts/laravel-casting-arrays-of-enums)  
 - `2025-04-15` | [🔗 Soft skill books that will make you a better developer](https://www.yellowduck.be/posts/soft-skill-books-that-will-make-you-a-better-developer)  
@@ -22,6 +23,5 @@
 - `2025-04-13` | [🔗 How Do Engineering Leaders Onboard at HubSpot?](https://www.yellowduck.be/posts/how-do-engineering-leaders-onboard-at-hubspot)  
 - `2025-04-13` | [🔗 Eliminating SPOFs: the importance of documentation](https://www.yellowduck.be/posts/eliminating-spofs-the-importance-of-documentation)  
 - `2025-04-12` | [🔗 Why I&#39;m &quot;All In&quot; on TypeScript](https://www.yellowduck.be/posts/why-im-all-in-on-typescript)  
-- `2025-04-12` | [🔗 LiveSvelte](https://www.yellowduck.be/posts/livesvelte)  
 
 <!-- BLOG-POST-LIST:END -->
