@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-17` | [🐥 Counting successful records in Elixir with Enum](https://www.yellowduck.be/posts/counting-successful-records-in-elixir-with-enum)  
 - `2025-04-17` | [🔗 Phoenix 1.8.0-rc released! - Phoenix Blog](https://www.yellowduck.be/posts/phoenix-1-8-0-rc-released-phoenix-blog)  
 - `2025-04-17` | [🔗 Introducing DuckDB](https://www.yellowduck.be/posts/introducing-duckdb)  
 - `2025-04-16` | [🐥 Fixing the &quot;Can&#39;t find executable `mac_listener`&quot; when running a Phoenix project](https://www.yellowduck.be/posts/fixing-the-cant-find-executable-mac-listener-when-running-a-phoenix-project)  
@@ -22,6 +23,5 @@
 - `2025-04-15` | [🔗 Soft skill books that will make you a better developer](https://www.yellowduck.be/posts/soft-skill-books-that-will-make-you-a-better-developer)  
 - `2025-04-15` | [🔗 Data to Responses](https://www.yellowduck.be/posts/data-to-responses)  
 - `2025-04-14` | [🔗 Data fetching using LiveComponents](https://www.yellowduck.be/posts/data-fetching-using-livecomponents)  
-- `2025-04-14` | [🔗 Multiple hooks per element in Phoenix LiveView](https://www.yellowduck.be/posts/multiple-hooks-per-element-in-phoenix-liveview)  
 
 <!-- BLOG-POST-LIST:END -->
