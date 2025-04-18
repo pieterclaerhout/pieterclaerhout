@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-18` | [🐥 &lpar;Un&rpar;commenting multiple lines at once using vim](https://www.yellowduck.be/posts/un-commenting-multiple-lines-at-once-using-vim)  
 - `2025-04-18` | [🔗 The 13 software engineering laws](https://www.yellowduck.be/posts/the-13-software-engineering-laws)  
 - `2025-04-18` | [🔗 UUIDv7 Benefits](https://www.yellowduck.be/posts/uuidv7-benefits)  
 - `2025-04-17` | [🐥 Counting successful records in Elixir with Enum](https://www.yellowduck.be/posts/counting-successful-records-in-elixir-with-enum)  
@@ -22,6 +23,5 @@
 - `2025-04-16` | [🔗 Surviving 11 Application and Database Failures with CockroachDB](https://www.yellowduck.be/posts/surviving-11-application-and-database-failures-with-cockroachdb)  
 - `2025-04-16` | [🔗 MCP - It&#39;s Hot, But Will It Win?](https://www.yellowduck.be/posts/230-mcp-its-hot-but-will-it-win)  
 - `2025-04-15` | [🐥 Laravel: Casting Arrays of Enums](https://www.yellowduck.be/posts/laravel-casting-arrays-of-enums)  
-- `2025-04-15` | [🔗 Soft skill books that will make you a better developer](https://www.yellowduck.be/posts/soft-skill-books-that-will-make-you-a-better-developer)  
 
 <!-- BLOG-POST-LIST:END -->
