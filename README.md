@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-19` | [🐥 Edit multiline Elixir commands in your favourite editor from IEx](https://www.yellowduck.be/posts/edit-multiline-elixir-commands-in-your-favourite-editor-from-iex)  
 - `2025-04-19` | [🔗 Embedding external resources in Elixir code](https://www.yellowduck.be/posts/embedding-external-resources-in-elixir-code)  
 - `2025-04-19` | [🔗 Minimal CSS-only blurry image placeholders](https://www.yellowduck.be/posts/minimal-css-only-blurry-image-placeholders)  
 - `2025-04-18` | [🐥 &lpar;Un&rpar;commenting multiple lines at once using vim](https://www.yellowduck.be/posts/un-commenting-multiple-lines-at-once-using-vim)  
@@ -22,6 +23,5 @@
 - `2025-04-17` | [🔗 Phoenix 1.8.0-rc released! - Phoenix Blog](https://www.yellowduck.be/posts/phoenix-1-8-0-rc-released-phoenix-blog)  
 - `2025-04-17` | [🔗 Introducing DuckDB](https://www.yellowduck.be/posts/introducing-duckdb)  
 - `2025-04-16` | [🐥 Fixing the &quot;Can&#39;t find executable `mac_listener`&quot; when running a Phoenix project](https://www.yellowduck.be/posts/fixing-the-cant-find-executable-mac-listener-when-running-a-phoenix-project)  
-- `2025-04-16` | [🔗 Surviving 11 Application and Database Failures with CockroachDB](https://www.yellowduck.be/posts/surviving-11-application-and-database-failures-with-cockroachdb)  
 
 <!-- BLOG-POST-LIST:END -->
