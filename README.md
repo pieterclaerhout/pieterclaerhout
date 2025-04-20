@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-20` | [🔗 Elixir Tutorials](https://www.yellowduck.be/posts/elixir-tutorials)  
 - `2025-04-20` | [🔗 Why are database columns 191 characters?](https://www.yellowduck.be/posts/why-are-database-columns-191-characters)  
 - `2025-04-19` | [🐥 Edit multiline Elixir commands in your favourite editor from IEx](https://www.yellowduck.be/posts/edit-multiline-elixir-commands-in-your-favourite-editor-from-iex)  
 - `2025-04-19` | [🔗 Embedding external resources in Elixir code](https://www.yellowduck.be/posts/embedding-external-resources-in-elixir-code)  
@@ -22,6 +23,5 @@
 - `2025-04-18` | [🔗 UUIDv7 Benefits](https://www.yellowduck.be/posts/uuidv7-benefits)  
 - `2025-04-17` | [🐥 Counting successful records in Elixir with Enum](https://www.yellowduck.be/posts/counting-successful-records-in-elixir-with-enum)  
 - `2025-04-17` | [🔗 Phoenix 1.8.0-rc released! - Phoenix Blog](https://www.yellowduck.be/posts/phoenix-1-8-0-rc-released-phoenix-blog)  
-- `2025-04-17` | [🔗 Introducing DuckDB](https://www.yellowduck.be/posts/introducing-duckdb)  
 
 <!-- BLOG-POST-LIST:END -->
