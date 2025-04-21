@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-21` | [🔗 Phoenix 1.8 Multi-Tenant Authorization Strategies](https://www.yellowduck.be/posts/github-zenhive-orgsdocs)  
 - `2025-04-20` | [🐥 Using Keyword.validate/2 in Elixir](https://www.yellowduck.be/posts/using-keyword-validate-in-elixir)  
 - `2025-04-20` | [🔗 Elixir Tutorials](https://www.yellowduck.be/posts/elixir-tutorials)  
 - `2025-04-20` | [🔗 Why are database columns 191 characters?](https://www.yellowduck.be/posts/why-are-database-columns-191-characters)  
@@ -22,6 +23,5 @@
 - `2025-04-18` | [🐥 &lpar;Un&rpar;commenting multiple lines at once using vim](https://www.yellowduck.be/posts/un-commenting-multiple-lines-at-once-using-vim)  
 - `2025-04-18` | [🔗 The 13 software engineering laws](https://www.yellowduck.be/posts/the-13-software-engineering-laws)  
 - `2025-04-18` | [🔗 UUIDv7 Benefits](https://www.yellowduck.be/posts/uuidv7-benefits)  
-- `2025-04-17` | [🐥 Counting successful records in Elixir with Enum](https://www.yellowduck.be/posts/counting-successful-records-in-elixir-with-enum)  
 
 <!-- BLOG-POST-LIST:END -->
