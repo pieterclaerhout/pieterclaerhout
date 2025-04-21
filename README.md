@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-21` | [🔗 Structs vs Embedded Schemas in Elixir](https://www.yellowduck.be/posts/structs-vs-embedded-schemas-in-elixir)  
 - `2025-04-21` | [🔗 Phoenix 1.8 Multi-Tenant Authorization Strategies](https://www.yellowduck.be/posts/github-zenhive-orgsdocs)  
 - `2025-04-20` | [🐥 Using Keyword.validate/2 in Elixir](https://www.yellowduck.be/posts/using-keyword-validate-in-elixir)  
 - `2025-04-20` | [🔗 Elixir Tutorials](https://www.yellowduck.be/posts/elixir-tutorials)  
@@ -22,6 +23,5 @@
 - `2025-04-19` | [🔗 Minimal CSS-only blurry image placeholders](https://www.yellowduck.be/posts/minimal-css-only-blurry-image-placeholders)  
 - `2025-04-18` | [🐥 &lpar;Un&rpar;commenting multiple lines at once using vim](https://www.yellowduck.be/posts/un-commenting-multiple-lines-at-once-using-vim)  
 - `2025-04-18` | [🔗 The 13 software engineering laws](https://www.yellowduck.be/posts/the-13-software-engineering-laws)  
-- `2025-04-18` | [🔗 UUIDv7 Benefits](https://www.yellowduck.be/posts/uuidv7-benefits)  
 
 <!-- BLOG-POST-LIST:END -->
