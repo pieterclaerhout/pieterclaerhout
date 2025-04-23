@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-23` | [🔗 Four years of running a SaaS in a competitive market](https://www.yellowduck.be/posts/four-years-of-running-a-saas-in-a-competitive-market)  
 - `2025-04-22` | [🐥 Avoid tzdata prompts in GitHub Actions](https://www.yellowduck.be/posts/avoid-tzdata-prompts-in-github-actions)  
 - `2025-04-22` | [🔗 Import a CSV into Postgres using Elixir](https://www.yellowduck.be/posts/import-a-csv-into-postgres-using-elixir)  
 - `2025-04-22` | [🔗 Naming Experimental Features](https://www.yellowduck.be/posts/naming-experimental-features)  
@@ -22,6 +23,5 @@
 - `2025-04-20` | [🐥 Using Keyword.validate/2 in Elixir](https://www.yellowduck.be/posts/using-keyword-validate-in-elixir)  
 - `2025-04-20` | [🔗 Elixir Tutorials](https://www.yellowduck.be/posts/elixir-tutorials)  
 - `2025-04-20` | [🔗 Why are database columns 191 characters?](https://www.yellowduck.be/posts/why-are-database-columns-191-characters)  
-- `2025-04-19` | [🐥 Edit multiline Elixir commands in your favourite editor from IEx](https://www.yellowduck.be/posts/edit-multiline-elixir-commands-in-your-favourite-editor-from-iex)  
 
 <!-- BLOG-POST-LIST:END -->
