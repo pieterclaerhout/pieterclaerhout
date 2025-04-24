@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-24` | [🔗 The Best Programmers I Know | Matthias Endler](https://www.yellowduck.be/posts/the-best-programmers-i-know-matthias-endler)  
 - `2025-04-24` | [🔗 20 years of Git. Still weird, still wonderful.](https://www.yellowduck.be/posts/20-years-of-git-still-weird-still-wonderful)  
 - `2025-04-23` | [🐥 Migrating a PostgreSQL server on Ubuntu](https://www.yellowduck.be/posts/migrating-a-postgresql-server-on-ubuntu)  
 - `2025-04-23` | [🔗 PostgreSQL BM25 Full-Text Search: Speed Up Performance with These Tips](https://www.yellowduck.be/posts/postgresql-bm25-full-text-search-speed-up-performance-with-these-tips)  
@@ -22,6 +23,5 @@
 - `2025-04-22` | [🔗 Naming Experimental Features](https://www.yellowduck.be/posts/naming-experimental-features)  
 - `2025-04-21` | [🐥 Unique jobs when using Laravel Horizon](https://www.yellowduck.be/posts/unique-jobs-when-using-laravel-horizon)  
 - `2025-04-21` | [🔗 Structs vs Embedded Schemas in Elixir](https://www.yellowduck.be/posts/structs-vs-embedded-schemas-in-elixir)  
-- `2025-04-21` | [🔗 Phoenix 1.8 Multi-Tenant Authorization Strategies](https://www.yellowduck.be/posts/github-zenhive-orgsdocs)  
 
 <!-- BLOG-POST-LIST:END -->
