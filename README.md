@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-26` | [🔗 Software Update on the Command Line](https://www.yellowduck.be/posts/software-update-on-the-command-line)  
 - `2025-04-26` | [🔗 Use Font Awesome icons in Phoenix with Tailwind 4](https://www.yellowduck.be/posts/use-font-awesome-icons-in-phoenix-with-tailwind-4)  
 - `2025-04-25` | [🔗 Elixir Map-to-Structs mapping DSL — Part 1](https://www.yellowduck.be/posts/elixir-map-to-structs-mapping-dsl-part-1)  
 - `2025-04-25` | [🔗 Why Companies Don’t Fix Bugs](https://www.yellowduck.be/posts/why-companies-dont-fix-bugs)  
@@ -22,6 +23,5 @@
 - `2025-04-23` | [🔗 PostgreSQL BM25 Full-Text Search: Speed Up Performance with These Tips](https://www.yellowduck.be/posts/postgresql-bm25-full-text-search-speed-up-performance-with-these-tips)  
 - `2025-04-23` | [🔗 Four years of running a SaaS in a competitive market](https://www.yellowduck.be/posts/four-years-of-running-a-saas-in-a-competitive-market)  
 - `2025-04-22` | [🐥 Avoid tzdata prompts in GitHub Actions](https://www.yellowduck.be/posts/avoid-tzdata-prompts-in-github-actions)  
-- `2025-04-22` | [🔗 Import a CSV into Postgres using Elixir](https://www.yellowduck.be/posts/import-a-csv-into-postgres-using-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
