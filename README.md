@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-27` | [🔗 How To Refactor Legacy Code](https://www.yellowduck.be/posts/how-to-refactor-legacy-code)  
 - `2025-04-27` | [🔗 How to Easily Reproduce a Flaky Test in Playwright](https://www.yellowduck.be/posts/how-to-easily-reproduce-a-flaky-test-in-playwright)  
 - `2025-04-26` | [🔗 Software Update on the Command Line](https://www.yellowduck.be/posts/software-update-on-the-command-line)  
 - `2025-04-26` | [🔗 Use Font Awesome icons in Phoenix with Tailwind 4](https://www.yellowduck.be/posts/use-font-awesome-icons-in-phoenix-with-tailwind-4)  
@@ -22,6 +23,5 @@
 - `2025-04-24` | [🔗 20 years of Git. Still weird, still wonderful.](https://www.yellowduck.be/posts/20-years-of-git-still-weird-still-wonderful)  
 - `2025-04-23` | [🐥 Migrating a PostgreSQL server on Ubuntu](https://www.yellowduck.be/posts/migrating-a-postgresql-server-on-ubuntu)  
 - `2025-04-23` | [🔗 PostgreSQL BM25 Full-Text Search: Speed Up Performance with These Tips](https://www.yellowduck.be/posts/postgresql-bm25-full-text-search-speed-up-performance-with-these-tips)  
-- `2025-04-23` | [🔗 Four years of running a SaaS in a competitive market](https://www.yellowduck.be/posts/four-years-of-running-a-saas-in-a-competitive-market)  
 
 <!-- BLOG-POST-LIST:END -->
