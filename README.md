@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-29` | [🔗 Everything Wrong with MCP](https://www.yellowduck.be/posts/everything-wrong-with-mcp)  
 - `2025-04-28` | [🐥 Fixing &quot;Repository Changed Its &#39;Label&#39;&quot; errors in GitHub Actions](https://www.yellowduck.be/posts/fixing-repository-changed-its-label-errors-in-github-actions)  
 - `2025-04-28` | [🔗 Your first 90 days as CTO or VP Engineering.](https://www.yellowduck.be/posts/your-first-90-days-as-cto-or-vp-engineering)  
 - `2025-04-28` | [🔗 Debugging PHP with VSCode and XDebug: A Step-by-Step Guide](https://www.yellowduck.be/posts/debugging-php-with-vscode-and-xdebug-a-step-by-step-guide)  
@@ -22,6 +23,5 @@
 - `2025-04-26` | [🔗 Use Font Awesome icons in Phoenix with Tailwind 4](https://www.yellowduck.be/posts/use-font-awesome-icons-in-phoenix-with-tailwind-4)  
 - `2025-04-25` | [🔗 Elixir Map-to-Structs mapping DSL — Part 1](https://www.yellowduck.be/posts/elixir-map-to-structs-mapping-dsl-part-1)  
 - `2025-04-25` | [🔗 Why Companies Don’t Fix Bugs](https://www.yellowduck.be/posts/why-companies-dont-fix-bugs)  
-- `2025-04-24` | [🔗 The Best Programmers I Know | Matthias Endler](https://www.yellowduck.be/posts/the-best-programmers-i-know-matthias-endler)  
 
 <!-- BLOG-POST-LIST:END -->
