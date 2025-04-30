@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-30` | [🔗 3 Red Flags to Watch When You Join New Team](https://www.yellowduck.be/posts/3-red-flags-to-watch-when-you-join-new-team)  
 - `2025-04-30` | [🔗 Some Nice Things with SVG](https://www.yellowduck.be/posts/some-nice-things-with-svg)  
 - `2025-04-29` | [🐥 Translating country codes to full names in JavaScript using Intl.DisplayNames](https://www.yellowduck.be/posts/translating-country-codes-to-full-names-in-javascript-using-intl-displaynames)  
 - `2025-04-29` | [🔗 Birth of Unix](https://www.yellowduck.be/posts/birth-of-unix)  
@@ -22,6 +23,5 @@
 - `2025-04-28` | [🔗 Debugging PHP with VSCode and XDebug: A Step-by-Step Guide](https://www.yellowduck.be/posts/debugging-php-with-vscode-and-xdebug-a-step-by-step-guide)  
 - `2025-04-27` | [🔗 How To Refactor Legacy Code](https://www.yellowduck.be/posts/how-to-refactor-legacy-code)  
 - `2025-04-27` | [🔗 How to Easily Reproduce a Flaky Test in Playwright](https://www.yellowduck.be/posts/how-to-easily-reproduce-a-flaky-test-in-playwright)  
-- `2025-04-26` | [🔗 Software Update on the Command Line](https://www.yellowduck.be/posts/software-update-on-the-command-line)  
 
 <!-- BLOG-POST-LIST:END -->
