@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-30` | [🔗 Some Nice Things with SVG](https://www.yellowduck.be/posts/some-nice-things-with-svg)  
 - `2025-04-29` | [🐥 Translating country codes to full names in JavaScript using Intl.DisplayNames](https://www.yellowduck.be/posts/translating-country-codes-to-full-names-in-javascript-using-intl-displaynames)  
 - `2025-04-29` | [🔗 Birth of Unix](https://www.yellowduck.be/posts/birth-of-unix)  
 - `2025-04-29` | [🔗 Everything Wrong with MCP](https://www.yellowduck.be/posts/everything-wrong-with-mcp)  
@@ -22,6 +23,5 @@
 - `2025-04-27` | [🔗 How To Refactor Legacy Code](https://www.yellowduck.be/posts/how-to-refactor-legacy-code)  
 - `2025-04-27` | [🔗 How to Easily Reproduce a Flaky Test in Playwright](https://www.yellowduck.be/posts/how-to-easily-reproduce-a-flaky-test-in-playwright)  
 - `2025-04-26` | [🔗 Software Update on the Command Line](https://www.yellowduck.be/posts/software-update-on-the-command-line)  
-- `2025-04-26` | [🔗 Use Font Awesome icons in Phoenix with Tailwind 4](https://www.yellowduck.be/posts/use-font-awesome-icons-in-phoenix-with-tailwind-4)  
 
 <!-- BLOG-POST-LIST:END -->
