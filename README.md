@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-01` | [🔗 Is Clean Architecture Overengineering?](https://www.yellowduck.be/posts/is-clean-architecture-overengineering)  
 - `2025-05-01` | [🔗 Clever code is probably the worst code you could write](https://www.yellowduck.be/posts/clever-code-is-probably-the-worst-code-you-could-write)  
 - `2025-04-30` | [🐥 How to check if your Ubuntu/Debian Linux server needs a reboot](https://www.yellowduck.be/posts/how-to-check-if-your-ubuntu-debian-linux-server-needs-a-reboot)  
 - `2025-04-30` | [🔗 3 Red Flags to Watch When You Join New Team](https://www.yellowduck.be/posts/3-red-flags-to-watch-when-you-join-new-team)  
@@ -22,6 +23,5 @@
 - `2025-04-29` | [🔗 Everything Wrong with MCP](https://www.yellowduck.be/posts/everything-wrong-with-mcp)  
 - `2025-04-28` | [🐥 Fixing &quot;Repository Changed Its &#39;Label&#39;&quot; errors in GitHub Actions](https://www.yellowduck.be/posts/fixing-repository-changed-its-label-errors-in-github-actions)  
 - `2025-04-28` | [🔗 Your first 90 days as CTO or VP Engineering.](https://www.yellowduck.be/posts/your-first-90-days-as-cto-or-vp-engineering)  
-- `2025-04-28` | [🔗 Debugging PHP with VSCode and XDebug: A Step-by-Step Guide](https://www.yellowduck.be/posts/debugging-php-with-vscode-and-xdebug-a-step-by-step-guide)  
 
 <!-- BLOG-POST-LIST:END -->
