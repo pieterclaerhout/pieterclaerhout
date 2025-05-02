@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-02` | [🔗 Cloud Storage for Offsite Backup](https://www.yellowduck.be/posts/cloud-storage-for-offsite-backup)  
 - `2025-05-01` | [🐥 Making your Phoenix flash messages disappear automatically](https://www.yellowduck.be/posts/making-your-phoenix-flash-messages-disappear-automatically)  
 - `2025-05-01` | [🔗 Is Clean Architecture Overengineering?](https://www.yellowduck.be/posts/is-clean-architecture-overengineering)  
 - `2025-05-01` | [🔗 Clever code is probably the worst code you could write](https://www.yellowduck.be/posts/clever-code-is-probably-the-worst-code-you-could-write)  
@@ -22,6 +23,5 @@
 - `2025-04-29` | [🐥 Translating country codes to full names in JavaScript using Intl.DisplayNames](https://www.yellowduck.be/posts/translating-country-codes-to-full-names-in-javascript-using-intl-displaynames)  
 - `2025-04-29` | [🔗 Birth of Unix](https://www.yellowduck.be/posts/birth-of-unix)  
 - `2025-04-29` | [🔗 Everything Wrong with MCP](https://www.yellowduck.be/posts/everything-wrong-with-mcp)  
-- `2025-04-28` | [🐥 Fixing &quot;Repository Changed Its &#39;Label&#39;&quot; errors in GitHub Actions](https://www.yellowduck.be/posts/fixing-repository-changed-its-label-errors-in-github-actions)  
 
 <!-- BLOG-POST-LIST:END -->
