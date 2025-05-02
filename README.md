@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-02` | [🐥 Extending props in Vue 3 with TypeScript](https://www.yellowduck.be/posts/extending-props-in-vue-3-with-typescript)  
 - `2025-05-02` | [🔗 Understanding the Unix Command Line](https://www.yellowduck.be/posts/understanding-the-unix-command-line)  
 - `2025-05-02` | [🔗 Cloud Storage for Offsite Backup](https://www.yellowduck.be/posts/cloud-storage-for-offsite-backup)  
 - `2025-05-01` | [🐥 Making your Phoenix flash messages disappear automatically](https://www.yellowduck.be/posts/making-your-phoenix-flash-messages-disappear-automatically)  
@@ -22,6 +23,5 @@
 - `2025-04-30` | [🔗 3 Red Flags to Watch When You Join New Team](https://www.yellowduck.be/posts/3-red-flags-to-watch-when-you-join-new-team)  
 - `2025-04-30` | [🔗 Some Nice Things with SVG](https://www.yellowduck.be/posts/some-nice-things-with-svg)  
 - `2025-04-29` | [🐥 Translating country codes to full names in JavaScript using Intl.DisplayNames](https://www.yellowduck.be/posts/translating-country-codes-to-full-names-in-javascript-using-intl-displaynames)  
-- `2025-04-29` | [🔗 Birth of Unix](https://www.yellowduck.be/posts/birth-of-unix)  
 
 <!-- BLOG-POST-LIST:END -->
