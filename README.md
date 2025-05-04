@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-04` | [🔗 YAML: The Norway Problem](https://www.yellowduck.be/posts/yaml-the-norway-problem)  
 - `2025-05-03` | [🐥 Combining multiple prop interfaces in Vue 3 with TypeScript](https://www.yellowduck.be/posts/combining-multiple-prop-interfaces-in-vue-3-with-typescript)  
 - `2025-05-03` | [🔗 Why Your ‘Harmonious’ Team Is Actually Failing](https://www.yellowduck.be/posts/why-your-harmonious-team-is-actually-failing)  
 - `2025-05-03` | [🔗 Try PostgreSQL&#39;s citext](https://www.yellowduck.be/posts/try-postgresqls-citext)  
@@ -22,6 +23,5 @@
 - `2025-05-01` | [🐥 Making your Phoenix flash messages disappear automatically](https://www.yellowduck.be/posts/making-your-phoenix-flash-messages-disappear-automatically)  
 - `2025-05-01` | [🔗 Is Clean Architecture Overengineering?](https://www.yellowduck.be/posts/is-clean-architecture-overengineering)  
 - `2025-05-01` | [🔗 Clever code is probably the worst code you could write](https://www.yellowduck.be/posts/clever-code-is-probably-the-worst-code-you-could-write)  
-- `2025-04-30` | [🐥 How to check if your Ubuntu/Debian Linux server needs a reboot](https://www.yellowduck.be/posts/how-to-check-if-your-ubuntu-debian-linux-server-needs-a-reboot)  
 
 <!-- BLOG-POST-LIST:END -->
