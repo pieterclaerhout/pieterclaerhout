@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-04` | [🐥 Scroll events and infinite pagination in Phoenix LiveView](https://www.yellowduck.be/posts/scroll-events-and-infinite-pagination-in-phoenix-liveview)  
 - `2025-05-04` | [🔗 Making Makefiles for fun and profit](https://www.yellowduck.be/posts/making-makefiles-for-fun-and-profit)  
 - `2025-05-04` | [🔗 YAML: The Norway Problem](https://www.yellowduck.be/posts/yaml-the-norway-problem)  
 - `2025-05-03` | [🐥 Combining multiple prop interfaces in Vue 3 with TypeScript](https://www.yellowduck.be/posts/combining-multiple-prop-interfaces-in-vue-3-with-typescript)  
@@ -22,6 +23,5 @@
 - `2025-05-02` | [🔗 Understanding the Unix Command Line](https://www.yellowduck.be/posts/understanding-the-unix-command-line)  
 - `2025-05-02` | [🔗 Cloud Storage for Offsite Backup](https://www.yellowduck.be/posts/cloud-storage-for-offsite-backup)  
 - `2025-05-01` | [🐥 Making your Phoenix flash messages disappear automatically](https://www.yellowduck.be/posts/making-your-phoenix-flash-messages-disappear-automatically)  
-- `2025-05-01` | [🔗 Is Clean Architecture Overengineering?](https://www.yellowduck.be/posts/is-clean-architecture-overengineering)  
 
 <!-- BLOG-POST-LIST:END -->
