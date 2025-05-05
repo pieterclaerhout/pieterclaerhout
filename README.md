@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-05` | [🐥 Improving flash message dismissal with Tailwind animations](https://www.yellowduck.be/posts/improving-flash-message-dismissal-with-tailwind-animations)  
 - `2025-05-05` | [🔗 What is /var/log: Understanding Linux System Logs](https://www.yellowduck.be/posts/what-is-var-log-understanding-linux-system-logs)  
 - `2025-05-05` | [🔗 The Hard Things About Sync](https://www.yellowduck.be/posts/the-hard-things-about-sync)  
 - `2025-05-04` | [🐥 Scroll events and infinite pagination in Phoenix LiveView](https://www.yellowduck.be/posts/scroll-events-and-infinite-pagination-in-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2025-05-03` | [🔗 Why Your ‘Harmonious’ Team Is Actually Failing](https://www.yellowduck.be/posts/why-your-harmonious-team-is-actually-failing)  
 - `2025-05-03` | [🔗 Try PostgreSQL&#39;s citext](https://www.yellowduck.be/posts/try-postgresqls-citext)  
 - `2025-05-02` | [🐥 Extending props in Vue 3 with TypeScript](https://www.yellowduck.be/posts/extending-props-in-vue-3-with-typescript)  
-- `2025-05-02` | [🔗 Understanding the Unix Command Line](https://www.yellowduck.be/posts/understanding-the-unix-command-line)  
 
 <!-- BLOG-POST-LIST:END -->
