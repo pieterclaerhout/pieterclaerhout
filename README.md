@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-06` | [🔗 Struggling On The Climbs? Here’s What I’d Do…](https://www.yellowduck.be/posts/struggling-on-the-climbs-heres-what-id-do)  
 - `2025-05-06` | [🔗 Demystifying the #! &lpar;shebang&rpar;: Kernel Adventures](https://www.yellowduck.be/posts/demystifying-the-shebang-kernel-adventures)  
 - `2025-05-05` | [🐥 Improving flash message dismissal with Tailwind animations](https://www.yellowduck.be/posts/improving-flash-message-dismissal-with-tailwind-animations)  
 - `2025-05-05` | [🔗 What is /var/log: Understanding Linux System Logs](https://www.yellowduck.be/posts/what-is-var-log-understanding-linux-system-logs)  
@@ -22,6 +23,5 @@
 - `2025-05-04` | [🔗 YAML: The Norway Problem](https://www.yellowduck.be/posts/yaml-the-norway-problem)  
 - `2025-05-03` | [🐥 Combining multiple prop interfaces in Vue 3 with TypeScript](https://www.yellowduck.be/posts/combining-multiple-prop-interfaces-in-vue-3-with-typescript)  
 - `2025-05-03` | [🔗 Why Your ‘Harmonious’ Team Is Actually Failing](https://www.yellowduck.be/posts/why-your-harmonious-team-is-actually-failing)  
-- `2025-05-03` | [🔗 Try PostgreSQL&#39;s citext](https://www.yellowduck.be/posts/try-postgresqls-citext)  
 
 <!-- BLOG-POST-LIST:END -->
