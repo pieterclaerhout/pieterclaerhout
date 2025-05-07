@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-07` | [🐥 Duplicating a git repository to a new remote](https://www.yellowduck.be/posts/duplicating-a-git-repository)  
 - `2025-05-07` | [🔗 How to be the best programmer, according to Daniel Terhorst-North](https://www.yellowduck.be/posts/how-to-be-the-best-programmer-according-to-daniel-terhorst-north)  
 - `2025-05-07` | [🔗 Tract Postmortem](https://www.yellowduck.be/posts/tract-postmortem)  
 - `2025-05-06` | [🐥 Simple file upload button using Phoenix LiveView](https://www.yellowduck.be/posts/simple-file-upload-button-using-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2025-05-05` | [🔗 What is /var/log: Understanding Linux System Logs](https://www.yellowduck.be/posts/what-is-var-log-understanding-linux-system-logs)  
 - `2025-05-05` | [🔗 The Hard Things About Sync](https://www.yellowduck.be/posts/the-hard-things-about-sync)  
 - `2025-05-04` | [🐥 Scroll events and infinite pagination in Phoenix LiveView](https://www.yellowduck.be/posts/scroll-events-and-infinite-pagination-in-phoenix-liveview)  
-- `2025-05-04` | [🔗 Making Makefiles for fun and profit](https://www.yellowduck.be/posts/making-makefiles-for-fun-and-profit)  
 
 <!-- BLOG-POST-LIST:END -->
