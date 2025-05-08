@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-08` | [🐥 How to duplicate a table in PostgreSQL](https://www.yellowduck.be/posts/how-to-duplicate-a-table-in-postgresql)  
 - `2025-05-08` | [🔗 43 things we&#39;ve learned about hiring at PostHog](https://www.yellowduck.be/posts/43-things-weve-learned-about-hiring-at-posthog)  
 - `2025-05-08` | [🔗 UV: The Engineering Secrets Behind Python’s Speed King - Xebia](https://www.yellowduck.be/posts/uv-the-engineering-secrets-behind-pythons-speed-king-xebia)  
 - `2025-05-07` | [🐥 Duplicating a git repository to a new remote](https://www.yellowduck.be/posts/duplicating-a-git-repository)  
@@ -22,6 +23,5 @@
 - `2025-05-06` | [🔗 Struggling On The Climbs? Here’s What I’d Do…](https://www.yellowduck.be/posts/struggling-on-the-climbs-heres-what-id-do)  
 - `2025-05-06` | [🔗 Demystifying the #! &lpar;shebang&rpar;: Kernel Adventures](https://www.yellowduck.be/posts/demystifying-the-shebang-kernel-adventures)  
 - `2025-05-05` | [🐥 Improving flash message dismissal with Tailwind animations](https://www.yellowduck.be/posts/improving-flash-message-dismissal-with-tailwind-animations)  
-- `2025-05-05` | [🔗 What is /var/log: Understanding Linux System Logs](https://www.yellowduck.be/posts/what-is-var-log-understanding-linux-system-logs)  
 
 <!-- BLOG-POST-LIST:END -->
