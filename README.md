@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-08` | [🔗 UV: The Engineering Secrets Behind Python’s Speed King - Xebia](https://www.yellowduck.be/posts/uv-the-engineering-secrets-behind-pythons-speed-king-xebia)  
 - `2025-05-07` | [🐥 Duplicating a git repository to a new remote](https://www.yellowduck.be/posts/duplicating-a-git-repository)  
 - `2025-05-07` | [🔗 How to be the best programmer, according to Daniel Terhorst-North](https://www.yellowduck.be/posts/how-to-be-the-best-programmer-according-to-daniel-terhorst-north)  
 - `2025-05-07` | [🔗 Tract Postmortem](https://www.yellowduck.be/posts/tract-postmortem)  
@@ -22,6 +23,5 @@
 - `2025-05-05` | [🐥 Improving flash message dismissal with Tailwind animations](https://www.yellowduck.be/posts/improving-flash-message-dismissal-with-tailwind-animations)  
 - `2025-05-05` | [🔗 What is /var/log: Understanding Linux System Logs](https://www.yellowduck.be/posts/what-is-var-log-understanding-linux-system-logs)  
 - `2025-05-05` | [🔗 The Hard Things About Sync](https://www.yellowduck.be/posts/the-hard-things-about-sync)  
-- `2025-05-04` | [🐥 Scroll events and infinite pagination in Phoenix LiveView](https://www.yellowduck.be/posts/scroll-events-and-infinite-pagination-in-phoenix-liveview)  
 
 <!-- BLOG-POST-LIST:END -->
