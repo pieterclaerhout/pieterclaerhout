@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-09` | [🔗 Import, Alias, Require, and Use in Elixir](https://www.yellowduck.be/posts/import-alias-require-and-use-in-elixir)  
 - `2025-05-09` | [🔗 Top 20 Linux commands every pentester should know](https://www.yellowduck.be/posts/top-20-linux-commands-every-pentester-should-know)  
 - `2025-05-08` | [🐥 How to duplicate a table in PostgreSQL](https://www.yellowduck.be/posts/how-to-duplicate-a-table-in-postgresql)  
 - `2025-05-08` | [🔗 43 things we&#39;ve learned about hiring at PostHog](https://www.yellowduck.be/posts/43-things-weve-learned-about-hiring-at-posthog)  
@@ -22,6 +23,5 @@
 - `2025-05-07` | [🔗 Tract Postmortem](https://www.yellowduck.be/posts/tract-postmortem)  
 - `2025-05-06` | [🐥 Simple file upload button using Phoenix LiveView](https://www.yellowduck.be/posts/simple-file-upload-button-using-phoenix-liveview)  
 - `2025-05-06` | [🔗 Struggling On The Climbs? Here’s What I’d Do…](https://www.yellowduck.be/posts/struggling-on-the-climbs-heres-what-id-do)  
-- `2025-05-06` | [🔗 Demystifying the #! &lpar;shebang&rpar;: Kernel Adventures](https://www.yellowduck.be/posts/demystifying-the-shebang-kernel-adventures)  
 
 <!-- BLOG-POST-LIST:END -->
