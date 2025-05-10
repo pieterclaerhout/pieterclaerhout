@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-10` | [🔗 What the Critical Erlang SSH Vulnerability Means for Elixir Developers](https://www.yellowduck.be/posts/what-the-critical-erlang-ssh-vulnerability-means-for-elixir-developers)  
 - `2025-05-10` | [🔗 Behind the 6-digit code: Building HOTP and TOTP from scratch](https://www.yellowduck.be/posts/behind-the-6-digit-code-building-hotp-and-totp-from-scratch)  
 - `2025-05-09` | [🐥 Passing Elixir config values to LiveView hooks](https://www.yellowduck.be/posts/passing-elixir-config-values-to-liveview-hooks)  
 - `2025-05-09` | [🔗 Import, Alias, Require, and Use in Elixir](https://www.yellowduck.be/posts/import-alias-require-and-use-in-elixir)  
@@ -22,6 +23,5 @@
 - `2025-05-08` | [🔗 UV: The Engineering Secrets Behind Python’s Speed King - Xebia](https://www.yellowduck.be/posts/uv-the-engineering-secrets-behind-pythons-speed-king-xebia)  
 - `2025-05-07` | [🐥 Duplicating a git repository to a new remote](https://www.yellowduck.be/posts/duplicating-a-git-repository)  
 - `2025-05-07` | [🔗 How to be the best programmer, according to Daniel Terhorst-North](https://www.yellowduck.be/posts/how-to-be-the-best-programmer-according-to-daniel-terhorst-north)  
-- `2025-05-07` | [🔗 Tract Postmortem](https://www.yellowduck.be/posts/tract-postmortem)  
 
 <!-- BLOG-POST-LIST:END -->
