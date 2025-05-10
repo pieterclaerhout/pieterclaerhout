@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-10` | [🔗 Behind the 6-digit code: Building HOTP and TOTP from scratch](https://www.yellowduck.be/posts/behind-the-6-digit-code-building-hotp-and-totp-from-scratch)  
 - `2025-05-09` | [🐥 Passing Elixir config values to LiveView hooks](https://www.yellowduck.be/posts/passing-elixir-config-values-to-liveview-hooks)  
 - `2025-05-09` | [🔗 Import, Alias, Require, and Use in Elixir](https://www.yellowduck.be/posts/import-alias-require-and-use-in-elixir)  
 - `2025-05-09` | [🔗 Top 20 Linux commands every pentester should know](https://www.yellowduck.be/posts/top-20-linux-commands-every-pentester-should-know)  
@@ -22,6 +23,5 @@
 - `2025-05-07` | [🐥 Duplicating a git repository to a new remote](https://www.yellowduck.be/posts/duplicating-a-git-repository)  
 - `2025-05-07` | [🔗 How to be the best programmer, according to Daniel Terhorst-North](https://www.yellowduck.be/posts/how-to-be-the-best-programmer-according-to-daniel-terhorst-north)  
 - `2025-05-07` | [🔗 Tract Postmortem](https://www.yellowduck.be/posts/tract-postmortem)  
-- `2025-05-06` | [🐥 Simple file upload button using Phoenix LiveView](https://www.yellowduck.be/posts/simple-file-upload-button-using-phoenix-liveview)  
 
 <!-- BLOG-POST-LIST:END -->
