@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-11` | [🐥 Installing an Elixir dependency from a custom fork](https://www.yellowduck.be/posts/installing-an-elixir-dependency-from-a-custom-fork)  
 - `2025-05-11` | [🔗 Component Party](https://www.yellowduck.be/posts/component-party)  
 - `2025-05-11` | [🔗 Slaying Zombie Processes in a Go + Docker Setup: A Debugging Story](https://www.yellowduck.be/posts/a-debugging-story-r-golang)  
 - `2025-05-10` | [🐥 Understanding $emit vs defineEmits in Vue 3](https://www.yellowduck.be/posts/understanding-emit-vs-defineemits-in-vue-3)  
@@ -22,6 +23,5 @@
 - `2025-05-09` | [🔗 Import, Alias, Require, and Use in Elixir](https://www.yellowduck.be/posts/import-alias-require-and-use-in-elixir)  
 - `2025-05-09` | [🔗 Top 20 Linux commands every pentester should know](https://www.yellowduck.be/posts/top-20-linux-commands-every-pentester-should-know)  
 - `2025-05-08` | [🐥 How to duplicate a table in PostgreSQL](https://www.yellowduck.be/posts/how-to-duplicate-a-table-in-postgresql)  
-- `2025-05-08` | [🔗 43 things we&#39;ve learned about hiring at PostHog](https://www.yellowduck.be/posts/43-things-weve-learned-about-hiring-at-posthog)  
 
 <!-- BLOG-POST-LIST:END -->
