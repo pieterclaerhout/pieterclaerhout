@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-11` | [🔗 Slaying Zombie Processes in a Go + Docker Setup: A Debugging Story](https://www.yellowduck.be/posts/a-debugging-story-r-golang)  
 - `2025-05-10` | [🐥 Understanding $emit vs defineEmits in Vue 3](https://www.yellowduck.be/posts/understanding-emit-vs-defineemits-in-vue-3)  
 - `2025-05-10` | [🔗 What the Critical Erlang SSH Vulnerability Means for Elixir Developers](https://www.yellowduck.be/posts/what-the-critical-erlang-ssh-vulnerability-means-for-elixir-developers)  
 - `2025-05-10` | [🔗 Behind the 6-digit code: Building HOTP and TOTP from scratch](https://www.yellowduck.be/posts/behind-the-6-digit-code-building-hotp-and-totp-from-scratch)  
@@ -22,6 +23,5 @@
 - `2025-05-08` | [🐥 How to duplicate a table in PostgreSQL](https://www.yellowduck.be/posts/how-to-duplicate-a-table-in-postgresql)  
 - `2025-05-08` | [🔗 43 things we&#39;ve learned about hiring at PostHog](https://www.yellowduck.be/posts/43-things-weve-learned-about-hiring-at-posthog)  
 - `2025-05-08` | [🔗 UV: The Engineering Secrets Behind Python’s Speed King - Xebia](https://www.yellowduck.be/posts/uv-the-engineering-secrets-behind-pythons-speed-king-xebia)  
-- `2025-05-07` | [🐥 Duplicating a git repository to a new remote](https://www.yellowduck.be/posts/duplicating-a-git-repository)  
 
 <!-- BLOG-POST-LIST:END -->
