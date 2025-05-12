@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 - `2025-05-12` | [🔗 Lessons learned from working at startups](https://www.yellowduck.be/posts/lessons-learned-from-working-at-startups)  
 - `2025-05-11` | [🐥 Installing an Elixir dependency from a custom fork](https://www.yellowduck.be/posts/installing-an-elixir-dependency-from-a-custom-fork)  
-- `2025-05-11` | [🔗 Component Party](https://www.yellowduck.be/posts/component-party)  
+- `2025-05-11` | [🔗 Common syntax constructs in Vue 3 and Svelte](https://www.yellowduck.be/posts/common-syntax-constructs-in-vue-3-and-svelte)  
 - `2025-05-11` | [🔗 Slaying Zombie Processes in a Go + Docker Setup: A Debugging Story](https://www.yellowduck.be/posts/a-debugging-story-r-golang)  
 - `2025-05-10` | [🐥 Understanding $emit vs defineEmits in Vue 3](https://www.yellowduck.be/posts/understanding-emit-vs-defineemits-in-vue-3)  
 - `2025-05-10` | [🔗 What the Critical Erlang SSH Vulnerability Means for Elixir Developers](https://www.yellowduck.be/posts/what-the-critical-erlang-ssh-vulnerability-means-for-elixir-developers)  
