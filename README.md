@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-13` | [🔗 How to build a GitHub-style Markdown Editor](https://www.yellowduck.be/posts/how-to-build-a-github-style-markdown-editor)  
 - `2025-05-12` | [🐥 Detecting compile-time cycles in Elixir with mix xref](https://www.yellowduck.be/posts/detecting-compile-time-cycles-in-elixir-with-mix-xref)  
 - `2025-05-12` | [🔗 The Inverted reactivity model of React](https://www.yellowduck.be/posts/the-inverted-reactivity-model-of-react)  
 - `2025-05-12` | [🔗 Lessons learned from working at startups](https://www.yellowduck.be/posts/lessons-learned-from-working-at-startups)  
@@ -22,6 +23,5 @@
 - `2025-05-10` | [🐥 Understanding $emit vs defineEmits in Vue 3](https://www.yellowduck.be/posts/understanding-emit-vs-defineemits-in-vue-3)  
 - `2025-05-10` | [🔗 What the Critical Erlang SSH Vulnerability Means for Elixir Developers](https://www.yellowduck.be/posts/what-the-critical-erlang-ssh-vulnerability-means-for-elixir-developers)  
 - `2025-05-10` | [🔗 Behind the 6-digit code: Building HOTP and TOTP from scratch](https://www.yellowduck.be/posts/behind-the-6-digit-code-building-hotp-and-totp-from-scratch)  
-- `2025-05-09` | [🐥 Passing Elixir config values to LiveView hooks](https://www.yellowduck.be/posts/passing-elixir-config-values-to-liveview-hooks)  
 
 <!-- BLOG-POST-LIST:END -->
