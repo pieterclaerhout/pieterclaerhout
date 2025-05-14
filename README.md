@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-14` | [🔗 A Programmer&#39;s Reading List: 100 Articles I Enjoyed &lpar;1-50&rpar;](https://www.yellowduck.be/posts/a-programmers-reading-list-100-articles-i-enjoyed-1-50)  
 - `2025-05-14` | [🔗 Stop Using Docker Like It&#39;s 2015](https://www.yellowduck.be/posts/stop-using-docker-like-its-2015)  
 - `2025-05-13` | [🐥 Laravel Validation: present vs required](https://www.yellowduck.be/posts/laravel-validation-present-vs-required)  
 - `2025-05-13` | [🔗 15 Reasons I Love Go](https://www.yellowduck.be/posts/15-reasons-i-love-go)  
@@ -22,6 +23,5 @@
 - `2025-05-12` | [🔗 Lessons learned from working at startups](https://www.yellowduck.be/posts/lessons-learned-from-working-at-startups)  
 - `2025-05-11` | [🐥 Installing an Elixir dependency from a custom fork](https://www.yellowduck.be/posts/installing-an-elixir-dependency-from-a-custom-fork)  
 - `2025-05-11` | [🔗 Common syntax constructs in Vue 3 and Svelte](https://www.yellowduck.be/posts/common-syntax-constructs-in-vue-3-and-svelte)  
-- `2025-05-11` | [🔗 Slaying Zombie Processes in a Go + Docker Setup: A Debugging Story](https://www.yellowduck.be/posts/a-debugging-story-r-golang)  
 
 <!-- BLOG-POST-LIST:END -->
