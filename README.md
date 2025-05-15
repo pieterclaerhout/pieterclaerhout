@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-15` | [🔗 Pipelining might be my favorite programming language feature](https://www.yellowduck.be/posts/pipelining-might-be-my-favorite-programming-language-feature)  
 - `2025-05-15` | [🔗 Supercharge Your Go Tests Using Fake HTTP Services](https://www.yellowduck.be/posts/supercharge-your-go-tests-using-fake-http-services)  
 - `2025-05-14` | [🐥 What is package hallucination in npm?](https://www.yellowduck.be/posts/what-is-package-hallucination-in-npm)  
 - `2025-05-14` | [🔗 A Programmer&#39;s Reading List: 100 Articles I Enjoyed &lpar;1-50&rpar;](https://www.yellowduck.be/posts/a-programmers-reading-list-100-articles-i-enjoyed-1-50)  
@@ -22,6 +23,5 @@
 - `2025-05-13` | [🔗 How to build a GitHub-style Markdown Editor](https://www.yellowduck.be/posts/how-to-build-a-github-style-markdown-editor)  
 - `2025-05-12` | [🐥 Detecting compile-time cycles in Elixir with mix xref](https://www.yellowduck.be/posts/detecting-compile-time-cycles-in-elixir-with-mix-xref)  
 - `2025-05-12` | [🔗 The Inverted reactivity model of React](https://www.yellowduck.be/posts/the-inverted-reactivity-model-of-react)  
-- `2025-05-12` | [🔗 Lessons learned from working at startups](https://www.yellowduck.be/posts/lessons-learned-from-working-at-startups)  
 
 <!-- BLOG-POST-LIST:END -->
