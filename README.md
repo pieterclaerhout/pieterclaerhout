@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-16` | [🔗 Running PHP tests in parallel on GitHub actions](https://www.yellowduck.be/posts/running-php-tests-in-parallel-on-github-actions)  
 - `2025-05-16` | [🔗 How To Build An Agent](https://www.yellowduck.be/posts/how-to-build-an-agent)  
 - `2025-05-15` | [🐥 How to list installed composer package versions in PHP projects](https://www.yellowduck.be/posts/how-to-list-installed-composer-package-versions-in-php-projects)  
 - `2025-05-15` | [🔗 Pipelining might be my favorite programming language feature](https://www.yellowduck.be/posts/pipelining-might-be-my-favorite-programming-language-feature)  
@@ -22,6 +23,5 @@
 - `2025-05-14` | [🔗 Stop Using Docker Like It&#39;s 2015](https://www.yellowduck.be/posts/stop-using-docker-like-its-2015)  
 - `2025-05-13` | [🐥 Laravel Validation: present vs required](https://www.yellowduck.be/posts/laravel-validation-present-vs-required)  
 - `2025-05-13` | [🔗 15 Reasons I Love Go](https://www.yellowduck.be/posts/15-reasons-i-love-go)  
-- `2025-05-13` | [🔗 How to build a GitHub-style Markdown Editor](https://www.yellowduck.be/posts/how-to-build-a-github-style-markdown-editor)  
 
 <!-- BLOG-POST-LIST:END -->
