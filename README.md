@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-17` | [🔗 Parallel Processing with PHP: why, how, and when](https://www.yellowduck.be/posts/parallel-processing-with-php-why-how-and-when)  
 - `2025-05-17` | [🔗 IKEA’s web fonts](https://www.yellowduck.be/posts/ikeas-web-fonts)  
 - `2025-05-16` | [🐥 Why Caddy redirects override your respond directives](https://www.yellowduck.be/posts/why-caddy-redirects-override-your-respond-directives)  
 - `2025-05-16` | [🔗 Running PHP tests in parallel on GitHub actions](https://www.yellowduck.be/posts/running-php-tests-in-parallel-on-github-actions)  
@@ -22,6 +23,5 @@
 - `2025-05-15` | [🔗 Supercharge Your Go Tests Using Fake HTTP Services](https://www.yellowduck.be/posts/supercharge-your-go-tests-using-fake-http-services)  
 - `2025-05-14` | [🐥 What is package hallucination in npm?](https://www.yellowduck.be/posts/what-is-package-hallucination-in-npm)  
 - `2025-05-14` | [🔗 A Programmer&#39;s Reading List: 100 Articles I Enjoyed &lpar;1-50&rpar;](https://www.yellowduck.be/posts/a-programmers-reading-list-100-articles-i-enjoyed-1-50)  
-- `2025-05-14` | [🔗 Stop Using Docker Like It&#39;s 2015](https://www.yellowduck.be/posts/stop-using-docker-like-its-2015)  
 
 <!-- BLOG-POST-LIST:END -->
