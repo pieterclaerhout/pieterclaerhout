@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-18` | [🔗 The Quality Duck’s Approach to a Zero Bug Policy](https://www.yellowduck.be/posts/the-quality-ducks-approach-to-a-zero-bug-policy)  
 - `2025-05-17` | [🐥 Adding a security.txt file to your website](https://www.yellowduck.be/posts/adding-a-security-txt-file-to-your-website)  
 - `2025-05-17` | [🔗 Parallel Processing with PHP: why, how, and when](https://www.yellowduck.be/posts/parallel-processing-with-php-why-how-and-when)  
 - `2025-05-17` | [🔗 IKEA’s web fonts](https://www.yellowduck.be/posts/ikeas-web-fonts)  
@@ -22,6 +23,5 @@
 - `2025-05-15` | [🐥 How to list installed composer package versions in PHP projects](https://www.yellowduck.be/posts/how-to-list-installed-composer-package-versions-in-php-projects)  
 - `2025-05-15` | [🔗 Pipelining might be my favorite programming language feature](https://www.yellowduck.be/posts/pipelining-might-be-my-favorite-programming-language-feature)  
 - `2025-05-15` | [🔗 Supercharge Your Go Tests Using Fake HTTP Services](https://www.yellowduck.be/posts/supercharge-your-go-tests-using-fake-http-services)  
-- `2025-05-14` | [🐥 What is package hallucination in npm?](https://www.yellowduck.be/posts/what-is-package-hallucination-in-npm)  
 
 <!-- BLOG-POST-LIST:END -->
