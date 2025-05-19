@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-19` | [🔗 Reading RSS content is a skilled activity](https://www.yellowduck.be/posts/reading-rss-content-is-a-skilled-activity)  
 - `2025-05-19` | [🔗 Senior engineers should make side bets](https://www.yellowduck.be/posts/senior-engineers-should-make-side-bets)  
 - `2025-05-18` | [🔗 Build Your Own GitHub CI Automation for Code Reviews using Elixir and Gemini](https://www.yellowduck.be/posts/build-your-own-github-ci-automation-for-code-reviews-using-elixir-and-gemini)  
 - `2025-05-18` | [🔗 The Quality Duck’s Approach to a Zero Bug Policy](https://www.yellowduck.be/posts/the-quality-ducks-approach-to-a-zero-bug-policy)  
@@ -22,6 +23,5 @@
 - `2025-05-16` | [🐥 Why Caddy redirects override your respond directives](https://www.yellowduck.be/posts/why-caddy-redirects-override-your-respond-directives)  
 - `2025-05-16` | [🔗 Running PHP tests in parallel on GitHub actions](https://www.yellowduck.be/posts/running-php-tests-in-parallel-on-github-actions)  
 - `2025-05-16` | [🔗 How To Build An Agent](https://www.yellowduck.be/posts/how-to-build-an-agent)  
-- `2025-05-15` | [🐥 How to list installed composer package versions in PHP projects](https://www.yellowduck.be/posts/how-to-list-installed-composer-package-versions-in-php-projects)  
 
 <!-- BLOG-POST-LIST:END -->
