@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-21` | [🔗 Refactoring Gone Wild: Avoiding code smells and cleaning up the mess](https://www.yellowduck.be/posts/refactoring-gone-wild-avoiding-code-smells-and-cleaning-up-the-mess)  
 - `2025-05-21` | [🔗 &lpar;My&rpar; three core values to set up an organization for success](https://www.yellowduck.be/posts/my-three-core-values-to-set-up-an-organization-for-success)  
 - `2025-05-20` | [🐥 Checking the Redis server version of a running instance](https://www.yellowduck.be/posts/checking-the-redis-server-version)  
 - `2025-05-20` | [🔗 Golang Security Best Practices](https://www.yellowduck.be/posts/golang-security-best-practices)  
@@ -22,6 +23,5 @@
 - `2025-05-19` | [🔗 Senior engineers should make side bets](https://www.yellowduck.be/posts/senior-engineers-should-make-side-bets)  
 - `2025-05-18` | [🔗 Build Your Own GitHub CI Automation for Code Reviews using Elixir and Gemini](https://www.yellowduck.be/posts/build-your-own-github-ci-automation-for-code-reviews-using-elixir-and-gemini)  
 - `2025-05-18` | [🔗 The Quality Duck’s Approach to a Zero Bug Policy](https://www.yellowduck.be/posts/the-quality-ducks-approach-to-a-zero-bug-policy)  
-- `2025-05-17` | [🐥 Adding a security.txt file to your website](https://www.yellowduck.be/posts/adding-a-security-txt-file-to-your-website)  
 
 <!-- BLOG-POST-LIST:END -->
