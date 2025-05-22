@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-22` | [🐥 Fixing MySQL not starting on macOS &lpar;Homebrew Installation&rpar;](https://www.yellowduck.be/posts/fixing-mysql-not-starting-on-macos-homebrew-installation)  
 - `2025-05-22` | [🔗 Elixir DBConnection pooling deep dive](https://www.yellowduck.be/posts/elixir-dbconnection-pooling-deep-dive)  
 - `2025-05-22` | [🔗 Phoenix with Inertia.js vs LiveView](https://www.yellowduck.be/posts/phoenix-with-inertia-js-vs-liveview)  
 - `2025-05-21` | [🐥 Laravel HTTP Client and why your file downloads may fail](https://www.yellowduck.be/posts/laravel-http-client-and-why-your-file-downloads-may-fail)  
@@ -22,6 +23,5 @@
 - `2025-05-20` | [🔗 Golang Security Best Practices](https://www.yellowduck.be/posts/golang-security-best-practices)  
 - `2025-05-20` | [🔗 How I Choose What to Work On](https://www.yellowduck.be/posts/how-i-choose-what-to-work-on)  
 - `2025-05-19` | [🐥 Improved installation and frontend hooks in Laravel Echo 2.1](https://www.yellowduck.be/posts/improved-installation-and-frontend-hooks-in-laravel-echo-2-1)  
-- `2025-05-19` | [🔗 Reading RSS content is a skilled activity](https://www.yellowduck.be/posts/reading-rss-content-is-a-skilled-activity)  
 
 <!-- BLOG-POST-LIST:END -->
