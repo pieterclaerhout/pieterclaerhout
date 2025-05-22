@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-22` | [🔗 Phoenix with Inertia.js vs LiveView](https://www.yellowduck.be/posts/phoenix-with-inertia-js-vs-liveview)  
 - `2025-05-21` | [🐥 Laravel HTTP Client and why your file downloads may fail](https://www.yellowduck.be/posts/laravel-http-client-and-why-your-file-downloads-may-fail)  
 - `2025-05-21` | [🔗 Refactoring Gone Wild: Avoiding code smells and cleaning up the mess](https://www.yellowduck.be/posts/refactoring-gone-wild-avoiding-code-smells-and-cleaning-up-the-mess)  
 - `2025-05-21` | [🔗 &lpar;My&rpar; three core values to set up an organization for success](https://www.yellowduck.be/posts/my-three-core-values-to-set-up-an-organization-for-success)  
@@ -22,6 +23,5 @@
 - `2025-05-19` | [🐥 Improved installation and frontend hooks in Laravel Echo 2.1](https://www.yellowduck.be/posts/improved-installation-and-frontend-hooks-in-laravel-echo-2-1)  
 - `2025-05-19` | [🔗 Reading RSS content is a skilled activity](https://www.yellowduck.be/posts/reading-rss-content-is-a-skilled-activity)  
 - `2025-05-19` | [🔗 Senior engineers should make side bets](https://www.yellowduck.be/posts/senior-engineers-should-make-side-bets)  
-- `2025-05-18` | [🔗 Build Your Own GitHub CI Automation for Code Reviews using Elixir and Gemini](https://www.yellowduck.be/posts/build-your-own-github-ci-automation-for-code-reviews-using-elixir-and-gemini)  
 
 <!-- BLOG-POST-LIST:END -->
