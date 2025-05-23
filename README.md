@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-23` | [🐥 Tuning PostgreSQL query planning with SET STATISTICS](https://www.yellowduck.be/posts/tuning-postgresql-query-planning-with-set-statistics)  
 - `2025-05-23` | [🔗 PostgreSQL JSONB - Powerful Storage for Semi-Structured Data](https://www.yellowduck.be/posts/postgresql-jsonb-powerful-storage-for-semi-structured-data)  
 - `2025-05-23` | [🔗 Job Lifecycle — Oban v2.19.4](https://www.yellowduck.be/posts/job-lifecycle-oban-v2-19-4)  
 - `2025-05-22` | [🐥 Fixing MySQL not starting on macOS &lpar;Homebrew Installation&rpar;](https://www.yellowduck.be/posts/fixing-mysql-not-starting-on-macos-homebrew-installation)  
@@ -22,6 +23,5 @@
 - `2025-05-21` | [🔗 Refactoring Gone Wild: Avoiding code smells and cleaning up the mess](https://www.yellowduck.be/posts/refactoring-gone-wild-avoiding-code-smells-and-cleaning-up-the-mess)  
 - `2025-05-21` | [🔗 &lpar;My&rpar; three core values to set up an organization for success](https://www.yellowduck.be/posts/my-three-core-values-to-set-up-an-organization-for-success)  
 - `2025-05-20` | [🐥 Checking the Redis server version of a running instance](https://www.yellowduck.be/posts/checking-the-redis-server-version)  
-- `2025-05-20` | [🔗 Golang Security Best Practices](https://www.yellowduck.be/posts/golang-security-best-practices)  
 
 <!-- BLOG-POST-LIST:END -->
