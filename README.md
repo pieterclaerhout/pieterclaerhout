@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-24` | [🐥 Using self-signed HTTPS certificates in Phoenix on macOS](https://www.yellowduck.be/posts/using-self-signed-https-certificates-in-phoenix-on-macos)  
 - `2025-05-24` | [🔗 How to Async Tests in Elixir](https://www.yellowduck.be/posts/how-to-async-tests-in-elixir)  
 - `2025-05-24` | [🔗 Converting array values to enum instances with Laravel&#39;s mapInto](https://www.yellowduck.be/posts/converting-array-values-to-enum-instances-with-laravels-mapinto-method)  
 - `2025-05-23` | [🐥 Tuning PostgreSQL query planning with SET STATISTICS](https://www.yellowduck.be/posts/tuning-postgresql-query-planning-with-set-statistics)  
@@ -22,6 +23,5 @@
 - `2025-05-22` | [🔗 Elixir DBConnection pooling deep dive](https://www.yellowduck.be/posts/elixir-dbconnection-pooling-deep-dive)  
 - `2025-05-22` | [🔗 Phoenix with Inertia.js vs LiveView](https://www.yellowduck.be/posts/phoenix-with-inertia-js-vs-liveview)  
 - `2025-05-21` | [🐥 Laravel HTTP Client and why your file downloads may fail](https://www.yellowduck.be/posts/laravel-http-client-and-why-your-file-downloads-may-fail)  
-- `2025-05-21` | [🔗 Refactoring Gone Wild: Avoiding code smells and cleaning up the mess](https://www.yellowduck.be/posts/refactoring-gone-wild-avoiding-code-smells-and-cleaning-up-the-mess)  
 
 <!-- BLOG-POST-LIST:END -->
