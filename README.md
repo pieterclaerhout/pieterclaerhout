@@ -13,7 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
-- `2025-05-24` | [🔗 Converting Array Values to Enum Instances with Laravel&#39;s mapInto Method](https://www.yellowduck.be/posts/converting-array-values-to-enum-instances-with-laravels-mapinto-method)  
+- `2025-05-24` | [🔗 Converting array values to enum instances with Laravel&#39;s mapInto](https://www.yellowduck.be/posts/converting-array-values-to-enum-instances-with-laravels-mapinto-method)  
 - `2025-05-23` | [🐥 Tuning PostgreSQL query planning with SET STATISTICS](https://www.yellowduck.be/posts/tuning-postgresql-query-planning-with-set-statistics)  
 - `2025-05-23` | [🔗 PostgreSQL JSONB - Powerful Storage for Semi-Structured Data](https://www.yellowduck.be/posts/postgresql-jsonb-powerful-storage-for-semi-structured-data)  
 - `2025-05-23` | [🔗 Job Lifecycle — Oban v2.19.4](https://www.yellowduck.be/posts/job-lifecycle-oban-v2-19-4)  
