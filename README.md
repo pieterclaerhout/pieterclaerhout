@@ -13,7 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
-- `2025-05-25` | [🐥 Emitting Native click events in Vue 3](https://www.yellowduck.be/posts/emitting-native-click-events-in-vue-3)  
+- `2025-05-25` | [🐥 Emitting native click events in Vue 3](https://www.yellowduck.be/posts/emitting-native-click-events-in-vue-3)  
 - `2025-05-25` | [🔗 Clean up your seeds with Generators and AshOps](https://www.yellowduck.be/posts/clean-up-your-seeds-with-generators-and-ashops)  
 - `2025-05-25` | [🔗 Reduce, Reuse… Refactor: clearer Elixir with the Enum module](https://www.yellowduck.be/posts/reduce-reuse-refactor-clearer-elixir-with-the-enum-module)  
 - `2025-05-24` | [🐥 Using self-signed HTTPS certificates in Phoenix on macOS](https://www.yellowduck.be/posts/using-self-signed-https-certificates-in-phoenix-on-macos)  
