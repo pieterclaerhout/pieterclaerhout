@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-26` | [🔗 The One-Person Framework in practice](https://www.yellowduck.be/posts/the-one-person-framework-in-practice)  
 - `2025-05-26` | [🔗 Go read Peter Naur&#39;s &quot;Programming as Theory Building&quot; and then come back and tell me that LLMs can replace human programmers](https://www.yellowduck.be/posts/go-read-peter-naurs-programming-as-theory-building-and-then-come-back-and-tell-me-that-llms-can-replace-human-programmers)  
 - `2025-05-25` | [🐥 Emitting native click events in Vue 3](https://www.yellowduck.be/posts/emitting-native-click-events-in-vue-3)  
 - `2025-05-25` | [🔗 Clean up your seeds with Generators and AshOps](https://www.yellowduck.be/posts/clean-up-your-seeds-with-generators-and-ashops)  
@@ -22,6 +23,5 @@
 - `2025-05-24` | [🔗 Converting array values to enum instances with Laravel&#39;s mapInto](https://www.yellowduck.be/posts/converting-array-values-to-enum-instances-with-laravels-mapinto-method)  
 - `2025-05-23` | [🐥 Tuning PostgreSQL query planning with SET STATISTICS](https://www.yellowduck.be/posts/tuning-postgresql-query-planning-with-set-statistics)  
 - `2025-05-23` | [🔗 PostgreSQL JSONB - Powerful Storage for Semi-Structured Data](https://www.yellowduck.be/posts/postgresql-jsonb-powerful-storage-for-semi-structured-data)  
-- `2025-05-23` | [🔗 Job Lifecycle — Oban v2.19.4](https://www.yellowduck.be/posts/job-lifecycle-oban-v2-19-4)  
 
 <!-- BLOG-POST-LIST:END -->
