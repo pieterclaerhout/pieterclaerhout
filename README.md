@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-27` | [🐥 How to upgrade PostgreSQL on Ubuntu Server](https://www.yellowduck.be/posts/how-to-upgrade-postgresql-on-ubuntu-server)  
 - `2025-05-27` | [🔗 What you should know about Apple&#39;s switch from rsync to openrsync](https://www.yellowduck.be/posts/what-you-should-know-about-apples-switch-from-rsync-to-openrsync)  
 - `2025-05-27` | [🔗 Type Preferences](https://www.yellowduck.be/posts/type-preferences)  
 - `2025-05-26` | [🐥 Converting markdown to HTML using MDEx with syntax highlighting](https://www.yellowduck.be/posts/converting-markdown-to-html-using-mdex-with-syntax-highlighting)  
@@ -22,6 +23,5 @@
 - `2025-05-25` | [🔗 Clean up your seeds with Generators and AshOps](https://www.yellowduck.be/posts/clean-up-your-seeds-with-generators-and-ashops)  
 - `2025-05-25` | [🔗 Reduce, Reuse… Refactor: clearer Elixir with the Enum module](https://www.yellowduck.be/posts/reduce-reuse-refactor-clearer-elixir-with-the-enum-module)  
 - `2025-05-24` | [🐥 Using self-signed HTTPS certificates in Phoenix on macOS](https://www.yellowduck.be/posts/using-self-signed-https-certificates-in-phoenix-on-macos)  
-- `2025-05-24` | [🔗 How to Async Tests in Elixir](https://www.yellowduck.be/posts/how-to-async-tests-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
