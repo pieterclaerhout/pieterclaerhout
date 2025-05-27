@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-27` | [🔗 Type Preferences](https://www.yellowduck.be/posts/type-preferences)  
 - `2025-05-26` | [🐥 Converting markdown to HTML using MDEx with syntax highlighting](https://www.yellowduck.be/posts/converting-markdown-to-html-using-mdex-with-syntax-highlighting)  
 - `2025-05-26` | [🔗 The One-Person Framework in practice](https://www.yellowduck.be/posts/the-one-person-framework-in-practice)  
 - `2025-05-26` | [🔗 Go read Peter Naur&#39;s &quot;Programming as Theory Building&quot; and then come back and tell me that LLMs can replace human programmers](https://www.yellowduck.be/posts/go-read-peter-naurs-programming-as-theory-building-and-then-come-back-and-tell-me-that-llms-can-replace-human-programmers)  
@@ -22,6 +23,5 @@
 - `2025-05-24` | [🐥 Using self-signed HTTPS certificates in Phoenix on macOS](https://www.yellowduck.be/posts/using-self-signed-https-certificates-in-phoenix-on-macos)  
 - `2025-05-24` | [🔗 How to Async Tests in Elixir](https://www.yellowduck.be/posts/how-to-async-tests-in-elixir)  
 - `2025-05-24` | [🔗 Converting array values to enum instances with Laravel&#39;s mapInto](https://www.yellowduck.be/posts/converting-array-values-to-enum-instances-with-laravels-mapinto-method)  
-- `2025-05-23` | [🐥 Tuning PostgreSQL query planning with SET STATISTICS](https://www.yellowduck.be/posts/tuning-postgresql-query-planning-with-set-statistics)  
 
 <!-- BLOG-POST-LIST:END -->
