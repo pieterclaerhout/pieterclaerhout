@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-28` | [🐥 Enabling test coverage in Laravel Herd with pcov on macOS](https://www.yellowduck.be/posts/enabling-test-coverage-in-laravel-herd-with-pcov-on-macos)  
 - `2025-05-28` | [🔗 Performance optimization when adding 12,000+ markers to the map that renders fast with Elixir, LiveView, and Leaflet.js](https://www.yellowduck.be/posts/performance-optimization-when-adding-12-000-markers-to-the-map-that-renders-fast-with-elixir-liveview-and-leaflet-js)  
 - `2025-05-28` | [🔗 Elixir is not owned by Big Tech](https://www.yellowduck.be/posts/elixir-is-not-owned-by-big-tech)  
 - `2025-05-27` | [🐥 How to upgrade PostgreSQL on Ubuntu Server](https://www.yellowduck.be/posts/how-to-upgrade-postgresql-on-ubuntu-server)  
@@ -22,6 +23,5 @@
 - `2025-05-26` | [🔗 The One-Person Framework in practice](https://www.yellowduck.be/posts/the-one-person-framework-in-practice)  
 - `2025-05-26` | [🔗 Go read Peter Naur&#39;s &quot;Programming as Theory Building&quot; and then come back and tell me that LLMs can replace human programmers](https://www.yellowduck.be/posts/go-read-peter-naurs-programming-as-theory-building-and-then-come-back-and-tell-me-that-llms-can-replace-human-programmers)  
 - `2025-05-25` | [🐥 Emitting native click events in Vue 3](https://www.yellowduck.be/posts/emitting-native-click-events-in-vue-3)  
-- `2025-05-25` | [🔗 Clean up your seeds with Generators and AshOps](https://www.yellowduck.be/posts/clean-up-your-seeds-with-generators-and-ashops)  
 
 <!-- BLOG-POST-LIST:END -->
