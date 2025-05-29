@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-29` | [🔗 Surprising HEEx @rest defaults](https://www.yellowduck.be/posts/surprising-heex-rest-defaults)  
 - `2025-05-29` | [🔗 Network optimization &lpar;4x WS message size reduction&rpar; for sending lots of data from server to client &lpar;LiveView&rpar;](https://www.yellowduck.be/posts/network-optimization-4x-ws-message-size-reduction-for-sending-lots-of-data-from-server-to-client-liveview)  
 - `2025-05-28` | [🐥 Enabling test coverage in Laravel Herd with pcov on macOS](https://www.yellowduck.be/posts/enabling-test-coverage-in-laravel-herd-with-pcov-on-macos)  
 - `2025-05-28` | [🔗 Performance optimization when adding 12,000+ markers to the map that renders fast with Elixir, LiveView, and Leaflet.js](https://www.yellowduck.be/posts/performance-optimization-when-adding-12-000-markers-to-the-map-that-renders-fast-with-elixir-liveview-and-leaflet-js)  
@@ -22,6 +23,5 @@
 - `2025-05-27` | [🔗 Type Preferences](https://www.yellowduck.be/posts/type-preferences)  
 - `2025-05-26` | [🐥 Converting markdown to HTML using MDEx with syntax highlighting](https://www.yellowduck.be/posts/converting-markdown-to-html-using-mdex-with-syntax-highlighting)  
 - `2025-05-26` | [🔗 The One-Person Framework in practice](https://www.yellowduck.be/posts/the-one-person-framework-in-practice)  
-- `2025-05-26` | [🔗 Go read Peter Naur&#39;s &quot;Programming as Theory Building&quot; and then come back and tell me that LLMs can replace human programmers](https://www.yellowduck.be/posts/go-read-peter-naurs-programming-as-theory-building-and-then-come-back-and-tell-me-that-llms-can-replace-human-programmers)  
 
 <!-- BLOG-POST-LIST:END -->
