@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-30` | [🔗 File upload to AWS S3 or S3 compatible bucket from Phoenix LiveView using Elixir](https://www.yellowduck.be/posts/file-upload-to-aws-s3-or-s3-compatible-bucket-from-phoenix-liveview-using-elixir)  
 - `2025-05-29` | [🔗 Surprising HEEx @rest defaults](https://www.yellowduck.be/posts/surprising-heex-rest-defaults)  
 - `2025-05-29` | [🔗 Network optimization &lpar;4x WS message size reduction&rpar; for sending lots of data from server to client &lpar;LiveView&rpar;](https://www.yellowduck.be/posts/network-optimization-4x-ws-message-size-reduction-for-sending-lots-of-data-from-server-to-client-liveview)  
 - `2025-05-28` | [🐥 Enabling test coverage in Laravel Herd with pcov on macOS](https://www.yellowduck.be/posts/enabling-test-coverage-in-laravel-herd-with-pcov-on-macos)  
@@ -22,6 +23,5 @@
 - `2025-05-27` | [🔗 What you should know about Apple&#39;s switch from rsync to openrsync](https://www.yellowduck.be/posts/what-you-should-know-about-apples-switch-from-rsync-to-openrsync)  
 - `2025-05-27` | [🔗 Type Preferences](https://www.yellowduck.be/posts/type-preferences)  
 - `2025-05-26` | [🐥 Converting markdown to HTML using MDEx with syntax highlighting](https://www.yellowduck.be/posts/converting-markdown-to-html-using-mdex-with-syntax-highlighting)  
-- `2025-05-26` | [🔗 The One-Person Framework in practice](https://www.yellowduck.be/posts/the-one-person-framework-in-practice)  
 
 <!-- BLOG-POST-LIST:END -->
