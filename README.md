@@ -13,7 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
-- `2025-05-31` | [🔗 Why We Should Learn Multiple Programming Languages](https://www.yellowduck.be/posts/why-we-should-learn-multiple-programming-languages)  
+- `2025-05-31` | [🔗 Improve UX with LiveView page transitions](https://www.yellowduck.be/posts/improve-ux-with-liveview-page-transitions)  
+- `2025-05-31` | [🔗 Why we should learn multiple programming languages](https://www.yellowduck.be/posts/why-we-should-learn-multiple-programming-languages)  
 - `2025-05-30` | [🔗 Filtering GitHub actions by changed files](https://www.yellowduck.be/posts/filtering-github-actions-by-changed-files)  
 - `2025-05-30` | [🔗 File upload to AWS S3 or S3 compatible bucket from Phoenix LiveView using Elixir](https://www.yellowduck.be/posts/file-upload-to-aws-s3-or-s3-compatible-bucket-from-phoenix-liveview-using-elixir)  
 - `2025-05-29` | [🔗 Surprising HEEx @rest defaults](https://www.yellowduck.be/posts/surprising-heex-rest-defaults)  
@@ -22,6 +23,5 @@
 - `2025-05-28` | [🔗 Performance optimization when adding 12,000+ markers to the map that renders fast with Elixir, LiveView, and Leaflet.js](https://www.yellowduck.be/posts/performance-optimization-when-adding-12-000-markers-to-the-map-that-renders-fast-with-elixir-liveview-and-leaflet-js)  
 - `2025-05-28` | [🔗 Elixir is not owned by Big Tech](https://www.yellowduck.be/posts/elixir-is-not-owned-by-big-tech)  
 - `2025-05-27` | [🐥 How to upgrade PostgreSQL on Ubuntu Server](https://www.yellowduck.be/posts/how-to-upgrade-postgresql-on-ubuntu-server)  
-- `2025-05-27` | [🔗 What you should know about Apple&#39;s switch from rsync to openrsync](https://www.yellowduck.be/posts/what-you-should-know-about-apples-switch-from-rsync-to-openrsync)  
 
 <!-- BLOG-POST-LIST:END -->
