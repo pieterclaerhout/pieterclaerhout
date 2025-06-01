@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-01` | [🐥 Smart title casing in Elixir &lpar;with special word preservation&rpar;](https://www.yellowduck.be/posts/smart-title-casing-in-elixir-with-special-word-preservation)  
 - `2025-06-01` | [🔗 Prime and zoom lenses explained: pros, cons and how to decide](https://www.yellowduck.be/posts/prime-and-zoom-lenses-explained-pros-cons-and-how-to-decide)  
 - `2025-06-01` | [🔗 Configuring a dev environment for Phoenix package development](https://www.yellowduck.be/posts/configuring-a-dev-environment-for-phoenix-package-development)  
 - `2025-05-31` | [🐥 Using put_change vs force_change in Ecto changesets: what&#39;s the difference?](https://www.yellowduck.be/posts/using-put-change-vs-force-change-in-ecto-changesets-whats-the-difference)  
@@ -22,6 +23,5 @@
 - `2025-05-30` | [🔗 File upload to AWS S3 or S3 compatible bucket from Phoenix LiveView using Elixir](https://www.yellowduck.be/posts/file-upload-to-aws-s3-or-s3-compatible-bucket-from-phoenix-liveview-using-elixir)  
 - `2025-05-29` | [🔗 Surprising HEEx @rest defaults](https://www.yellowduck.be/posts/surprising-heex-rest-defaults)  
 - `2025-05-29` | [🔗 Network optimization &lpar;4x WS message size reduction&rpar; for sending lots of data from server to client &lpar;LiveView&rpar;](https://www.yellowduck.be/posts/network-optimization-4x-ws-message-size-reduction-for-sending-lots-of-data-from-server-to-client-liveview)  
-- `2025-05-28` | [🐥 Enabling test coverage in Laravel Herd with pcov on macOS](https://www.yellowduck.be/posts/enabling-test-coverage-in-laravel-herd-with-pcov-on-macos)  
 
 <!-- BLOG-POST-LIST:END -->
