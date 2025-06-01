@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-01` | [🔗 Configuring a dev environment for Phoenix package development](https://www.yellowduck.be/posts/configuring-a-dev-environment-for-phoenix-package-development)  
 - `2025-05-31` | [🐥 Using put_change vs force_change in Ecto changesets: what&#39;s the difference?](https://www.yellowduck.be/posts/using-put-change-vs-force-change-in-ecto-changesets-whats-the-difference)  
 - `2025-05-31` | [🔗 Improve UX with LiveView page transitions](https://www.yellowduck.be/posts/improve-ux-with-liveview-page-transitions)  
 - `2025-05-31` | [🔗 Why we should learn multiple programming languages](https://www.yellowduck.be/posts/why-we-should-learn-multiple-programming-languages)  
@@ -22,6 +23,5 @@
 - `2025-05-29` | [🔗 Network optimization &lpar;4x WS message size reduction&rpar; for sending lots of data from server to client &lpar;LiveView&rpar;](https://www.yellowduck.be/posts/network-optimization-4x-ws-message-size-reduction-for-sending-lots-of-data-from-server-to-client-liveview)  
 - `2025-05-28` | [🐥 Enabling test coverage in Laravel Herd with pcov on macOS](https://www.yellowduck.be/posts/enabling-test-coverage-in-laravel-herd-with-pcov-on-macos)  
 - `2025-05-28` | [🔗 Performance optimization when adding 12,000+ markers to the map that renders fast with Elixir, LiveView, and Leaflet.js](https://www.yellowduck.be/posts/performance-optimization-when-adding-12-000-markers-to-the-map-that-renders-fast-with-elixir-liveview-and-leaflet-js)  
-- `2025-05-28` | [🔗 Elixir is not owned by Big Tech](https://www.yellowduck.be/posts/elixir-is-not-owned-by-big-tech)  
 
 <!-- BLOG-POST-LIST:END -->
