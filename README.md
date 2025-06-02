@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-02` | [🔗 What&#39;s new in LiveDebugger v0.2.0?](https://www.yellowduck.be/posts/whats-new-in-livedebugger-v0-2-0)  
 - `2025-06-02` | [🔗 What Elixir taught me about design patterns](https://www.yellowduck.be/posts/what-elixir-taught-me-about-design-patterns)  
 - `2025-06-01` | [🐥 Smart title casing in Elixir &lpar;with special word preservation&rpar;](https://www.yellowduck.be/posts/smart-title-casing-in-elixir-with-special-word-preservation)  
 - `2025-06-01` | [🔗 Prime and zoom lenses explained: pros, cons and how to decide](https://www.yellowduck.be/posts/prime-and-zoom-lenses-explained-pros-cons-and-how-to-decide)  
@@ -22,6 +23,5 @@
 - `2025-05-31` | [🔗 Why we should learn multiple programming languages](https://www.yellowduck.be/posts/why-we-should-learn-multiple-programming-languages)  
 - `2025-05-30` | [🔗 Filtering GitHub actions by changed files](https://www.yellowduck.be/posts/filtering-github-actions-by-changed-files)  
 - `2025-05-30` | [🔗 File upload to AWS S3 or S3 compatible bucket from Phoenix LiveView using Elixir](https://www.yellowduck.be/posts/file-upload-to-aws-s3-or-s3-compatible-bucket-from-phoenix-liveview-using-elixir)  
-- `2025-05-29` | [🔗 Surprising HEEx @rest defaults](https://www.yellowduck.be/posts/surprising-heex-rest-defaults)  
 
 <!-- BLOG-POST-LIST:END -->
