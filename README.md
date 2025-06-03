@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-03` | [🔗 VectorVFS: Your Filesystem as a Vector Database](https://www.yellowduck.be/posts/your-filesystem-as-a-vector-database)  
 - `2025-06-03` | [🔗 Plug.Assign](https://www.yellowduck.be/posts/plug-assign)  
 - `2025-06-02` | [🐥 Sharing a local https server using ngrok](https://www.yellowduck.be/posts/sharing-a-local-https-server-using-ngrok)  
 - `2025-06-02` | [🔗 What&#39;s new in LiveDebugger v0.2.0?](https://www.yellowduck.be/posts/whats-new-in-livedebugger-v0-2-0)  
@@ -22,6 +23,5 @@
 - `2025-06-01` | [🔗 Configuring a dev environment for Phoenix package development](https://www.yellowduck.be/posts/configuring-a-dev-environment-for-phoenix-package-development)  
 - `2025-05-31` | [🐥 Using put_change vs force_change in Ecto changesets: what&#39;s the difference?](https://www.yellowduck.be/posts/using-put-change-vs-force-change-in-ecto-changesets-whats-the-difference)  
 - `2025-05-31` | [🔗 Improve UX with LiveView page transitions](https://www.yellowduck.be/posts/improve-ux-with-liveview-page-transitions)  
-- `2025-05-31` | [🔗 Why we should learn multiple programming languages](https://www.yellowduck.be/posts/why-we-should-learn-multiple-programming-languages)  
 
 <!-- BLOG-POST-LIST:END -->
