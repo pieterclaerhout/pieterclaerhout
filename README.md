@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-04` | [🔗 AshEvents: event sourcing made simple for Ash](https://www.yellowduck.be/posts/ashevents-event-sourcing-made-simple-for-ash)  
 - `2025-06-04` | [🔗 Java code compilation using Java Compiler API](https://www.yellowduck.be/posts/java-code-compilation-using-java-compiler-api)  
 - `2025-06-03` | [🐥 Load static config at compile time in Elixir](https://www.yellowduck.be/posts/load-static-config-at-compile-time-in-elixir)  
 - `2025-06-03` | [🔗 VectorVFS: Your Filesystem as a Vector Database](https://www.yellowduck.be/posts/your-filesystem-as-a-vector-database)  
@@ -22,6 +23,5 @@
 - `2025-06-02` | [🔗 What Elixir taught me about design patterns](https://www.yellowduck.be/posts/what-elixir-taught-me-about-design-patterns)  
 - `2025-06-01` | [🐥 Smart title casing in Elixir &lpar;with special word preservation&rpar;](https://www.yellowduck.be/posts/smart-title-casing-in-elixir-with-special-word-preservation)  
 - `2025-06-01` | [🔗 Prime and zoom lenses explained: pros, cons and how to decide](https://www.yellowduck.be/posts/prime-and-zoom-lenses-explained-pros-cons-and-how-to-decide)  
-- `2025-06-01` | [🔗 Configuring a dev environment for Phoenix package development](https://www.yellowduck.be/posts/configuring-a-dev-environment-for-phoenix-package-development)  
 
 <!-- BLOG-POST-LIST:END -->
