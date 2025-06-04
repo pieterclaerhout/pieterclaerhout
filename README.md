@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-04` | [🐥 Rendering a Phoenix controller action without a layout](https://www.yellowduck.be/posts/rendering-a-phoenix-controller-action-without-a-layout)  
 - `2025-06-04` | [🔗 AshEvents: event sourcing made simple for Ash](https://www.yellowduck.be/posts/ashevents-event-sourcing-made-simple-for-ash)  
 - `2025-06-04` | [🔗 Java code compilation using Java Compiler API](https://www.yellowduck.be/posts/java-code-compilation-using-java-compiler-api)  
 - `2025-06-03` | [🐥 Load static config at compile time in Elixir](https://www.yellowduck.be/posts/load-static-config-at-compile-time-in-elixir)  
@@ -22,6 +23,5 @@
 - `2025-06-02` | [🔗 What&#39;s new in LiveDebugger v0.2.0?](https://www.yellowduck.be/posts/whats-new-in-livedebugger-v0-2-0)  
 - `2025-06-02` | [🔗 What Elixir taught me about design patterns](https://www.yellowduck.be/posts/what-elixir-taught-me-about-design-patterns)  
 - `2025-06-01` | [🐥 Smart title casing in Elixir &lpar;with special word preservation&rpar;](https://www.yellowduck.be/posts/smart-title-casing-in-elixir-with-special-word-preservation)  
-- `2025-06-01` | [🔗 Prime and zoom lenses explained: pros, cons and how to decide](https://www.yellowduck.be/posts/prime-and-zoom-lenses-explained-pros-cons-and-how-to-decide)  
 
 <!-- BLOG-POST-LIST:END -->
