@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-05` | [🐥 Running nginx locally with https for yourproject.test on Linux](https://www.yellowduck.be/posts/running-nginx-locally-with-https-for-yourproject-test-on-linux)  
 - `2025-06-05` | [🔗 Using database comments to track columns with sensitive data](https://www.yellowduck.be/posts/using-database-comments-to-track-columns-with-sensitive-data)  
 - `2025-06-05` | [🔗 The one and only software design principle](https://www.yellowduck.be/posts/the-one-and-only-software-design-principle)  
 - `2025-06-04` | [🐥 Rendering a Phoenix controller action without a layout](https://www.yellowduck.be/posts/rendering-a-phoenix-controller-action-without-a-layout)  
@@ -22,6 +23,5 @@
 - `2025-06-03` | [🔗 VectorVFS: Your Filesystem as a Vector Database](https://www.yellowduck.be/posts/your-filesystem-as-a-vector-database)  
 - `2025-06-03` | [🔗 Plug.Assign](https://www.yellowduck.be/posts/plug-assign)  
 - `2025-06-02` | [🐥 Sharing a local https server using ngrok](https://www.yellowduck.be/posts/sharing-a-local-https-server-using-ngrok)  
-- `2025-06-02` | [🔗 What&#39;s new in LiveDebugger v0.2.0?](https://www.yellowduck.be/posts/whats-new-in-livedebugger-v0-2-0)  
 
 <!-- BLOG-POST-LIST:END -->
