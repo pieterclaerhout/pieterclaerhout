@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-06` | [🔗 How projects fail at large tech companies](https://www.yellowduck.be/posts/how-projects-fail-at-large-tech-companies)  
 - `2025-06-06` | [🔗 Mastering Laravel Horizon&#39;s unique jobs](https://www.yellowduck.be/posts/mastering-laravel-horizons-unique-jobs)  
 - `2025-06-05` | [🐥 Running nginx locally with https for yourproject.test on Linux](https://www.yellowduck.be/posts/running-nginx-locally-with-https-for-yourproject-test-on-linux)  
 - `2025-06-05` | [🔗 Using database comments to track columns with sensitive data](https://www.yellowduck.be/posts/using-database-comments-to-track-columns-with-sensitive-data)  
@@ -22,6 +23,5 @@
 - `2025-06-04` | [🔗 Java code compilation using Java Compiler API](https://www.yellowduck.be/posts/java-code-compilation-using-java-compiler-api)  
 - `2025-06-03` | [🐥 Load static config at compile time in Elixir](https://www.yellowduck.be/posts/load-static-config-at-compile-time-in-elixir)  
 - `2025-06-03` | [🔗 VectorVFS: Your Filesystem as a Vector Database](https://www.yellowduck.be/posts/your-filesystem-as-a-vector-database)  
-- `2025-06-03` | [🔗 Plug.Assign](https://www.yellowduck.be/posts/plug-assign)  
 
 <!-- BLOG-POST-LIST:END -->
