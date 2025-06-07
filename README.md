@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-07` | [🔗 Coding without the jargon](https://www.yellowduck.be/posts/coding-without-the-jargon)  
 - `2025-06-07` | [🔗 Migrate to Phoenix 1.8 &lpar;rc version&rpar; guide](https://www.yellowduck.be/posts/migrate-to-phoenix-1-8-rc-version-guide)  
 - `2025-06-06` | [🐥 Grouping and displaying Elixir datetimes by month including gaps](https://www.yellowduck.be/posts/grouping-and-displaying-elixir-datetimes-by-month-including-gaps)  
 - `2025-06-06` | [🔗 How projects fail at large tech companies](https://www.yellowduck.be/posts/how-projects-fail-at-large-tech-companies)  
@@ -22,6 +23,5 @@
 - `2025-06-05` | [🔗 The one and only software design principle](https://www.yellowduck.be/posts/the-one-and-only-software-design-principle)  
 - `2025-06-04` | [🐥 Rendering a Phoenix controller action without a layout](https://www.yellowduck.be/posts/rendering-a-phoenix-controller-action-without-a-layout)  
 - `2025-06-04` | [🔗 AshEvents: event sourcing made simple for Ash](https://www.yellowduck.be/posts/ashevents-event-sourcing-made-simple-for-ash)  
-- `2025-06-04` | [🔗 Java code compilation using Java Compiler API](https://www.yellowduck.be/posts/java-code-compilation-using-java-compiler-api)  
 
 <!-- BLOG-POST-LIST:END -->
