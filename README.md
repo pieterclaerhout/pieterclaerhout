@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-08` | [🔗 10 hidden Linux commands every sysadmin should know](https://www.yellowduck.be/posts/10-hidden-linux-commands-every-sysadmin-should-know)  
 - `2025-06-08` | [🔗 GitHub Dependabot reviewers configuration option being replaced by code owners](https://www.yellowduck.be/posts/dependabot-reviewers-configuration-option-being-replaced-by-code-owners)  
 - `2025-06-07` | [🐥 Troubleshooting “Cannot modify header information” with ZipStream and Laravel](https://www.yellowduck.be/posts/troubleshooting-cannot-modify-header-information-with-zipstream-and-laravel)  
 - `2025-06-07` | [🔗 Coding without the jargon](https://www.yellowduck.be/posts/coding-without-the-jargon)  
@@ -22,6 +23,5 @@
 - `2025-06-06` | [🔗 Mastering Laravel Horizon&#39;s unique jobs](https://www.yellowduck.be/posts/mastering-laravel-horizons-unique-jobs)  
 - `2025-06-05` | [🐥 Running nginx locally with https for yourproject.test on Linux](https://www.yellowduck.be/posts/running-nginx-locally-with-https-for-yourproject-test-on-linux)  
 - `2025-06-05` | [🔗 Using database comments to track columns with sensitive data](https://www.yellowduck.be/posts/using-database-comments-to-track-columns-with-sensitive-data)  
-- `2025-06-05` | [🔗 The one and only software design principle](https://www.yellowduck.be/posts/the-one-and-only-software-design-principle)  
 
 <!-- BLOG-POST-LIST:END -->
