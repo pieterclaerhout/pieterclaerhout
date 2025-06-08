@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-08` | [🔗 GitHub Dependabot reviewers configuration option being replaced by code owners](https://www.yellowduck.be/posts/dependabot-reviewers-configuration-option-being-replaced-by-code-owners)  
 - `2025-06-07` | [🐥 Troubleshooting “Cannot modify header information” with ZipStream and Laravel](https://www.yellowduck.be/posts/troubleshooting-cannot-modify-header-information-with-zipstream-and-laravel)  
 - `2025-06-07` | [🔗 Coding without the jargon](https://www.yellowduck.be/posts/coding-without-the-jargon)  
 - `2025-06-07` | [🔗 Migrate to Phoenix 1.8 &lpar;rc version&rpar; guide](https://www.yellowduck.be/posts/migrate-to-phoenix-1-8-rc-version-guide)  
@@ -22,6 +23,5 @@
 - `2025-06-05` | [🐥 Running nginx locally with https for yourproject.test on Linux](https://www.yellowduck.be/posts/running-nginx-locally-with-https-for-yourproject-test-on-linux)  
 - `2025-06-05` | [🔗 Using database comments to track columns with sensitive data](https://www.yellowduck.be/posts/using-database-comments-to-track-columns-with-sensitive-data)  
 - `2025-06-05` | [🔗 The one and only software design principle](https://www.yellowduck.be/posts/the-one-and-only-software-design-principle)  
-- `2025-06-04` | [🐥 Rendering a Phoenix controller action without a layout](https://www.yellowduck.be/posts/rendering-a-phoenix-controller-action-without-a-layout)  
 
 <!-- BLOG-POST-LIST:END -->
