@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-09` | [🔗 PDF to Text, a challenging problem](https://www.yellowduck.be/posts/pdf-to-text-a-challenging-problem)  
 - `2025-06-08` | [🐥 How to update a query string parameter without reloading the page in JavaScript](https://www.yellowduck.be/posts/how-to-update-a-query-string-parameter-without-reloading-the-page-in-javascript)  
 - `2025-06-08` | [🔗 10 hidden Linux commands every sysadmin should know](https://www.yellowduck.be/posts/10-hidden-linux-commands-every-sysadmin-should-know)  
 - `2025-06-08` | [🔗 GitHub Dependabot reviewers configuration option being replaced by code owners](https://www.yellowduck.be/posts/dependabot-reviewers-configuration-option-being-replaced-by-code-owners)  
@@ -22,6 +23,5 @@
 - `2025-06-06` | [🐥 Grouping and displaying Elixir datetimes by month including gaps](https://www.yellowduck.be/posts/grouping-and-displaying-elixir-datetimes-by-month-including-gaps)  
 - `2025-06-06` | [🔗 How projects fail at large tech companies](https://www.yellowduck.be/posts/how-projects-fail-at-large-tech-companies)  
 - `2025-06-06` | [🔗 Mastering Laravel Horizon&#39;s unique jobs](https://www.yellowduck.be/posts/mastering-laravel-horizons-unique-jobs)  
-- `2025-06-05` | [🐥 Running nginx locally with https for yourproject.test on Linux](https://www.yellowduck.be/posts/running-nginx-locally-with-https-for-yourproject-test-on-linux)  
 
 <!-- BLOG-POST-LIST:END -->
