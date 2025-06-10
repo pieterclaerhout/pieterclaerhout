@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-10` | [🔗 The curse of knowing how, or; fixing everything](https://www.yellowduck.be/posts/the-curse-of-knowing-how-or-fixing-everything)  
 - `2025-06-09` | [🐥 Prevent bugs from cached config in Laravel development and testing](https://www.yellowduck.be/posts/prevent-bugs-from-cached-config-in-laravel-development-and-testing)  
 - `2025-06-09` | [🔗 How I built a modular Laravel CRM: architecture insights](https://www.yellowduck.be/posts/how-i-built-a-modular-laravel-crm-architecture-insights-r-laravel)  
 - `2025-06-09` | [🔗 PDF to Text, a challenging problem](https://www.yellowduck.be/posts/pdf-to-text-a-challenging-problem)  
@@ -22,6 +23,5 @@
 - `2025-06-07` | [🐥 Troubleshooting “Cannot modify header information” with ZipStream and Laravel](https://www.yellowduck.be/posts/troubleshooting-cannot-modify-header-information-with-zipstream-and-laravel)  
 - `2025-06-07` | [🔗 Coding without the jargon](https://www.yellowduck.be/posts/coding-without-the-jargon)  
 - `2025-06-07` | [🔗 Migrate to Phoenix 1.8 &lpar;rc version&rpar; guide](https://www.yellowduck.be/posts/migrate-to-phoenix-1-8-rc-version-guide)  
-- `2025-06-06` | [🐥 Grouping and displaying Elixir datetimes by month including gaps](https://www.yellowduck.be/posts/grouping-and-displaying-elixir-datetimes-by-month-including-gaps)  
 
 <!-- BLOG-POST-LIST:END -->
