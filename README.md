@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-10` | [🐥 Parameterized tests in Elixir ExUnit](https://www.yellowduck.be/posts/parameterized-tests-in-elixir-exunit)  
 - `2025-06-10` | [🔗 I failed a take-home assignment from Kagi Search](https://www.yellowduck.be/posts/i-failed-a-take-home-assignment-from-kagi-search)  
 - `2025-06-10` | [🔗 The curse of knowing how, or; fixing everything](https://www.yellowduck.be/posts/the-curse-of-knowing-how-or-fixing-everything)  
 - `2025-06-09` | [🐥 Prevent bugs from cached config in Laravel development and testing](https://www.yellowduck.be/posts/prevent-bugs-from-cached-config-in-laravel-development-and-testing)  
@@ -22,6 +23,5 @@
 - `2025-06-08` | [🔗 10 hidden Linux commands every sysadmin should know](https://www.yellowduck.be/posts/10-hidden-linux-commands-every-sysadmin-should-know)  
 - `2025-06-08` | [🔗 GitHub Dependabot reviewers configuration option being replaced by code owners](https://www.yellowduck.be/posts/dependabot-reviewers-configuration-option-being-replaced-by-code-owners)  
 - `2025-06-07` | [🐥 Troubleshooting “Cannot modify header information” with ZipStream and Laravel](https://www.yellowduck.be/posts/troubleshooting-cannot-modify-header-information-with-zipstream-and-laravel)  
-- `2025-06-07` | [🔗 Coding without the jargon](https://www.yellowduck.be/posts/coding-without-the-jargon)  
 
 <!-- BLOG-POST-LIST:END -->
