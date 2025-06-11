@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-11` | [🔗 Frontends are hard](https://www.yellowduck.be/posts/frontends-are-hard)  
 - `2025-06-11` | [🔗 Stop building internal tools nobody wants: a platform engineer’s guide](https://www.yellowduck.be/posts/stop-building-internal-tools-nobody-wants-a-platform-engineers-guide)  
 - `2025-06-10` | [🐥 Parameterized tests in Elixir ExUnit](https://www.yellowduck.be/posts/parameterized-tests-in-elixir-exunit)  
 - `2025-06-10` | [🔗 I failed a take-home assignment from Kagi Search](https://www.yellowduck.be/posts/i-failed-a-take-home-assignment-from-kagi-search)  
@@ -22,6 +23,5 @@
 - `2025-06-09` | [🔗 PDF to Text, a challenging problem](https://www.yellowduck.be/posts/pdf-to-text-a-challenging-problem)  
 - `2025-06-08` | [🐥 How to update a query string parameter without reloading the page in JavaScript](https://www.yellowduck.be/posts/how-to-update-a-query-string-parameter-without-reloading-the-page-in-javascript)  
 - `2025-06-08` | [🔗 10 hidden Linux commands every sysadmin should know](https://www.yellowduck.be/posts/10-hidden-linux-commands-every-sysadmin-should-know)  
-- `2025-06-08` | [🔗 GitHub Dependabot reviewers configuration option being replaced by code owners](https://www.yellowduck.be/posts/dependabot-reviewers-configuration-option-being-replaced-by-code-owners)  
 
 <!-- BLOG-POST-LIST:END -->
