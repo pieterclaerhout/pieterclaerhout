@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-12` | [🔗 Interview: OPEN’s Gerard Vroomen &amp; Andy Kessler on the EU-made U.P.PER. CONCE.PT. and the future of gravel bike design](https://www.yellowduck.be/posts/interview-opens-gerard-vroomen-andy-kessler-on-the-eu-made-u-p-per-conce-pt-and-the-future-of-gravel-bike-design)  
 - `2025-06-11` | [🐥 Asserting headers and body in Elixir Req.Test with ExUnit](https://www.yellowduck.be/posts/asserting-headers-and-body-in-elixir-req-test-with-exunit)  
 - `2025-06-11` | [🔗 Frontends are hard](https://www.yellowduck.be/posts/frontends-are-hard)  
 - `2025-06-11` | [🔗 Stop building internal tools nobody wants: a platform engineer’s guide](https://www.yellowduck.be/posts/stop-building-internal-tools-nobody-wants-a-platform-engineers-guide)  
@@ -22,6 +23,5 @@
 - `2025-06-09` | [🐥 Prevent bugs from cached config in Laravel development and testing](https://www.yellowduck.be/posts/prevent-bugs-from-cached-config-in-laravel-development-and-testing)  
 - `2025-06-09` | [🔗 How I built a modular Laravel CRM: architecture insights](https://www.yellowduck.be/posts/how-i-built-a-modular-laravel-crm-architecture-insights-r-laravel)  
 - `2025-06-09` | [🔗 PDF to Text, a challenging problem](https://www.yellowduck.be/posts/pdf-to-text-a-challenging-problem)  
-- `2025-06-08` | [🐥 How to update a query string parameter without reloading the page in JavaScript](https://www.yellowduck.be/posts/how-to-update-a-query-string-parameter-without-reloading-the-page-in-javascript)  
 
 <!-- BLOG-POST-LIST:END -->
