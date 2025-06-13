@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-13` | [🔗 How I approach feature requests](https://www.yellowduck.be/posts/how-i-approach-feature-requests)  
 - `2025-06-13` | [🔗 How to harden GitHub actions: the unofficial guide](https://www.yellowduck.be/posts/how-to-harden-github-actions-the-unofficial-guide)  
 - `2025-06-12` | [🐥 The difference between ++ and Keyword.merge/2 in Elixir](https://www.yellowduck.be/posts/the-difference-between-and-keyword-merge-2-in-elixir)  
 - `2025-06-12` | [🔗 Ash AI: A comprehensive LLM toolbox for Ash framework](https://www.yellowduck.be/posts/ash-ai-a-comprehensive-llm-toolbox-for-ash-framework)  
@@ -22,6 +23,5 @@
 - `2025-06-11` | [🔗 Stop building internal tools nobody wants: a platform engineer’s guide](https://www.yellowduck.be/posts/stop-building-internal-tools-nobody-wants-a-platform-engineers-guide)  
 - `2025-06-10` | [🐥 Parameterized tests in Elixir ExUnit](https://www.yellowduck.be/posts/parameterized-tests-in-elixir-exunit)  
 - `2025-06-10` | [🔗 I failed a take-home assignment from Kagi Search](https://www.yellowduck.be/posts/i-failed-a-take-home-assignment-from-kagi-search)  
-- `2025-06-10` | [🔗 The curse of knowing how, or; fixing everything](https://www.yellowduck.be/posts/the-curse-of-knowing-how-or-fixing-everything)  
 
 <!-- BLOG-POST-LIST:END -->
