@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-15` | [🔗 How to introduce new ideas](https://www.yellowduck.be/posts/how-to-introduce-new-ideas)  
 - `2025-06-15` | [🔗 Stop using REST for state synchronization](https://www.yellowduck.be/posts/stop-using-rest-for-state-synchronization)  
 - `2025-06-14` | [🐥 Accessing a Google Calendar using Elixir](https://www.yellowduck.be/posts/accessing-a-google-calendar-using-elixir)  
 - `2025-06-14` | [🔗 Your software is confusing](https://www.yellowduck.be/posts/your-software-is-confusing)  
@@ -22,6 +23,5 @@
 - `2025-06-13` | [🔗 How to harden GitHub actions: the unofficial guide](https://www.yellowduck.be/posts/how-to-harden-github-actions-the-unofficial-guide)  
 - `2025-06-12` | [🐥 The difference between ++ and Keyword.merge/2 in Elixir](https://www.yellowduck.be/posts/the-difference-between-and-keyword-merge-2-in-elixir)  
 - `2025-06-12` | [🔗 Ash AI: A comprehensive LLM toolbox for Ash framework](https://www.yellowduck.be/posts/ash-ai-a-comprehensive-llm-toolbox-for-ash-framework)  
-- `2025-06-12` | [🔗 Interview: OPEN’s Gerard Vroomen &amp; Andy Kessler on the EU-made U.P.PER. CONCE.PT. and the future of gravel bike design](https://www.yellowduck.be/posts/interview-opens-gerard-vroomen-andy-kessler-on-the-eu-made-u-p-per-conce-pt-and-the-future-of-gravel-bike-design)  
 
 <!-- BLOG-POST-LIST:END -->
