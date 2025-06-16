@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-16` | [🔗 10 unique Elixir language features not present in JavaScript](https://www.yellowduck.be/posts/10-unique-elixir-language-features-not-present-in-javascript)  
 - `2025-06-15` | [🐥 Parsing ISO8601 duration strings in Elixir](https://www.yellowduck.be/posts/parsing-iso8601-duration-strings-in-elixir)  
 - `2025-06-15` | [🔗 How to introduce new ideas](https://www.yellowduck.be/posts/how-to-introduce-new-ideas)  
 - `2025-06-15` | [🔗 Stop using REST for state synchronization](https://www.yellowduck.be/posts/stop-using-rest-for-state-synchronization)  
@@ -22,6 +23,5 @@
 - `2025-06-13` | [🐥 Using tokens for API authentication in Elixir Phoenix](https://www.yellowduck.be/posts/using-tokens-for-api-authentication-in-elixir-phoenix)  
 - `2025-06-13` | [🔗 How I approach feature requests](https://www.yellowduck.be/posts/how-i-approach-feature-requests)  
 - `2025-06-13` | [🔗 How to harden GitHub actions: the unofficial guide](https://www.yellowduck.be/posts/how-to-harden-github-actions-the-unofficial-guide)  
-- `2025-06-12` | [🐥 The difference between ++ and Keyword.merge/2 in Elixir](https://www.yellowduck.be/posts/the-difference-between-and-keyword-merge-2-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
