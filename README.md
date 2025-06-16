@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-16` | [🔗 Working on complex systems: what I learned working at Google](https://www.yellowduck.be/posts/working-on-complex-systems-what-i-learned-working-at-google)  
 - `2025-06-16` | [🔗 10 unique Elixir language features not present in JavaScript](https://www.yellowduck.be/posts/10-unique-elixir-language-features-not-present-in-javascript)  
 - `2025-06-15` | [🐥 Parsing ISO8601 duration strings in Elixir](https://www.yellowduck.be/posts/parsing-iso8601-duration-strings-in-elixir)  
 - `2025-06-15` | [🔗 How to introduce new ideas](https://www.yellowduck.be/posts/how-to-introduce-new-ideas)  
@@ -22,6 +23,5 @@
 - `2025-06-14` | [🔗 Distributing command line tools for macOS](https://www.yellowduck.be/posts/distributing-command-line-tools-for-macos)  
 - `2025-06-13` | [🐥 Using tokens for API authentication in Elixir Phoenix](https://www.yellowduck.be/posts/using-tokens-for-api-authentication-in-elixir-phoenix)  
 - `2025-06-13` | [🔗 How I approach feature requests](https://www.yellowduck.be/posts/how-i-approach-feature-requests)  
-- `2025-06-13` | [🔗 How to harden GitHub actions: the unofficial guide](https://www.yellowduck.be/posts/how-to-harden-github-actions-the-unofficial-guide)  
 
 <!-- BLOG-POST-LIST:END -->
