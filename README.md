@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-17` | [🐥 Sorting objects in a custom order using JavaScript](https://www.yellowduck.be/posts/sorting-objects-in-a-custom-order-using-javascript)  
 - `2025-06-17` | [🔗 Plain Vanilla](https://www.yellowduck.be/posts/plain-vanilla)  
 - `2025-06-17` | [🔗 How companies like Uber, Google and Airbnb Disrupt Industries with Location Intelligence?](https://www.yellowduck.be/posts/how-companies-like-uber-google-and-airbnb-disrupt-industries-with-location-intelligence)  
 - `2025-06-16` | [🐥 Parsing ISO8601 duration strings in Elixir using Duration](https://www.yellowduck.be/posts/parsing-iso8601-duration-strings-in-elixir-using-duration)  
@@ -22,6 +23,5 @@
 - `2025-06-15` | [🔗 How to introduce new ideas](https://www.yellowduck.be/posts/how-to-introduce-new-ideas)  
 - `2025-06-15` | [🔗 Stop using REST for state synchronization](https://www.yellowduck.be/posts/stop-using-rest-for-state-synchronization)  
 - `2025-06-14` | [🐥 Accessing a Google Calendar using Elixir](https://www.yellowduck.be/posts/accessing-a-google-calendar-using-elixir)  
-- `2025-06-14` | [🔗 Your software is confusing](https://www.yellowduck.be/posts/your-software-is-confusing)  
 
 <!-- BLOG-POST-LIST:END -->
