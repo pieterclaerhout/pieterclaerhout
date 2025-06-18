@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-18` | [🔗 Learning Elixir: pattern matching in functions](https://www.yellowduck.be/posts/learning-elixir-pattern-matching-in-functions)  
 - `2025-06-18` | [🔗 Entity status history using Ecto](https://www.yellowduck.be/posts/entity-status-history-using-ecto)  
 - `2025-06-17` | [🐥 Sorting objects in a custom order using JavaScript](https://www.yellowduck.be/posts/sorting-objects-in-a-custom-order-using-javascript)  
 - `2025-06-17` | [🔗 Plain Vanilla](https://www.yellowduck.be/posts/plain-vanilla)  
@@ -22,6 +23,5 @@
 - `2025-06-16` | [🔗 10 unique Elixir language features not present in JavaScript](https://www.yellowduck.be/posts/10-unique-elixir-language-features-not-present-in-javascript)  
 - `2025-06-15` | [🐥 Parsing ISO8601 duration strings in Elixir](https://www.yellowduck.be/posts/parsing-iso8601-duration-strings-in-elixir)  
 - `2025-06-15` | [🔗 How to introduce new ideas](https://www.yellowduck.be/posts/how-to-introduce-new-ideas)  
-- `2025-06-15` | [🔗 Stop using REST for state synchronization](https://www.yellowduck.be/posts/stop-using-rest-for-state-synchronization)  
 
 <!-- BLOG-POST-LIST:END -->
