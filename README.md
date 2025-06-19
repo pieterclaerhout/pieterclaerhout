@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-19` | [🔗 MVP, MBI, MMF and MMR - what is the difference?](https://www.yellowduck.be/posts/mvp-mbi-mmf-and-mmr-what-is-the-difference)  
 - `2025-06-18` | [🐥 Sorting with custom order in Elixir](https://www.yellowduck.be/posts/sorting-with-custom-order-in-elixir)  
 - `2025-06-18` | [🔗 Learning Elixir: pattern matching in functions](https://www.yellowduck.be/posts/learning-elixir-pattern-matching-in-functions)  
 - `2025-06-18` | [🔗 Entity status history using Ecto](https://www.yellowduck.be/posts/entity-status-history-using-ecto)  
@@ -22,6 +23,5 @@
 - `2025-06-16` | [🐥 Parsing ISO8601 duration strings in Elixir using Duration](https://www.yellowduck.be/posts/parsing-iso8601-duration-strings-in-elixir-using-duration)  
 - `2025-06-16` | [🔗 Working on complex systems: what I learned working at Google](https://www.yellowduck.be/posts/working-on-complex-systems-what-i-learned-working-at-google)  
 - `2025-06-16` | [🔗 10 unique Elixir language features not present in JavaScript](https://www.yellowduck.be/posts/10-unique-elixir-language-features-not-present-in-javascript)  
-- `2025-06-15` | [🐥 Parsing ISO8601 duration strings in Elixir](https://www.yellowduck.be/posts/parsing-iso8601-duration-strings-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
