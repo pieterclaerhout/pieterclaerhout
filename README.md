@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-20` | [🔗 Do not call toArray&lpar;&rpar; to get all items from a Laravel collection](https://www.yellowduck.be/posts/do-not-call-toarray-to-get-all-items-from-a-laravel-collection)  
 - `2025-06-19` | [🐥 Handling multiple HTTP methods in a single Phoenix route](https://www.yellowduck.be/posts/handling-multiple-http-methods-in-a-single-phoenix-route)  
 - `2025-06-19` | [🔗 The essence of Ash Framework](https://www.yellowduck.be/posts/the-essence-of-ash-framework)  
 - `2025-06-19` | [🔗 MVP, MBI, MMF and MMR - what is the difference?](https://www.yellowduck.be/posts/mvp-mbi-mmf-and-mmr-what-is-the-difference)  
@@ -22,6 +23,5 @@
 - `2025-06-17` | [🐥 Sorting objects in a custom order using JavaScript](https://www.yellowduck.be/posts/sorting-objects-in-a-custom-order-using-javascript)  
 - `2025-06-17` | [🔗 Plain Vanilla](https://www.yellowduck.be/posts/plain-vanilla)  
 - `2025-06-17` | [🔗 How companies like Uber, Google and Airbnb Disrupt Industries with Location Intelligence?](https://www.yellowduck.be/posts/how-companies-like-uber-google-and-airbnb-disrupt-industries-with-location-intelligence)  
-- `2025-06-16` | [🐥 Parsing ISO8601 duration strings in Elixir using Duration](https://www.yellowduck.be/posts/parsing-iso8601-duration-strings-in-elixir-using-duration)  
 
 <!-- BLOG-POST-LIST:END -->
