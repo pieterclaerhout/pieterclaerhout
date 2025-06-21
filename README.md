@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-21` | [🔗 Elegant transaction error handling in Laravel](https://www.yellowduck.be/posts/elegant-transaction-error-handling-in-laravel)  
 - `2025-06-20` | [🐥 Running ExUnit Tests in Elixir Livebook](https://www.yellowduck.be/posts/running-exunit-tests-in-elixir-livebook)  
 - `2025-06-20` | [🔗 Code-related anti-patterns in Elixir](https://www.yellowduck.be/posts/code-related-anti-patterns-elixir-v1-18-3)  
 - `2025-06-20` | [🔗 Do not call toArray&lpar;&rpar; to get all items from a Laravel collection](https://www.yellowduck.be/posts/do-not-call-toarray-to-get-all-items-from-a-laravel-collection)  
@@ -22,6 +23,5 @@
 - `2025-06-18` | [🐥 Sorting with custom order in Elixir](https://www.yellowduck.be/posts/sorting-with-custom-order-in-elixir)  
 - `2025-06-18` | [🔗 Learning Elixir: pattern matching in functions](https://www.yellowduck.be/posts/learning-elixir-pattern-matching-in-functions)  
 - `2025-06-18` | [🔗 Entity status history using Ecto](https://www.yellowduck.be/posts/entity-status-history-using-ecto)  
-- `2025-06-17` | [🐥 Sorting objects in a custom order using JavaScript](https://www.yellowduck.be/posts/sorting-objects-in-a-custom-order-using-javascript)  
 
 <!-- BLOG-POST-LIST:END -->
