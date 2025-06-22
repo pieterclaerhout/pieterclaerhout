@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-22` | [🔗 Simple state management with agents with Elixir](https://www.yellowduck.be/posts/simple-state-management-with-agents-with-elixir)  
 - `2025-06-22` | [🔗 What makes Elixir great for startups?](https://www.yellowduck.be/posts/what-makes-elixir-great-for-startups)  
 - `2025-06-21` | [🐥 Integrating gravatar in your Elixir app](https://www.yellowduck.be/posts/integrating-gravatar-in-your-elixir-app)  
 - `2025-06-21` | [🔗 Streamline API Resources with Laravel&#39;s fluent methods](https://www.yellowduck.be/posts/streamline-api-resources-with-laravels-fluent-methods)  
@@ -22,6 +23,5 @@
 - `2025-06-20` | [🔗 Do not call toArray&lpar;&rpar; to get all items from a Laravel collection](https://www.yellowduck.be/posts/do-not-call-toarray-to-get-all-items-from-a-laravel-collection)  
 - `2025-06-19` | [🐥 Handling multiple HTTP methods in a single Phoenix route](https://www.yellowduck.be/posts/handling-multiple-http-methods-in-a-single-phoenix-route)  
 - `2025-06-19` | [🔗 The essence of Ash Framework](https://www.yellowduck.be/posts/the-essence-of-ash-framework)  
-- `2025-06-19` | [🔗 MVP, MBI, MMF and MMR - what is the difference?](https://www.yellowduck.be/posts/mvp-mbi-mmf-and-mmr-what-is-the-difference)  
 
 <!-- BLOG-POST-LIST:END -->
