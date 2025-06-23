@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-23` | [🐥 Avoiding Flysystem symlink errors in Laravel with Symfony Finder](https://www.yellowduck.be/posts/avoiding-flysystem-symlink-errors-in-laravel-with-symfony-finder)  
 - `2025-06-23` | [🔗 Phoenix.Sync](https://www.yellowduck.be/posts/phoenix-sync)  
 - `2025-06-23` | [🔗 The Belgium SaaS scene](https://www.yellowduck.be/posts/the-belgium-saas-scene)  
 - `2025-06-22` | [🐥 Converting ANSI colors to TailwindCSS classes in Elixir](https://www.yellowduck.be/posts/converting-ansi-colors-to-tailwindcss-classes-in-elixir)  
@@ -22,6 +23,5 @@
 - `2025-06-21` | [🔗 Streamline API Resources with Laravel&#39;s fluent methods](https://www.yellowduck.be/posts/streamline-api-resources-with-laravels-fluent-methods)  
 - `2025-06-21` | [🔗 Elegant transaction error handling in Laravel](https://www.yellowduck.be/posts/elegant-transaction-error-handling-in-laravel)  
 - `2025-06-20` | [🐥 Running ExUnit Tests in Elixir Livebook](https://www.yellowduck.be/posts/running-exunit-tests-in-elixir-livebook)  
-- `2025-06-20` | [🔗 Code-related anti-patterns in Elixir](https://www.yellowduck.be/posts/code-related-anti-patterns-elixir-v1-18-3)  
 
 <!-- BLOG-POST-LIST:END -->
