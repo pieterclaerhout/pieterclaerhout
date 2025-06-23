@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-23` | [🔗 The Belgium SaaS scene](https://www.yellowduck.be/posts/the-belgium-saas-scene)  
 - `2025-06-22` | [🐥 Converting ANSI colors to TailwindCSS classes in Elixir](https://www.yellowduck.be/posts/converting-ansi-colors-to-tailwindcss-classes-in-elixir)  
 - `2025-06-22` | [🔗 Simple state management with agents with Elixir](https://www.yellowduck.be/posts/simple-state-management-with-agents-with-elixir)  
 - `2025-06-22` | [🔗 What makes Elixir great for startups?](https://www.yellowduck.be/posts/what-makes-elixir-great-for-startups)  
@@ -22,6 +23,5 @@
 - `2025-06-20` | [🐥 Running ExUnit Tests in Elixir Livebook](https://www.yellowduck.be/posts/running-exunit-tests-in-elixir-livebook)  
 - `2025-06-20` | [🔗 Code-related anti-patterns in Elixir](https://www.yellowduck.be/posts/code-related-anti-patterns-elixir-v1-18-3)  
 - `2025-06-20` | [🔗 Do not call toArray&lpar;&rpar; to get all items from a Laravel collection](https://www.yellowduck.be/posts/do-not-call-toarray-to-get-all-items-from-a-laravel-collection)  
-- `2025-06-19` | [🐥 Handling multiple HTTP methods in a single Phoenix route](https://www.yellowduck.be/posts/handling-multiple-http-methods-in-a-single-phoenix-route)  
 
 <!-- BLOG-POST-LIST:END -->
