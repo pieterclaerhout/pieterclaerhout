@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-24` | [🔗 Enhanced time testing in Laravel with improved freeze methods](https://www.yellowduck.be/posts/enhanced-time-testing-in-laravel-with-improved-freeze-methods)  
 - `2025-06-24` | [🔗 Scopes — Phoenix v1.8.0](https://www.yellowduck.be/posts/scopes-phoenix-v1-8-0)  
 - `2025-06-23` | [🐥 Avoiding Flysystem symlink errors in Laravel with Symfony Finder](https://www.yellowduck.be/posts/avoiding-flysystem-symlink-errors-in-laravel-with-symfony-finder)  
 - `2025-06-23` | [🔗 Phoenix.Sync](https://www.yellowduck.be/posts/phoenix-sync)  
@@ -22,6 +23,5 @@
 - `2025-06-22` | [🔗 What makes Elixir great for startups?](https://www.yellowduck.be/posts/what-makes-elixir-great-for-startups)  
 - `2025-06-21` | [🐥 Integrating gravatar in your Elixir app](https://www.yellowduck.be/posts/integrating-gravatar-in-your-elixir-app)  
 - `2025-06-21` | [🔗 Streamline API Resources with Laravel&#39;s fluent methods](https://www.yellowduck.be/posts/streamline-api-resources-with-laravels-fluent-methods)  
-- `2025-06-21` | [🔗 Elegant transaction error handling in Laravel](https://www.yellowduck.be/posts/elegant-transaction-error-handling-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
