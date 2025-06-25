@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-25` | [🔗 Embed React, Svelte, or Vue in Phoenix LiveView without sacrificing Elixir simplicity](https://www.yellowduck.be/posts/embed-react-svelte-or-vue-in-phoenix-liveview-without-sacrificing-elixir-simplicity)  
 - `2025-06-24` | [🐥 Understanding and using __STACKTRACE__/0 in Elixir](https://www.yellowduck.be/posts/understanding-and-using-stacktrace-0-in-elixir)  
 - `2025-06-24` | [🔗 Enhanced time testing in Laravel with improved freeze methods](https://www.yellowduck.be/posts/enhanced-time-testing-in-laravel-with-improved-freeze-methods)  
 - `2025-06-24` | [🔗 Scopes — Phoenix v1.8.0](https://www.yellowduck.be/posts/scopes-phoenix-v1-8-0)  
@@ -22,6 +23,5 @@
 - `2025-06-22` | [🐥 Converting ANSI colors to TailwindCSS classes in Elixir](https://www.yellowduck.be/posts/converting-ansi-colors-to-tailwindcss-classes-in-elixir)  
 - `2025-06-22` | [🔗 Simple state management with agents with Elixir](https://www.yellowduck.be/posts/simple-state-management-with-agents-with-elixir)  
 - `2025-06-22` | [🔗 What makes Elixir great for startups?](https://www.yellowduck.be/posts/what-makes-elixir-great-for-startups)  
-- `2025-06-21` | [🐥 Integrating gravatar in your Elixir app](https://www.yellowduck.be/posts/integrating-gravatar-in-your-elixir-app)  
 
 <!-- BLOG-POST-LIST:END -->
