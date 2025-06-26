@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-26` | [🐥 Using tzdata to work with time zones in Elixir](https://www.yellowduck.be/posts/using-tzdata-to-work-with-time-zones-in-elixir)  
 - `2025-06-26` | [🔗 Livewire and Inertia: how we love and use both](https://www.yellowduck.be/posts/livewire-and-inertia-how-we-love-and-use-both)  
 - `2025-06-26` | [🔗 Why good programmers use bad AI](https://www.yellowduck.be/posts/why-good-programmers-use-bad-ai)  
 - `2025-06-25` | [🔗 Defining a dedicated query builder in Laravel 12 with PHP attributes](https://www.yellowduck.be/posts/defining-a-dedicated-query-builder-in-laravel-12-with-php-attributes)  
@@ -22,6 +23,5 @@
 - `2025-06-24` | [🔗 Enhanced time testing in Laravel with improved freeze methods](https://www.yellowduck.be/posts/enhanced-time-testing-in-laravel-with-improved-freeze-methods)  
 - `2025-06-24` | [🔗 Scopes — Phoenix v1.8.0](https://www.yellowduck.be/posts/scopes-phoenix-v1-8-0)  
 - `2025-06-23` | [🐥 Avoiding Flysystem symlink errors in Laravel with Symfony Finder](https://www.yellowduck.be/posts/avoiding-flysystem-symlink-errors-in-laravel-with-symfony-finder)  
-- `2025-06-23` | [🔗 Phoenix.Sync](https://www.yellowduck.be/posts/phoenix-sync)  
 
 <!-- BLOG-POST-LIST:END -->
