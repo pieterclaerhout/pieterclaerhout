@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-26` | [🔗 Why good programmers use bad AI](https://www.yellowduck.be/posts/why-good-programmers-use-bad-ai)  
 - `2025-06-25` | [🔗 Defining a dedicated query builder in Laravel 12 with PHP attributes](https://www.yellowduck.be/posts/defining-a-dedicated-query-builder-in-laravel-12-with-php-attributes)  
 - `2025-06-25` | [🔗 Things you should never do, part I](https://www.yellowduck.be/posts/things-you-should-never-do-part-i)  
 - `2025-06-25` | [🔗 Embed React, Svelte, or Vue in Phoenix LiveView without sacrificing Elixir simplicity](https://www.yellowduck.be/posts/embed-react-svelte-or-vue-in-phoenix-liveview-without-sacrificing-elixir-simplicity)  
@@ -22,6 +23,5 @@
 - `2025-06-23` | [🐥 Avoiding Flysystem symlink errors in Laravel with Symfony Finder](https://www.yellowduck.be/posts/avoiding-flysystem-symlink-errors-in-laravel-with-symfony-finder)  
 - `2025-06-23` | [🔗 Phoenix.Sync](https://www.yellowduck.be/posts/phoenix-sync)  
 - `2025-06-23` | [🔗 The Belgium SaaS scene](https://www.yellowduck.be/posts/the-belgium-saas-scene)  
-- `2025-06-22` | [🐥 Converting ANSI colors to TailwindCSS classes in Elixir](https://www.yellowduck.be/posts/converting-ansi-colors-to-tailwindcss-classes-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
