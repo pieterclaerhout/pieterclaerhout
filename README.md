@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-27` | [🔗 Announcing TypeScript native previews](https://www.yellowduck.be/posts/announcing-typescript-native-previews)  
 - `2025-06-27` | [🔗 Underrated power of Laravel commands](https://www.yellowduck.be/posts/underrated-power-of-laravel-commands)  
 - `2025-06-26` | [🐥 Using tzdata to work with time zones in Elixir](https://www.yellowduck.be/posts/using-tzdata-to-work-with-time-zones-in-elixir)  
 - `2025-06-26` | [🔗 Livewire and Inertia: how we love and use both](https://www.yellowduck.be/posts/livewire-and-inertia-how-we-love-and-use-both)  
@@ -22,6 +23,5 @@
 - `2025-06-25` | [🔗 Embed React, Svelte, or Vue in Phoenix LiveView without sacrificing Elixir simplicity](https://www.yellowduck.be/posts/embed-react-svelte-or-vue-in-phoenix-liveview-without-sacrificing-elixir-simplicity)  
 - `2025-06-24` | [🐥 Understanding and using __STACKTRACE__/0 in Elixir](https://www.yellowduck.be/posts/understanding-and-using-stacktrace-0-in-elixir)  
 - `2025-06-24` | [🔗 Enhanced time testing in Laravel with improved freeze methods](https://www.yellowduck.be/posts/enhanced-time-testing-in-laravel-with-improved-freeze-methods)  
-- `2025-06-24` | [🔗 Scopes — Phoenix v1.8.0](https://www.yellowduck.be/posts/scopes-phoenix-v1-8-0)  
 
 <!-- BLOG-POST-LIST:END -->
