@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-28` | [🐥 Removing duplicate lines in Elixir while preserving empty lines](https://www.yellowduck.be/posts/removing-duplicate-lines-in-elixir-while-preserving-empty-lines)  
 - `2025-06-28` | [🔗 sqlite_vec: A wrapper to use sqlite-vec in Elixir](https://www.yellowduck.be/posts/github-joelpaulkoch-sqlite-vec-a-wrapper-to-use-sqlite-vec-in-elixir)  
 - `2025-06-28` | [🔗 Triggering JS from the server in LiveView: showing a spinner](https://www.yellowduck.be/posts/triggering-js-from-the-server-in-liveview-showing-a-spinner)  
 - `2025-06-27` | [🐥 Case-insensitive identities with Ash and Elixir](https://www.yellowduck.be/posts/case-insensitive-identities-with-ash)  
@@ -22,6 +23,5 @@
 - `2025-06-26` | [🔗 Livewire and Inertia: how we love and use both](https://www.yellowduck.be/posts/livewire-and-inertia-how-we-love-and-use-both)  
 - `2025-06-26` | [🔗 Why good programmers use bad AI](https://www.yellowduck.be/posts/why-good-programmers-use-bad-ai)  
 - `2025-06-25` | [🔗 Defining a dedicated query builder in Laravel 12 with PHP attributes](https://www.yellowduck.be/posts/defining-a-dedicated-query-builder-in-laravel-12-with-php-attributes)  
-- `2025-06-25` | [🔗 Things you should never do, part I](https://www.yellowduck.be/posts/things-you-should-never-do-part-i)  
 
 <!-- BLOG-POST-LIST:END -->
