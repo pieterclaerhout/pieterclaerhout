@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-30` | [🔗 How we use Oban with Elixir to handle our billing routines](https://www.yellowduck.be/posts/how-we-use-oban-with-elixir-to-handle-our-billing-routines)  
 - `2025-06-29` | [🐥 How to check for remote changes and local branches in Git](https://www.yellowduck.be/posts/how-to-check-for-remote-changes-and-local-branches-in-git)  
 - `2025-06-29` | [🔗 Your stubborn coding style is holding the team back](https://www.yellowduck.be/posts/your-stubborn-coding-style-is-holding-the-team-back)  
 - `2025-06-29` | [🔗 PostgreSQL 17 cluster config missing after upgrade on Ubuntu](https://www.yellowduck.be/posts/postgresql-17-cluster-config-missing-after-upgrade-on-ubuntu)  
@@ -22,6 +23,5 @@
 - `2025-06-27` | [🐥 Case-insensitive identities with Ash and Elixir](https://www.yellowduck.be/posts/case-insensitive-identities-with-ash)  
 - `2025-06-27` | [🔗 Announcing TypeScript native previews](https://www.yellowduck.be/posts/announcing-typescript-native-previews)  
 - `2025-06-27` | [🔗 Underrated power of Laravel commands](https://www.yellowduck.be/posts/underrated-power-of-laravel-commands)  
-- `2025-06-26` | [🐥 Using tzdata to work with time zones in Elixir](https://www.yellowduck.be/posts/using-tzdata-to-work-with-time-zones-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
