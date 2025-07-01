@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-01` | [🔗 Developer marketing is show and tell](https://www.yellowduck.be/posts/developer-marketing-is-show-and-tell)  
 - `2025-07-01` | [🔗 Automatically format code on file save in Visual Studio Code](https://www.yellowduck.be/posts/automatically-format-code-on-file-save-in-visual-studio-code)  
 - `2025-06-30` | [🔗 Impostor syndrome – maybe i’m not good enough?](https://www.yellowduck.be/posts/impostor-syndrome-maybe-im-not-good-enough)  
 - `2025-06-30` | [🔗 How we use Oban with Elixir to handle our billing routines](https://www.yellowduck.be/posts/how-we-use-oban-with-elixir-to-handle-our-billing-routines)  
@@ -22,6 +23,5 @@
 - `2025-06-28` | [🐥 Removing duplicate lines in Elixir while preserving empty lines](https://www.yellowduck.be/posts/removing-duplicate-lines-in-elixir-while-preserving-empty-lines)  
 - `2025-06-28` | [🔗 sqlite_vec: A wrapper to use sqlite-vec in Elixir](https://www.yellowduck.be/posts/github-joelpaulkoch-sqlite-vec-a-wrapper-to-use-sqlite-vec-in-elixir)  
 - `2025-06-28` | [🔗 Triggering JS from the server in LiveView: showing a spinner](https://www.yellowduck.be/posts/triggering-js-from-the-server-in-liveview-showing-a-spinner)  
-- `2025-06-27` | [🐥 Case-insensitive identities with Ash and Elixir](https://www.yellowduck.be/posts/case-insensitive-identities-with-ash)  
 
 <!-- BLOG-POST-LIST:END -->
