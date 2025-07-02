@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-02` | [🔗 My Laravel Horizon preferences after 5 years of using it](https://www.yellowduck.be/posts/my-laravel-horizon-preferences-after-5-years-of-using-it)  
 - `2025-07-01` | [🔗 Developer marketing is show and tell](https://www.yellowduck.be/posts/developer-marketing-is-show-and-tell)  
 - `2025-07-01` | [🔗 Automatically format code on file save in Visual Studio Code](https://www.yellowduck.be/posts/automatically-format-code-on-file-save-in-visual-studio-code)  
 - `2025-06-30` | [🔗 Impostor syndrome – maybe i’m not good enough?](https://www.yellowduck.be/posts/impostor-syndrome-maybe-im-not-good-enough)  
@@ -22,6 +23,5 @@
 - `2025-06-29` | [🔗 PostgreSQL 17 cluster config missing after upgrade on Ubuntu](https://www.yellowduck.be/posts/postgresql-17-cluster-config-missing-after-upgrade-on-ubuntu)  
 - `2025-06-28` | [🐥 Removing duplicate lines in Elixir while preserving empty lines](https://www.yellowduck.be/posts/removing-duplicate-lines-in-elixir-while-preserving-empty-lines)  
 - `2025-06-28` | [🔗 sqlite_vec: A wrapper to use sqlite-vec in Elixir](https://www.yellowduck.be/posts/github-joelpaulkoch-sqlite-vec-a-wrapper-to-use-sqlite-vec-in-elixir)  
-- `2025-06-28` | [🔗 Triggering JS from the server in LiveView: showing a spinner](https://www.yellowduck.be/posts/triggering-js-from-the-server-in-liveview-showing-a-spinner)  
 
 <!-- BLOG-POST-LIST:END -->
