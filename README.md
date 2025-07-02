@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-02` | [🔗 In defense of shallow technical knowledge](https://www.yellowduck.be/posts/in-defense-of-shallow-technical-knowledge)  
 - `2025-07-02` | [🔗 My Laravel Horizon preferences after 5 years of using it](https://www.yellowduck.be/posts/my-laravel-horizon-preferences-after-5-years-of-using-it)  
 - `2025-07-01` | [🔗 Developer marketing is show and tell](https://www.yellowduck.be/posts/developer-marketing-is-show-and-tell)  
 - `2025-07-01` | [🔗 Automatically format code on file save in Visual Studio Code](https://www.yellowduck.be/posts/automatically-format-code-on-file-save-in-visual-studio-code)  
@@ -22,6 +23,5 @@
 - `2025-06-29` | [🔗 Your stubborn coding style is holding the team back](https://www.yellowduck.be/posts/your-stubborn-coding-style-is-holding-the-team-back)  
 - `2025-06-29` | [🔗 PostgreSQL 17 cluster config missing after upgrade on Ubuntu](https://www.yellowduck.be/posts/postgresql-17-cluster-config-missing-after-upgrade-on-ubuntu)  
 - `2025-06-28` | [🐥 Removing duplicate lines in Elixir while preserving empty lines](https://www.yellowduck.be/posts/removing-duplicate-lines-in-elixir-while-preserving-empty-lines)  
-- `2025-06-28` | [🔗 sqlite_vec: A wrapper to use sqlite-vec in Elixir](https://www.yellowduck.be/posts/github-joelpaulkoch-sqlite-vec-a-wrapper-to-use-sqlite-vec-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
