@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-05` | [🔗 Elixir CI on Speed](https://www.yellowduck.be/posts/elixir-ci-on-speed-fredrik-teschke)  
 - `2025-07-04` | [🔗 Phoenix LiveView + Headless UI](https://www.yellowduck.be/posts/phoenix-liveview-headless-ui)  
 - `2025-07-04` | [🔗 Nested forms in Phoenix LiveView: advanced tips and tricks](https://www.yellowduck.be/posts/nested-forms-in-phoenix-liveview-advanced-tips-and-tricks)  
 - `2025-07-03` | [🔗 Pattern matching 20 habits of exceptional startups](https://www.yellowduck.be/posts/pattern-matching-20-habits-of-exceptional-startups)  
@@ -22,6 +23,5 @@
 - `2025-07-01` | [🔗 Developer marketing is show and tell](https://www.yellowduck.be/posts/developer-marketing-is-show-and-tell)  
 - `2025-07-01` | [🔗 Automatically format code on file save in Visual Studio Code](https://www.yellowduck.be/posts/automatically-format-code-on-file-save-in-visual-studio-code)  
 - `2025-06-30` | [🔗 Impostor syndrome – maybe i’m not good enough?](https://www.yellowduck.be/posts/impostor-syndrome-maybe-im-not-good-enough)  
-- `2025-06-30` | [🔗 How we use Oban with Elixir to handle our billing routines](https://www.yellowduck.be/posts/how-we-use-oban-with-elixir-to-handle-our-billing-routines)  
 
 <!-- BLOG-POST-LIST:END -->
