@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-06` | [🔗 Managing distributed state with GenServers in Phoenix and Elixir](https://www.yellowduck.be/posts/managing-distributed-state-with-genservers-in-phoenix-and-elixir)  
 - `2025-07-06` | [🔗 Distributed Phoenix: deployment and scaling](https://www.yellowduck.be/posts/distributed-phoenix-deployment-and-scaling)  
 - `2025-07-05` | [🔗 Introducing Elixir Observer: A better way to explore Elixir packages](https://www.yellowduck.be/posts/introducing-elixir-observer-a-better-way-to-explore-elixir-packages)  
 - `2025-07-05` | [🔗 Elixir CI on Speed](https://www.yellowduck.be/posts/elixir-ci-on-speed-fredrik-teschke)  
@@ -22,6 +23,5 @@
 - `2025-07-03` | [🔗 A visual tour of Phoenix&#39;s updated &#39;magic link&#39; authentication code generator](https://www.yellowduck.be/posts/a-visual-tour-of-phoenixs-updated-magic-link-authentication-code-generator)  
 - `2025-07-02` | [🔗 In defense of shallow technical knowledge](https://www.yellowduck.be/posts/in-defense-of-shallow-technical-knowledge)  
 - `2025-07-02` | [🔗 My Laravel Horizon preferences after 5 years of using it](https://www.yellowduck.be/posts/my-laravel-horizon-preferences-after-5-years-of-using-it)  
-- `2025-07-01` | [🔗 Developer marketing is show and tell](https://www.yellowduck.be/posts/developer-marketing-is-show-and-tell)  
 
 <!-- BLOG-POST-LIST:END -->
