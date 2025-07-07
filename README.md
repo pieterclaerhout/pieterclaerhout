@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-07` | [🔗 Stuff I learned at Carta](https://www.yellowduck.be/posts/stuff-i-learned-at-carta)  
 - `2025-07-07` | [🔗 You can choose tools that make you happy](https://www.yellowduck.be/posts/you-can-choose-tools-that-make-you-happy)  
 - `2025-07-06` | [🐥 How to update a query string parameter in a URL using Elixir](https://www.yellowduck.be/posts/how-to-update-a-query-string-parameter-in-a-url-using-elixir)  
 - `2025-07-06` | [🔗 Managing distributed state with GenServers in Phoenix and Elixir](https://www.yellowduck.be/posts/managing-distributed-state-with-genservers-in-phoenix-and-elixir)  
@@ -22,6 +23,5 @@
 - `2025-07-04` | [🔗 Phoenix LiveView + Headless UI](https://www.yellowduck.be/posts/phoenix-liveview-headless-ui)  
 - `2025-07-04` | [🔗 Nested forms in Phoenix LiveView: advanced tips and tricks](https://www.yellowduck.be/posts/nested-forms-in-phoenix-liveview-advanced-tips-and-tricks)  
 - `2025-07-03` | [🔗 Pattern matching 20 habits of exceptional startups](https://www.yellowduck.be/posts/pattern-matching-20-habits-of-exceptional-startups)  
-- `2025-07-03` | [🔗 A visual tour of Phoenix&#39;s updated &#39;magic link&#39; authentication code generator](https://www.yellowduck.be/posts/a-visual-tour-of-phoenixs-updated-magic-link-authentication-code-generator)  
 
 <!-- BLOG-POST-LIST:END -->
