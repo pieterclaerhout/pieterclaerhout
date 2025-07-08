@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-08` | [🔗 You probably don&#39;t need a DI framework](https://www.yellowduck.be/posts/you-probably-dont-need-a-di-framework)  
 - `2025-07-07` | [🐥 The ShouldntReport interface in Laravel](https://www.yellowduck.be/posts/the-shouldntreport-interface-in-laravel)  
 - `2025-07-07` | [🔗 Stuff I learned at Carta](https://www.yellowduck.be/posts/stuff-i-learned-at-carta)  
 - `2025-07-07` | [🔗 You can choose tools that make you happy](https://www.yellowduck.be/posts/you-can-choose-tools-that-make-you-happy)  
@@ -22,6 +23,5 @@
 - `2025-07-05` | [🔗 Introducing Elixir Observer: A better way to explore Elixir packages](https://www.yellowduck.be/posts/introducing-elixir-observer-a-better-way-to-explore-elixir-packages)  
 - `2025-07-05` | [🔗 Elixir CI on Speed](https://www.yellowduck.be/posts/elixir-ci-on-speed-fredrik-teschke)  
 - `2025-07-04` | [🔗 Phoenix LiveView + Headless UI](https://www.yellowduck.be/posts/phoenix-liveview-headless-ui)  
-- `2025-07-04` | [🔗 Nested forms in Phoenix LiveView: advanced tips and tricks](https://www.yellowduck.be/posts/nested-forms-in-phoenix-liveview-advanced-tips-and-tricks)  
 
 <!-- BLOG-POST-LIST:END -->
