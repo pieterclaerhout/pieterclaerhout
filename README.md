@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-09` | [🔗 Why people really quit — and how great managers make them want to stay](https://www.yellowduck.be/posts/why-people-really-quit-and-how-great-managers-make-them-want-to-stay)  
 - `2025-07-09` | [🔗 My wildly incorrect bias about corporate engineers](https://www.yellowduck.be/posts/my-wildly-incorrect-bias-about-corporate-engineers)  
 - `2025-07-08` | [🔗 OpenAI: Scaling PostgreSQL to the next Level](https://www.yellowduck.be/posts/openai-scaling-postgresql-to-the-next-level)  
 - `2025-07-08` | [🔗 You probably don&#39;t need a DI framework](https://www.yellowduck.be/posts/you-probably-dont-need-a-di-framework)  
@@ -22,6 +23,5 @@
 - `2025-07-06` | [🐥 How to update a query string parameter in a URL using Elixir](https://www.yellowduck.be/posts/how-to-update-a-query-string-parameter-in-a-url-using-elixir)  
 - `2025-07-06` | [🔗 Managing distributed state with GenServers in Phoenix and Elixir](https://www.yellowduck.be/posts/managing-distributed-state-with-genservers-in-phoenix-and-elixir)  
 - `2025-07-06` | [🔗 Distributed Phoenix: deployment and scaling](https://www.yellowduck.be/posts/distributed-phoenix-deployment-and-scaling)  
-- `2025-07-05` | [🔗 Introducing Elixir Observer: A better way to explore Elixir packages](https://www.yellowduck.be/posts/introducing-elixir-observer-a-better-way-to-explore-elixir-packages)  
 
 <!-- BLOG-POST-LIST:END -->
