@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-10` | [🔗 How to compose and refactor Ecto queries with queries modules](https://www.yellowduck.be/posts/how-to-compose-and-refactor-ecto-queries-with-queries-modules)  
 - `2025-07-09` | [🔗 Why people really quit — and how great managers make them want to stay](https://www.yellowduck.be/posts/why-people-really-quit-and-how-great-managers-make-them-want-to-stay)  
 - `2025-07-09` | [🔗 My wildly incorrect bias about corporate engineers](https://www.yellowduck.be/posts/my-wildly-incorrect-bias-about-corporate-engineers)  
 - `2025-07-08` | [🔗 OpenAI: Scaling PostgreSQL to the next Level](https://www.yellowduck.be/posts/openai-scaling-postgresql-to-the-next-level)  
@@ -22,6 +23,5 @@
 - `2025-07-07` | [🔗 You can choose tools that make you happy](https://www.yellowduck.be/posts/you-can-choose-tools-that-make-you-happy)  
 - `2025-07-06` | [🐥 How to update a query string parameter in a URL using Elixir](https://www.yellowduck.be/posts/how-to-update-a-query-string-parameter-in-a-url-using-elixir)  
 - `2025-07-06` | [🔗 Managing distributed state with GenServers in Phoenix and Elixir](https://www.yellowduck.be/posts/managing-distributed-state-with-genservers-in-phoenix-and-elixir)  
-- `2025-07-06` | [🔗 Distributed Phoenix: deployment and scaling](https://www.yellowduck.be/posts/distributed-phoenix-deployment-and-scaling)  
 
 <!-- BLOG-POST-LIST:END -->
