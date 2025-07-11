@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-11` | [🔗 Komoot team says goodbye](https://www.yellowduck.be/posts/komoot-team-says-goodbye)  
 - `2025-07-11` | [🔗 Announcing Rolldown-Vite](https://www.yellowduck.be/posts/announcing-rolldown-vite)  
 - `2025-07-10` | [🔗 Overengineered #001: Hello World](https://www.yellowduck.be/posts/overengineered-001-hello-world)  
 - `2025-07-10` | [🔗 How to compose and refactor Ecto queries with queries modules](https://www.yellowduck.be/posts/how-to-compose-and-refactor-ecto-queries-with-queries-modules)  
@@ -22,6 +23,5 @@
 - `2025-07-08` | [🔗 You probably don&#39;t need a DI framework](https://www.yellowduck.be/posts/you-probably-dont-need-a-di-framework)  
 - `2025-07-07` | [🐥 The ShouldntReport interface in Laravel](https://www.yellowduck.be/posts/the-shouldntreport-interface-in-laravel)  
 - `2025-07-07` | [🔗 Stuff I learned at Carta](https://www.yellowduck.be/posts/stuff-i-learned-at-carta)  
-- `2025-07-07` | [🔗 You can choose tools that make you happy](https://www.yellowduck.be/posts/you-can-choose-tools-that-make-you-happy)  
 
 <!-- BLOG-POST-LIST:END -->
