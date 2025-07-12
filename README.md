@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-12` | [🔗 Microsoft designates Blazor as its main future investment in web UI for .NET](https://www.yellowduck.be/posts/microsoft-designates-blazor-as-its-main-future-investment-in-web-ui-for-net)  
 - `2025-07-12` | [🔗 Why all programming will be Functional Programming](https://www.yellowduck.be/posts/why-all-programming-will-be-functional-programming)  
 - `2025-07-11` | [🔗 Komoot team says goodbye](https://www.yellowduck.be/posts/komoot-team-says-goodbye)  
 - `2025-07-11` | [🔗 Announcing Rolldown-Vite](https://www.yellowduck.be/posts/announcing-rolldown-vite)  
@@ -22,6 +23,5 @@
 - `2025-07-09` | [🔗 My wildly incorrect bias about corporate engineers](https://www.yellowduck.be/posts/my-wildly-incorrect-bias-about-corporate-engineers)  
 - `2025-07-08` | [🔗 OpenAI: Scaling PostgreSQL to the next Level](https://www.yellowduck.be/posts/openai-scaling-postgresql-to-the-next-level)  
 - `2025-07-08` | [🔗 You probably don&#39;t need a DI framework](https://www.yellowduck.be/posts/you-probably-dont-need-a-di-framework)  
-- `2025-07-07` | [🐥 The ShouldntReport interface in Laravel](https://www.yellowduck.be/posts/the-shouldntreport-interface-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
