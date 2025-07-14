@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-14` | [🔗 Learning Elixir: pipe operator](https://www.yellowduck.be/posts/learning-elixir-pipe-operator)  
 - `2025-07-14` | [🔗 When a team is too big](https://www.yellowduck.be/posts/when-a-team-is-too-big)  
 - `2025-07-13` | [🔗 LLMs &amp; Elixir: windfall or deathblow?](https://www.yellowduck.be/posts/llms-elixir-windfall-or-deathblow)  
 - `2025-07-13` | [🔗 Health as a dev](https://www.yellowduck.be/posts/health-as-a-dev)  
@@ -22,6 +23,5 @@
 - `2025-07-11` | [🔗 Announcing Rolldown-Vite](https://www.yellowduck.be/posts/announcing-rolldown-vite)  
 - `2025-07-10` | [🔗 Overengineered #001: Hello World](https://www.yellowduck.be/posts/overengineered-001-hello-world)  
 - `2025-07-10` | [🔗 How to compose and refactor Ecto queries with queries modules](https://www.yellowduck.be/posts/how-to-compose-and-refactor-ecto-queries-with-queries-modules)  
-- `2025-07-09` | [🔗 Why people really quit — and how great managers make them want to stay](https://www.yellowduck.be/posts/why-people-really-quit-and-how-great-managers-make-them-want-to-stay)  
 
 <!-- BLOG-POST-LIST:END -->
