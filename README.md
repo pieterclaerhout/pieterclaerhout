@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-15` | [🔗 Level up your developer experience: five practical strategies for engineering teams](https://www.yellowduck.be/posts/level-up-your-developer-experience-five-practical-strategies-for-engineering-teams)  
 - `2025-07-14` | [🐥 A quick way to get an LLM-friendly view of any GitHub repo](https://www.yellowduck.be/posts/a-quick-way-to-get-an-llm-friendly-view-of-any-github-repo)  
 - `2025-07-14` | [🔗 Learning Elixir: pipe operator](https://www.yellowduck.be/posts/learning-elixir-pipe-operator)  
 - `2025-07-14` | [🔗 When a team is too big](https://www.yellowduck.be/posts/when-a-team-is-too-big)  
@@ -22,6 +23,5 @@
 - `2025-07-12` | [🔗 Why all programming will be Functional Programming](https://www.yellowduck.be/posts/why-all-programming-will-be-functional-programming)  
 - `2025-07-11` | [🔗 Komoot team says goodbye](https://www.yellowduck.be/posts/komoot-team-says-goodbye)  
 - `2025-07-11` | [🔗 Announcing Rolldown-Vite](https://www.yellowduck.be/posts/announcing-rolldown-vite)  
-- `2025-07-10` | [🔗 Overengineered #001: Hello World](https://www.yellowduck.be/posts/overengineered-001-hello-world)  
 
 <!-- BLOG-POST-LIST:END -->
