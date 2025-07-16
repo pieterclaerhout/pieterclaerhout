@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-16` | [🔗 Subdomain-based multi-tenancy in Phoenix: an implementation guide](https://www.yellowduck.be/posts/subdomain-based-multi-tenancy-in-phoenix-an-implementation-guide)  
 - `2025-07-15` | [🔗 Working with Google sheets and Phoenix framework in Elixir](https://www.yellowduck.be/posts/working-with-google-sheets-and-phoenix-framework-in-elixir)  
 - `2025-07-15` | [🔗 Level up your developer experience: five practical strategies for engineering teams](https://www.yellowduck.be/posts/level-up-your-developer-experience-five-practical-strategies-for-engineering-teams)  
 - `2025-07-14` | [🐥 A quick way to get an LLM-friendly view of any GitHub repo](https://www.yellowduck.be/posts/a-quick-way-to-get-an-llm-friendly-view-of-any-github-repo)  
@@ -22,6 +23,5 @@
 - `2025-07-13` | [🔗 Health as a dev](https://www.yellowduck.be/posts/health-as-a-dev)  
 - `2025-07-12` | [🔗 Microsoft designates Blazor as its main future investment in web UI for .NET](https://www.yellowduck.be/posts/microsoft-designates-blazor-as-its-main-future-investment-in-web-ui-for-net)  
 - `2025-07-12` | [🔗 Why all programming will be Functional Programming](https://www.yellowduck.be/posts/why-all-programming-will-be-functional-programming)  
-- `2025-07-11` | [🔗 Komoot team says goodbye](https://www.yellowduck.be/posts/komoot-team-says-goodbye)  
 
 <!-- BLOG-POST-LIST:END -->
