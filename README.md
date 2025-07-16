@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-16` | [🐥 Upgrading Phoenix LiveView to version 1.1](https://www.yellowduck.be/posts/upgrading-phoenix-liveview-to-version-1-1)  
 - `2025-07-16` | [🔗 Avoiding common startup tech mistakes](https://www.yellowduck.be/posts/avoiding-common-startup-tech-mistakes)  
 - `2025-07-16` | [🔗 Subdomain-based multi-tenancy in Phoenix: an implementation guide](https://www.yellowduck.be/posts/subdomain-based-multi-tenancy-in-phoenix-an-implementation-guide)  
 - `2025-07-15` | [🔗 Working with Google sheets and Phoenix framework in Elixir](https://www.yellowduck.be/posts/working-with-google-sheets-and-phoenix-framework-in-elixir)  
@@ -22,6 +23,5 @@
 - `2025-07-14` | [🔗 When a team is too big](https://www.yellowduck.be/posts/when-a-team-is-too-big)  
 - `2025-07-13` | [🔗 LLMs &amp; Elixir: windfall or deathblow?](https://www.yellowduck.be/posts/llms-elixir-windfall-or-deathblow)  
 - `2025-07-13` | [🔗 Health as a dev](https://www.yellowduck.be/posts/health-as-a-dev)  
-- `2025-07-12` | [🔗 Microsoft designates Blazor as its main future investment in web UI for .NET](https://www.yellowduck.be/posts/microsoft-designates-blazor-as-its-main-future-investment-in-web-ui-for-net)  
 
 <!-- BLOG-POST-LIST:END -->
