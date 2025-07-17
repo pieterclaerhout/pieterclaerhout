@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-17` | [🔗 Five code efficiency hacks your LLM does not want you to know](https://www.yellowduck.be/posts/five-code-efficiency-hacks-your-llm-does-not-want-you-to-know-bitcrowd-blog)  
 - `2025-07-17` | [🔗 Why GUIs are built at least 2.5 times](https://www.yellowduck.be/posts/why-guis-are-built-at-least-2-5-times)  
 - `2025-07-16` | [🐥 Upgrading Phoenix LiveView to version 1.1](https://www.yellowduck.be/posts/upgrading-phoenix-liveview-to-version-1-1)  
 - `2025-07-16` | [🔗 Avoiding common startup tech mistakes](https://www.yellowduck.be/posts/avoiding-common-startup-tech-mistakes)  
@@ -22,6 +23,5 @@
 - `2025-07-14` | [🐥 A quick way to get an LLM-friendly view of any GitHub repo](https://www.yellowduck.be/posts/a-quick-way-to-get-an-llm-friendly-view-of-any-github-repo)  
 - `2025-07-14` | [🔗 Learning Elixir: pipe operator](https://www.yellowduck.be/posts/learning-elixir-pipe-operator)  
 - `2025-07-14` | [🔗 When a team is too big](https://www.yellowduck.be/posts/when-a-team-is-too-big)  
-- `2025-07-13` | [🔗 LLMs &amp; Elixir: windfall or deathblow?](https://www.yellowduck.be/posts/llms-elixir-windfall-or-deathblow)  
 
 <!-- BLOG-POST-LIST:END -->
