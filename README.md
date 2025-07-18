@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-18` | [🐥 Running long-lived SSH commands with tmux](https://www.yellowduck.be/posts/running-long-lived-ssh-commands-with-tmux)  
 - `2025-07-18` | [🔗 Understanding consistency in databases: beyond basic ACID](https://www.yellowduck.be/posts/understanding-consistency-in-databases-beyond-basic-acid)  
 - `2025-07-18` | [🔗 2 years as a CTO - a follow up](https://www.yellowduck.be/posts/2-years-as-a-cto-a-follow-up)  
 - `2025-07-17` | [🐥 Nice idea: Web.Paths in Elixir Phoenix](https://www.yellowduck.be/posts/nice-idea-web-paths-in-elixir-phoenix)  
@@ -22,6 +23,5 @@
 - `2025-07-16` | [🔗 Avoiding common startup tech mistakes](https://www.yellowduck.be/posts/avoiding-common-startup-tech-mistakes)  
 - `2025-07-16` | [🔗 Subdomain-based multi-tenancy in Phoenix: an implementation guide](https://www.yellowduck.be/posts/subdomain-based-multi-tenancy-in-phoenix-an-implementation-guide)  
 - `2025-07-15` | [🔗 Working with Google sheets and Phoenix framework in Elixir](https://www.yellowduck.be/posts/working-with-google-sheets-and-phoenix-framework-in-elixir)  
-- `2025-07-15` | [🔗 Level up your developer experience: five practical strategies for engineering teams](https://www.yellowduck.be/posts/level-up-your-developer-experience-five-practical-strategies-for-engineering-teams)  
 
 <!-- BLOG-POST-LIST:END -->
