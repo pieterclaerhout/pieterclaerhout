@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-20` | [🔗 Tailwind is the worst form of CSS, except for all the others](https://www.yellowduck.be/posts/tailwind-is-the-worst-form-of-css-except-for-all-the-others)  
 - `2025-07-19` | [🔗 SPAs were a mistake](https://www.yellowduck.be/posts/spas-were-a-mistake)  
 - `2025-07-19` | [🔗 Advanced inserts with Ecto](https://www.yellowduck.be/posts/advanced-inserts-with-ecto)  
 - `2025-07-18` | [🐥 Running long-lived SSH commands with tmux](https://www.yellowduck.be/posts/running-long-lived-ssh-commands-with-tmux)  
@@ -22,6 +23,5 @@
 - `2025-07-17` | [🔗 Five code efficiency hacks your LLM does not want you to know](https://www.yellowduck.be/posts/five-code-efficiency-hacks-your-llm-does-not-want-you-to-know-bitcrowd-blog)  
 - `2025-07-17` | [🔗 Why GUIs are built at least 2.5 times](https://www.yellowduck.be/posts/why-guis-are-built-at-least-2-5-times)  
 - `2025-07-16` | [🐥 Upgrading Phoenix LiveView to version 1.1](https://www.yellowduck.be/posts/upgrading-phoenix-liveview-to-version-1-1)  
-- `2025-07-16` | [🔗 Avoiding common startup tech mistakes](https://www.yellowduck.be/posts/avoiding-common-startup-tech-mistakes)  
 
 <!-- BLOG-POST-LIST:END -->
