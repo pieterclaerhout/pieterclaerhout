@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-21` | [🔗 live_render/3 to encapsulate state &lpar;with error isolation&rpar;](https://www.yellowduck.be/posts/live-render-3-to-encapsulate-state-with-error-isolation)  
 - `2025-07-20` | [🔗 A practical guide to Elixir’s task module — let’s create a cron job](https://www.yellowduck.be/posts/a-practical-guide-to-elixirs-task-module-lets-create-a-cron-job)  
 - `2025-07-20` | [🔗 Tailwind is the worst form of CSS, except for all the others](https://www.yellowduck.be/posts/tailwind-is-the-worst-form-of-css-except-for-all-the-others)  
 - `2025-07-19` | [🔗 SPAs were a mistake](https://www.yellowduck.be/posts/spas-were-a-mistake)  
@@ -22,6 +23,5 @@
 - `2025-07-18` | [🔗 2 years as a CTO - a follow up](https://www.yellowduck.be/posts/2-years-as-a-cto-a-follow-up)  
 - `2025-07-17` | [🐥 Nice idea: Web.Paths in Elixir Phoenix](https://www.yellowduck.be/posts/nice-idea-web-paths-in-elixir-phoenix)  
 - `2025-07-17` | [🔗 Five code efficiency hacks your LLM does not want you to know](https://www.yellowduck.be/posts/five-code-efficiency-hacks-your-llm-does-not-want-you-to-know-bitcrowd-blog)  
-- `2025-07-17` | [🔗 Why GUIs are built at least 2.5 times](https://www.yellowduck.be/posts/why-guis-are-built-at-least-2-5-times)  
 
 <!-- BLOG-POST-LIST:END -->
