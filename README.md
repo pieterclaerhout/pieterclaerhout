@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-23` | [🔗 Setting up auditing for a phoenix_live_view application](https://www.yellowduck.be/posts/setting-up-auditing-for-a-phoenix-live-view-application)  
 - `2025-07-22` | [🔗 Deploying Phoenix applications with Kamal](https://www.yellowduck.be/posts/deploying-phoenix-applications-with-kamal)  
 - `2025-07-22` | [🔗 Modern &lpar;Go&rpar; application design](https://www.yellowduck.be/posts/modern-go-application-design)  
 - `2025-07-21` | [🔗 [ On | No ] syntactic support for error handling](https://www.yellowduck.be/posts/on-no-syntactic-support-for-error-handling)  
@@ -22,6 +23,5 @@
 - `2025-07-19` | [🔗 SPAs were a mistake](https://www.yellowduck.be/posts/spas-were-a-mistake)  
 - `2025-07-19` | [🔗 Advanced inserts with Ecto](https://www.yellowduck.be/posts/advanced-inserts-with-ecto)  
 - `2025-07-18` | [🐥 Running long-lived SSH commands with tmux](https://www.yellowduck.be/posts/running-long-lived-ssh-commands-with-tmux)  
-- `2025-07-18` | [🔗 Understanding consistency in databases: beyond basic ACID](https://www.yellowduck.be/posts/understanding-consistency-in-databases-beyond-basic-acid)  
 
 <!-- BLOG-POST-LIST:END -->
