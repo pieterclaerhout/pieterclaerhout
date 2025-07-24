@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-24` | [🔗 What a developer needs to know about SCIM](https://www.yellowduck.be/posts/what-a-developer-needs-to-know-about-scim)  
 - `2025-07-23` | [🔗 How to make MPAs that are as fast as SPAs](https://www.yellowduck.be/posts/how-to-make-mpas-that-are-as-fast-as-spas)  
 - `2025-07-23` | [🔗 Setting up auditing for a phoenix_live_view application](https://www.yellowduck.be/posts/setting-up-auditing-for-a-phoenix-live-view-application)  
 - `2025-07-22` | [🔗 Deploying Phoenix applications with Kamal](https://www.yellowduck.be/posts/deploying-phoenix-applications-with-kamal)  
@@ -22,6 +23,5 @@
 - `2025-07-20` | [🔗 A practical guide to Elixir’s task module — let’s create a cron job](https://www.yellowduck.be/posts/a-practical-guide-to-elixirs-task-module-lets-create-a-cron-job)  
 - `2025-07-20` | [🔗 Tailwind is the worst form of CSS, except for all the others](https://www.yellowduck.be/posts/tailwind-is-the-worst-form-of-css-except-for-all-the-others)  
 - `2025-07-19` | [🔗 SPAs were a mistake](https://www.yellowduck.be/posts/spas-were-a-mistake)  
-- `2025-07-19` | [🔗 Advanced inserts with Ecto](https://www.yellowduck.be/posts/advanced-inserts-with-ecto)  
 
 <!-- BLOG-POST-LIST:END -->
