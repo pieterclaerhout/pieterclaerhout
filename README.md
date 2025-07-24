@@ -13,7 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
-- `2025-07-24` | [🐥 10 dead simple SaaS features that users Go crazy for](https://www.yellowduck.be/posts/10-dead-simple-saas-features-that-users-go-crazy-for)  
+- `2025-07-24` | [🐥 10 dead simple SaaS features that users go crazy for](https://www.yellowduck.be/posts/10-dead-simple-saas-features-that-users-go-crazy-for)  
 - `2025-07-24` | [🔗 Research Notes: Phoenix Scopes](https://www.yellowduck.be/posts/dustoff-docs-decisions-2-phoenix-scope-research-md-at-main-zorn-dustoff)  
 - `2025-07-24` | [🔗 What a developer needs to know about SCIM](https://www.yellowduck.be/posts/what-a-developer-needs-to-know-about-scim)  
 - `2025-07-23` | [🔗 How to make MPAs that are as fast as SPAs](https://www.yellowduck.be/posts/how-to-make-mpas-that-are-as-fast-as-spas)  
