@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-26` | [🔗 Good engineer/bad engineer](https://www.yellowduck.be/posts/good-engineer-bad-engineer)  
 - `2025-07-25` | [🐥 How to do code review](https://www.yellowduck.be/posts/how-to-do-code-review)  
 - `2025-07-25` | [🔗 Learning Elixir: control flow with with](https://www.yellowduck.be/posts/learning-elixir-control-flow-with-with)  
 - `2025-07-25` | [🔗 Orchestrating multi-user workflows in Phoenix LiveView with websockets](https://www.yellowduck.be/posts/orchestrating-multi-user-workflows-in-phoenix-liveview-with-websockets)  
@@ -22,6 +23,5 @@
 - `2025-07-23` | [🔗 How to make MPAs that are as fast as SPAs](https://www.yellowduck.be/posts/how-to-make-mpas-that-are-as-fast-as-spas)  
 - `2025-07-23` | [🔗 Setting up auditing for a phoenix_live_view application](https://www.yellowduck.be/posts/setting-up-auditing-for-a-phoenix-live-view-application)  
 - `2025-07-22` | [🔗 Deploying Phoenix applications with Kamal](https://www.yellowduck.be/posts/deploying-phoenix-applications-with-kamal)  
-- `2025-07-22` | [🔗 Modern &lpar;Go&rpar; application design](https://www.yellowduck.be/posts/modern-go-application-design)  
 
 <!-- BLOG-POST-LIST:END -->
