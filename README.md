@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-27` | [🔗 4 `mix hex` command line goodies!](https://www.yellowduck.be/posts/4-mix-hex-command-line-goodies)  
 - `2025-07-26` | [🔗 Asymmetric property visibility in PHP](https://www.yellowduck.be/posts/asymmetric-property-visibility-in-php)  
 - `2025-07-26` | [🔗 Good engineer/bad engineer](https://www.yellowduck.be/posts/good-engineer-bad-engineer)  
 - `2025-07-25` | [🐥 How to do code review](https://www.yellowduck.be/posts/how-to-do-code-review)  
@@ -22,6 +23,5 @@
 - `2025-07-24` | [🔗 Research Notes: Phoenix Scopes](https://www.yellowduck.be/posts/dustoff-docs-decisions-2-phoenix-scope-research-md-at-main-zorn-dustoff)  
 - `2025-07-24` | [🔗 What a developer needs to know about SCIM](https://www.yellowduck.be/posts/what-a-developer-needs-to-know-about-scim)  
 - `2025-07-23` | [🔗 How to make MPAs that are as fast as SPAs](https://www.yellowduck.be/posts/how-to-make-mpas-that-are-as-fast-as-spas)  
-- `2025-07-23` | [🔗 Setting up auditing for a phoenix_live_view application](https://www.yellowduck.be/posts/setting-up-auditing-for-a-phoenix-live-view-application)  
 
 <!-- BLOG-POST-LIST:END -->
