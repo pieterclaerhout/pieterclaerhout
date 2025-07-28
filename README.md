@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-28` | [🔗 How to reuse business logic with Ash calculations and save time](https://www.yellowduck.be/posts/how-to-reuse-business-logic-with-ash-calculations-and-save-time)  
 - `2025-07-28` | [🔗 How to work with XML documents in Elixir using xmerl](https://www.yellowduck.be/posts/how-to-work-with-xml-documents-in-elixir-using-xmerl)  
 - `2025-07-27` | [🔗 Pass a query builder to “wherein” to reduce your DB queries](https://www.yellowduck.be/posts/pass-a-query-builder-to-wherein-to-reduce-your-db-queries)  
 - `2025-07-27` | [🔗 4 `mix hex` command line goodies!](https://www.yellowduck.be/posts/4-mix-hex-command-line-goodies)  
@@ -22,6 +23,5 @@
 - `2025-07-25` | [🔗 Learning Elixir: control flow with with](https://www.yellowduck.be/posts/learning-elixir-control-flow-with-with)  
 - `2025-07-25` | [🔗 Orchestrating multi-user workflows in Phoenix LiveView with websockets](https://www.yellowduck.be/posts/orchestrating-multi-user-workflows-in-phoenix-liveview-with-websockets)  
 - `2025-07-24` | [🐥 10 dead simple SaaS features that users go crazy for](https://www.yellowduck.be/posts/10-dead-simple-saas-features-that-users-go-crazy-for)  
-- `2025-07-24` | [🔗 Research Notes: Phoenix Scopes](https://www.yellowduck.be/posts/dustoff-docs-decisions-2-phoenix-scope-research-md-at-main-zorn-dustoff)  
 
 <!-- BLOG-POST-LIST:END -->
