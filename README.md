@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-30` | [🔗 TypeScript with Vue Composition API ​](https://www.yellowduck.be/posts/typescript-with-vue-composition-api)  
 - `2025-07-30` | [🔗 My experience learning the Ash framework](https://www.yellowduck.be/posts/my-experience-learning-the-ash-framework)  
 - `2025-07-29` | [🔗 Req API client testing using Elixir](https://www.yellowduck.be/posts/req-api-client-testing-using-elixir)  
 - `2025-07-29` | [🔗 https://github.com/dimamik/torus](https://www.yellowduck.be/posts/https-github-com-dimamik-torus)  
@@ -22,6 +23,5 @@
 - `2025-07-27` | [🔗 4 `mix hex` command line goodies!](https://www.yellowduck.be/posts/4-mix-hex-command-line-goodies)  
 - `2025-07-26` | [🔗 Asymmetric property visibility in PHP](https://www.yellowduck.be/posts/asymmetric-property-visibility-in-php)  
 - `2025-07-26` | [🔗 Good engineer/bad engineer](https://www.yellowduck.be/posts/good-engineer-bad-engineer)  
-- `2025-07-25` | [🐥 How to do code review](https://www.yellowduck.be/posts/how-to-do-code-review)  
 
 <!-- BLOG-POST-LIST:END -->
