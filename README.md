@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-30` | [🔗 My experience learning the Ash framework](https://www.yellowduck.be/posts/my-experience-learning-the-ash-framework)  
 - `2025-07-29` | [🔗 Req API client testing using Elixir](https://www.yellowduck.be/posts/req-api-client-testing-using-elixir)  
 - `2025-07-29` | [🔗 https://github.com/dimamik/torus](https://www.yellowduck.be/posts/https-github-com-dimamik-torus)  
 - `2025-07-28` | [🔗 How to reuse business logic with Ash calculations and save time](https://www.yellowduck.be/posts/how-to-reuse-business-logic-with-ash-calculations-and-save-time)  
@@ -22,6 +23,5 @@
 - `2025-07-26` | [🔗 Asymmetric property visibility in PHP](https://www.yellowduck.be/posts/asymmetric-property-visibility-in-php)  
 - `2025-07-26` | [🔗 Good engineer/bad engineer](https://www.yellowduck.be/posts/good-engineer-bad-engineer)  
 - `2025-07-25` | [🐥 How to do code review](https://www.yellowduck.be/posts/how-to-do-code-review)  
-- `2025-07-25` | [🔗 Learning Elixir: control flow with with](https://www.yellowduck.be/posts/learning-elixir-control-flow-with-with)  
 
 <!-- BLOG-POST-LIST:END -->
