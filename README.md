@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-07-31` | [🔗 Don&#39;t guess my language](https://www.yellowduck.be/posts/dont-guess-my-language)  
 - `2025-07-31` | [🔗 Full stack development guide](https://www.yellowduck.be/posts/full-stack-development-guide)  
 - `2025-07-30` | [🐥 Copy to clipboard in IEx](https://www.yellowduck.be/posts/copy-to-clipboard-in-iex)  
 - `2025-07-30` | [🔗 TypeScript with Vue Composition API ​](https://www.yellowduck.be/posts/typescript-with-vue-composition-api)  
@@ -22,6 +23,5 @@
 - `2025-07-28` | [🔗 How to reuse business logic with Ash calculations and save time](https://www.yellowduck.be/posts/how-to-reuse-business-logic-with-ash-calculations-and-save-time)  
 - `2025-07-28` | [🔗 How to work with XML documents in Elixir using xmerl](https://www.yellowduck.be/posts/how-to-work-with-xml-documents-in-elixir-using-xmerl)  
 - `2025-07-27` | [🔗 Pass a query builder to “wherein” to reduce your DB queries](https://www.yellowduck.be/posts/pass-a-query-builder-to-wherein-to-reduce-your-db-queries)  
-- `2025-07-27` | [🔗 4 `mix hex` command line goodies!](https://www.yellowduck.be/posts/4-mix-hex-command-line-goodies)  
 
 <!-- BLOG-POST-LIST:END -->
