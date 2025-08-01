@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-01` | [🐥 Elixir Anti-Patterns](https://www.yellowduck.be/posts/elixir-anti-patterns)  
 - `2025-08-01` | [🔗 Normalize chart data using Ecto and PostgreSQL](https://www.yellowduck.be/posts/normalize-chart-data-using-ecto-and-postgresql)  
 - `2025-08-01` | [🔗 Phoenix 1.8 gets official security documentation](https://www.yellowduck.be/posts/phoenix-1-8-gets-official-security-documentation)  
 - `2025-07-31` | [🐥 Make IO.inspect colorful and readable in Elixir](https://www.yellowduck.be/posts/make-io-inspect-colorful-and-readable-in-elixir)  
@@ -22,6 +23,5 @@
 - `2025-07-30` | [🔗 TypeScript with Vue Composition API ​](https://www.yellowduck.be/posts/typescript-with-vue-composition-api)  
 - `2025-07-30` | [🔗 My experience learning the Ash framework](https://www.yellowduck.be/posts/my-experience-learning-the-ash-framework)  
 - `2025-07-29` | [🔗 Req API client testing using Elixir](https://www.yellowduck.be/posts/req-api-client-testing-using-elixir)  
-- `2025-07-29` | [🔗 https://github.com/dimamik/torus](https://www.yellowduck.be/posts/https-github-com-dimamik-torus)  
 
 <!-- BLOG-POST-LIST:END -->
