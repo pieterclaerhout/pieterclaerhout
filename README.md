@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-01` | [🔗 Phoenix 1.8 gets official security documentation](https://www.yellowduck.be/posts/phoenix-1-8-gets-official-security-documentation)  
 - `2025-07-31` | [🐥 Make IO.inspect colorful and readable in Elixir](https://www.yellowduck.be/posts/make-io-inspect-colorful-and-readable-in-elixir)  
 - `2025-07-31` | [🔗 Don&#39;t guess my language](https://www.yellowduck.be/posts/dont-guess-my-language)  
 - `2025-07-31` | [🔗 Full stack development guide](https://www.yellowduck.be/posts/full-stack-development-guide)  
@@ -22,6 +23,5 @@
 - `2025-07-29` | [🔗 Req API client testing using Elixir](https://www.yellowduck.be/posts/req-api-client-testing-using-elixir)  
 - `2025-07-29` | [🔗 https://github.com/dimamik/torus](https://www.yellowduck.be/posts/https-github-com-dimamik-torus)  
 - `2025-07-28` | [🔗 How to reuse business logic with Ash calculations and save time](https://www.yellowduck.be/posts/how-to-reuse-business-logic-with-ash-calculations-and-save-time)  
-- `2025-07-28` | [🔗 How to work with XML documents in Elixir using xmerl](https://www.yellowduck.be/posts/how-to-work-with-xml-documents-in-elixir-using-xmerl)  
 
 <!-- BLOG-POST-LIST:END -->
