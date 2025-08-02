@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-02` | [🐥 Elixir UsageRules development tool](https://www.yellowduck.be/posts/elixir-usagerules-development-tool)  
 - `2025-08-02` | [🔗 JavaScript broke the web &lpar;and called it progress&rpar;](https://www.yellowduck.be/posts/javascript-broke-the-web-and-called-it-progress)  
 - `2025-08-02` | [🔗 Easy and robust rate limiting in Elixir](https://www.yellowduck.be/posts/easy-and-robust-rate-limiting-in-elixir)  
 - `2025-08-01` | [🐥 Elixir Anti-Patterns](https://www.yellowduck.be/posts/elixir-anti-patterns)  
@@ -22,6 +23,5 @@
 - `2025-07-31` | [🔗 Don&#39;t guess my language](https://www.yellowduck.be/posts/dont-guess-my-language)  
 - `2025-07-31` | [🔗 Full stack development guide](https://www.yellowduck.be/posts/full-stack-development-guide)  
 - `2025-07-30` | [🐥 Copy to clipboard in IEx](https://www.yellowduck.be/posts/copy-to-clipboard-in-iex)  
-- `2025-07-30` | [🔗 TypeScript with Vue Composition API ​](https://www.yellowduck.be/posts/typescript-with-vue-composition-api)  
 
 <!-- BLOG-POST-LIST:END -->
