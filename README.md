@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-04` | [🐥 Fixing formatter errors in ElixirLS 0.29](https://www.yellowduck.be/posts/fixing-formatter-errors-in-elixirls-0-29)  
 - `2025-08-04` | [🔗 Every service should have a killswitch](https://www.yellowduck.be/posts/every-service-should-have-a-killswitch)  
 - `2025-08-04` | [🔗 How to change a field type in an Ecto embedded schema with a migration](https://www.yellowduck.be/posts/how-to-change-a-field-type-in-an-ecto-embedded-schema-with-a-migration)  
 - `2025-08-03` | [🔗 Getting started with Ash framework](https://www.yellowduck.be/posts/getting-started-with-ash-framework)  
@@ -22,6 +23,5 @@
 - `2025-08-02` | [🔗 Easy and robust rate limiting in Elixir](https://www.yellowduck.be/posts/easy-and-robust-rate-limiting-in-elixir)  
 - `2025-08-01` | [🐥 Elixir Anti-Patterns](https://www.yellowduck.be/posts/elixir-anti-patterns)  
 - `2025-08-01` | [🔗 Normalize chart data using Ecto and PostgreSQL](https://www.yellowduck.be/posts/normalize-chart-data-using-ecto-and-postgresql)  
-- `2025-08-01` | [🔗 Phoenix 1.8 gets official security documentation](https://www.yellowduck.be/posts/phoenix-1-8-gets-official-security-documentation)  
 
 <!-- BLOG-POST-LIST:END -->
