@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-07` | [🔗 Contesting contexts in Elixir Phoenix](https://www.yellowduck.be/posts/contesting-contexts-in-elixir-phoenix)  
 - `2025-08-06` | [🔗 Typehinting Laravel validation rules using PHPStan&#39;s type aliases](https://www.yellowduck.be/posts/typehinting-laravel-validation-rules-using-phpstans-type-aliases)  
 - `2025-08-06` | [🔗 Go should be more opinionated](https://www.yellowduck.be/posts/go-should-be-more-opinionated)  
 - `2025-08-05` | [🔗 Check if a signed URL is valid in Laravel tests](https://www.yellowduck.be/posts/check-if-a-signed-url-is-valid-in-laravel-tests)  
@@ -22,6 +23,5 @@
 - `2025-08-04` | [🔗 How to change a field type in an Ecto embedded schema with a migration](https://www.yellowduck.be/posts/how-to-change-a-field-type-in-an-ecto-embedded-schema-with-a-migration)  
 - `2025-08-03` | [🔗 Getting started with Ash framework](https://www.yellowduck.be/posts/getting-started-with-ash-framework)  
 - `2025-08-03` | [🔗 The repository pattern, Ecto, and database-less testing](https://www.yellowduck.be/posts/the-repository-pattern-ecto-and-database-less-testing)  
-- `2025-08-02` | [🐥 Elixir UsageRules development tool](https://www.yellowduck.be/posts/elixir-usagerules-development-tool)  
 
 <!-- BLOG-POST-LIST:END -->
