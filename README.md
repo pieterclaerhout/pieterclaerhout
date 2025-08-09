@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-09` | [🔗 Full text search in the age of MCP](https://www.yellowduck.be/posts/full-text-search-in-the-age-of-mcp)  
 - `2025-08-08` | [🔗 Unexpected security footguns in Go&#39;s parsers](https://www.yellowduck.be/posts/unexpected-security-footguns-in-gos-parsers)  
 - `2025-08-08` | [🔗 dashbitco/lazy_html: Efficient parsing and querying of HTML documents](https://www.yellowduck.be/posts/github-dashbitco-lazy-html-efficient-parsing-and-querying-of-html-documents)  
 - `2025-08-07` | [🔗 Phoenix.new – The remote AI runtime for Phoenix](https://www.yellowduck.be/posts/phoenix-new-the-remote-ai-runtime-for-phoenix)  
@@ -22,6 +23,5 @@
 - `2025-08-05` | [🔗 Check if a signed URL is valid in Laravel tests](https://www.yellowduck.be/posts/check-if-a-signed-url-is-valid-in-laravel-tests)  
 - `2025-08-05` | [🔗 Writing load balancer from scratch in 250 line of code](https://www.yellowduck.be/posts/writing-load-balancer-from-scratch-in-250-line-of-code)  
 - `2025-08-04` | [🐥 Fixing formatter errors in ElixirLS 0.29](https://www.yellowduck.be/posts/fixing-formatter-errors-in-elixirls-0-29)  
-- `2025-08-04` | [🔗 Every service should have a killswitch](https://www.yellowduck.be/posts/every-service-should-have-a-killswitch)  
 
 <!-- BLOG-POST-LIST:END -->
