@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-10` | [🔗 Why engineers hate their managers &lpar;and what to do about it&rpar;](https://www.yellowduck.be/posts/why-engineers-hate-their-managers-and-what-to-do-about-it)  
 - `2025-08-10` | [🔗 Problems I no longer have by using server-side rendering](https://www.yellowduck.be/posts/problems-i-no-longer-have-by-using-server-side-rendering)  
 - `2025-08-09` | [🔗 Folklore.org: -2000 lines of code](https://www.yellowduck.be/posts/folklore-org-2000-lines-of-code)  
 - `2025-08-09` | [🔗 Full text search in the age of MCP](https://www.yellowduck.be/posts/full-text-search-in-the-age-of-mcp)  
@@ -22,6 +23,5 @@
 - `2025-08-07` | [🔗 Contesting contexts in Elixir Phoenix](https://www.yellowduck.be/posts/contesting-contexts-in-elixir-phoenix)  
 - `2025-08-06` | [🔗 Typehinting Laravel validation rules using PHPStan&#39;s type aliases](https://www.yellowduck.be/posts/typehinting-laravel-validation-rules-using-phpstans-type-aliases)  
 - `2025-08-06` | [🔗 Go should be more opinionated](https://www.yellowduck.be/posts/go-should-be-more-opinionated)  
-- `2025-08-05` | [🔗 Check if a signed URL is valid in Laravel tests](https://www.yellowduck.be/posts/check-if-a-signed-url-is-valid-in-laravel-tests)  
 
 <!-- BLOG-POST-LIST:END -->
