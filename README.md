@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-12` | [🔗 Underscore in Erlang &amp; Elixir - great DX lang feature](https://www.yellowduck.be/posts/underscore-in-erlang-elixir-great-dx-lang-feature)  
 - `2025-08-11` | [🔗 Ticket-driven development: the fastest way to go nowhere](https://www.yellowduck.be/posts/ticket-driven-development-the-fastest-way-to-go-nowhere)  
 - `2025-08-11` | [🔗 A Complete AI Toolkit: Ash AI Demo](https://www.yellowduck.be/posts/a-complete-ai-toolkit-ash-ai-demo)  
 - `2025-08-10` | [🔗 Why engineers hate their managers &lpar;and what to do about it&rpar;](https://www.yellowduck.be/posts/why-engineers-hate-their-managers-and-what-to-do-about-it)  
@@ -22,6 +23,5 @@
 - `2025-08-08` | [🔗 Unexpected security footguns in Go&#39;s parsers](https://www.yellowduck.be/posts/unexpected-security-footguns-in-gos-parsers)  
 - `2025-08-08` | [🔗 dashbitco/lazy_html: Efficient parsing and querying of HTML documents](https://www.yellowduck.be/posts/github-dashbitco-lazy-html-efficient-parsing-and-querying-of-html-documents)  
 - `2025-08-07` | [🔗 Phoenix.new – The remote AI runtime for Phoenix](https://www.yellowduck.be/posts/phoenix-new-the-remote-ai-runtime-for-phoenix)  
-- `2025-08-07` | [🔗 Contesting contexts in Elixir Phoenix](https://www.yellowduck.be/posts/contesting-contexts-in-elixir-phoenix)  
 
 <!-- BLOG-POST-LIST:END -->
