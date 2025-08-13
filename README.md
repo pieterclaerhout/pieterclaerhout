@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-13` | [🔗 Advanced Ecto for Elixir monitoring with AppSignal](https://www.yellowduck.be/posts/advanced-ecto-for-elixir-monitoring-with-appsignal)  
 - `2025-08-12` | [🐥 TIL: Arr::get and defaults can be quirky in Laravel](https://www.yellowduck.be/posts/til-arr-get-and-defaults-can-be-quirky-in-laravel)  
 - `2025-08-12` | [🔗 Elixir hot code swapping to the rescue](https://www.yellowduck.be/posts/elixir-hot-code-swapping-to-the-rescue)  
 - `2025-08-12` | [🔗 Underscore in Erlang &amp; Elixir - great DX lang feature](https://www.yellowduck.be/posts/underscore-in-erlang-elixir-great-dx-lang-feature)  
@@ -22,6 +23,5 @@
 - `2025-08-10` | [🔗 Problems I no longer have by using server-side rendering](https://www.yellowduck.be/posts/problems-i-no-longer-have-by-using-server-side-rendering)  
 - `2025-08-09` | [🔗 Folklore.org: -2000 lines of code](https://www.yellowduck.be/posts/folklore-org-2000-lines-of-code)  
 - `2025-08-09` | [🔗 Full text search in the age of MCP](https://www.yellowduck.be/posts/full-text-search-in-the-age-of-mcp)  
-- `2025-08-08` | [🔗 Unexpected security footguns in Go&#39;s parsers](https://www.yellowduck.be/posts/unexpected-security-footguns-in-gos-parsers)  
 
 <!-- BLOG-POST-LIST:END -->
