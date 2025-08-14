@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-14` | [🔗 Implementing Google authentication in a LiveView application](https://www.yellowduck.be/posts/implementing-google-authentication-in-a-liveview-application)  
 - `2025-08-14` | [🔗 Making Elixir tests faster](https://www.yellowduck.be/posts/making-elixir-tests-faster)  
 - `2025-08-13` | [🔗 Learning Elixir: function composition](https://www.yellowduck.be/posts/learning-elixir-function-composition)  
 - `2025-08-13` | [🔗 Advanced Ecto for Elixir monitoring with AppSignal](https://www.yellowduck.be/posts/advanced-ecto-for-elixir-monitoring-with-appsignal)  
@@ -22,6 +23,5 @@
 - `2025-08-11` | [🔗 Ticket-driven development: the fastest way to go nowhere](https://www.yellowduck.be/posts/ticket-driven-development-the-fastest-way-to-go-nowhere)  
 - `2025-08-11` | [🔗 A Complete AI Toolkit: Ash AI Demo](https://www.yellowduck.be/posts/a-complete-ai-toolkit-ash-ai-demo)  
 - `2025-08-10` | [🔗 Why engineers hate their managers &lpar;and what to do about it&rpar;](https://www.yellowduck.be/posts/why-engineers-hate-their-managers-and-what-to-do-about-it)  
-- `2025-08-10` | [🔗 Problems I no longer have by using server-side rendering](https://www.yellowduck.be/posts/problems-i-no-longer-have-by-using-server-side-rendering)  
 
 <!-- BLOG-POST-LIST:END -->
