@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-17` | [🔗 How to think about time in programming](https://www.yellowduck.be/posts/how-to-think-about-time-in-programming)  
 - `2025-08-16` | [🔗 Expanding DigitalOcean’s role-based access controls with custom roles](https://www.yellowduck.be/posts/expanding-digitaloceans-role-based-access-controls-with-custom-roles)  
 - `2025-08-16` | [🔗 CSS flexbox vs grid: complete guide &amp; when to use each](https://www.yellowduck.be/posts/css-flexbox-vs-grid-complete-guide-when-to-use-each)  
 - `2025-08-15` | [🔗 SLA vs SLO](https://www.yellowduck.be/posts/sla-vs-slo)  
@@ -22,6 +23,5 @@
 - `2025-08-13` | [🔗 Learning Elixir: function composition](https://www.yellowduck.be/posts/learning-elixir-function-composition)  
 - `2025-08-13` | [🔗 Advanced Ecto for Elixir monitoring with AppSignal](https://www.yellowduck.be/posts/advanced-ecto-for-elixir-monitoring-with-appsignal)  
 - `2025-08-12` | [🐥 TIL: Arr::get and defaults can be quirky in Laravel](https://www.yellowduck.be/posts/til-arr-get-and-defaults-can-be-quirky-in-laravel)  
-- `2025-08-12` | [🔗 Elixir hot code swapping to the rescue](https://www.yellowduck.be/posts/elixir-hot-code-swapping-to-the-rescue)  
 
 <!-- BLOG-POST-LIST:END -->
