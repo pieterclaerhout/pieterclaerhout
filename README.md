@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-18` | [🔗 Cinder - A table component for the Ash framework](https://www.yellowduck.be/posts/cinder-cinder-v0-4-0)  
 - `2025-08-17` | [🔗 How to write compelling software release announcements](https://www.yellowduck.be/posts/how-to-write-compelling-software-release-announcements)  
 - `2025-08-17` | [🔗 How to think about time in programming](https://www.yellowduck.be/posts/how-to-think-about-time-in-programming)  
 - `2025-08-16` | [🔗 Expanding DigitalOcean’s role-based access controls with custom roles](https://www.yellowduck.be/posts/expanding-digitaloceans-role-based-access-controls-with-custom-roles)  
@@ -22,6 +23,5 @@
 - `2025-08-14` | [🔗 Implementing Google authentication in a LiveView application](https://www.yellowduck.be/posts/implementing-google-authentication-in-a-liveview-application)  
 - `2025-08-14` | [🔗 Making Elixir tests faster](https://www.yellowduck.be/posts/making-elixir-tests-faster)  
 - `2025-08-13` | [🔗 Learning Elixir: function composition](https://www.yellowduck.be/posts/learning-elixir-function-composition)  
-- `2025-08-13` | [🔗 Advanced Ecto for Elixir monitoring with AppSignal](https://www.yellowduck.be/posts/advanced-ecto-for-elixir-monitoring-with-appsignal)  
 
 <!-- BLOG-POST-LIST:END -->
