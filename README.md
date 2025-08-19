@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-19` | [🔗 The infamous repository pattern in PHP](https://www.yellowduck.be/posts/the-infamous-repository-pattern-in-php)  
 - `2025-08-18` | [🔗 The zen of Erlang](https://www.yellowduck.be/posts/the-zen-of-erlang)  
 - `2025-08-18` | [🔗 Cinder - A table component for the Ash framework](https://www.yellowduck.be/posts/cinder-cinder-v0-4-0)  
 - `2025-08-17` | [🔗 How to write compelling software release announcements](https://www.yellowduck.be/posts/how-to-write-compelling-software-release-announcements)  
@@ -22,6 +23,5 @@
 - `2025-08-15` | [🔗 SLA vs SLO](https://www.yellowduck.be/posts/sla-vs-slo)  
 - `2025-08-15` | [🔗 Livetable: real‑time data tables in Elixir](https://www.yellowduck.be/posts/livetable-real-time-data-tables-in-elixir)  
 - `2025-08-14` | [🔗 Implementing Google authentication in a LiveView application](https://www.yellowduck.be/posts/implementing-google-authentication-in-a-liveview-application)  
-- `2025-08-14` | [🔗 Making Elixir tests faster](https://www.yellowduck.be/posts/making-elixir-tests-faster)  
 
 <!-- BLOG-POST-LIST:END -->
