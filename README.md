@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-20` | [🔗 Learning Elixir: pattern matching](https://www.yellowduck.be/posts/learning-elixir-pattern-matching)  
 - `2025-08-19` | [🐥 Testing history.pushState with spies in Vitest](https://www.yellowduck.be/posts/testing-history-pushstate-with-spies-in-vitest)  
 - `2025-08-19` | [🔗 Test async work in Elixir with assert_eventually](https://www.yellowduck.be/posts/test-async-work-in-elixir-with-assert-eventually)  
 - `2025-08-19` | [🔗 The infamous repository pattern in PHP](https://www.yellowduck.be/posts/the-infamous-repository-pattern-in-php)  
@@ -22,6 +23,5 @@
 - `2025-08-17` | [🔗 How to think about time in programming](https://www.yellowduck.be/posts/how-to-think-about-time-in-programming)  
 - `2025-08-16` | [🔗 Expanding DigitalOcean’s role-based access controls with custom roles](https://www.yellowduck.be/posts/expanding-digitaloceans-role-based-access-controls-with-custom-roles)  
 - `2025-08-16` | [🔗 CSS flexbox vs grid: complete guide &amp; when to use each](https://www.yellowduck.be/posts/css-flexbox-vs-grid-complete-guide-when-to-use-each)  
-- `2025-08-15` | [🔗 SLA vs SLO](https://www.yellowduck.be/posts/sla-vs-slo)  
 
 <!-- BLOG-POST-LIST:END -->
