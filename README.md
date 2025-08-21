@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-21` | [🔗 The pipe operator in PHP 8.5](https://www.yellowduck.be/posts/the-pipe-operator-in-php-8-5)  
 - `2025-08-21` | [🔗 Advanced Strategies to Deploy Phoenix Applications with Kamal](https://www.yellowduck.be/posts/advanced-strategies-to-deploy-phoenix-applications-with-kamal)  
 - `2025-08-20` | [🔗 Elixir Phoenix 1.8 changelog](https://www.yellowduck.be/posts/phoenix-changelog-md-at-v1-8-0-phoenixframework-phoenix)  
 - `2025-08-20` | [🔗 Ecto, on_replace and deferred checks](https://www.yellowduck.be/posts/ecto-on-replace-and-deferred-checks)  
@@ -22,6 +23,5 @@
 - `2025-08-19` | [🔗 The infamous repository pattern in PHP](https://www.yellowduck.be/posts/the-infamous-repository-pattern-in-php)  
 - `2025-08-18` | [🔗 The zen of Erlang](https://www.yellowduck.be/posts/the-zen-of-erlang)  
 - `2025-08-18` | [🔗 Cinder - A table component for the Ash framework](https://www.yellowduck.be/posts/cinder-cinder-v0-4-0)  
-- `2025-08-17` | [🔗 How to write compelling software release announcements](https://www.yellowduck.be/posts/how-to-write-compelling-software-release-announcements)  
 
 <!-- BLOG-POST-LIST:END -->
