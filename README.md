@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-22` | [🔗 Most RESTful APIs aren’t really RESTful](https://www.yellowduck.be/posts/most-restful-apis-arent-really-restful)  
 - `2025-08-22` | [🔗 37 things I learned about information retrieval in two years at a vector database company](https://www.yellowduck.be/posts/37-things-i-learned-about-information-retrieval-in-two-years-at-a-vector-database-company)  
 - `2025-08-21` | [🔗 A Kaizen for Knowledge Work](https://www.yellowduck.be/posts/a-kaizen-for-knowledge-work)  
 - `2025-08-21` | [🔗 The pipe operator in PHP 8.5](https://www.yellowduck.be/posts/the-pipe-operator-in-php-8-5)  
@@ -22,6 +23,5 @@
 - `2025-08-20` | [🔗 Learning Elixir: pattern matching](https://www.yellowduck.be/posts/learning-elixir-pattern-matching)  
 - `2025-08-19` | [🐥 Testing history.pushState with spies in Vitest](https://www.yellowduck.be/posts/testing-history-pushstate-with-spies-in-vitest)  
 - `2025-08-19` | [🔗 Test async work in Elixir with assert_eventually](https://www.yellowduck.be/posts/test-async-work-in-elixir-with-assert-eventually)  
-- `2025-08-19` | [🔗 The infamous repository pattern in PHP](https://www.yellowduck.be/posts/the-infamous-repository-pattern-in-php)  
 
 <!-- BLOG-POST-LIST:END -->
