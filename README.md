@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-23` | [🔗 Am I online?](https://www.yellowduck.be/posts/am-i-online)  
 - `2025-08-22` | [🔗 Why I chose OCaml as my primary language](https://www.yellowduck.be/posts/why-i-chose-ocaml-as-my-primary-language)  
 - `2025-08-22` | [🔗 Most RESTful APIs aren’t really RESTful](https://www.yellowduck.be/posts/most-restful-apis-arent-really-restful)  
 - `2025-08-22` | [🔗 37 things I learned about information retrieval in two years at a vector database company](https://www.yellowduck.be/posts/37-things-i-learned-about-information-retrieval-in-two-years-at-a-vector-database-company)  
@@ -22,6 +23,5 @@
 - `2025-08-20` | [🔗 Elixir Phoenix 1.8 changelog](https://www.yellowduck.be/posts/phoenix-changelog-md-at-v1-8-0-phoenixframework-phoenix)  
 - `2025-08-20` | [🔗 Ecto, on_replace and deferred checks](https://www.yellowduck.be/posts/ecto-on-replace-and-deferred-checks)  
 - `2025-08-20` | [🔗 Learning Elixir: pattern matching](https://www.yellowduck.be/posts/learning-elixir-pattern-matching)  
-- `2025-08-19` | [🐥 Testing history.pushState with spies in Vitest](https://www.yellowduck.be/posts/testing-history-pushstate-with-spies-in-vitest)  
 
 <!-- BLOG-POST-LIST:END -->
