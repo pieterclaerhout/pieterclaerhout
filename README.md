@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-25` | [🔗 Why Elixir? A rebuttal to common misconceptions](https://www.yellowduck.be/posts/why-elixir-a-rebuttal-to-common-misconceptions)  
 - `2025-08-24` | [🔗 HTTP is not simple](https://www.yellowduck.be/posts/http-is-not-simple)  
 - `2025-08-24` | [🔗 Learning Elixir: lists](https://www.yellowduck.be/posts/learning-elixir-lists)  
 - `2025-08-24` | [🔗 Handling unique indexes on large data in PostgreSQL](https://www.yellowduck.be/posts/handling-unique-indexes-on-large-data-in-postgresql)  
@@ -22,6 +23,5 @@
 - `2025-08-22` | [🔗 Why I chose OCaml as my primary language](https://www.yellowduck.be/posts/why-i-chose-ocaml-as-my-primary-language)  
 - `2025-08-22` | [🔗 Most RESTful APIs aren’t really RESTful](https://www.yellowduck.be/posts/most-restful-apis-arent-really-restful)  
 - `2025-08-22` | [🔗 37 things I learned about information retrieval in two years at a vector database company](https://www.yellowduck.be/posts/37-things-i-learned-about-information-retrieval-in-two-years-at-a-vector-database-company)  
-- `2025-08-21` | [🔗 A Kaizen for Knowledge Work](https://www.yellowduck.be/posts/a-kaizen-for-knowledge-work)  
 
 <!-- BLOG-POST-LIST:END -->
