@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-26` | [🔗 Beyond data-confirm in Phoenix LiveView](https://www.yellowduck.be/posts/beyond-data-confirm-in-phoenix-liveview)  
 - `2025-08-26` | [🔗 uv cache prune](https://www.yellowduck.be/posts/uv-cache-prune)  
 - `2025-08-25` | [🔗 Small changes that made our daily stand-ups more useful](https://www.yellowduck.be/posts/small-changes-that-made-our-daily-stand-ups-more-useful)  
 - `2025-08-25` | [🔗 How I build software quickly](https://www.yellowduck.be/posts/how-i-build-software-quickly)  
@@ -22,6 +23,5 @@
 - `2025-08-24` | [🔗 Handling unique indexes on large data in PostgreSQL](https://www.yellowduck.be/posts/handling-unique-indexes-on-large-data-in-postgresql)  
 - `2025-08-23` | [🔗 This blog is under 14kb](https://www.yellowduck.be/posts/this-blog-is-under-14kb)  
 - `2025-08-23` | [🔗 systemd has been a complete, utter, unmitigated success](https://www.yellowduck.be/posts/systemd-has-been-a-complete-utter-unmitigated-success)  
-- `2025-08-23` | [🔗 Am I online?](https://www.yellowduck.be/posts/am-i-online)  
 
 <!-- BLOG-POST-LIST:END -->
