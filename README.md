@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-27` | [🔗 RESTful API guidelines](https://www.yellowduck.be/posts/restful-api-guidelines)  
 - `2025-08-26` | [🔗 How to push back when execs are all-in on AI](https://www.yellowduck.be/posts/how-to-push-back-when-execs-are-all-in-on-ai)  
 - `2025-08-26` | [🔗 Beyond data-confirm in Phoenix LiveView](https://www.yellowduck.be/posts/beyond-data-confirm-in-phoenix-liveview)  
 - `2025-08-26` | [🔗 uv cache prune](https://www.yellowduck.be/posts/uv-cache-prune)  
@@ -22,6 +23,5 @@
 - `2025-08-24` | [🔗 HTTP is not simple](https://www.yellowduck.be/posts/http-is-not-simple)  
 - `2025-08-24` | [🔗 Learning Elixir: lists](https://www.yellowduck.be/posts/learning-elixir-lists)  
 - `2025-08-24` | [🔗 Handling unique indexes on large data in PostgreSQL](https://www.yellowduck.be/posts/handling-unique-indexes-on-large-data-in-postgresql)  
-- `2025-08-23` | [🔗 This blog is under 14kb](https://www.yellowduck.be/posts/this-blog-is-under-14kb)  
 
 <!-- BLOG-POST-LIST:END -->
