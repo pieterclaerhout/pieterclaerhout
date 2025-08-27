@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-27` | [🔗 Beyond vector databases: RAG architectures without embeddings](https://www.yellowduck.be/posts/beyond-vector-databases-rag-architectures-without-embeddings)  
+- `2025-08-27` | [🔗 Git Rebase -Explained Like You’re New to Git](https://www.yellowduck.be/posts/git-rebase-explained-like-youre-new-to-git)  
 - `2025-08-27` | [🔗 Building a distributed rate limiter in Elixir with HashRing](https://www.yellowduck.be/posts/building-a-distributed-rate-limiter-in-elixir-with-hashring)  
 - `2025-08-27` | [🔗 RESTful API guidelines](https://www.yellowduck.be/posts/restful-api-guidelines)  
 - `2025-08-26` | [🔗 How to push back when execs are all-in on AI](https://www.yellowduck.be/posts/how-to-push-back-when-execs-are-all-in-on-ai)  
@@ -21,7 +23,5 @@
 - `2025-08-25` | [🔗 Small changes that made our daily stand-ups more useful](https://www.yellowduck.be/posts/small-changes-that-made-our-daily-stand-ups-more-useful)  
 - `2025-08-25` | [🔗 How I build software quickly](https://www.yellowduck.be/posts/how-i-build-software-quickly)  
 - `2025-08-25` | [🔗 Why Elixir? A rebuttal to common misconceptions](https://www.yellowduck.be/posts/why-elixir-a-rebuttal-to-common-misconceptions)  
-- `2025-08-24` | [🔗 HTTP is not simple](https://www.yellowduck.be/posts/http-is-not-simple)  
-- `2025-08-24` | [🔗 Learning Elixir: lists](https://www.yellowduck.be/posts/learning-elixir-lists)  
 
 <!-- BLOG-POST-LIST:END -->
