@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-27` | [🔗 Building a distributed rate limiter in Elixir with HashRing](https://www.yellowduck.be/posts/building-a-distributed-rate-limiter-in-elixir-with-hashring)  
 - `2025-08-27` | [🔗 RESTful API guidelines](https://www.yellowduck.be/posts/restful-api-guidelines)  
 - `2025-08-26` | [🔗 How to push back when execs are all-in on AI](https://www.yellowduck.be/posts/how-to-push-back-when-execs-are-all-in-on-ai)  
 - `2025-08-26` | [🔗 Beyond data-confirm in Phoenix LiveView](https://www.yellowduck.be/posts/beyond-data-confirm-in-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2025-08-25` | [🔗 Why Elixir? A rebuttal to common misconceptions](https://www.yellowduck.be/posts/why-elixir-a-rebuttal-to-common-misconceptions)  
 - `2025-08-24` | [🔗 HTTP is not simple](https://www.yellowduck.be/posts/http-is-not-simple)  
 - `2025-08-24` | [🔗 Learning Elixir: lists](https://www.yellowduck.be/posts/learning-elixir-lists)  
-- `2025-08-24` | [🔗 Handling unique indexes on large data in PostgreSQL](https://www.yellowduck.be/posts/handling-unique-indexes-on-large-data-in-postgresql)  
 
 <!-- BLOG-POST-LIST:END -->
