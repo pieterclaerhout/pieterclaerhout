@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-28` | [🔗 Why you should use Ash?](https://www.yellowduck.be/posts/why-you-should-use-ash)  
 - `2025-08-27` | [🔗 Beyond vector databases: RAG architectures without embeddings](https://www.yellowduck.be/posts/beyond-vector-databases-rag-architectures-without-embeddings)  
 - `2025-08-27` | [🔗 Git Rebase -Explained Like You’re New to Git](https://www.yellowduck.be/posts/git-rebase-explained-like-youre-new-to-git)  
 - `2025-08-27` | [🔗 Building a distributed rate limiter in Elixir with HashRing](https://www.yellowduck.be/posts/building-a-distributed-rate-limiter-in-elixir-with-hashring)  
@@ -22,6 +23,5 @@
 - `2025-08-26` | [🔗 uv cache prune](https://www.yellowduck.be/posts/uv-cache-prune)  
 - `2025-08-25` | [🔗 Small changes that made our daily stand-ups more useful](https://www.yellowduck.be/posts/small-changes-that-made-our-daily-stand-ups-more-useful)  
 - `2025-08-25` | [🔗 How I build software quickly](https://www.yellowduck.be/posts/how-i-build-software-quickly)  
-- `2025-08-25` | [🔗 Why Elixir? A rebuttal to common misconceptions](https://www.yellowduck.be/posts/why-elixir-a-rebuttal-to-common-misconceptions)  
 
 <!-- BLOG-POST-LIST:END -->
