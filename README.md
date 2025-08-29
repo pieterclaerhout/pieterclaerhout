@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-29` | [🔗 You don&#39;t need testify/assert](https://www.yellowduck.be/posts/you-dont-need-testify-assert)  
 - `2025-08-28` | [🐥 Adding ETag support for your Elixir Phoenix app](https://www.yellowduck.be/posts/adding-etag-support-in-an-elixir-phoenix-app)  
 - `2025-08-28` | [🔗 Run your own Kubernetes instance with microk8s](https://www.yellowduck.be/posts/run-your-own-kubernetes-instance-with-microk8s)  
 - `2025-08-28` | [🔗 Why you should use Ash?](https://www.yellowduck.be/posts/why-you-should-use-ash)  
@@ -22,6 +23,5 @@
 - `2025-08-27` | [🔗 RESTful API guidelines](https://www.yellowduck.be/posts/restful-api-guidelines)  
 - `2025-08-26` | [🔗 How to push back when execs are all-in on AI](https://www.yellowduck.be/posts/how-to-push-back-when-execs-are-all-in-on-ai)  
 - `2025-08-26` | [🔗 Beyond data-confirm in Phoenix LiveView](https://www.yellowduck.be/posts/beyond-data-confirm-in-phoenix-liveview)  
-- `2025-08-26` | [🔗 uv cache prune](https://www.yellowduck.be/posts/uv-cache-prune)  
 
 <!-- BLOG-POST-LIST:END -->
