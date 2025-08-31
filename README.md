@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-31` | [🔗 It’s time for modern CSS to kill the SPA](https://www.yellowduck.be/posts/its-time-for-modern-css-to-kill-the-nbsp-spa)  
 - `2025-08-30` | [🔗 Learning Elixir: Understanding Atoms, Booleans and nil](https://www.yellowduck.be/posts/learning-elixir-understanding-atoms-booleans-and-nil)  
 - `2025-08-30` | [🔗 Waterpark: transforming healthcare with distributed actors](https://www.yellowduck.be/posts/waterpark-transforming-healthcare-with-distributed-actors)  
 - `2025-08-30` | [🔗 Don&#39;t bother parsing: just use images for RAG](https://www.yellowduck.be/posts/dont-bother-parsing-just-use-images-for-rag)  
@@ -22,6 +23,5 @@
 - `2025-08-28` | [🐥 Adding ETag support for your Elixir Phoenix app](https://www.yellowduck.be/posts/adding-etag-support-in-an-elixir-phoenix-app)  
 - `2025-08-28` | [🔗 Run your own Kubernetes instance with microk8s](https://www.yellowduck.be/posts/run-your-own-kubernetes-instance-with-microk8s)  
 - `2025-08-28` | [🔗 Why you should use Ash?](https://www.yellowduck.be/posts/why-you-should-use-ash)  
-- `2025-08-27` | [🔗 Beyond vector databases: RAG architectures without embeddings](https://www.yellowduck.be/posts/beyond-vector-databases-rag-architectures-without-embeddings)  
 
 <!-- BLOG-POST-LIST:END -->
