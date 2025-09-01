@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-01` | [🔗 Building a simple chat app with Elixir and Phoenix](https://www.yellowduck.be/posts/building-a-simple-chat-app-with-elixir-and-phoenix)  
 - `2025-09-01` | [🔗 Testing messages with LiveIsolatedComponent](https://www.yellowduck.be/posts/testing-messages-with-liveisolatedcomponent)  
 - `2025-08-31` | [🔗 Learning Elixir: keyword lists](https://www.yellowduck.be/posts/learning-elixir-keyword-lists)  
 - `2025-08-31` | [🔗 Why I don&#39;t use down migrations](https://www.yellowduck.be/posts/why-i-dont-use-down-migrations)  
@@ -22,6 +23,5 @@
 - `2025-08-30` | [🔗 Don&#39;t bother parsing: just use images for RAG](https://www.yellowduck.be/posts/dont-bother-parsing-just-use-images-for-rag)  
 - `2025-08-29` | [🐥 Granting a user privileges on a PostgreSQL database](https://www.yellowduck.be/posts/granting-a-user-privileges-on-a-postgresql-database)  
 - `2025-08-29` | [🔗 The paradox of scale](https://www.yellowduck.be/posts/the-paradox-of-scale)  
-- `2025-08-29` | [🔗 You don&#39;t need testify/assert](https://www.yellowduck.be/posts/you-dont-need-testify-assert)  
 
 <!-- BLOG-POST-LIST:END -->
