@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-02` | [🔗 Learning Elixir: maps](https://www.yellowduck.be/posts/learning-elixir-maps)  
 - `2025-09-02` | [🔗 Writing composable guards in Elixir](https://www.yellowduck.be/posts/writing-composable-guards-in-elixir)  
 - `2025-09-02` | [🔗 My API integration methodology](https://www.yellowduck.be/posts/my-api-integration-methodology)  
 - `2025-09-01` | [🔗 A gentle primer to Ash](https://www.yellowduck.be/posts/a-gentle-primer-to-ash)  
@@ -22,6 +23,5 @@
 - `2025-08-31` | [🔗 Why I don&#39;t use down migrations](https://www.yellowduck.be/posts/why-i-dont-use-down-migrations)  
 - `2025-08-31` | [🔗 It’s time for modern CSS to kill the SPA](https://www.yellowduck.be/posts/its-time-for-modern-css-to-kill-the-nbsp-spa)  
 - `2025-08-30` | [🔗 Learning Elixir: Understanding Atoms, Booleans and nil](https://www.yellowduck.be/posts/learning-elixir-understanding-atoms-booleans-and-nil)  
-- `2025-08-30` | [🔗 Waterpark: transforming healthcare with distributed actors](https://www.yellowduck.be/posts/waterpark-transforming-healthcare-with-distributed-actors)  
 
 <!-- BLOG-POST-LIST:END -->
