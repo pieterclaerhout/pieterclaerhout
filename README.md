@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-03` | [🔗 Keyset cursors, not offsets, for Postgres pagination](https://www.yellowduck.be/posts/keyset-cursors-not-offsets-for-postgres-pagination)  
 - `2025-09-03` | [🔗 How I write code that I don’t hate reading a week later](https://www.yellowduck.be/posts/how-i-write-code-that-i-dont-hate-reading-a-week-later)  
 - `2025-09-02` | [🔗 Learning Elixir: maps](https://www.yellowduck.be/posts/learning-elixir-maps)  
 - `2025-09-02` | [🔗 Writing composable guards in Elixir](https://www.yellowduck.be/posts/writing-composable-guards-in-elixir)  
@@ -22,6 +23,5 @@
 - `2025-09-01` | [🔗 Testing messages with LiveIsolatedComponent](https://www.yellowduck.be/posts/testing-messages-with-liveisolatedcomponent)  
 - `2025-08-31` | [🔗 Learning Elixir: keyword lists](https://www.yellowduck.be/posts/learning-elixir-keyword-lists)  
 - `2025-08-31` | [🔗 Why I don&#39;t use down migrations](https://www.yellowduck.be/posts/why-i-dont-use-down-migrations)  
-- `2025-08-31` | [🔗 It’s time for modern CSS to kill the SPA](https://www.yellowduck.be/posts/its-time-for-modern-css-to-kill-the-nbsp-spa)  
 
 <!-- BLOG-POST-LIST:END -->
