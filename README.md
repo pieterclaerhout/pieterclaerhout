@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-03` | [🔗 Dependency hell: the hidden costs of dependency bloat in software development](https://www.yellowduck.be/posts/dependency-hell-the-hidden-costs-of-dependency-bloat-in-software-development)  
+- `2025-09-03` | [🔗 Learning Elixir: tuples](https://www.yellowduck.be/posts/learning-elixir-tuples)  
 - `2025-09-03` | [🔗 Keyset cursors, not offsets, for Postgres pagination](https://www.yellowduck.be/posts/keyset-cursors-not-offsets-for-postgres-pagination)  
 - `2025-09-03` | [🔗 How I write code that I don’t hate reading a week later](https://www.yellowduck.be/posts/how-i-write-code-that-i-dont-hate-reading-a-week-later)  
 - `2025-09-02` | [🔗 Learning Elixir: maps](https://www.yellowduck.be/posts/learning-elixir-maps)  
@@ -21,7 +23,5 @@
 - `2025-09-01` | [🔗 A gentle primer to Ash](https://www.yellowduck.be/posts/a-gentle-primer-to-ash)  
 - `2025-09-01` | [🔗 Building a simple chat app with Elixir and Phoenix](https://www.yellowduck.be/posts/building-a-simple-chat-app-with-elixir-and-phoenix)  
 - `2025-09-01` | [🔗 Testing messages with LiveIsolatedComponent](https://www.yellowduck.be/posts/testing-messages-with-liveisolatedcomponent)  
-- `2025-08-31` | [🔗 Learning Elixir: keyword lists](https://www.yellowduck.be/posts/learning-elixir-keyword-lists)  
-- `2025-08-31` | [🔗 Why I don&#39;t use down migrations](https://www.yellowduck.be/posts/why-i-dont-use-down-migrations)  
 
 <!-- BLOG-POST-LIST:END -->
