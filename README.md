@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-04` | [🔗 Executing scripts inside Elixir releases](https://www.yellowduck.be/posts/executing-scripts-inside-elixir-releases)  
 - `2025-09-04` | [🔗 Reliable File Access in Elixir Release](https://www.yellowduck.be/posts/reliable-file-access-in-elixir-release)  
 - `2025-09-03` | [🔗 Dependency hell: the hidden costs of dependency bloat in software development](https://www.yellowduck.be/posts/dependency-hell-the-hidden-costs-of-dependency-bloat-in-software-development)  
 - `2025-09-03` | [🔗 Learning Elixir: tuples](https://www.yellowduck.be/posts/learning-elixir-tuples)  
@@ -22,6 +23,5 @@
 - `2025-09-02` | [🔗 Writing composable guards in Elixir](https://www.yellowduck.be/posts/writing-composable-guards-in-elixir)  
 - `2025-09-02` | [🔗 My API integration methodology](https://www.yellowduck.be/posts/my-api-integration-methodology)  
 - `2025-09-01` | [🔗 A gentle primer to Ash](https://www.yellowduck.be/posts/a-gentle-primer-to-ash)  
-- `2025-09-01` | [🔗 Building a simple chat app with Elixir and Phoenix](https://www.yellowduck.be/posts/building-a-simple-chat-app-with-elixir-and-phoenix)  
 
 <!-- BLOG-POST-LIST:END -->
