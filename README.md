@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-05` | [🔗 What are OKLCH colors?](https://www.yellowduck.be/posts/what-are-oklch-colors)  
 - `2025-09-04` | [🔗 Executing scripts inside Elixir releases](https://www.yellowduck.be/posts/executing-scripts-inside-elixir-releases)  
 - `2025-09-04` | [🔗 Reliable File Access in Elixir Release](https://www.yellowduck.be/posts/reliable-file-access-in-elixir-release)  
 - `2025-09-03` | [🔗 Dependency hell: the hidden costs of dependency bloat in software development](https://www.yellowduck.be/posts/dependency-hell-the-hidden-costs-of-dependency-bloat-in-software-development)  
@@ -22,6 +23,5 @@
 - `2025-09-02` | [🔗 Learning Elixir: maps](https://www.yellowduck.be/posts/learning-elixir-maps)  
 - `2025-09-02` | [🔗 Writing composable guards in Elixir](https://www.yellowduck.be/posts/writing-composable-guards-in-elixir)  
 - `2025-09-02` | [🔗 My API integration methodology](https://www.yellowduck.be/posts/my-api-integration-methodology)  
-- `2025-09-01` | [🔗 A gentle primer to Ash](https://www.yellowduck.be/posts/a-gentle-primer-to-ash)  
 
 <!-- BLOG-POST-LIST:END -->
