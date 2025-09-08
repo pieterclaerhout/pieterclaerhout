@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-08` | [🔗 Interoperability in 2025: beyond the Erlang VM](https://www.yellowduck.be/posts/interoperability-in-2025-beyond-the-erlang-vm)  
 - `2025-09-08` | [🔗 Convenient &#39;Copy as cURL&#39;: explicit, executable, editable request replays](https://www.yellowduck.be/posts/convenient-copy-as-curl-explicit-executable-editable-request-replays)  
 - `2025-09-07` | [🔗 The fastest site in the Tour de France](https://www.yellowduck.be/posts/the-fastest-site-in-the-tour-de-france)  
 - `2025-09-07` | [🔗 Learning Elixir: control flow with if and unless](https://www.yellowduck.be/posts/learning-elixir-control-flow-with-if-and-unless)  
@@ -22,6 +23,5 @@
 - `2025-09-05` | [🔗 What are OKLCH colors?](https://www.yellowduck.be/posts/what-are-oklch-colors)  
 - `2025-09-04` | [🔗 Executing scripts inside Elixir releases](https://www.yellowduck.be/posts/executing-scripts-inside-elixir-releases)  
 - `2025-09-04` | [🔗 Reliable File Access in Elixir Release](https://www.yellowduck.be/posts/reliable-file-access-in-elixir-release)  
-- `2025-09-03` | [🔗 Dependency hell: the hidden costs of dependency bloat in software development](https://www.yellowduck.be/posts/dependency-hell-the-hidden-costs-of-dependency-bloat-in-software-development)  
 
 <!-- BLOG-POST-LIST:END -->
