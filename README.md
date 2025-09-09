@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-09` | [🔗 Why I read technical books](https://www.yellowduck.be/posts/why-i-read-technical-books)  
 - `2025-09-09` | [🔗 Multiple layouts in Phoenix 1.8](https://www.yellowduck.be/posts/multiple-layouts-in-phoenix-1-8)  
 - `2025-09-08` | [🔗 Interoperability in 2025: beyond the Erlang VM](https://www.yellowduck.be/posts/interoperability-in-2025-beyond-the-erlang-vm)  
 - `2025-09-08` | [🔗 Convenient &#39;Copy as cURL&#39;: explicit, executable, editable request replays](https://www.yellowduck.be/posts/convenient-copy-as-curl-explicit-executable-editable-request-replays)  
@@ -22,6 +23,5 @@
 - `2025-09-06` | [🔗 Everything I know about good API design](https://www.yellowduck.be/posts/everything-i-know-about-good-api-design)  
 - `2025-09-05` | [🔗 Traps to developers](https://www.yellowduck.be/posts/traps-to-developers)  
 - `2025-09-05` | [🔗 What are OKLCH colors?](https://www.yellowduck.be/posts/what-are-oklch-colors)  
-- `2025-09-04` | [🔗 Executing scripts inside Elixir releases](https://www.yellowduck.be/posts/executing-scripts-inside-elixir-releases)  
 
 <!-- BLOG-POST-LIST:END -->
