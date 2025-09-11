@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-11` | [🔗 Simplify pattern matching with map updates](https://www.yellowduck.be/posts/simplify-pattern-matching-with-map-updates)  
 - `2025-09-10` | [🔗 An engineer&#39;s perspective on hiring](https://www.yellowduck.be/posts/an-engineers-perspective-on-hiring)  
 - `2025-09-10` | [🔗 What to look for in code reviews](https://www.yellowduck.be/posts/what-to-look-for-in-code-reviews)  
 - `2025-09-09` | [🔗 Why I read technical books](https://www.yellowduck.be/posts/why-i-read-technical-books)  
@@ -22,6 +23,5 @@
 - `2025-09-07` | [🔗 The fastest site in the Tour de France](https://www.yellowduck.be/posts/the-fastest-site-in-the-tour-de-france)  
 - `2025-09-07` | [🔗 Learning Elixir: control flow with if and unless](https://www.yellowduck.be/posts/learning-elixir-control-flow-with-if-and-unless)  
 - `2025-09-06` | [🔗 Understanding stack traces in Elixir](https://www.yellowduck.be/posts/understanding-stack-traces-in-elixir)  
-- `2025-09-06` | [🔗 Everything I know about good API design](https://www.yellowduck.be/posts/everything-i-know-about-good-api-design)  
 
 <!-- BLOG-POST-LIST:END -->
