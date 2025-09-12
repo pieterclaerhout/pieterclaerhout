@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-12` | [🔗 Elixir background jobs: choosing the right tool for the job](https://www.yellowduck.be/posts/elixir-background-jobs-choosing-the-right-tool-for-the-job)  
 - `2025-09-11` | [🐥 Setting up AshPostgres.Extensions.Vector](https://www.yellowduck.be/posts/setting-up-ashpostgres-extensions-vector)  
 - `2025-09-11` | [🔗 Linux stuff I can&#39;t remember off the top of my head](https://www.yellowduck.be/posts/linux-stuff-i-cant-remember-off-the-top-of-my-head)  
 - `2025-09-11` | [🔗 Simplify pattern matching with map updates](https://www.yellowduck.be/posts/simplify-pattern-matching-with-map-updates)  
@@ -22,6 +23,5 @@
 - `2025-09-09` | [🔗 Multiple layouts in Phoenix 1.8](https://www.yellowduck.be/posts/multiple-layouts-in-phoenix-1-8)  
 - `2025-09-08` | [🔗 Interoperability in 2025: beyond the Erlang VM](https://www.yellowduck.be/posts/interoperability-in-2025-beyond-the-erlang-vm)  
 - `2025-09-08` | [🔗 Convenient &#39;Copy as cURL&#39;: explicit, executable, editable request replays](https://www.yellowduck.be/posts/convenient-copy-as-curl-explicit-executable-editable-request-replays)  
-- `2025-09-07` | [🔗 The fastest site in the Tour de France](https://www.yellowduck.be/posts/the-fastest-site-in-the-tour-de-france)  
 
 <!-- BLOG-POST-LIST:END -->
