@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-12` | [🔗 git rebase or git merge? Neither.](https://www.yellowduck.be/posts/git-rebase-or-git-merge-neither-jeffrey-rennie-medium)  
 - `2025-09-12` | [🔗 Elixir background jobs: choosing the right tool for the job](https://www.yellowduck.be/posts/elixir-background-jobs-choosing-the-right-tool-for-the-job)  
 - `2025-09-11` | [🐥 Setting up AshPostgres.Extensions.Vector](https://www.yellowduck.be/posts/setting-up-ashpostgres-extensions-vector)  
 - `2025-09-11` | [🔗 Linux stuff I can&#39;t remember off the top of my head](https://www.yellowduck.be/posts/linux-stuff-i-cant-remember-off-the-top-of-my-head)  
@@ -22,6 +23,5 @@
 - `2025-09-09` | [🔗 Why I read technical books](https://www.yellowduck.be/posts/why-i-read-technical-books)  
 - `2025-09-09` | [🔗 Multiple layouts in Phoenix 1.8](https://www.yellowduck.be/posts/multiple-layouts-in-phoenix-1-8)  
 - `2025-09-08` | [🔗 Interoperability in 2025: beyond the Erlang VM](https://www.yellowduck.be/posts/interoperability-in-2025-beyond-the-erlang-vm)  
-- `2025-09-08` | [🔗 Convenient &#39;Copy as cURL&#39;: explicit, executable, editable request replays](https://www.yellowduck.be/posts/convenient-copy-as-curl-explicit-executable-editable-request-replays)  
 
 <!-- BLOG-POST-LIST:END -->
