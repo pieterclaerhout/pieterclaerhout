@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-13` | [🔗 Why this guy shoots ISO 500 most of the time](https://www.yellowduck.be/posts/why-this-guy-shoots-iso-500-most-of-the-time)  
 - `2025-09-12` | [🐥 Vector embeddings with Ash, OpenAI, and PostgreSQL](https://www.yellowduck.be/posts/vector-embeddings-with-ash-openai-and-postgresql)  
 - `2025-09-12` | [🔗 git rebase or git merge? Neither.](https://www.yellowduck.be/posts/git-rebase-or-git-merge-neither-jeffrey-rennie-medium)  
 - `2025-09-12` | [🔗 Elixir background jobs: choosing the right tool for the job](https://www.yellowduck.be/posts/elixir-background-jobs-choosing-the-right-tool-for-the-job)  
@@ -22,6 +23,5 @@
 - `2025-09-10` | [🔗 An engineer&#39;s perspective on hiring](https://www.yellowduck.be/posts/an-engineers-perspective-on-hiring)  
 - `2025-09-10` | [🔗 What to look for in code reviews](https://www.yellowduck.be/posts/what-to-look-for-in-code-reviews)  
 - `2025-09-09` | [🔗 Why I read technical books](https://www.yellowduck.be/posts/why-i-read-technical-books)  
-- `2025-09-09` | [🔗 Multiple layouts in Phoenix 1.8](https://www.yellowduck.be/posts/multiple-layouts-in-phoenix-1-8)  
 
 <!-- BLOG-POST-LIST:END -->
