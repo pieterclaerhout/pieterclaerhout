@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-14` | [🐥 Extending nginx access log retention on Ubuntu](https://www.yellowduck.be/posts/extending-nginx-access-log-retention-on-ubuntu)  
 - `2025-09-14` | [🔗 Why auto increment is a terrible idea](https://www.yellowduck.be/posts/why-auto-increment-is-a-terrible-idea)  
 - `2025-09-14` | [🔗 Setting up Go templ with Tailwind, HTMX and Docker](https://www.yellowduck.be/posts/setting-up-go-templ-with-tailwind-htmx-and-docker)  
 - `2025-09-13` | [🐥 Using PHPUnit events to hook into test runs](https://www.yellowduck.be/posts/using-phpunit-events-to-hook-into-test-runs)  
@@ -22,6 +23,5 @@
 - `2025-09-12` | [🔗 git rebase or git merge? Neither.](https://www.yellowduck.be/posts/git-rebase-or-git-merge-neither-jeffrey-rennie-medium)  
 - `2025-09-12` | [🔗 Elixir background jobs: choosing the right tool for the job](https://www.yellowduck.be/posts/elixir-background-jobs-choosing-the-right-tool-for-the-job)  
 - `2025-09-11` | [🐥 Setting up AshPostgres.Extensions.Vector](https://www.yellowduck.be/posts/setting-up-ashpostgres-extensions-vector)  
-- `2025-09-11` | [🔗 Linux stuff I can&#39;t remember off the top of my head](https://www.yellowduck.be/posts/linux-stuff-i-cant-remember-off-the-top-of-my-head)  
 
 <!-- BLOG-POST-LIST:END -->
