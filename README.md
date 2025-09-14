@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-14` | [🔗 Setting up Go templ with Tailwind, HTMX and Docker](https://www.yellowduck.be/posts/setting-up-go-templ-with-tailwind-htmx-and-docker)  
 - `2025-09-13` | [🐥 Using PHPUnit events to hook into test runs](https://www.yellowduck.be/posts/using-phpunit-events-to-hook-into-test-runs)  
 - `2025-09-13` | [🔗 LLMs solving problems OCR+NLP couldn&#39;t](https://www.yellowduck.be/posts/llms-solving-problems-ocr-nlp-couldnt)  
 - `2025-09-13` | [🔗 Why this guy shoots ISO 500 most of the time](https://www.yellowduck.be/posts/why-this-guy-shoots-iso-500-most-of-the-time)  
@@ -22,6 +23,5 @@
 - `2025-09-11` | [🐥 Setting up AshPostgres.Extensions.Vector](https://www.yellowduck.be/posts/setting-up-ashpostgres-extensions-vector)  
 - `2025-09-11` | [🔗 Linux stuff I can&#39;t remember off the top of my head](https://www.yellowduck.be/posts/linux-stuff-i-cant-remember-off-the-top-of-my-head)  
 - `2025-09-11` | [🔗 Simplify pattern matching with map updates](https://www.yellowduck.be/posts/simplify-pattern-matching-with-map-updates)  
-- `2025-09-10` | [🔗 An engineer&#39;s perspective on hiring](https://www.yellowduck.be/posts/an-engineers-perspective-on-hiring)  
 
 <!-- BLOG-POST-LIST:END -->
