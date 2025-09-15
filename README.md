@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-15` | [🔗 Lesser-known C# features that can simplify your code](https://www.yellowduck.be/posts/lesser-known-c-features-that-can-simplify-your-code)  
 - `2025-09-14` | [🐥 Extending nginx access log retention on Ubuntu](https://www.yellowduck.be/posts/extending-nginx-access-log-retention-on-ubuntu)  
 - `2025-09-14` | [🔗 Why auto increment is a terrible idea](https://www.yellowduck.be/posts/why-auto-increment-is-a-terrible-idea)  
 - `2025-09-14` | [🔗 Setting up Go templ with Tailwind, HTMX and Docker](https://www.yellowduck.be/posts/setting-up-go-templ-with-tailwind-htmx-and-docker)  
@@ -22,6 +23,5 @@
 - `2025-09-12` | [🐥 Vector embeddings with Ash, OpenAI, and PostgreSQL](https://www.yellowduck.be/posts/vector-embeddings-with-ash-openai-and-postgresql)  
 - `2025-09-12` | [🔗 git rebase or git merge? Neither.](https://www.yellowduck.be/posts/git-rebase-or-git-merge-neither-jeffrey-rennie-medium)  
 - `2025-09-12` | [🔗 Elixir background jobs: choosing the right tool for the job](https://www.yellowduck.be/posts/elixir-background-jobs-choosing-the-right-tool-for-the-job)  
-- `2025-09-11` | [🐥 Setting up AshPostgres.Extensions.Vector](https://www.yellowduck.be/posts/setting-up-ashpostgres-extensions-vector)  
 
 <!-- BLOG-POST-LIST:END -->
