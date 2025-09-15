@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-15` | [🔗 Custom Phoenix generator templates](https://www.yellowduck.be/posts/custom-phoenix-generator-templates)  
 - `2025-09-15` | [🔗 Lesser-known C# features that can simplify your code](https://www.yellowduck.be/posts/lesser-known-c-features-that-can-simplify-your-code)  
 - `2025-09-14` | [🐥 Extending nginx access log retention on Ubuntu](https://www.yellowduck.be/posts/extending-nginx-access-log-retention-on-ubuntu)  
 - `2025-09-14` | [🔗 Why auto increment is a terrible idea](https://www.yellowduck.be/posts/why-auto-increment-is-a-terrible-idea)  
@@ -22,6 +23,5 @@
 - `2025-09-13` | [🔗 Why this guy shoots ISO 500 most of the time](https://www.yellowduck.be/posts/why-this-guy-shoots-iso-500-most-of-the-time)  
 - `2025-09-12` | [🐥 Vector embeddings with Ash, OpenAI, and PostgreSQL](https://www.yellowduck.be/posts/vector-embeddings-with-ash-openai-and-postgresql)  
 - `2025-09-12` | [🔗 git rebase or git merge? Neither.](https://www.yellowduck.be/posts/git-rebase-or-git-merge-neither-jeffrey-rennie-medium)  
-- `2025-09-12` | [🔗 Elixir background jobs: choosing the right tool for the job](https://www.yellowduck.be/posts/elixir-background-jobs-choosing-the-right-tool-for-the-job)  
 
 <!-- BLOG-POST-LIST:END -->
