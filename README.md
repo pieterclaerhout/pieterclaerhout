@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-16` | [🔗 Curate your own newspaper with RSS](https://www.yellowduck.be/posts/curate-your-own-newspaper-with-rss)  
 - `2025-09-15` | [🔗 Custom Phoenix generator templates](https://www.yellowduck.be/posts/custom-phoenix-generator-templates)  
 - `2025-09-15` | [🔗 Lesser-known C# features that can simplify your code](https://www.yellowduck.be/posts/lesser-known-c-features-that-can-simplify-your-code)  
 - `2025-09-14` | [🐥 Extending nginx access log retention on Ubuntu](https://www.yellowduck.be/posts/extending-nginx-access-log-retention-on-ubuntu)  
@@ -22,6 +23,5 @@
 - `2025-09-13` | [🔗 LLMs solving problems OCR+NLP couldn&#39;t](https://www.yellowduck.be/posts/llms-solving-problems-ocr-nlp-couldnt)  
 - `2025-09-13` | [🔗 Why this guy shoots ISO 500 most of the time](https://www.yellowduck.be/posts/why-this-guy-shoots-iso-500-most-of-the-time)  
 - `2025-09-12` | [🐥 Vector embeddings with Ash, OpenAI, and PostgreSQL](https://www.yellowduck.be/posts/vector-embeddings-with-ash-openai-and-postgresql)  
-- `2025-09-12` | [🔗 git rebase or git merge? Neither.](https://www.yellowduck.be/posts/git-rebase-or-git-merge-neither-jeffrey-rennie-medium)  
 
 <!-- BLOG-POST-LIST:END -->
