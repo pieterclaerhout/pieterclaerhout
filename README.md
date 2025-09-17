@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-17` | [🔗 Caddy guide / cheatsheet](https://www.yellowduck.be/posts/caddy-guide-cheatsheet-hackmd)  
 - `2025-09-17` | [🔗 Inside ClickHouse full-text search: fast, native, and columnar](https://www.yellowduck.be/posts/inside-clickhouse-full-text-search-fast-native-and-columnar)  
 - `2025-09-16` | [🔗 Can you use ClickHouse for vector search?](https://www.yellowduck.be/posts/can-you-use-clickhouse-for-vector-search)  
 - `2025-09-16` | [🔗 Curate your own newspaper with RSS](https://www.yellowduck.be/posts/curate-your-own-newspaper-with-rss)  
@@ -22,6 +23,5 @@
 - `2025-09-14` | [🔗 Why auto increment is a terrible idea](https://www.yellowduck.be/posts/why-auto-increment-is-a-terrible-idea)  
 - `2025-09-14` | [🔗 Setting up Go templ with Tailwind, HTMX and Docker](https://www.yellowduck.be/posts/setting-up-go-templ-with-tailwind-htmx-and-docker)  
 - `2025-09-13` | [🐥 Using PHPUnit events to hook into test runs](https://www.yellowduck.be/posts/using-phpunit-events-to-hook-into-test-runs)  
-- `2025-09-13` | [🔗 LLMs solving problems OCR+NLP couldn&#39;t](https://www.yellowduck.be/posts/llms-solving-problems-ocr-nlp-couldnt)  
 
 <!-- BLOG-POST-LIST:END -->
