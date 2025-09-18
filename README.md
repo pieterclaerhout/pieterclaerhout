@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-18` | [🔗 Phoenix LiveView file uploads with auto-recovery on server restarts](https://www.yellowduck.be/posts/phoenix-liveview-file-uploads-with-auto-recovery-on-server-restarts)  
 - `2025-09-18` | [🔗 Context rot: how increasing input tokens impacts LLM performance](https://www.yellowduck.be/posts/context-rot-how-increasing-input-tokens-impacts-llm-performance)  
 - `2025-09-17` | [🔗 Caddy guide / cheatsheet](https://www.yellowduck.be/posts/caddy-guide-cheatsheet-hackmd)  
 - `2025-09-17` | [🔗 Inside ClickHouse full-text search: fast, native, and columnar](https://www.yellowduck.be/posts/inside-clickhouse-full-text-search-fast-native-and-columnar)  
@@ -22,6 +23,5 @@
 - `2025-09-15` | [🔗 Lesser-known C# features that can simplify your code](https://www.yellowduck.be/posts/lesser-known-c-features-that-can-simplify-your-code)  
 - `2025-09-14` | [🐥 Extending nginx access log retention on Ubuntu](https://www.yellowduck.be/posts/extending-nginx-access-log-retention-on-ubuntu)  
 - `2025-09-14` | [🔗 Why auto increment is a terrible idea](https://www.yellowduck.be/posts/why-auto-increment-is-a-terrible-idea)  
-- `2025-09-14` | [🔗 Setting up Go templ with Tailwind, HTMX and Docker](https://www.yellowduck.be/posts/setting-up-go-templ-with-tailwind-htmx-and-docker)  
 
 <!-- BLOG-POST-LIST:END -->
