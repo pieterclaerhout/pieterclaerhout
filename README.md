@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-18` | [🐥 Adding an average column to SQL query results with window functions](https://www.yellowduck.be/posts/adding-an-average-column-to-sql-query-results-with-window-functions)  
+- `2025-09-18` | [🔗 My struggles with Gatekeeper errors and Homebrew - and a solution!](https://www.yellowduck.be/posts/my-struggles-with-gatekeeper-errors-and-homebrew-and-a-solution)  
 - `2025-09-18` | [🔗 Phoenix LiveView file uploads with auto-recovery on server restarts](https://www.yellowduck.be/posts/phoenix-liveview-file-uploads-with-auto-recovery-on-server-restarts)  
 - `2025-09-18` | [🔗 Context rot: how increasing input tokens impacts LLM performance](https://www.yellowduck.be/posts/context-rot-how-increasing-input-tokens-impacts-llm-performance)  
 - `2025-09-17` | [🔗 Caddy guide / cheatsheet](https://www.yellowduck.be/posts/caddy-guide-cheatsheet-hackmd)  
@@ -21,7 +23,5 @@
 - `2025-09-16` | [🔗 Curate your own newspaper with RSS](https://www.yellowduck.be/posts/curate-your-own-newspaper-with-rss)  
 - `2025-09-15` | [🔗 Custom Phoenix generator templates](https://www.yellowduck.be/posts/custom-phoenix-generator-templates)  
 - `2025-09-15` | [🔗 Lesser-known C# features that can simplify your code](https://www.yellowduck.be/posts/lesser-known-c-features-that-can-simplify-your-code)  
-- `2025-09-14` | [🐥 Extending nginx access log retention on Ubuntu](https://www.yellowduck.be/posts/extending-nginx-access-log-retention-on-ubuntu)  
-- `2025-09-14` | [🔗 Why auto increment is a terrible idea](https://www.yellowduck.be/posts/why-auto-increment-is-a-terrible-idea)  
 
 <!-- BLOG-POST-LIST:END -->
