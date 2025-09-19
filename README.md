@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-19` | [🔗 An Elixir, Phoenix and Ash beginner&#39;s guide](https://www.yellowduck.be/posts/an-elixir-phoenix-and-ash-beginners-guide)  
 - `2025-09-18` | [🐥 Adding an average column to SQL query results with window functions](https://www.yellowduck.be/posts/adding-an-average-column-to-sql-query-results-with-window-functions)  
 - `2025-09-18` | [🔗 My struggles with Gatekeeper errors and Homebrew - and a solution!](https://www.yellowduck.be/posts/my-struggles-with-gatekeeper-errors-and-homebrew-and-a-solution)  
 - `2025-09-18` | [🔗 Phoenix LiveView file uploads with auto-recovery on server restarts](https://www.yellowduck.be/posts/phoenix-liveview-file-uploads-with-auto-recovery-on-server-restarts)  
@@ -22,6 +23,5 @@
 - `2025-09-16` | [🔗 Can you use ClickHouse for vector search?](https://www.yellowduck.be/posts/can-you-use-clickhouse-for-vector-search)  
 - `2025-09-16` | [🔗 Curate your own newspaper with RSS](https://www.yellowduck.be/posts/curate-your-own-newspaper-with-rss)  
 - `2025-09-15` | [🔗 Custom Phoenix generator templates](https://www.yellowduck.be/posts/custom-phoenix-generator-templates)  
-- `2025-09-15` | [🔗 Lesser-known C# features that can simplify your code](https://www.yellowduck.be/posts/lesser-known-c-features-that-can-simplify-your-code)  
 
 <!-- BLOG-POST-LIST:END -->
