@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-20` | [🐥 Running Docker Compose with systemd](https://www.yellowduck.be/posts/running-docker-compose-with-systemd)  
 - `2025-09-20` | [🔗 Using ETS for caching in Elixir](https://www.yellowduck.be/posts/using-ets-for-caching-in-elixir)  
 - `2025-09-20` | [🔗 Clean atom parameters in Phoenix](https://www.yellowduck.be/posts/clean-atom-parameters-in-phoenix)  
 - `2025-09-19` | [🐥 Inspecting and validating JSON responses in Phoenix with a custom plug](https://www.yellowduck.be/posts/inspecting-and-validating-json-responses-in-phoenix-with-a-custom-plug)  
@@ -22,6 +23,5 @@
 - `2025-09-18` | [🔗 My struggles with Gatekeeper errors and Homebrew - and a solution!](https://www.yellowduck.be/posts/my-struggles-with-gatekeeper-errors-and-homebrew-and-a-solution)  
 - `2025-09-18` | [🔗 Phoenix LiveView file uploads with auto-recovery on server restarts](https://www.yellowduck.be/posts/phoenix-liveview-file-uploads-with-auto-recovery-on-server-restarts)  
 - `2025-09-18` | [🔗 Context rot: how increasing input tokens impacts LLM performance](https://www.yellowduck.be/posts/context-rot-how-increasing-input-tokens-impacts-llm-performance)  
-- `2025-09-17` | [🔗 Caddy guide / cheatsheet](https://www.yellowduck.be/posts/caddy-guide-cheatsheet-hackmd)  
 
 <!-- BLOG-POST-LIST:END -->
