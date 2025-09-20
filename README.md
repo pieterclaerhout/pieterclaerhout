@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-20` | [🔗 Using ETS for caching in Elixir](https://www.yellowduck.be/posts/using-ets-for-caching-in-elixir)  
 - `2025-09-20` | [🔗 Clean atom parameters in Phoenix](https://www.yellowduck.be/posts/clean-atom-parameters-in-phoenix)  
 - `2025-09-19` | [🐥 Inspecting and validating JSON responses in Phoenix with a custom plug](https://www.yellowduck.be/posts/inspecting-and-validating-json-responses-in-phoenix-with-a-custom-plug)  
 - `2025-09-19` | [🔗 Inline CSS in Phoenix email templates](https://www.yellowduck.be/posts/inline-css-in-phoenix-email-templates)  
@@ -22,6 +23,5 @@
 - `2025-09-18` | [🔗 Phoenix LiveView file uploads with auto-recovery on server restarts](https://www.yellowduck.be/posts/phoenix-liveview-file-uploads-with-auto-recovery-on-server-restarts)  
 - `2025-09-18` | [🔗 Context rot: how increasing input tokens impacts LLM performance](https://www.yellowduck.be/posts/context-rot-how-increasing-input-tokens-impacts-llm-performance)  
 - `2025-09-17` | [🔗 Caddy guide / cheatsheet](https://www.yellowduck.be/posts/caddy-guide-cheatsheet-hackmd)  
-- `2025-09-17` | [🔗 Inside ClickHouse full-text search: fast, native, and columnar](https://www.yellowduck.be/posts/inside-clickhouse-full-text-search-fast-native-and-columnar)  
 
 <!-- BLOG-POST-LIST:END -->
