@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-20` | [🔗 Clean atom parameters in Phoenix](https://www.yellowduck.be/posts/clean-atom-parameters-in-phoenix)  
 - `2025-09-19` | [🐥 Inspecting and validating JSON responses in Phoenix with a custom plug](https://www.yellowduck.be/posts/inspecting-and-validating-json-responses-in-phoenix-with-a-custom-plug)  
 - `2025-09-19` | [🔗 Inline CSS in Phoenix email templates](https://www.yellowduck.be/posts/inline-css-in-phoenix-email-templates)  
 - `2025-09-19` | [🔗 An Elixir, Phoenix and Ash beginner&#39;s guide](https://www.yellowduck.be/posts/an-elixir-phoenix-and-ash-beginners-guide)  
@@ -22,6 +23,5 @@
 - `2025-09-18` | [🔗 Context rot: how increasing input tokens impacts LLM performance](https://www.yellowduck.be/posts/context-rot-how-increasing-input-tokens-impacts-llm-performance)  
 - `2025-09-17` | [🔗 Caddy guide / cheatsheet](https://www.yellowduck.be/posts/caddy-guide-cheatsheet-hackmd)  
 - `2025-09-17` | [🔗 Inside ClickHouse full-text search: fast, native, and columnar](https://www.yellowduck.be/posts/inside-clickhouse-full-text-search-fast-native-and-columnar)  
-- `2025-09-16` | [🔗 Can you use ClickHouse for vector search?](https://www.yellowduck.be/posts/can-you-use-clickhouse-for-vector-search)  
 
 <!-- BLOG-POST-LIST:END -->
