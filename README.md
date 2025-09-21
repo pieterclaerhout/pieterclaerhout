@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-21` | [🔗 Switching from Docker to Podman](https://www.yellowduck.be/posts/switching-from-docker-to-podman)  
 - `2025-09-21` | [🔗 RSS server side reader](https://www.yellowduck.be/posts/rss-server-side-reader)  
 - `2025-09-20` | [🐥 Running Docker Compose with systemd](https://www.yellowduck.be/posts/running-docker-compose-with-systemd)  
 - `2025-09-20` | [🔗 Using ETS for caching in Elixir](https://www.yellowduck.be/posts/using-ets-for-caching-in-elixir)  
@@ -22,6 +23,5 @@
 - `2025-09-19` | [🔗 An Elixir, Phoenix and Ash beginner&#39;s guide](https://www.yellowduck.be/posts/an-elixir-phoenix-and-ash-beginners-guide)  
 - `2025-09-18` | [🐥 Adding an average column to SQL query results with window functions](https://www.yellowduck.be/posts/adding-an-average-column-to-sql-query-results-with-window-functions)  
 - `2025-09-18` | [🔗 My struggles with Gatekeeper errors and Homebrew - and a solution!](https://www.yellowduck.be/posts/my-struggles-with-gatekeeper-errors-and-homebrew-and-a-solution)  
-- `2025-09-18` | [🔗 Phoenix LiveView file uploads with auto-recovery on server restarts](https://www.yellowduck.be/posts/phoenix-liveview-file-uploads-with-auto-recovery-on-server-restarts)  
 
 <!-- BLOG-POST-LIST:END -->
