@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-24` | [🔗 Using select_merge in Ecto for flexible aggregates](https://www.yellowduck.be/posts/using-select-merge-in-ecto-for-flexible-aggregates)  
 - `2025-09-23` | [🔗 Robust session storage in Phoenix LiveView sessions](https://www.yellowduck.be/posts/robust-session-storage-in-phoenix-liveview-sessions)  
 - `2025-09-23` | [🔗 Masterclass common table expressions CTEs&rpar; in SQL: from theory to practice with Elixir Ecto](https://www.yellowduck.be/posts/masterclass-common-table-expressions-ctes-in-sql-from-theory-to-practice-with-elixir-ecto)  
 - `2025-09-22` | [🔗 Debugging with IEx: interactive techniques for Elixir development](https://www.yellowduck.be/posts/debugging-with-iex-interactive-techniques-for-elixir-development)  
@@ -22,6 +23,5 @@
 - `2025-09-20` | [🐥 Running Docker Compose with systemd](https://www.yellowduck.be/posts/running-docker-compose-with-systemd)  
 - `2025-09-20` | [🔗 Using ETS for caching in Elixir](https://www.yellowduck.be/posts/using-ets-for-caching-in-elixir)  
 - `2025-09-20` | [🔗 Clean atom parameters in Phoenix](https://www.yellowduck.be/posts/clean-atom-parameters-in-phoenix)  
-- `2025-09-19` | [🐥 Inspecting and validating JSON responses in Phoenix with a custom plug](https://www.yellowduck.be/posts/inspecting-and-validating-json-responses-in-phoenix-with-a-custom-plug)  
 
 <!-- BLOG-POST-LIST:END -->
