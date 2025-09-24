@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-24` | [🔗 How I document production-ready Spring Boot applications](https://www.yellowduck.be/posts/how-i-document-production-ready-spring-boot-applications)  
 - `2025-09-24` | [🔗 Using select_merge in Ecto for flexible aggregates](https://www.yellowduck.be/posts/using-select-merge-in-ecto-for-flexible-aggregates)  
 - `2025-09-23` | [🔗 Robust session storage in Phoenix LiveView sessions](https://www.yellowduck.be/posts/robust-session-storage-in-phoenix-liveview-sessions)  
 - `2025-09-23` | [🔗 Masterclass common table expressions CTEs&rpar; in SQL: from theory to practice with Elixir Ecto](https://www.yellowduck.be/posts/masterclass-common-table-expressions-ctes-in-sql-from-theory-to-practice-with-elixir-ecto)  
@@ -22,6 +23,5 @@
 - `2025-09-21` | [🔗 RSS server side reader](https://www.yellowduck.be/posts/rss-server-side-reader)  
 - `2025-09-20` | [🐥 Running Docker Compose with systemd](https://www.yellowduck.be/posts/running-docker-compose-with-systemd)  
 - `2025-09-20` | [🔗 Using ETS for caching in Elixir](https://www.yellowduck.be/posts/using-ets-for-caching-in-elixir)  
-- `2025-09-20` | [🔗 Clean atom parameters in Phoenix](https://www.yellowduck.be/posts/clean-atom-parameters-in-phoenix)  
 
 <!-- BLOG-POST-LIST:END -->
