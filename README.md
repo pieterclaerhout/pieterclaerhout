@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-26` | [🐥 Making a copy of a MySQL database](https://www.yellowduck.be/posts/making-a-copy-of-a-mysql-database)  
 - `2025-09-26` | [🔗 How to get user IP addresses in Phoenix LiveView](https://www.yellowduck.be/posts/how-to-get-user-ip-addresses-in-phoenix-liveview)  
 - `2025-09-26` | [🔗 Phoenix LiveView optimization guide](https://www.yellowduck.be/posts/phoenix-liveview-optimization-guide)  
 - `2025-09-25` | [🔗 Migrating my existing Elixir app to Ash framework](https://www.yellowduck.be/posts/migrating-my-existing-elixir-app-to-ash-framework)  
@@ -22,6 +23,5 @@
 - `2025-09-23` | [🔗 Robust session storage in Phoenix LiveView sessions](https://www.yellowduck.be/posts/robust-session-storage-in-phoenix-liveview-sessions)  
 - `2025-09-23` | [🔗 Masterclass common table expressions CTEs&rpar; in SQL: from theory to practice with Elixir Ecto](https://www.yellowduck.be/posts/masterclass-common-table-expressions-ctes-in-sql-from-theory-to-practice-with-elixir-ecto)  
 - `2025-09-22` | [🔗 Debugging with IEx: interactive techniques for Elixir development](https://www.yellowduck.be/posts/debugging-with-iex-interactive-techniques-for-elixir-development)  
-- `2025-09-22` | [🔗 Structs and embedded schemas in Elixir: beyond maps](https://www.yellowduck.be/posts/structs-and-embedded-schemas-in-elixir-beyond-maps)  
 
 <!-- BLOG-POST-LIST:END -->
