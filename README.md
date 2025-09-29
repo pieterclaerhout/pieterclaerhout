@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-29` | [🔗 I tried HTMX](https://www.yellowduck.be/posts/i-tried-htmx)  
 - `2025-09-28` | [🔗 Configuration files are user interfaces](https://www.yellowduck.be/posts/configuration-files-are-user-interfaces)  
 - `2025-09-28` | [🔗 Performing the Google Authenticator computation in Elixir](https://www.yellowduck.be/posts/performing-the-google-authenticator-computation-in-elixir)  
 - `2025-09-27` | [🔗 Pro cyclists reveal their most important training metrics](https://www.yellowduck.be/posts/pro-cyclists-reveal-their-most-important-training-metrics-wahoo-fitness-blog)  
@@ -22,6 +23,5 @@
 - `2025-09-26` | [🔗 Phoenix LiveView optimization guide](https://www.yellowduck.be/posts/phoenix-liveview-optimization-guide)  
 - `2025-09-25` | [🔗 Migrating my existing Elixir app to Ash framework](https://www.yellowduck.be/posts/migrating-my-existing-elixir-app-to-ash-framework)  
 - `2025-09-25` | [🔗 UUIDv7 comes to PostgreSQL 18](https://www.yellowduck.be/posts/uuidv7-comes-to-postgresql-18)  
-- `2025-09-24` | [🔗 How I document production-ready Spring Boot applications](https://www.yellowduck.be/posts/how-i-document-production-ready-spring-boot-applications)  
 
 <!-- BLOG-POST-LIST:END -->
