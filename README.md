@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-09-30` | [🔗 Polymorphism in Elixir](https://www.yellowduck.be/posts/polymorphism-in-elixir)  
 - `2025-09-29` | [🔗 A new experimental Go API for JSON](https://www.yellowduck.be/posts/a-new-experimental-go-api-for-json)  
 - `2025-09-29` | [🔗 I tried HTMX](https://www.yellowduck.be/posts/i-tried-htmx)  
 - `2025-09-28` | [🔗 Configuration files are user interfaces](https://www.yellowduck.be/posts/configuration-files-are-user-interfaces)  
@@ -22,6 +23,5 @@
 - `2025-09-26` | [🐥 Making a copy of a MySQL database](https://www.yellowduck.be/posts/making-a-copy-of-a-mysql-database)  
 - `2025-09-26` | [🔗 How to get user IP addresses in Phoenix LiveView](https://www.yellowduck.be/posts/how-to-get-user-ip-addresses-in-phoenix-liveview)  
 - `2025-09-26` | [🔗 Phoenix LiveView optimization guide](https://www.yellowduck.be/posts/phoenix-liveview-optimization-guide)  
-- `2025-09-25` | [🔗 Migrating my existing Elixir app to Ash framework](https://www.yellowduck.be/posts/migrating-my-existing-elixir-app-to-ash-framework)  
 
 <!-- BLOG-POST-LIST:END -->
