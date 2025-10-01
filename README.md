@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-01` | [🔗 Adding Postgres full text search to an Ash project](https://www.yellowduck.be/posts/adding-postgres-full-text-search-to-an-ash-project)  
 - `2025-09-30` | [🔗 Supporting refresh tokens with Ash Authentication](https://www.yellowduck.be/posts/supporting-refresh-tokens-with-ash-authentication)  
 - `2025-09-30` | [🔗 Polymorphism in Elixir](https://www.yellowduck.be/posts/polymorphism-in-elixir)  
 - `2025-09-29` | [🔗 A new experimental Go API for JSON](https://www.yellowduck.be/posts/a-new-experimental-go-api-for-json)  
@@ -22,6 +23,5 @@
 - `2025-09-27` | [🔗 Pro cyclists reveal their most important training metrics](https://www.yellowduck.be/posts/pro-cyclists-reveal-their-most-important-training-metrics-wahoo-fitness-blog)  
 - `2025-09-27` | [🔗 SQL performance improvements: finding the right queries to fix &lpar;part 1&rpar;](https://www.yellowduck.be/posts/sql-performance-improvements-finding-the-right-queries-to-fix-part-1)  
 - `2025-09-26` | [🐥 Making a copy of a MySQL database](https://www.yellowduck.be/posts/making-a-copy-of-a-mysql-database)  
-- `2025-09-26` | [🔗 How to get user IP addresses in Phoenix LiveView](https://www.yellowduck.be/posts/how-to-get-user-ip-addresses-in-phoenix-liveview)  
 
 <!-- BLOG-POST-LIST:END -->
