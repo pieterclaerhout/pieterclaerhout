@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-02` | [🔗 Announcing Genkit Go 1.0 and Enhanced AI-Assisted Development](https://www.yellowduck.be/posts/announcing-genkit-go-1-0-and-enhanced-ai-assisted-development)  
 - `2025-10-01` | [🔗 Faster Rust builds on Mac](https://www.yellowduck.be/posts/faster-rust-builds-on-mac)  
 - `2025-10-01` | [🔗 Adding Postgres full text search to an Ash project](https://www.yellowduck.be/posts/adding-postgres-full-text-search-to-an-ash-project)  
 - `2025-09-30` | [🔗 Supporting refresh tokens with Ash Authentication](https://www.yellowduck.be/posts/supporting-refresh-tokens-with-ash-authentication)  
@@ -22,6 +23,5 @@
 - `2025-09-28` | [🔗 Configuration files are user interfaces](https://www.yellowduck.be/posts/configuration-files-are-user-interfaces)  
 - `2025-09-28` | [🔗 Performing the Google Authenticator computation in Elixir](https://www.yellowduck.be/posts/performing-the-google-authenticator-computation-in-elixir)  
 - `2025-09-27` | [🔗 Pro cyclists reveal their most important training metrics](https://www.yellowduck.be/posts/pro-cyclists-reveal-their-most-important-training-metrics-wahoo-fitness-blog)  
-- `2025-09-27` | [🔗 SQL performance improvements: finding the right queries to fix &lpar;part 1&rpar;](https://www.yellowduck.be/posts/sql-performance-improvements-finding-the-right-queries-to-fix-part-1)  
 
 <!-- BLOG-POST-LIST:END -->
