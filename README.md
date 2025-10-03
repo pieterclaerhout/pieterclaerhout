@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-03` | [🔗 Auto-Select Timezones in Phoenix Apps](https://www.yellowduck.be/posts/auto-select-timezones-in-phoenix-apps)  
 - `2025-10-02` | [🔗 Using PDF.js layers in Vue.js](https://www.yellowduck.be/posts/using-pdf-js-layers-in-vue-js)  
 - `2025-10-02` | [🔗 Announcing Genkit Go 1.0 and Enhanced AI-Assisted Development](https://www.yellowduck.be/posts/announcing-genkit-go-1-0-and-enhanced-ai-assisted-development)  
 - `2025-10-01` | [🔗 Faster Rust builds on Mac](https://www.yellowduck.be/posts/faster-rust-builds-on-mac)  
@@ -22,6 +23,5 @@
 - `2025-09-29` | [🔗 A new experimental Go API for JSON](https://www.yellowduck.be/posts/a-new-experimental-go-api-for-json)  
 - `2025-09-29` | [🔗 I tried HTMX](https://www.yellowduck.be/posts/i-tried-htmx)  
 - `2025-09-28` | [🔗 Configuration files are user interfaces](https://www.yellowduck.be/posts/configuration-files-are-user-interfaces)  
-- `2025-09-28` | [🔗 Performing the Google Authenticator computation in Elixir](https://www.yellowduck.be/posts/performing-the-google-authenticator-computation-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
