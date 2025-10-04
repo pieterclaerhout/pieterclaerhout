@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-04` | [🔗 How to detect light or dark mode at the OS level with JavaScript](https://www.yellowduck.be/posts/how-to-detect-light-or-dark-mode-at-the-os-level-with-javascript)  
 - `2025-10-03` | [🔗 Background AI translator in Ash](https://www.yellowduck.be/posts/background-ai-translator-in-ash)  
 - `2025-10-03` | [🔗 Auto-Select Timezones in Phoenix Apps](https://www.yellowduck.be/posts/auto-select-timezones-in-phoenix-apps)  
 - `2025-10-02` | [🔗 Using PDF.js layers in Vue.js](https://www.yellowduck.be/posts/using-pdf-js-layers-in-vue-js)  
@@ -22,6 +23,5 @@
 - `2025-09-30` | [🔗 Supporting refresh tokens with Ash Authentication](https://www.yellowduck.be/posts/supporting-refresh-tokens-with-ash-authentication)  
 - `2025-09-30` | [🔗 Polymorphism in Elixir](https://www.yellowduck.be/posts/polymorphism-in-elixir)  
 - `2025-09-29` | [🔗 A new experimental Go API for JSON](https://www.yellowduck.be/posts/a-new-experimental-go-api-for-json)  
-- `2025-09-29` | [🔗 I tried HTMX](https://www.yellowduck.be/posts/i-tried-htmx)  
 
 <!-- BLOG-POST-LIST:END -->
