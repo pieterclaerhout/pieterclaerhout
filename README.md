@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-04` | [🔗 Laravel collection pluck method gains closure transformation power](https://www.yellowduck.be/posts/laravel-collection-pluck-method-gains-closure-transformation-power)  
 - `2025-10-04` | [🔗 How to detect light or dark mode at the OS level with JavaScript](https://www.yellowduck.be/posts/how-to-detect-light-or-dark-mode-at-the-os-level-with-javascript)  
 - `2025-10-03` | [🔗 Background AI translator in Ash](https://www.yellowduck.be/posts/background-ai-translator-in-ash)  
 - `2025-10-03` | [🔗 Auto-Select Timezones in Phoenix Apps](https://www.yellowduck.be/posts/auto-select-timezones-in-phoenix-apps)  
@@ -22,6 +23,5 @@
 - `2025-10-01` | [🔗 Adding Postgres full text search to an Ash project](https://www.yellowduck.be/posts/adding-postgres-full-text-search-to-an-ash-project)  
 - `2025-09-30` | [🔗 Supporting refresh tokens with Ash Authentication](https://www.yellowduck.be/posts/supporting-refresh-tokens-with-ash-authentication)  
 - `2025-09-30` | [🔗 Polymorphism in Elixir](https://www.yellowduck.be/posts/polymorphism-in-elixir)  
-- `2025-09-29` | [🔗 A new experimental Go API for JSON](https://www.yellowduck.be/posts/a-new-experimental-go-api-for-json)  
 
 <!-- BLOG-POST-LIST:END -->
