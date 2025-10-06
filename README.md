@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-06` | [🔗 The basics of a release branching strategy](https://www.yellowduck.be/posts/the-basics-of-a-release-branching-strategy)  
 - `2025-10-05` | [🔗 Terminating elegantly: a guide to graceful shutdowns](https://www.yellowduck.be/posts/terminating-elegantly-a-guide-to-graceful-shutdowns)  
 - `2025-10-05` | [🔗 npm ci vs npm install](https://www.yellowduck.be/posts/npm-ci-vs-npm-install)  
 - `2025-10-04` | [🔗 Laravel collection pluck method gains closure transformation power](https://www.yellowduck.be/posts/laravel-collection-pluck-method-gains-closure-transformation-power)  
@@ -22,6 +23,5 @@
 - `2025-10-02` | [🔗 Using PDF.js layers in Vue.js](https://www.yellowduck.be/posts/using-pdf-js-layers-in-vue-js)  
 - `2025-10-02` | [🔗 Announcing Genkit Go 1.0 and Enhanced AI-Assisted Development](https://www.yellowduck.be/posts/announcing-genkit-go-1-0-and-enhanced-ai-assisted-development)  
 - `2025-10-01` | [🔗 Faster Rust builds on Mac](https://www.yellowduck.be/posts/faster-rust-builds-on-mac)  
-- `2025-10-01` | [🔗 Adding Postgres full text search to an Ash project](https://www.yellowduck.be/posts/adding-postgres-full-text-search-to-an-ash-project)  
 
 <!-- BLOG-POST-LIST:END -->
