@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-07` | [🔗 My OCaml-flavoured Elixir style](https://www.yellowduck.be/posts/my-ocaml-flavoured-elixir-style)  
 - `2025-10-06` | [🔗 Building with Ash, before &amp; after AI](https://www.yellowduck.be/posts/building-with-ash-before-after-ai)  
 - `2025-10-06` | [🔗 The basics of a release branching strategy](https://www.yellowduck.be/posts/the-basics-of-a-release-branching-strategy)  
 - `2025-10-05` | [🔗 Terminating elegantly: a guide to graceful shutdowns](https://www.yellowduck.be/posts/terminating-elegantly-a-guide-to-graceful-shutdowns)  
@@ -22,6 +23,5 @@
 - `2025-10-03` | [🔗 Background AI translator in Ash](https://www.yellowduck.be/posts/background-ai-translator-in-ash)  
 - `2025-10-03` | [🔗 Auto-Select Timezones in Phoenix Apps](https://www.yellowduck.be/posts/auto-select-timezones-in-phoenix-apps)  
 - `2025-10-02` | [🔗 Using PDF.js layers in Vue.js](https://www.yellowduck.be/posts/using-pdf-js-layers-in-vue-js)  
-- `2025-10-02` | [🔗 Announcing Genkit Go 1.0 and Enhanced AI-Assisted Development](https://www.yellowduck.be/posts/announcing-genkit-go-1-0-and-enhanced-ai-assisted-development)  
 
 <!-- BLOG-POST-LIST:END -->
