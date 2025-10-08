@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-08` | [🔗 MESH: I tried HTMX, then ditched it](https://www.yellowduck.be/posts/mesh-i-tried-htmx-then-ditched-it)  
 - `2025-10-07` | [🔗 Laravel custom validation rules for enhanced data integrity](https://www.yellowduck.be/posts/laravel-custom-validation-rules-for-enhanced-data-integrity)  
 - `2025-10-07` | [🔗 My OCaml-flavoured Elixir style](https://www.yellowduck.be/posts/my-ocaml-flavoured-elixir-style)  
 - `2025-10-06` | [🔗 Building with Ash, before &amp; after AI](https://www.yellowduck.be/posts/building-with-ash-before-after-ai)  
@@ -22,6 +23,5 @@
 - `2025-10-04` | [🔗 Laravel collection pluck method gains closure transformation power](https://www.yellowduck.be/posts/laravel-collection-pluck-method-gains-closure-transformation-power)  
 - `2025-10-04` | [🔗 How to detect light or dark mode at the OS level with JavaScript](https://www.yellowduck.be/posts/how-to-detect-light-or-dark-mode-at-the-os-level-with-javascript)  
 - `2025-10-03` | [🔗 Background AI translator in Ash](https://www.yellowduck.be/posts/background-ai-translator-in-ash)  
-- `2025-10-03` | [🔗 Auto-Select Timezones in Phoenix Apps](https://www.yellowduck.be/posts/auto-select-timezones-in-phoenix-apps)  
 
 <!-- BLOG-POST-LIST:END -->
