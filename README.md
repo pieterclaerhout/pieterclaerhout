@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-09` | [🔗 No more down migrations](https://www.yellowduck.be/posts/no-more-down-migrations)  
 - `2025-10-08` | [🐥 Laravel best practices every developer should follow](https://www.yellowduck.be/posts/laravel-best-practices-every-developer-should-follow)  
 - `2025-10-08` | [🔗 Why do software developers love complexity?](https://www.yellowduck.be/posts/why-do-software-developers-love-complexity)  
 - `2025-10-08` | [🔗 MESH: I tried HTMX, then ditched it](https://www.yellowduck.be/posts/mesh-i-tried-htmx-then-ditched-it)  
@@ -22,6 +23,5 @@
 - `2025-10-06` | [🔗 The basics of a release branching strategy](https://www.yellowduck.be/posts/the-basics-of-a-release-branching-strategy)  
 - `2025-10-05` | [🔗 Terminating elegantly: a guide to graceful shutdowns](https://www.yellowduck.be/posts/terminating-elegantly-a-guide-to-graceful-shutdowns)  
 - `2025-10-05` | [🔗 npm ci vs npm install](https://www.yellowduck.be/posts/npm-ci-vs-npm-install)  
-- `2025-10-04` | [🔗 Laravel collection pluck method gains closure transformation power](https://www.yellowduck.be/posts/laravel-collection-pluck-method-gains-closure-transformation-power)  
 
 <!-- BLOG-POST-LIST:END -->
