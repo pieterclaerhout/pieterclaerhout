@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-09` | [🐥 Why using uv run --frozen matters in production](https://www.yellowduck.be/posts/why-using-uv-run-frozen-matters-in-production)  
 - `2025-10-09` | [🔗 How to keep package.json under control](https://www.yellowduck.be/posts/how-to-keep-package-json-under-control)  
 - `2025-10-09` | [🔗 No more down migrations](https://www.yellowduck.be/posts/no-more-down-migrations)  
 - `2025-10-08` | [🐥 Laravel best practices every developer should follow](https://www.yellowduck.be/posts/laravel-best-practices-every-developer-should-follow)  
@@ -22,6 +23,5 @@
 - `2025-10-07` | [🔗 My OCaml-flavoured Elixir style](https://www.yellowduck.be/posts/my-ocaml-flavoured-elixir-style)  
 - `2025-10-06` | [🔗 Building with Ash, before &amp; after AI](https://www.yellowduck.be/posts/building-with-ash-before-after-ai)  
 - `2025-10-06` | [🔗 The basics of a release branching strategy](https://www.yellowduck.be/posts/the-basics-of-a-release-branching-strategy)  
-- `2025-10-05` | [🔗 Terminating elegantly: a guide to graceful shutdowns](https://www.yellowduck.be/posts/terminating-elegantly-a-guide-to-graceful-shutdowns)  
 
 <!-- BLOG-POST-LIST:END -->
