@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-12` | [🔗 Go is 80/20 language](https://www.yellowduck.be/posts/go-is-80-20-language)  
 - `2025-10-11` | [🔗 Understanding why people underestimate software complexity](https://www.yellowduck.be/posts/understanding-why-people-underestimate-software-complexity)  
 - `2025-10-11` | [🔗 Why I keep business logic out of SQL](https://www.yellowduck.be/posts/why-i-keep-business-logic-out-of-sql)  
 - `2025-10-10` | [🔗 OAuth 2.0 vs OAuth 2.1: what changed, why it matters, and how to upgrade](https://www.yellowduck.be/posts/oauth-2-0-vs-oauth-2-1-what-changed-why-it-matters-and-how-to-upgrade)  
@@ -22,6 +23,5 @@
 - `2025-10-09` | [🔗 No more down migrations](https://www.yellowduck.be/posts/no-more-down-migrations)  
 - `2025-10-08` | [🐥 Laravel best practices every developer should follow](https://www.yellowduck.be/posts/laravel-best-practices-every-developer-should-follow)  
 - `2025-10-08` | [🔗 Why do software developers love complexity?](https://www.yellowduck.be/posts/why-do-software-developers-love-complexity)  
-- `2025-10-08` | [🔗 MESH: I tried HTMX, then ditched it](https://www.yellowduck.be/posts/mesh-i-tried-htmx-then-ditched-it)  
 
 <!-- BLOG-POST-LIST:END -->
