@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-13` | [🔗 Elixir clustering on a Kamal + Hetzner deployment](https://www.yellowduck.be/posts/elixir-clustering-on-a-kamal-hetzner-deployment)  
 - `2025-10-13` | [🔗 Size textarea to content](https://www.yellowduck.be/posts/size-textarea-to-content)  
 - `2025-10-12` | [🔗 Redis is fast - I&#39;ll cache in Postgres](https://www.yellowduck.be/posts/redis-is-fast-ill-cache-in-postgres)  
 - `2025-10-12` | [🔗 Go is 80/20 language](https://www.yellowduck.be/posts/go-is-80-20-language)  
@@ -22,6 +23,5 @@
 - `2025-10-10` | [🔗 Transforming fustration into actions or rather I am so over UI frameworks](https://www.yellowduck.be/posts/transforming-fustration-into-actions-or-rather-i-am-so-over-ui-frameworks-part-1)  
 - `2025-10-09` | [🐥 Why using uv run --frozen matters in production](https://www.yellowduck.be/posts/why-using-uv-run-frozen-matters-in-production)  
 - `2025-10-09` | [🔗 How to keep package.json under control](https://www.yellowduck.be/posts/how-to-keep-package-json-under-control)  
-- `2025-10-09` | [🔗 No more down migrations](https://www.yellowduck.be/posts/no-more-down-migrations)  
 
 <!-- BLOG-POST-LIST:END -->
