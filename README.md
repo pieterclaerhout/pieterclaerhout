@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-15` | [🔗 You should translate your app into english... Even if it&#39;s already in English](https://www.yellowduck.be/posts/you-should-translate-your-app-into-english-even-if-its-already-in-english)  
 - `2025-10-15` | [🔗 10 efficient &lpar;and fun&rpar; ways to seed your database](https://www.yellowduck.be/posts/10-efficient-and-fun-ways-to-seed-your-database)  
 - `2025-10-14` | [🔗 Introducing Request Mirror: a free micro-service to reflect HTTP requests](https://www.yellowduck.be/posts/introducing-request-mirror-a-free-micro-service-to-reflect-http-requests)  
 - `2025-10-14` | [🔗 Rotating your Laravel APP_KEY without breaking everything](https://www.yellowduck.be/posts/rotating-your-laravel-app-key-without-breaking-everything)  
@@ -22,6 +23,5 @@
 - `2025-10-12` | [🔗 Go is 80/20 language](https://www.yellowduck.be/posts/go-is-80-20-language)  
 - `2025-10-11` | [🔗 Understanding why people underestimate software complexity](https://www.yellowduck.be/posts/understanding-why-people-underestimate-software-complexity)  
 - `2025-10-11` | [🔗 Why I keep business logic out of SQL](https://www.yellowduck.be/posts/why-i-keep-business-logic-out-of-sql)  
-- `2025-10-10` | [🔗 OAuth 2.0 vs OAuth 2.1: what changed, why it matters, and how to upgrade](https://www.yellowduck.be/posts/oauth-2-0-vs-oauth-2-1-what-changed-why-it-matters-and-how-to-upgrade)  
 
 <!-- BLOG-POST-LIST:END -->
