@@ -14,7 +14,6 @@
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
 - `2025-10-15` | [🐥 Speeding up large Eloquent IN queries with temporary tables](https://www.yellowduck.be/posts/speeding-up-large-eloquent-in-queries-with-temporary-tables)  
-- `2025-10-15` | [🔗 Defensive programming with Microsoft .NET: anticipate errors and eliminate bugs](https://www.yellowduck.be/posts/defensive-programming-with-microsoft-net-anticipate-errors-and-eliminate-bugs)  
 - `2025-10-15` | [🔗 You should translate your app into english... Even if it&#39;s already in English](https://www.yellowduck.be/posts/you-should-translate-your-app-into-english-even-if-its-already-in-english)  
 - `2025-10-15` | [🔗 10 efficient &lpar;and fun&rpar; ways to seed your database](https://www.yellowduck.be/posts/10-efficient-and-fun-ways-to-seed-your-database)  
 - `2025-10-14` | [🔗 Introducing Request Mirror: a free micro-service to reflect HTTP requests](https://www.yellowduck.be/posts/introducing-request-mirror-a-free-micro-service-to-reflect-http-requests)  
@@ -23,5 +22,6 @@
 - `2025-10-13` | [🔗 Size textarea to content](https://www.yellowduck.be/posts/size-textarea-to-content)  
 - `2025-10-12` | [🔗 Redis is fast - I&#39;ll cache in Postgres](https://www.yellowduck.be/posts/redis-is-fast-ill-cache-in-postgres)  
 - `2025-10-12` | [🔗 Go is 80/20 language](https://www.yellowduck.be/posts/go-is-80-20-language)  
+- `2025-10-11` | [🔗 Understanding why people underestimate software complexity](https://www.yellowduck.be/posts/understanding-why-people-underestimate-software-complexity)  
 
 <!-- BLOG-POST-LIST:END -->
