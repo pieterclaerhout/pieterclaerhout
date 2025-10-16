@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-16` | [🔗 Write the &quot;stupid&quot; code](https://www.yellowduck.be/posts/write-the-stupid-code)  
 - `2025-10-16` | [🔗 Small data](https://www.yellowduck.be/posts/small-data)  
 - `2025-10-15` | [🐥 Speeding up large Eloquent IN queries with temporary tables](https://www.yellowduck.be/posts/speeding-up-large-eloquent-in-queries-with-temporary-tables)  
 - `2025-10-15` | [🔗 You should translate your app into english... Even if it&#39;s already in English](https://www.yellowduck.be/posts/you-should-translate-your-app-into-english-even-if-its-already-in-english)  
@@ -22,6 +23,5 @@
 - `2025-10-13` | [🔗 Elixir clustering on a Kamal + Hetzner deployment](https://www.yellowduck.be/posts/elixir-clustering-on-a-kamal-hetzner-deployment)  
 - `2025-10-13` | [🔗 Size textarea to content](https://www.yellowduck.be/posts/size-textarea-to-content)  
 - `2025-10-12` | [🔗 Redis is fast - I&#39;ll cache in Postgres](https://www.yellowduck.be/posts/redis-is-fast-ill-cache-in-postgres)  
-- `2025-10-12` | [🔗 Go is 80/20 language](https://www.yellowduck.be/posts/go-is-80-20-language)  
 
 <!-- BLOG-POST-LIST:END -->
