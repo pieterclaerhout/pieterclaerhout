@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-17` | [🔗 The software essays that shaped me](https://www.yellowduck.be/posts/the-software-essays-that-shaped-me)  
 - `2025-10-17` | [🔗 Everything I know about good system design](https://www.yellowduck.be/posts/everything-i-know-about-good-system-design)  
 - `2025-10-16` | [🔗 Write the &quot;stupid&quot; code](https://www.yellowduck.be/posts/write-the-stupid-code)  
 - `2025-10-16` | [🔗 Small data](https://www.yellowduck.be/posts/small-data)  
@@ -22,6 +23,5 @@
 - `2025-10-14` | [🔗 Introducing Request Mirror: a free micro-service to reflect HTTP requests](https://www.yellowduck.be/posts/introducing-request-mirror-a-free-micro-service-to-reflect-http-requests)  
 - `2025-10-14` | [🔗 Rotating your Laravel APP_KEY without breaking everything](https://www.yellowduck.be/posts/rotating-your-laravel-app-key-without-breaking-everything)  
 - `2025-10-13` | [🔗 Elixir clustering on a Kamal + Hetzner deployment](https://www.yellowduck.be/posts/elixir-clustering-on-a-kamal-hetzner-deployment)  
-- `2025-10-13` | [🔗 Size textarea to content](https://www.yellowduck.be/posts/size-textarea-to-content)  
 
 <!-- BLOG-POST-LIST:END -->
