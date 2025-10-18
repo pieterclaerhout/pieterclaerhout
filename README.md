@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-18` | [🔗 Introducing Mishka Chelekom v0.0.8 - with Tailwind 4 support and custom configuration](https://www.yellowduck.be/posts/introducing-mishka-chelekom-v0-0-8-with-tailwind-4-support-and-custom-configuration)  
 - `2025-10-18` | [🔗 Frontend complexity and the HTML renaissance](https://www.yellowduck.be/posts/frontend-complexity-and-the-html-renaissance)  
 - `2025-10-17` | [🐥 Why global scopes in Laravel are a good idea](https://www.yellowduck.be/posts/why-global-scopes-in-laravel-are-a-good-idea)  
 - `2025-10-17` | [🔗 The software essays that shaped me](https://www.yellowduck.be/posts/the-software-essays-that-shaped-me)  
@@ -22,6 +23,5 @@
 - `2025-10-15` | [🐥 Speeding up large Eloquent IN queries with temporary tables](https://www.yellowduck.be/posts/speeding-up-large-eloquent-in-queries-with-temporary-tables)  
 - `2025-10-15` | [🔗 You should translate your app into english... Even if it&#39;s already in English](https://www.yellowduck.be/posts/you-should-translate-your-app-into-english-even-if-its-already-in-english)  
 - `2025-10-15` | [🔗 10 efficient &lpar;and fun&rpar; ways to seed your database](https://www.yellowduck.be/posts/10-efficient-and-fun-ways-to-seed-your-database)  
-- `2025-10-14` | [🔗 Introducing Request Mirror: a free micro-service to reflect HTTP requests](https://www.yellowduck.be/posts/introducing-request-mirror-a-free-micro-service-to-reflect-http-requests)  
 
 <!-- BLOG-POST-LIST:END -->
