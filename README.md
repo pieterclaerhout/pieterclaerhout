@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-19` | [🔗 Ash TypeScript: rich Phoenix frontends, simplified](https://www.yellowduck.be/posts/ash-typescript-rich-phoenix-frontends-simplified)  
 - `2025-10-19` | [🔗 Four years of running Elixir on Kubernetes in Google Cloud](https://www.yellowduck.be/posts/four-years-of-running-elixir-on-kubernetes-in-google-cloud-piotr-szmielew-elixirconf-eu-2025)  
 - `2025-10-18` | [🐥 Using input variables in VS Code tasks](https://www.yellowduck.be/posts/is-it-possible-to-pass-arguments-to-a-task-in-visual-studio-code)  
 - `2025-10-18` | [🔗 Introducing Mishka Chelekom v0.0.8 - with Tailwind 4 support and custom configuration](https://www.yellowduck.be/posts/introducing-mishka-chelekom-v0-0-8-with-tailwind-4-support-and-custom-configuration)  
@@ -22,6 +23,5 @@
 - `2025-10-17` | [🔗 Everything I know about good system design](https://www.yellowduck.be/posts/everything-i-know-about-good-system-design)  
 - `2025-10-16` | [🔗 Write the &quot;stupid&quot; code](https://www.yellowduck.be/posts/write-the-stupid-code)  
 - `2025-10-16` | [🔗 Small data](https://www.yellowduck.be/posts/small-data)  
-- `2025-10-15` | [🐥 Speeding up large Eloquent IN queries with temporary tables](https://www.yellowduck.be/posts/speeding-up-large-eloquent-in-queries-with-temporary-tables)  
 
 <!-- BLOG-POST-LIST:END -->
