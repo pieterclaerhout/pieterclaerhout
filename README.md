@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-19` | [🐥 Comparing GPS coordinates in Elixir](https://www.yellowduck.be/posts/comparing-gps-coordinates-in-elixir)  
 - `2025-10-19` | [🔗 Ash TypeScript: rich Phoenix frontends, simplified](https://www.yellowduck.be/posts/ash-typescript-rich-phoenix-frontends-simplified)  
 - `2025-10-19` | [🔗 Four years of running Elixir on Kubernetes in Google Cloud](https://www.yellowduck.be/posts/four-years-of-running-elixir-on-kubernetes-in-google-cloud-piotr-szmielew-elixirconf-eu-2025)  
 - `2025-10-18` | [🐥 Using input variables in VS Code tasks](https://www.yellowduck.be/posts/is-it-possible-to-pass-arguments-to-a-task-in-visual-studio-code)  
@@ -22,6 +23,5 @@
 - `2025-10-17` | [🔗 The software essays that shaped me](https://www.yellowduck.be/posts/the-software-essays-that-shaped-me)  
 - `2025-10-17` | [🔗 Everything I know about good system design](https://www.yellowduck.be/posts/everything-i-know-about-good-system-design)  
 - `2025-10-16` | [🔗 Write the &quot;stupid&quot; code](https://www.yellowduck.be/posts/write-the-stupid-code)  
-- `2025-10-16` | [🔗 Small data](https://www.yellowduck.be/posts/small-data)  
 
 <!-- BLOG-POST-LIST:END -->
