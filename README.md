@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-20` | [🔗 Anatomy of Dockerfile](https://www.yellowduck.be/posts/anatomy-of-dockerfile)  
 - `2025-10-20` | [🔗 My journey learning Elixir Phoenix LiveView](https://www.yellowduck.be/posts/my-journey-learning-elixir-phoenix-liveview)  
 - `2025-10-19` | [🐥 Comparing GPS coordinates in Elixir](https://www.yellowduck.be/posts/comparing-gps-coordinates-in-elixir)  
 - `2025-10-19` | [🔗 Ash TypeScript: rich Phoenix frontends, simplified](https://www.yellowduck.be/posts/ash-typescript-rich-phoenix-frontends-simplified)  
@@ -22,6 +23,5 @@
 - `2025-10-18` | [🔗 Frontend complexity and the HTML renaissance](https://www.yellowduck.be/posts/frontend-complexity-and-the-html-renaissance)  
 - `2025-10-17` | [🐥 Why global scopes in Laravel are a good idea](https://www.yellowduck.be/posts/why-global-scopes-in-laravel-are-a-good-idea)  
 - `2025-10-17` | [🔗 The software essays that shaped me](https://www.yellowduck.be/posts/the-software-essays-that-shaped-me)  
-- `2025-10-17` | [🔗 Everything I know about good system design](https://www.yellowduck.be/posts/everything-i-know-about-good-system-design)  
 
 <!-- BLOG-POST-LIST:END -->
