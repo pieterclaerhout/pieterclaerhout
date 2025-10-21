@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-21` | [🔗 Laravel pipelines: the sweetest way to clean your code](https://www.yellowduck.be/posts/laravel-pipelines-the-sweetest-way-to-clean-your-code)  
 - `2025-10-21` | [🔗 How to install TPU Tubes](https://www.yellowduck.be/posts/how-to-install-tpu-tubes)  
 - `2025-10-20` | [🐥 Building a simple animated bar chart with Elixir, HEEx, and TailwindCSS](https://www.yellowduck.be/posts/building-a-simple-animated-bar-chart-with-elixir-heex-and-tailwindcss)  
 - `2025-10-20` | [🔗 Anatomy of Dockerfile](https://www.yellowduck.be/posts/anatomy-of-dockerfile)  
@@ -22,6 +23,5 @@
 - `2025-10-19` | [🔗 Four years of running Elixir on Kubernetes in Google Cloud](https://www.yellowduck.be/posts/four-years-of-running-elixir-on-kubernetes-in-google-cloud-piotr-szmielew-elixirconf-eu-2025)  
 - `2025-10-18` | [🐥 Using input variables in VS Code tasks](https://www.yellowduck.be/posts/is-it-possible-to-pass-arguments-to-a-task-in-visual-studio-code)  
 - `2025-10-18` | [🔗 Introducing Mishka Chelekom v0.0.8 - with Tailwind 4 support and custom configuration](https://www.yellowduck.be/posts/introducing-mishka-chelekom-v0-0-8-with-tailwind-4-support-and-custom-configuration)  
-- `2025-10-18` | [🔗 Frontend complexity and the HTML renaissance](https://www.yellowduck.be/posts/frontend-complexity-and-the-html-renaissance)  
 
 <!-- BLOG-POST-LIST:END -->
