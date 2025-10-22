@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-22` | [🔗 The hidden cost of MySQL defaults in Laravel apps](https://www.yellowduck.be/posts/the-hidden-cost-of-mysql-defaults-in-laravel-apps)  
 - `2025-10-22` | [🔗 Learning Elixir: binaries and bitstrings](https://www.yellowduck.be/posts/learning-elixir-binaries-and-bitstrings)  
 - `2025-10-21` | [🐥 Padding and making a list cumulative in Elixir](https://www.yellowduck.be/posts/padding-and-making-a-list-cumulative-in-elixir)  
 - `2025-10-21` | [🔗 Laravel pipelines: the sweetest way to clean your code](https://www.yellowduck.be/posts/laravel-pipelines-the-sweetest-way-to-clean-your-code)  
@@ -22,6 +23,5 @@
 - `2025-10-20` | [🔗 My journey learning Elixir Phoenix LiveView](https://www.yellowduck.be/posts/my-journey-learning-elixir-phoenix-liveview)  
 - `2025-10-19` | [🐥 Comparing GPS coordinates in Elixir](https://www.yellowduck.be/posts/comparing-gps-coordinates-in-elixir)  
 - `2025-10-19` | [🔗 Ash TypeScript: rich Phoenix frontends, simplified](https://www.yellowduck.be/posts/ash-typescript-rich-phoenix-frontends-simplified)  
-- `2025-10-19` | [🔗 Four years of running Elixir on Kubernetes in Google Cloud](https://www.yellowduck.be/posts/four-years-of-running-elixir-on-kubernetes-in-google-cloud-piotr-szmielew-elixirconf-eu-2025)  
 
 <!-- BLOG-POST-LIST:END -->
