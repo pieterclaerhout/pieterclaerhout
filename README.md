@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-23` | [🔗 Acceptance criteria that actually work](https://www.yellowduck.be/posts/acceptance-criteria-that-actually-work)  
 - `2025-10-22` | [🐥 Getting the ISO week number from a date in Elixir](https://www.yellowduck.be/posts/getting-the-iso-week-number-from-a-date-in-elixir)  
 - `2025-10-22` | [🔗 The hidden cost of MySQL defaults in Laravel apps](https://www.yellowduck.be/posts/the-hidden-cost-of-mysql-defaults-in-laravel-apps)  
 - `2025-10-22` | [🔗 Learning Elixir: binaries and bitstrings](https://www.yellowduck.be/posts/learning-elixir-binaries-and-bitstrings)  
@@ -22,6 +23,5 @@
 - `2025-10-20` | [🐥 Building a simple animated bar chart with Elixir, HEEx, and TailwindCSS](https://www.yellowduck.be/posts/building-a-simple-animated-bar-chart-with-elixir-heex-and-tailwindcss)  
 - `2025-10-20` | [🔗 Anatomy of Dockerfile](https://www.yellowduck.be/posts/anatomy-of-dockerfile)  
 - `2025-10-20` | [🔗 My journey learning Elixir Phoenix LiveView](https://www.yellowduck.be/posts/my-journey-learning-elixir-phoenix-liveview)  
-- `2025-10-19` | [🐥 Comparing GPS coordinates in Elixir](https://www.yellowduck.be/posts/comparing-gps-coordinates-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
