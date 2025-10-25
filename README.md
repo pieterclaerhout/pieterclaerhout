@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-25` | [🔗 Quiet UI](https://www.yellowduck.be/posts/quiet-ui)  
 - `2025-10-25` | [🔗 How-to integrate Livebook with a Phoenix app](https://www.yellowduck.be/posts/how-to-integrate-with-a-phoenix-app-livebook-v0-17-2)  
 - `2025-10-24` | [🐥 Filtering users without a specific association in SQL](https://www.yellowduck.be/posts/filtering-users-without-a-specific-association-in-sql)  
 - `2025-10-24` | [🔗 OverType - the markdown editor that&#39;s a textarea](https://www.yellowduck.be/posts/overtype-the-markdown-editor-thats-a-textarea)  
@@ -22,6 +23,5 @@
 - `2025-10-23` | [🔗 Acceptance criteria that actually work](https://www.yellowduck.be/posts/acceptance-criteria-that-actually-work)  
 - `2025-10-22` | [🐥 Getting the ISO week number from a date in Elixir](https://www.yellowduck.be/posts/getting-the-iso-week-number-from-a-date-in-elixir)  
 - `2025-10-22` | [🔗 The hidden cost of MySQL defaults in Laravel apps](https://www.yellowduck.be/posts/the-hidden-cost-of-mysql-defaults-in-laravel-apps)  
-- `2025-10-22` | [🔗 Learning Elixir: binaries and bitstrings](https://www.yellowduck.be/posts/learning-elixir-binaries-and-bitstrings)  
 
 <!-- BLOG-POST-LIST:END -->
