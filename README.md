@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-26` | [🔗 Craft’s going Laravel](https://www.yellowduck.be/posts/crafts-going-laravel-craft-cms)  
 - `2025-10-25` | [🐥 Blocking specific paths and filenames in Caddy 2](https://www.yellowduck.be/posts/blocking-specific-paths-and-filenames-in-caddy-2)  
 - `2025-10-25` | [🔗 Quiet UI](https://www.yellowduck.be/posts/quiet-ui)  
 - `2025-10-25` | [🔗 How-to integrate Livebook with a Phoenix app](https://www.yellowduck.be/posts/how-to-integrate-with-a-phoenix-app-livebook-v0-17-2)  
@@ -22,6 +23,5 @@
 - `2025-10-23` | [🐥 Pattern matching alternatives in PHP](https://www.yellowduck.be/posts/pattern-matching-alternatives-in-php)  
 - `2025-10-23` | [🔗 Subtleties of SQLite indexes](https://www.yellowduck.be/posts/subtleties-of-sqlite-indexes)  
 - `2025-10-23` | [🔗 Acceptance criteria that actually work](https://www.yellowduck.be/posts/acceptance-criteria-that-actually-work)  
-- `2025-10-22` | [🐥 Getting the ISO week number from a date in Elixir](https://www.yellowduck.be/posts/getting-the-iso-week-number-from-a-date-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
