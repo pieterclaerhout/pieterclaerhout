@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-26` | [🔗 Why NetNewsWire is not a web app](https://www.yellowduck.be/posts/why-netnewswire-is-not-a-web-app)  
 - `2025-10-26` | [🔗 Craft’s going Laravel](https://www.yellowduck.be/posts/crafts-going-laravel-craft-cms)  
 - `2025-10-25` | [🐥 Blocking specific paths and filenames in Caddy 2](https://www.yellowduck.be/posts/blocking-specific-paths-and-filenames-in-caddy-2)  
 - `2025-10-25` | [🔗 Quiet UI](https://www.yellowduck.be/posts/quiet-ui)  
@@ -22,6 +23,5 @@
 - `2025-10-24` | [🔗 What do you really own in your software business?](https://www.yellowduck.be/posts/what-do-you-really-own-in-your-software-business)  
 - `2025-10-23` | [🐥 Pattern matching alternatives in PHP](https://www.yellowduck.be/posts/pattern-matching-alternatives-in-php)  
 - `2025-10-23` | [🔗 Subtleties of SQLite indexes](https://www.yellowduck.be/posts/subtleties-of-sqlite-indexes)  
-- `2025-10-23` | [🔗 Acceptance criteria that actually work](https://www.yellowduck.be/posts/acceptance-criteria-that-actually-work)  
 
 <!-- BLOG-POST-LIST:END -->
