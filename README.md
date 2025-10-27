@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-27` | [🔗 Actually doing things in user’s time zone](https://www.yellowduck.be/posts/actually-doing-things-in-users-time-zone)  
 - `2025-10-27` | [🔗 Batch updates and advanced inserts in Ecto for Elixir](https://www.yellowduck.be/posts/batch-updates-and-advanced-inserts-in-ecto-for-elixir)  
 - `2025-10-26` | [🐥 Removing consecutive duplicates from a list of maps in Elixir](https://www.yellowduck.be/posts/removing-consecutive-duplicates-from-a-list-of-maps-in-elixir)  
 - `2025-10-26` | [🔗 Why NetNewsWire is not a web app](https://www.yellowduck.be/posts/why-netnewswire-is-not-a-web-app)  
@@ -22,6 +23,5 @@
 - `2025-10-25` | [🔗 How-to integrate Livebook with a Phoenix app](https://www.yellowduck.be/posts/how-to-integrate-with-a-phoenix-app-livebook-v0-17-2)  
 - `2025-10-24` | [🐥 Filtering users without a specific association in SQL](https://www.yellowduck.be/posts/filtering-users-without-a-specific-association-in-sql)  
 - `2025-10-24` | [🔗 OverType - the markdown editor that&#39;s a textarea](https://www.yellowduck.be/posts/overtype-the-markdown-editor-thats-a-textarea)  
-- `2025-10-24` | [🔗 What do you really own in your software business?](https://www.yellowduck.be/posts/what-do-you-really-own-in-your-software-business)  
 
 <!-- BLOG-POST-LIST:END -->
