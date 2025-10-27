@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-27` | [🐥 Why indexing foreign key columns matters for cascade deletes in PostgreSQL](https://www.yellowduck.be/posts/why-indexing-foreign-key-columns-matters-for-cascade-deletes-in-postgresql)  
 - `2025-10-27` | [🔗 Actually doing things in user’s time zone](https://www.yellowduck.be/posts/actually-doing-things-in-users-time-zone)  
 - `2025-10-27` | [🔗 Batch updates and advanced inserts in Ecto for Elixir](https://www.yellowduck.be/posts/batch-updates-and-advanced-inserts-in-ecto-for-elixir)  
 - `2025-10-26` | [🐥 Removing consecutive duplicates from a list of maps in Elixir](https://www.yellowduck.be/posts/removing-consecutive-duplicates-from-a-list-of-maps-in-elixir)  
@@ -22,6 +23,5 @@
 - `2025-10-25` | [🔗 Quiet UI](https://www.yellowduck.be/posts/quiet-ui)  
 - `2025-10-25` | [🔗 How-to integrate Livebook with a Phoenix app](https://www.yellowduck.be/posts/how-to-integrate-with-a-phoenix-app-livebook-v0-17-2)  
 - `2025-10-24` | [🐥 Filtering users without a specific association in SQL](https://www.yellowduck.be/posts/filtering-users-without-a-specific-association-in-sql)  
-- `2025-10-24` | [🔗 OverType - the markdown editor that&#39;s a textarea](https://www.yellowduck.be/posts/overtype-the-markdown-editor-thats-a-textarea)  
 
 <!-- BLOG-POST-LIST:END -->
