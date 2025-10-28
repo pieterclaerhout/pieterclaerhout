@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-28` | [🔗 A complete guide to HTTP caching](https://www.yellowduck.be/posts/a-complete-guide-to-http-caching)  
 - `2025-10-28` | [🔗 The least amount of CSS for a decent looking site](https://www.yellowduck.be/posts/the-least-amount-of-css-for-a-decent-looking-site)  
 - `2025-10-27` | [🐥 Why indexing foreign key columns matters for cascade deletes in PostgreSQL](https://www.yellowduck.be/posts/why-indexing-foreign-key-columns-matters-for-cascade-deletes-in-postgresql)  
 - `2025-10-27` | [🔗 Actually doing things in user’s time zone](https://www.yellowduck.be/posts/actually-doing-things-in-users-time-zone)  
@@ -22,6 +23,5 @@
 - `2025-10-26` | [🔗 Craft’s going Laravel](https://www.yellowduck.be/posts/crafts-going-laravel-craft-cms)  
 - `2025-10-25` | [🐥 Blocking specific paths and filenames in Caddy 2](https://www.yellowduck.be/posts/blocking-specific-paths-and-filenames-in-caddy-2)  
 - `2025-10-25` | [🔗 Quiet UI](https://www.yellowduck.be/posts/quiet-ui)  
-- `2025-10-25` | [🔗 How-to integrate Livebook with a Phoenix app](https://www.yellowduck.be/posts/how-to-integrate-with-a-phoenix-app-livebook-v0-17-2)  
 
 <!-- BLOG-POST-LIST:END -->
