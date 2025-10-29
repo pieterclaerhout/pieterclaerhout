@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-29` | [🔗 Get excited about Postgres 18](https://www.yellowduck.be/posts/get-excited-about-postgres-18)  
 - `2025-10-28` | [🐥 Detecting the number of CPU cores in Python](https://www.yellowduck.be/posts/detecting-the-number-of-cpu-cores-in-python)  
 - `2025-10-28` | [🔗 A complete guide to HTTP caching](https://www.yellowduck.be/posts/a-complete-guide-to-http-caching)  
 - `2025-10-28` | [🔗 The least amount of CSS for a decent looking site](https://www.yellowduck.be/posts/the-least-amount-of-css-for-a-decent-looking-site)  
@@ -22,6 +23,5 @@
 - `2025-10-26` | [🐥 Removing consecutive duplicates from a list of maps in Elixir](https://www.yellowduck.be/posts/removing-consecutive-duplicates-from-a-list-of-maps-in-elixir)  
 - `2025-10-26` | [🔗 Why NetNewsWire is not a web app](https://www.yellowduck.be/posts/why-netnewswire-is-not-a-web-app)  
 - `2025-10-26` | [🔗 Craft’s going Laravel](https://www.yellowduck.be/posts/crafts-going-laravel-craft-cms)  
-- `2025-10-25` | [🐥 Blocking specific paths and filenames in Caddy 2](https://www.yellowduck.be/posts/blocking-specific-paths-and-filenames-in-caddy-2)  
 
 <!-- BLOG-POST-LIST:END -->
