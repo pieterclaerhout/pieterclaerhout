@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-29` | [🐥 Parsing JSON lists into Pydantic models](https://www.yellowduck.be/posts/parsing-json-lists-into-pydantic-models)  
 - `2025-10-29` | [🔗 In praise of RSS and controlled feeds of information](https://www.yellowduck.be/posts/in-praise-of-rss-and-controlled-feeds-of-information)  
 - `2025-10-29` | [🔗 Get excited about Postgres 18](https://www.yellowduck.be/posts/get-excited-about-postgres-18)  
 - `2025-10-28` | [🐥 Detecting the number of CPU cores in Python](https://www.yellowduck.be/posts/detecting-the-number-of-cpu-cores-in-python)  
@@ -22,6 +23,5 @@
 - `2025-10-27` | [🔗 Actually doing things in user’s time zone](https://www.yellowduck.be/posts/actually-doing-things-in-users-time-zone)  
 - `2025-10-27` | [🔗 Batch updates and advanced inserts in Ecto for Elixir](https://www.yellowduck.be/posts/batch-updates-and-advanced-inserts-in-ecto-for-elixir)  
 - `2025-10-26` | [🐥 Removing consecutive duplicates from a list of maps in Elixir](https://www.yellowduck.be/posts/removing-consecutive-duplicates-from-a-list-of-maps-in-elixir)  
-- `2025-10-26` | [🔗 Why NetNewsWire is not a web app](https://www.yellowduck.be/posts/why-netnewswire-is-not-a-web-app)  
 
 <!-- BLOG-POST-LIST:END -->
