@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-30` | [🔗 Authorization &amp; access control: case studies and practical solutions using Elixir](https://www.yellowduck.be/posts/authorization-access-control-case-studies-and-practical-solutions-using-elixir)  
 - `2025-10-29` | [🐥 Parsing JSON lists into Pydantic models](https://www.yellowduck.be/posts/parsing-json-lists-into-pydantic-models)  
 - `2025-10-29` | [🔗 In praise of RSS and controlled feeds of information](https://www.yellowduck.be/posts/in-praise-of-rss-and-controlled-feeds-of-information)  
 - `2025-10-29` | [🔗 Get excited about Postgres 18](https://www.yellowduck.be/posts/get-excited-about-postgres-18)  
@@ -22,6 +23,5 @@
 - `2025-10-27` | [🐥 Why indexing foreign key columns matters for cascade deletes in PostgreSQL](https://www.yellowduck.be/posts/why-indexing-foreign-key-columns-matters-for-cascade-deletes-in-postgresql)  
 - `2025-10-27` | [🔗 Actually doing things in user’s time zone](https://www.yellowduck.be/posts/actually-doing-things-in-users-time-zone)  
 - `2025-10-27` | [🔗 Batch updates and advanced inserts in Ecto for Elixir](https://www.yellowduck.be/posts/batch-updates-and-advanced-inserts-in-ecto-for-elixir)  
-- `2025-10-26` | [🐥 Removing consecutive duplicates from a list of maps in Elixir](https://www.yellowduck.be/posts/removing-consecutive-duplicates-from-a-list-of-maps-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
