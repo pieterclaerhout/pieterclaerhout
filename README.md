@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-01` | [🔗 Ash framework: the coordination problem](https://www.yellowduck.be/posts/ash-framework-the-coordination-problem)  
 - `2025-11-01` | [🔗 Fixing queries &amp; adding indexes - Laravel in practice EP6](https://www.yellowduck.be/posts/fixing-queries-adding-indexes-laravel-in-practice-ep6)  
 - `2025-10-31` | [🔗 .iex.exs file tips &amp; tricks](https://www.yellowduck.be/posts/iex-exs-file)  
 - `2025-10-31` | [🔗 Hardest decision problems that every modern programmer faces](https://www.yellowduck.be/posts/hardest-decision-problems-that-every-modern-programmer-faces)  
@@ -22,6 +23,5 @@
 - `2025-10-29` | [🔗 In praise of RSS and controlled feeds of information](https://www.yellowduck.be/posts/in-praise-of-rss-and-controlled-feeds-of-information)  
 - `2025-10-29` | [🔗 Get excited about Postgres 18](https://www.yellowduck.be/posts/get-excited-about-postgres-18)  
 - `2025-10-28` | [🐥 Detecting the number of CPU cores in Python](https://www.yellowduck.be/posts/detecting-the-number-of-cpu-cores-in-python)  
-- `2025-10-28` | [🔗 A complete guide to HTTP caching](https://www.yellowduck.be/posts/a-complete-guide-to-http-caching)  
 
 <!-- BLOG-POST-LIST:END -->
