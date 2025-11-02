@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-02` | [🔗 Safari and iOS 26: PSA and a rant](https://www.yellowduck.be/posts/psa-and-a-rant-manu)  
 - `2025-11-02` | [🔗 Authorization in Elixir: case studies and the permit library](https://www.yellowduck.be/posts/authorization-in-elixir-case-studies-and-the-permit-library)  
 - `2025-11-01` | [🔗 Ash framework: the coordination problem](https://www.yellowduck.be/posts/ash-framework-the-coordination-problem)  
 - `2025-11-01` | [🔗 Fixing queries &amp; adding indexes - Laravel in practice EP6](https://www.yellowduck.be/posts/fixing-queries-adding-indexes-laravel-in-practice-ep6)  
@@ -22,6 +23,5 @@
 - `2025-10-30` | [🔗 Authorization &amp; access control: case studies and practical solutions using Elixir](https://www.yellowduck.be/posts/authorization-access-control-case-studies-and-practical-solutions-using-elixir)  
 - `2025-10-29` | [🐥 Parsing JSON lists into Pydantic models](https://www.yellowduck.be/posts/parsing-json-lists-into-pydantic-models)  
 - `2025-10-29` | [🔗 In praise of RSS and controlled feeds of information](https://www.yellowduck.be/posts/in-praise-of-rss-and-controlled-feeds-of-information)  
-- `2025-10-29` | [🔗 Get excited about Postgres 18](https://www.yellowduck.be/posts/get-excited-about-postgres-18)  
 
 <!-- BLOG-POST-LIST:END -->
