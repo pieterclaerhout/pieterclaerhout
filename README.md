@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-04` | [🔗 Elixir Streams |&gt; 🤩 Ecto&#39;s datetime helpers](https://www.yellowduck.be/posts/elixir-streams-ectos-datetime-helpers)  
 - `2025-11-03` | [🔗 Deploy Safety: reducing customer impact from change](https://www.yellowduck.be/posts/deploy-safety-reducing-customer-impact-from-change)  
 - `2025-11-03` | [🔗 Improved HTTP client URL parameter merging in Laravel 12.33](https://www.yellowduck.be/posts/improved-http-client-url-parameter-merging-in-laravel-12-33)  
 - `2025-11-02` | [🔗 Safari and iOS 26: PSA and a rant](https://www.yellowduck.be/posts/psa-and-a-rant-manu)  
@@ -22,6 +23,5 @@
 - `2025-10-31` | [🔗 .iex.exs file tips &amp; tricks](https://www.yellowduck.be/posts/iex-exs-file)  
 - `2025-10-31` | [🔗 Hardest decision problems that every modern programmer faces](https://www.yellowduck.be/posts/hardest-decision-problems-that-every-modern-programmer-faces)  
 - `2025-10-30` | [🔗 Full text search with Django and SQLite](https://www.yellowduck.be/posts/full-text-search-with-django-and-sqlite)  
-- `2025-10-30` | [🔗 Authorization &amp; access control: case studies and practical solutions using Elixir](https://www.yellowduck.be/posts/authorization-access-control-case-studies-and-practical-solutions-using-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
