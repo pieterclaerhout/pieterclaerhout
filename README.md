@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-04` | [🐥 Changing ownership of all objects in a PostgreSQL database](https://www.yellowduck.be/posts/changing-ownership-of-all-objects-in-a-postgresql-database)  
 - `2025-11-04` | [🔗 Environment variables are a legacy mess: Let&#39;s dive deep into them](https://www.yellowduck.be/posts/environment-variables-are-a-legacy-mess-lets-dive-deep-into-them)  
 - `2025-11-04` | [🔗 Elixir Streams |&gt; 🤩 Ecto&#39;s datetime helpers](https://www.yellowduck.be/posts/elixir-streams-ectos-datetime-helpers)  
 - `2025-11-03` | [🔗 Deploy Safety: reducing customer impact from change](https://www.yellowduck.be/posts/deploy-safety-reducing-customer-impact-from-change)  
@@ -22,6 +23,5 @@
 - `2025-11-01` | [🔗 Ash framework: the coordination problem](https://www.yellowduck.be/posts/ash-framework-the-coordination-problem)  
 - `2025-11-01` | [🔗 Fixing queries &amp; adding indexes - Laravel in practice EP6](https://www.yellowduck.be/posts/fixing-queries-adding-indexes-laravel-in-practice-ep6)  
 - `2025-10-31` | [🔗 .iex.exs file tips &amp; tricks](https://www.yellowduck.be/posts/iex-exs-file)  
-- `2025-10-31` | [🔗 Hardest decision problems that every modern programmer faces](https://www.yellowduck.be/posts/hardest-decision-problems-that-every-modern-programmer-faces)  
 
 <!-- BLOG-POST-LIST:END -->
