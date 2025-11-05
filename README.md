@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-05` | [🔗 Areas of Improvement for Elixir](https://www.yellowduck.be/posts/areas-of-improvement-for-elixir)  
 - `2025-11-05` | [🔗 Building with Elixir for three years: a production retrospective](https://www.yellowduck.be/posts/building-with-elixir-for-three-years-a-production-retrospective)  
 - `2025-11-04` | [🐥 Changing ownership of all objects in a PostgreSQL database](https://www.yellowduck.be/posts/changing-ownership-of-all-objects-in-a-postgresql-database)  
 - `2025-11-04` | [🔗 Environment variables are a legacy mess: Let&#39;s dive deep into them](https://www.yellowduck.be/posts/environment-variables-are-a-legacy-mess-lets-dive-deep-into-them)  
@@ -22,6 +23,5 @@
 - `2025-11-02` | [🔗 Safari and iOS 26: PSA and a rant](https://www.yellowduck.be/posts/psa-and-a-rant-manu)  
 - `2025-11-02` | [🔗 Authorization in Elixir: case studies and the permit library](https://www.yellowduck.be/posts/authorization-in-elixir-case-studies-and-the-permit-library)  
 - `2025-11-01` | [🔗 Ash framework: the coordination problem](https://www.yellowduck.be/posts/ash-framework-the-coordination-problem)  
-- `2025-11-01` | [🔗 Fixing queries &amp; adding indexes - Laravel in practice EP6](https://www.yellowduck.be/posts/fixing-queries-adding-indexes-laravel-in-practice-ep6)  
 
 <!-- BLOG-POST-LIST:END -->
