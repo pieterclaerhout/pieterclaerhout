@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-05` | [🐥 Managing firewall rules with UFW on Linux](https://www.yellowduck.be/posts/managing-firewall-rules-with-ufw-on-linux)  
+- `2025-11-05` | [🔗 How we scaled raw GROUP BY to 100 B+ rows in under a second](https://www.yellowduck.be/posts/how-we-scaled-raw-group-by-to-100-b-rows-in-under-a-second)  
 - `2025-11-05` | [🔗 Areas of Improvement for Elixir](https://www.yellowduck.be/posts/areas-of-improvement-for-elixir)  
 - `2025-11-05` | [🔗 Building with Elixir for three years: a production retrospective](https://www.yellowduck.be/posts/building-with-elixir-for-three-years-a-production-retrospective)  
 - `2025-11-04` | [🐥 Changing ownership of all objects in a PostgreSQL database](https://www.yellowduck.be/posts/changing-ownership-of-all-objects-in-a-postgresql-database)  
@@ -21,7 +23,5 @@
 - `2025-11-03` | [🔗 Deploy Safety: reducing customer impact from change](https://www.yellowduck.be/posts/deploy-safety-reducing-customer-impact-from-change)  
 - `2025-11-03` | [🔗 Improved HTTP client URL parameter merging in Laravel 12.33](https://www.yellowduck.be/posts/improved-http-client-url-parameter-merging-in-laravel-12-33)  
 - `2025-11-02` | [🔗 Safari and iOS 26: PSA and a rant](https://www.yellowduck.be/posts/psa-and-a-rant-manu)  
-- `2025-11-02` | [🔗 Authorization in Elixir: case studies and the permit library](https://www.yellowduck.be/posts/authorization-in-elixir-case-studies-and-the-permit-library)  
-- `2025-11-01` | [🔗 Ash framework: the coordination problem](https://www.yellowduck.be/posts/ash-framework-the-coordination-problem)  
 
 <!-- BLOG-POST-LIST:END -->
