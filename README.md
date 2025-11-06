@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-06` | [🐥 Creating a Zsh alias to create Git branches from develop](https://www.yellowduck.be/posts/creating-a-zsh-alias-to-create-git-branches-from-develop)  
 - `2025-11-06` | [🔗 Python&#39;s splitlines does a lot more than just newlines](https://www.yellowduck.be/posts/pythons-splitlines-does-a-lot-more-than-just-newlines)  
 - `2025-11-06` | [🔗 In praise of “normal” engineers](https://www.yellowduck.be/posts/in-praise-of-normal-engineers)  
 - `2025-11-05` | [🐥 Managing firewall rules with UFW on Linux](https://www.yellowduck.be/posts/managing-firewall-rules-with-ufw-on-linux)  
@@ -22,6 +23,5 @@
 - `2025-11-04` | [🐥 Changing ownership of all objects in a PostgreSQL database](https://www.yellowduck.be/posts/changing-ownership-of-all-objects-in-a-postgresql-database)  
 - `2025-11-04` | [🔗 Environment variables are a legacy mess: Let&#39;s dive deep into them](https://www.yellowduck.be/posts/environment-variables-are-a-legacy-mess-lets-dive-deep-into-them)  
 - `2025-11-04` | [🔗 Elixir Streams |&gt; 🤩 Ecto&#39;s datetime helpers](https://www.yellowduck.be/posts/elixir-streams-ectos-datetime-helpers)  
-- `2025-11-03` | [🔗 Deploy Safety: reducing customer impact from change](https://www.yellowduck.be/posts/deploy-safety-reducing-customer-impact-from-change)  
 
 <!-- BLOG-POST-LIST:END -->
