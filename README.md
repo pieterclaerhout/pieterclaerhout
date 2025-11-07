@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-07` | [🔗 Ash Framework: Authorization and Monoids](https://www.yellowduck.be/posts/ash-framework-authorization-and-monoids)  
 - `2025-11-07` | [🔗 Elixir v1.19 released: enhanced type checking, broader type inference, and up to 4x faster compilation for large projects](https://www.yellowduck.be/posts/elixir-v1-19-released-enhanced-type-checking-broader-type-inference-and-up-to-4x-faster-compilation-for-large-projects)  
 - `2025-11-06` | [🐥 Creating a Zsh alias to create Git branches from develop](https://www.yellowduck.be/posts/creating-a-zsh-alias-to-create-git-branches-from-develop)  
 - `2025-11-06` | [🔗 Python&#39;s splitlines does a lot more than just newlines](https://www.yellowduck.be/posts/pythons-splitlines-does-a-lot-more-than-just-newlines)  
@@ -22,6 +23,5 @@
 - `2025-11-05` | [🔗 Areas of Improvement for Elixir](https://www.yellowduck.be/posts/areas-of-improvement-for-elixir)  
 - `2025-11-05` | [🔗 Building with Elixir for three years: a production retrospective](https://www.yellowduck.be/posts/building-with-elixir-for-three-years-a-production-retrospective)  
 - `2025-11-04` | [🐥 Changing ownership of all objects in a PostgreSQL database](https://www.yellowduck.be/posts/changing-ownership-of-all-objects-in-a-postgresql-database)  
-- `2025-11-04` | [🔗 Environment variables are a legacy mess: Let&#39;s dive deep into them](https://www.yellowduck.be/posts/environment-variables-are-a-legacy-mess-lets-dive-deep-into-them)  
 
 <!-- BLOG-POST-LIST:END -->
