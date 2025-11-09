@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-09` | [🔗 jswanner/req_web_socket: Req plugin adding WebSocket support](https://www.yellowduck.be/posts/jswanner-req-web-socket-req-plugin-adding-websocket-support)  
 - `2025-11-08` | [🔗 PostgreSQL 18 new features](https://www.yellowduck.be/posts/postgresql-18-new-features)  
 - `2025-11-08` | [🔗 Font with built-in syntax highlighting](https://www.yellowduck.be/posts/font-with-built-in-syntax-highlighting)  
 - `2025-11-07` | [🐥 Moving the required asterisk to the end of form labels in Element Plus](https://www.yellowduck.be/posts/moving-the-required-asterisk-to-the-end-of-form-labels-in-element-plus)  
@@ -22,6 +23,5 @@
 - `2025-11-06` | [🔗 Python&#39;s splitlines does a lot more than just newlines](https://www.yellowduck.be/posts/pythons-splitlines-does-a-lot-more-than-just-newlines)  
 - `2025-11-06` | [🔗 In praise of “normal” engineers](https://www.yellowduck.be/posts/in-praise-of-normal-engineers)  
 - `2025-11-05` | [🐥 Managing firewall rules with UFW on Linux](https://www.yellowduck.be/posts/managing-firewall-rules-with-ufw-on-linux)  
-- `2025-11-05` | [🔗 How we scaled raw GROUP BY to 100 B+ rows in under a second](https://www.yellowduck.be/posts/how-we-scaled-raw-group-by-to-100-b-rows-in-under-a-second)  
 
 <!-- BLOG-POST-LIST:END -->
