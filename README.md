@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-09` | [🔗 Vue basics: state management in Vue](https://www.yellowduck.be/posts/vue-basics-state-management-in-vue)  
 - `2025-11-09` | [🔗 jswanner/req_web_socket: Req plugin adding WebSocket support](https://www.yellowduck.be/posts/jswanner-req-web-socket-req-plugin-adding-websocket-support)  
 - `2025-11-08` | [🔗 PostgreSQL 18 new features](https://www.yellowduck.be/posts/postgresql-18-new-features)  
 - `2025-11-08` | [🔗 Font with built-in syntax highlighting](https://www.yellowduck.be/posts/font-with-built-in-syntax-highlighting)  
@@ -22,6 +23,5 @@
 - `2025-11-06` | [🐥 Creating a Zsh alias to create Git branches from develop](https://www.yellowduck.be/posts/creating-a-zsh-alias-to-create-git-branches-from-develop)  
 - `2025-11-06` | [🔗 Python&#39;s splitlines does a lot more than just newlines](https://www.yellowduck.be/posts/pythons-splitlines-does-a-lot-more-than-just-newlines)  
 - `2025-11-06` | [🔗 In praise of “normal” engineers](https://www.yellowduck.be/posts/in-praise-of-normal-engineers)  
-- `2025-11-05` | [🐥 Managing firewall rules with UFW on Linux](https://www.yellowduck.be/posts/managing-firewall-rules-with-ufw-on-linux)  
 
 <!-- BLOG-POST-LIST:END -->
