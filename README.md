@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-10` | [🐥 Stripping HTML from strings in Python using only the standard library](https://www.yellowduck.be/posts/stripping-html-from-strings-in-python-using-only-the-standard-library)  
 - `2025-11-10` | [🔗 Why I chose Phoenix LiveView over Rails, Laravel, and next.js](https://www.yellowduck.be/posts/why-i-chose-phoenix-liveview-over-rails-laravel-and-next-js)  
 - `2025-11-10` | [🔗 Why Feeds Fun normalizes tags — and how](https://www.yellowduck.be/posts/why-feeds-fun-normalizes-tags-and-how)  
 - `2025-11-09` | [🔗 Vue basics: state management in Vue](https://www.yellowduck.be/posts/vue-basics-state-management-in-vue)  
@@ -22,6 +23,5 @@
 - `2025-11-07` | [🐥 Moving the required asterisk to the end of form labels in Element Plus](https://www.yellowduck.be/posts/moving-the-required-asterisk-to-the-end-of-form-labels-in-element-plus)  
 - `2025-11-07` | [🔗 Ash Framework: Authorization and Monoids](https://www.yellowduck.be/posts/ash-framework-authorization-and-monoids)  
 - `2025-11-07` | [🔗 Elixir v1.19 released: enhanced type checking, broader type inference, and up to 4x faster compilation for large projects](https://www.yellowduck.be/posts/elixir-v1-19-released-enhanced-type-checking-broader-type-inference-and-up-to-4x-faster-compilation-for-large-projects)  
-- `2025-11-06` | [🐥 Creating a Zsh alias to create Git branches from develop](https://www.yellowduck.be/posts/creating-a-zsh-alias-to-create-git-branches-from-develop)  
 
 <!-- BLOG-POST-LIST:END -->
