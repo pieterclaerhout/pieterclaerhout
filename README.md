@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-13` | [🔗 Why UUIDs won&#39;t protect your secrets](https://www.yellowduck.be/posts/why-uuids-wont-protect-your-secrets)  
 - `2025-11-12` | [🔗 Elixir/Ports and external process wiring](https://www.yellowduck.be/posts/elixir-ports-and-external-process-wiring)  
 - `2025-11-12` | [🔗 Why most product planning is bad and what to do about it](https://www.yellowduck.be/posts/why-most-product-planning-is-bad-and-what-to-do-about-it)  
 - `2025-11-11` | [🔗 Syntax highlighting is a waste of an information channel](https://www.yellowduck.be/posts/syntax-highlighting-is-a-waste-of-an-information-channel)  
@@ -22,6 +23,5 @@
 - `2025-11-10` | [🔗 Why Feeds Fun normalizes tags — and how](https://www.yellowduck.be/posts/why-feeds-fun-normalizes-tags-and-how)  
 - `2025-11-09` | [🔗 Vue basics: state management in Vue](https://www.yellowduck.be/posts/vue-basics-state-management-in-vue)  
 - `2025-11-09` | [🔗 jswanner/req_web_socket: Req plugin adding WebSocket support](https://www.yellowduck.be/posts/jswanner-req-web-socket-req-plugin-adding-websocket-support)  
-- `2025-11-08` | [🔗 PostgreSQL 18 new features](https://www.yellowduck.be/posts/postgresql-18-new-features)  
 
 <!-- BLOG-POST-LIST:END -->
