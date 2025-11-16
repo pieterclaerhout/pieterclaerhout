@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-16` | [🔗 How to fix any bug](https://www.yellowduck.be/posts/how-to-fix-any-bug)  
 - `2025-11-16` | [🔗 I am sorry, but everyone is getting syntax highlighting wrong](https://www.yellowduck.be/posts/i-am-sorry-but-everyone-is-getting-syntax-highlighting-wrong)  
 - `2025-11-15` | [🔗 How much memory is needed to run 1M Erlang processes?](https://www.yellowduck.be/posts/hauleths-blog-how-much-memory-is-needed-to-run-1m-erlang-processes)  
 - `2025-11-15` | [🔗 What’s new in PHP 8.5? &lpar;release date + must-know features&rpar;](https://www.yellowduck.be/posts/whats-new-in-php-8-5-release-date-must-know-features-php-architect)  
@@ -22,6 +23,5 @@
 - `2025-11-13` | [🔗 Why UUIDs won&#39;t protect your secrets](https://www.yellowduck.be/posts/why-uuids-wont-protect-your-secrets)  
 - `2025-11-12` | [🔗 Elixir/Ports and external process wiring](https://www.yellowduck.be/posts/elixir-ports-and-external-process-wiring)  
 - `2025-11-12` | [🔗 Why most product planning is bad and what to do about it](https://www.yellowduck.be/posts/why-most-product-planning-is-bad-and-what-to-do-about-it)  
-- `2025-11-11` | [🔗 Syntax highlighting is a waste of an information channel](https://www.yellowduck.be/posts/syntax-highlighting-is-a-waste-of-an-information-channel)  
 
 <!-- BLOG-POST-LIST:END -->
