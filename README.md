@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-17` | [🔗 Pipelining in psql &lpar;PostgreSQL 18&rpar;](https://www.yellowduck.be/posts/pipelining-in-psql-postgresql-18)  
 - `2025-11-17` | [🔗 Big O](https://www.yellowduck.be/posts/big-o)  
 - `2025-11-16` | [🐥 Sending downloads from a Phoenix controller with send_download](https://www.yellowduck.be/posts/sending-downloads-from-a-phoenix-controller-with-send-download)  
 - `2025-11-16` | [🔗 How to fix any bug](https://www.yellowduck.be/posts/how-to-fix-any-bug)  
@@ -22,6 +23,5 @@
 - `2025-11-14` | [🔗 Stop ignoring the browser: the biggest frontend shift in a decade](https://www.yellowduck.be/posts/stop-ignoring-the-browser-the-biggest-frontend-shift-in-a-decade)  
 - `2025-11-14` | [🔗 SQL anti-patterns you should avoid](https://www.yellowduck.be/posts/sql-anti-patterns-you-should-avoid)  
 - `2025-11-13` | [🔗 Deploying a Phoenix app with Podman and systemd](https://www.yellowduck.be/posts/deploying-a-phoenix-app-with-podman-and-systemd)  
-- `2025-11-13` | [🔗 Why UUIDs won&#39;t protect your secrets](https://www.yellowduck.be/posts/why-uuids-wont-protect-your-secrets)  
 
 <!-- BLOG-POST-LIST:END -->
