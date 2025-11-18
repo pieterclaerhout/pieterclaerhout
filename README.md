@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-18` | [🔗 Production RAG: what I learned from processing 5M+ documents](https://www.yellowduck.be/posts/production-rag-what-i-learned-from-processing-5m-documents)  
 - `2025-11-17` | [🐥 Running multiple Make targets in parallel](https://www.yellowduck.be/posts/running-multiple-make-targets-in-parallel)  
 - `2025-11-17` | [🔗 Pipelining in psql &lpar;PostgreSQL 18&rpar;](https://www.yellowduck.be/posts/pipelining-in-psql-postgresql-18)  
 - `2025-11-17` | [🔗 Big O](https://www.yellowduck.be/posts/big-o)  
@@ -22,6 +23,5 @@
 - `2025-11-15` | [🔗 How much memory is needed to run 1M Erlang processes?](https://www.yellowduck.be/posts/hauleths-blog-how-much-memory-is-needed-to-run-1m-erlang-processes)  
 - `2025-11-15` | [🔗 What’s new in PHP 8.5? &lpar;release date + must-know features&rpar;](https://www.yellowduck.be/posts/whats-new-in-php-8-5-release-date-must-know-features-php-architect)  
 - `2025-11-14` | [🔗 Stop ignoring the browser: the biggest frontend shift in a decade](https://www.yellowduck.be/posts/stop-ignoring-the-browser-the-biggest-frontend-shift-in-a-decade)  
-- `2025-11-14` | [🔗 SQL anti-patterns you should avoid](https://www.yellowduck.be/posts/sql-anti-patterns-you-should-avoid)  
 
 <!-- BLOG-POST-LIST:END -->
