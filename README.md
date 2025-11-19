@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-19` | [🔗 Unlock your app&#39;s full potential for free with AppSignal](https://www.yellowduck.be/posts/unlock-your-apps-full-potential-for-free-with-appsignal)  
 - `2025-11-18` | [🐥 Rendering PDF pages and adding overlays using PyMuPDF and PIL](https://www.yellowduck.be/posts/rendering-pdf-pages-and-adding-overlays-using-pymupdf-and-pil)  
 - `2025-11-18` | [🔗 Strategic pagination patterns for .NET APIs](https://www.yellowduck.be/posts/strategic-pagination-patterns-for-net-apis-roxeem)  
 - `2025-11-18` | [🔗 Production RAG: what I learned from processing 5M+ documents](https://www.yellowduck.be/posts/production-rag-what-i-learned-from-processing-5m-documents)  
@@ -22,6 +23,5 @@
 - `2025-11-16` | [🐥 Sending downloads from a Phoenix controller with send_download](https://www.yellowduck.be/posts/sending-downloads-from-a-phoenix-controller-with-send-download)  
 - `2025-11-16` | [🔗 How to fix any bug](https://www.yellowduck.be/posts/how-to-fix-any-bug)  
 - `2025-11-16` | [🔗 I am sorry, but everyone is getting syntax highlighting wrong](https://www.yellowduck.be/posts/i-am-sorry-but-everyone-is-getting-syntax-highlighting-wrong)  
-- `2025-11-15` | [🔗 How much memory is needed to run 1M Erlang processes?](https://www.yellowduck.be/posts/hauleths-blog-how-much-memory-is-needed-to-run-1m-erlang-processes)  
 
 <!-- BLOG-POST-LIST:END -->
