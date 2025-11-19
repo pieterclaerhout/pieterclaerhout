@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-19` | [🔗 Do not put your site behind Cloudflare if you don&#39;t need to](https://www.yellowduck.be/posts/do-not-put-your-site-behind-cloudflare-if-you-don)  
 - `2025-11-19` | [🔗 Just use cURL](https://www.yellowduck.be/posts/just-use-curl)  
 - `2025-11-19` | [🔗 Unlock your app&#39;s full potential for free with AppSignal](https://www.yellowduck.be/posts/unlock-your-apps-full-potential-for-free-with-appsignal)  
 - `2025-11-18` | [🐥 Rendering PDF pages and adding overlays using PyMuPDF and PIL](https://www.yellowduck.be/posts/rendering-pdf-pages-and-adding-overlays-using-pymupdf-and-pil)  
@@ -22,6 +23,5 @@
 - `2025-11-17` | [🔗 Pipelining in psql &lpar;PostgreSQL 18&rpar;](https://www.yellowduck.be/posts/pipelining-in-psql-postgresql-18)  
 - `2025-11-17` | [🔗 Big O](https://www.yellowduck.be/posts/big-o)  
 - `2025-11-16` | [🐥 Sending downloads from a Phoenix controller with send_download](https://www.yellowduck.be/posts/sending-downloads-from-a-phoenix-controller-with-send-download)  
-- `2025-11-16` | [🔗 How to fix any bug](https://www.yellowduck.be/posts/how-to-fix-any-bug)  
 
 <!-- BLOG-POST-LIST:END -->
