@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-20` | [🐥 TIL: Setting shortcuts in Google Chrome](https://www.yellowduck.be/posts/til-setting-shortcuts-in-google-chrome)  
 - `2025-11-20` | [🔗 Parsing PDF documents at scale](https://www.yellowduck.be/posts/parsing-pdf-documents-at-scale-agentset)  
 - `2025-11-20` | [🔗 We re-built our integration service using Postgres and Go](https://www.yellowduck.be/posts/we-re-built-our-integration-service-using-postgres-and-go)  
 - `2025-11-19` | [🔗 Do not put your site behind Cloudflare if you don&#39;t need to](https://www.yellowduck.be/posts/do-not-put-your-site-behind-cloudflare-if-you-don)  
@@ -22,6 +23,5 @@
 - `2025-11-18` | [🔗 Strategic pagination patterns for .NET APIs](https://www.yellowduck.be/posts/strategic-pagination-patterns-for-net-apis-roxeem)  
 - `2025-11-18` | [🔗 Production RAG: what I learned from processing 5M+ documents](https://www.yellowduck.be/posts/production-rag-what-i-learned-from-processing-5m-documents)  
 - `2025-11-17` | [🐥 Running multiple Make targets in parallel](https://www.yellowduck.be/posts/running-multiple-make-targets-in-parallel)  
-- `2025-11-17` | [🔗 Pipelining in psql &lpar;PostgreSQL 18&rpar;](https://www.yellowduck.be/posts/pipelining-in-psql-postgresql-18)  
 
 <!-- BLOG-POST-LIST:END -->
