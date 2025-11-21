@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-21` | [🔗 The art of document chunking for LLM applications](https://www.yellowduck.be/posts/the-art-of-document-chunking-for-llm-applications)  
 - `2025-11-21` | [🔗 Tips for efficient data queries in ASP.NET Core](https://www.yellowduck.be/posts/tips-for-efficient-data-queries-in-asp-net-core)  
 - `2025-11-20` | [🐥 TIL: Setting shortcuts in Google Chrome](https://www.yellowduck.be/posts/til-setting-shortcuts-in-google-chrome)  
 - `2025-11-20` | [🔗 Parsing PDF documents at scale](https://www.yellowduck.be/posts/parsing-pdf-documents-at-scale-agentset)  
@@ -22,6 +23,5 @@
 - `2025-11-19` | [🔗 Unlock your app&#39;s full potential for free with AppSignal](https://www.yellowduck.be/posts/unlock-your-apps-full-potential-for-free-with-appsignal)  
 - `2025-11-18` | [🐥 Rendering PDF pages and adding overlays using PyMuPDF and PIL](https://www.yellowduck.be/posts/rendering-pdf-pages-and-adding-overlays-using-pymupdf-and-pil)  
 - `2025-11-18` | [🔗 Strategic pagination patterns for .NET APIs](https://www.yellowduck.be/posts/strategic-pagination-patterns-for-net-apis-roxeem)  
-- `2025-11-18` | [🔗 Production RAG: what I learned from processing 5M+ documents](https://www.yellowduck.be/posts/production-rag-what-i-learned-from-processing-5m-documents)  
 
 <!-- BLOG-POST-LIST:END -->
