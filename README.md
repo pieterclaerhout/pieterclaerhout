@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-22` | [🔗 The “10x” commandments of highly effective Go](https://www.yellowduck.be/posts/the-10x-commandments-of-highly-effective-go-the-goland-blog)  
 - `2025-11-22` | [🔗 GitHub - zmwangx/ets: command output timestamper](https://www.yellowduck.be/posts/github-zmwangx-ets-command-output-timestamper)  
 - `2025-11-21` | [🐥 Using Req.Test to stub HTTP calls in Elixir tests](https://www.yellowduck.be/posts/using-req-test-to-stub-http-calls-in-elixir-tests)  
 - `2025-11-21` | [🔗 The art of document chunking for LLM applications](https://www.yellowduck.be/posts/the-art-of-document-chunking-for-llm-applications)  
@@ -22,6 +23,5 @@
 - `2025-11-20` | [🔗 We re-built our integration service using Postgres and Go](https://www.yellowduck.be/posts/we-re-built-our-integration-service-using-postgres-and-go)  
 - `2025-11-19` | [🔗 Do not put your site behind Cloudflare if you don&#39;t need to](https://www.yellowduck.be/posts/do-not-put-your-site-behind-cloudflare-if-you-don)  
 - `2025-11-19` | [🔗 Just use cURL](https://www.yellowduck.be/posts/just-use-curl)  
-- `2025-11-19` | [🔗 Unlock your app&#39;s full potential for free with AppSignal](https://www.yellowduck.be/posts/unlock-your-apps-full-potential-for-free-with-appsignal)  
 
 <!-- BLOG-POST-LIST:END -->
