@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-23` | [🔗 Announcing ReqLLM 1.0](https://www.yellowduck.be/posts/agent-jido-agent-jido)  
 - `2025-11-23` | [🔗 Using SFTP with Golang](https://www.yellowduck.be/posts/using-sftp-with-golang)  
 - `2025-11-23` | [🔗 Implement a Golang generic function to handle any HTTP request](https://www.yellowduck.be/posts/implement-a-golang-generic-function-to-handle-any-http-request)  
 - `2025-11-22` | [🔗 PHP 8.5.0 Released!](https://www.yellowduck.be/posts/php-8-5-0-released)  
@@ -22,6 +23,5 @@
 - `2025-11-21` | [🔗 The art of document chunking for LLM applications](https://www.yellowduck.be/posts/the-art-of-document-chunking-for-llm-applications)  
 - `2025-11-21` | [🔗 Tips for efficient data queries in ASP.NET Core](https://www.yellowduck.be/posts/tips-for-efficient-data-queries-in-asp-net-core)  
 - `2025-11-20` | [🐥 TIL: Setting shortcuts in Google Chrome](https://www.yellowduck.be/posts/til-setting-shortcuts-in-google-chrome)  
-- `2025-11-20` | [🔗 Parsing PDF documents at scale](https://www.yellowduck.be/posts/parsing-pdf-documents-at-scale-agentset)  
 
 <!-- BLOG-POST-LIST:END -->
