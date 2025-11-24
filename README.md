@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-24` | [🔗 Building a UI Framework &lpar;Book&rpar;](https://www.yellowduck.be/posts/building-a-ui-framework-book)  
 - `2025-11-24` | [🔗 PdfPig: Document Layout Analysis](https://www.yellowduck.be/posts/document-layout-analysis)  
 - `2025-11-24` | [🔗 15 Go subtleties you may not already know](https://www.yellowduck.be/posts/15-go-subtleties-you-may-not-already-know)  
 - `2025-11-23` | [🔗 Announcing ReqLLM 1.0](https://www.yellowduck.be/posts/agent-jido-agent-jido)  
@@ -22,6 +23,5 @@
 - `2025-11-22` | [🔗 The “10x” commandments of highly effective Go](https://www.yellowduck.be/posts/the-10x-commandments-of-highly-effective-go-the-goland-blog)  
 - `2025-11-22` | [🔗 GitHub - zmwangx/ets: command output timestamper](https://www.yellowduck.be/posts/github-zmwangx-ets-command-output-timestamper)  
 - `2025-11-21` | [🐥 Using Req.Test to stub HTTP calls in Elixir tests](https://www.yellowduck.be/posts/using-req-test-to-stub-http-calls-in-elixir-tests)  
-- `2025-11-21` | [🔗 The art of document chunking for LLM applications](https://www.yellowduck.be/posts/the-art-of-document-chunking-for-llm-applications)  
 
 <!-- BLOG-POST-LIST:END -->
