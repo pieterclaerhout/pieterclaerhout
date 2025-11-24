@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-24` | [🔗 PdfPig: Document Layout Analysis](https://www.yellowduck.be/posts/document-layout-analysis)  
 - `2025-11-24` | [🔗 15 Go subtleties you may not already know](https://www.yellowduck.be/posts/15-go-subtleties-you-may-not-already-know)  
 - `2025-11-23` | [🔗 Announcing ReqLLM 1.0](https://www.yellowduck.be/posts/agent-jido-agent-jido)  
 - `2025-11-23` | [🔗 Using SFTP with Golang](https://www.yellowduck.be/posts/using-sftp-with-golang)  
@@ -22,6 +23,5 @@
 - `2025-11-22` | [🔗 GitHub - zmwangx/ets: command output timestamper](https://www.yellowduck.be/posts/github-zmwangx-ets-command-output-timestamper)  
 - `2025-11-21` | [🐥 Using Req.Test to stub HTTP calls in Elixir tests](https://www.yellowduck.be/posts/using-req-test-to-stub-http-calls-in-elixir-tests)  
 - `2025-11-21` | [🔗 The art of document chunking for LLM applications](https://www.yellowduck.be/posts/the-art-of-document-chunking-for-llm-applications)  
-- `2025-11-21` | [🔗 Tips for efficient data queries in ASP.NET Core](https://www.yellowduck.be/posts/tips-for-efficient-data-queries-in-asp-net-core)  
 
 <!-- BLOG-POST-LIST:END -->
