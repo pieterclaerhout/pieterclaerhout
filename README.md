@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-25` | [🔗 Elixir: why your LiveViews mount/3 shall be minimal and fast](https://www.yellowduck.be/posts/elixir-why-your-liveviews-mount-3-shall-be-minimal-and-fast)  
+- `2025-11-25` | [🔗 Go’s sweet 16 - the Go programming language](https://www.yellowduck.be/posts/gos-sweet-16-the-go-programming-language)  
 - `2025-11-25` | [🔗 Avoid 2:00 and 3:00 am cron jobs!](https://www.yellowduck.be/posts/avoid-2-00-and-3-00-am-cron-jobs)  
 - `2025-11-25` | [🔗 What actually happens when you press ‘send’ to ChatGPT](https://www.yellowduck.be/posts/what-actually-happens-when-you-press-send-to-chatgpt)  
 - `2025-11-24` | [🔗 Building a UI Framework &lpar;Book&rpar;](https://www.yellowduck.be/posts/building-a-ui-framework-book)  
@@ -21,7 +23,5 @@
 - `2025-11-23` | [🔗 Announcing ReqLLM 1.0](https://www.yellowduck.be/posts/agent-jido-agent-jido)  
 - `2025-11-23` | [🔗 Using SFTP with Golang](https://www.yellowduck.be/posts/using-sftp-with-golang)  
 - `2025-11-23` | [🔗 Implement a Golang generic function to handle any HTTP request](https://www.yellowduck.be/posts/implement-a-golang-generic-function-to-handle-any-http-request)  
-- `2025-11-22` | [🔗 PHP 8.5.0 Released!](https://www.yellowduck.be/posts/php-8-5-0-released)  
-- `2025-11-22` | [🔗 The “10x” commandments of highly effective Go](https://www.yellowduck.be/posts/the-10x-commandments-of-highly-effective-go-the-goland-blog)  
 
 <!-- BLOG-POST-LIST:END -->
