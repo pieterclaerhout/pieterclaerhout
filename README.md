@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-25` | [🔗 Avoid 2:00 and 3:00 am cron jobs!](https://www.yellowduck.be/posts/avoid-2-00-and-3-00-am-cron-jobs)  
 - `2025-11-25` | [🔗 What actually happens when you press ‘send’ to ChatGPT](https://www.yellowduck.be/posts/what-actually-happens-when-you-press-send-to-chatgpt)  
 - `2025-11-24` | [🔗 Building a UI Framework &lpar;Book&rpar;](https://www.yellowduck.be/posts/building-a-ui-framework-book)  
 - `2025-11-24` | [🔗 PdfPig: Document Layout Analysis](https://www.yellowduck.be/posts/document-layout-analysis)  
@@ -22,6 +23,5 @@
 - `2025-11-23` | [🔗 Implement a Golang generic function to handle any HTTP request](https://www.yellowduck.be/posts/implement-a-golang-generic-function-to-handle-any-http-request)  
 - `2025-11-22` | [🔗 PHP 8.5.0 Released!](https://www.yellowduck.be/posts/php-8-5-0-released)  
 - `2025-11-22` | [🔗 The “10x” commandments of highly effective Go](https://www.yellowduck.be/posts/the-10x-commandments-of-highly-effective-go-the-goland-blog)  
-- `2025-11-22` | [🔗 GitHub - zmwangx/ets: command output timestamper](https://www.yellowduck.be/posts/github-zmwangx-ets-command-output-timestamper)  
 
 <!-- BLOG-POST-LIST:END -->
