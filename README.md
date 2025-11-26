@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-26` | [🔗 We stopped roadmap work for a week and fixed 189 bugs](https://www.yellowduck.be/posts/we-stopped-roadmap-work-for-a-week-and-fixed-189-bugs)  
 - `2025-11-26` | [🔗 Shelling out is selling out](https://www.yellowduck.be/posts/peter-sobots-blog-shelling-out-is-selling-out)  
 - `2025-11-26` | [🔗 Organize your Go middleware without dependencies](https://www.yellowduck.be/posts/organize-your-go-middleware-without-dependencies)  
 - `2025-11-25` | [🔗 Elixir: why your LiveViews mount/3 shall be minimal and fast](https://www.yellowduck.be/posts/elixir-why-your-liveviews-mount-3-shall-be-minimal-and-fast)  
@@ -22,6 +23,5 @@
 - `2025-11-24` | [🔗 Building a UI Framework &lpar;Book&rpar;](https://www.yellowduck.be/posts/building-a-ui-framework-book)  
 - `2025-11-24` | [🔗 PdfPig: Document Layout Analysis](https://www.yellowduck.be/posts/document-layout-analysis)  
 - `2025-11-24` | [🔗 15 Go subtleties you may not already know](https://www.yellowduck.be/posts/15-go-subtleties-you-may-not-already-know)  
-- `2025-11-23` | [🔗 Announcing ReqLLM 1.0](https://www.yellowduck.be/posts/agent-jido-agent-jido)  
 
 <!-- BLOG-POST-LIST:END -->
