@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-27` | [🔗 Function-based indexes - database tip](https://www.yellowduck.be/posts/function-based-indexes-database-tip)  
 - `2025-11-27` | [🔗 What developers need to know about AI code reviews](https://www.yellowduck.be/posts/what-developers-need-to-know-about-ai-code-reviews)  
 - `2025-11-26` | [🔗 We stopped roadmap work for a week and fixed 189 bugs](https://www.yellowduck.be/posts/we-stopped-roadmap-work-for-a-week-and-fixed-189-bugs)  
 - `2025-11-26` | [🔗 Shelling out is selling out](https://www.yellowduck.be/posts/peter-sobots-blog-shelling-out-is-selling-out)  
@@ -22,6 +23,5 @@
 - `2025-11-25` | [🔗 Avoid 2:00 and 3:00 am cron jobs!](https://www.yellowduck.be/posts/avoid-2-00-and-3-00-am-cron-jobs)  
 - `2025-11-25` | [🔗 What actually happens when you press ‘send’ to ChatGPT](https://www.yellowduck.be/posts/what-actually-happens-when-you-press-send-to-chatgpt)  
 - `2025-11-24` | [🔗 Building a UI Framework &lpar;Book&rpar;](https://www.yellowduck.be/posts/building-a-ui-framework-book)  
-- `2025-11-24` | [🔗 PdfPig: Document Layout Analysis](https://www.yellowduck.be/posts/document-layout-analysis)  
 
 <!-- BLOG-POST-LIST:END -->
