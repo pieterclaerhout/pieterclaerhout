@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-28` | [🔗 Migrating from MySQL to PostgreSQL in five simple steps](https://www.yellowduck.be/posts/migrating-from-mysql-to-postgresql-in-five-simple-steps)  
 - `2025-11-27` | [🔗 Cleaner Eloquent relationship queries in Laravel 12 with withFiltered&lpar;&rpar;](https://www.yellowduck.be/posts/cleaner-eloquent-relationship-queries-in-laravel-12-with-withfiltered)  
 - `2025-11-27` | [🔗 Function-based indexes - database tip](https://www.yellowduck.be/posts/function-based-indexes-database-tip)  
 - `2025-11-27` | [🔗 What developers need to know about AI code reviews](https://www.yellowduck.be/posts/what-developers-need-to-know-about-ai-code-reviews)  
@@ -22,6 +23,5 @@
 - `2025-11-25` | [🔗 Elixir: why your LiveViews mount/3 shall be minimal and fast](https://www.yellowduck.be/posts/elixir-why-your-liveviews-mount-3-shall-be-minimal-and-fast)  
 - `2025-11-25` | [🔗 Go’s sweet 16 - the Go programming language](https://www.yellowduck.be/posts/gos-sweet-16-the-go-programming-language)  
 - `2025-11-25` | [🔗 Avoid 2:00 and 3:00 am cron jobs!](https://www.yellowduck.be/posts/avoid-2-00-and-3-00-am-cron-jobs)  
-- `2025-11-25` | [🔗 What actually happens when you press ‘send’ to ChatGPT](https://www.yellowduck.be/posts/what-actually-happens-when-you-press-send-to-chatgpt)  
 
 <!-- BLOG-POST-LIST:END -->
