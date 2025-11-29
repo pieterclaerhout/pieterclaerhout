@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-29` | [🔗 If you don&#39;t tinker, you don&#39;t have taste](https://www.yellowduck.be/posts/if-you-dont-tinker-you-dont-have-taste)  
 - `2025-11-28` | [🔗 LiveView colocated hooks](https://www.yellowduck.be/posts/liveview-colocated-hooks)  
 - `2025-11-28` | [🔗 Why programming languages are not &#39;just tools&#39;](https://www.yellowduck.be/posts/why-programming-languages-are-not-just-tools)  
 - `2025-11-28` | [🔗 Migrating from MySQL to PostgreSQL in five simple steps](https://www.yellowduck.be/posts/migrating-from-mysql-to-postgresql-in-five-simple-steps)  
@@ -22,6 +23,5 @@
 - `2025-11-26` | [🔗 We stopped roadmap work for a week and fixed 189 bugs](https://www.yellowduck.be/posts/we-stopped-roadmap-work-for-a-week-and-fixed-189-bugs)  
 - `2025-11-26` | [🔗 Shelling out is selling out](https://www.yellowduck.be/posts/peter-sobots-blog-shelling-out-is-selling-out)  
 - `2025-11-26` | [🔗 Organize your Go middleware without dependencies](https://www.yellowduck.be/posts/organize-your-go-middleware-without-dependencies)  
-- `2025-11-25` | [🔗 Elixir: why your LiveViews mount/3 shall be minimal and fast](https://www.yellowduck.be/posts/elixir-why-your-liveviews-mount-3-shall-be-minimal-and-fast)  
 
 <!-- BLOG-POST-LIST:END -->
