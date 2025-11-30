@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-30` | [🔗 Do larger PRs get merged faster?](https://www.yellowduck.be/posts/do-larger-prs-get-merged-faster)  
 - `2025-11-30` | [🔗 How I write HTTP services in Go after 13 years](https://www.yellowduck.be/posts/how-i-write-http-services-in-go-after-13-years)  
 - `2025-11-29` | [🔗 Granting read only access to a Postgres database on DigitalOcean](https://www.yellowduck.be/posts/granting-read-only-access-to-a-postgres-database-on-digitalocean)  
 - `2025-11-29` | [🔗 Mistakes I see engineers making in their code reviews](https://www.yellowduck.be/posts/mistakes-i-see-engineers-making-in-their-code-reviews)  
@@ -22,6 +23,5 @@
 - `2025-11-28` | [🔗 Migrating from MySQL to PostgreSQL in five simple steps](https://www.yellowduck.be/posts/migrating-from-mysql-to-postgresql-in-five-simple-steps)  
 - `2025-11-27` | [🔗 Cleaner Eloquent relationship queries in Laravel 12 with withFiltered&lpar;&rpar;](https://www.yellowduck.be/posts/cleaner-eloquent-relationship-queries-in-laravel-12-with-withfiltered)  
 - `2025-11-27` | [🔗 Function-based indexes - database tip](https://www.yellowduck.be/posts/function-based-indexes-database-tip)  
-- `2025-11-27` | [🔗 What developers need to know about AI code reviews](https://www.yellowduck.be/posts/what-developers-need-to-know-about-ai-code-reviews)  
 
 <!-- BLOG-POST-LIST:END -->
