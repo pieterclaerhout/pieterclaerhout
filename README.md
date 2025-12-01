@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-01` | [🔗 Yes really, curl is still developed](https://www.yellowduck.be/posts/yes-really-curl-is-still-developed)  
 - `2025-12-01` | [🔗 Do you really need tsvector column?](https://www.yellowduck.be/posts/do-you-really-need-tsvector-column)  
 - `2025-11-30` | [🔗 Multi vs Single Page Apps: user experience, performance, complexity and more](https://www.yellowduck.be/posts/multi-vs-single-page-apps-user-experience-performance-complexity-and-more)  
 - `2025-11-30` | [🔗 Do larger PRs get merged faster?](https://www.yellowduck.be/posts/do-larger-prs-get-merged-faster)  
@@ -22,6 +23,5 @@
 - `2025-11-29` | [🔗 If you don&#39;t tinker, you don&#39;t have taste](https://www.yellowduck.be/posts/if-you-dont-tinker-you-dont-have-taste)  
 - `2025-11-28` | [🔗 LiveView colocated hooks](https://www.yellowduck.be/posts/liveview-colocated-hooks)  
 - `2025-11-28` | [🔗 Why programming languages are not &#39;just tools&#39;](https://www.yellowduck.be/posts/why-programming-languages-are-not-just-tools)  
-- `2025-11-28` | [🔗 Migrating from MySQL to PostgreSQL in five simple steps](https://www.yellowduck.be/posts/migrating-from-mysql-to-postgresql-in-five-simple-steps)  
 
 <!-- BLOG-POST-LIST:END -->
