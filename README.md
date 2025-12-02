@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-02` | [🔗 Your URL is your state](https://www.yellowduck.be/posts/your-url-is-your-state)  
 - `2025-12-01` | [🔗 What a CTO should know about tech](https://www.yellowduck.be/posts/what-a-cto-should-know-about-tech)  
 - `2025-12-01` | [🔗 Yes really, curl is still developed](https://www.yellowduck.be/posts/yes-really-curl-is-still-developed)  
 - `2025-12-01` | [🔗 Do you really need tsvector column?](https://www.yellowduck.be/posts/do-you-really-need-tsvector-column)  
@@ -22,6 +23,5 @@
 - `2025-11-29` | [🔗 Granting read only access to a Postgres database on DigitalOcean](https://www.yellowduck.be/posts/granting-read-only-access-to-a-postgres-database-on-digitalocean)  
 - `2025-11-29` | [🔗 Mistakes I see engineers making in their code reviews](https://www.yellowduck.be/posts/mistakes-i-see-engineers-making-in-their-code-reviews)  
 - `2025-11-29` | [🔗 If you don&#39;t tinker, you don&#39;t have taste](https://www.yellowduck.be/posts/if-you-dont-tinker-you-dont-have-taste)  
-- `2025-11-28` | [🔗 LiveView colocated hooks](https://www.yellowduck.be/posts/liveview-colocated-hooks)  
 
 <!-- BLOG-POST-LIST:END -->
