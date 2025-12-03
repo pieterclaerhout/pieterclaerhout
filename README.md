@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-03` | [🔗 The case against pgvector](https://www.yellowduck.be/posts/the-case-against-pgvector)  
 - `2025-12-03` | [🔗 Debugging in Elixir with Observer](https://www.yellowduck.be/posts/debugging-in-elixir-with-observer)  
 - `2025-12-02` | [🔗 Differences between Elixir&#39;s protocols and behaviours](https://www.yellowduck.be/posts/differences-between-elixirs-protocols-and-behaviours)  
 - `2025-12-02` | [🔗 Listen to database changes through the Postgres WAL](https://www.yellowduck.be/posts/listen-to-database-changes-through-the-postgres-wal)  
@@ -22,6 +23,5 @@
 - `2025-12-01` | [🔗 Do you really need tsvector column?](https://www.yellowduck.be/posts/do-you-really-need-tsvector-column)  
 - `2025-11-30` | [🔗 Multi vs Single Page Apps: user experience, performance, complexity and more](https://www.yellowduck.be/posts/multi-vs-single-page-apps-user-experience-performance-complexity-and-more)  
 - `2025-11-30` | [🔗 Do larger PRs get merged faster?](https://www.yellowduck.be/posts/do-larger-prs-get-merged-faster)  
-- `2025-11-30` | [🔗 How I write HTTP services in Go after 13 years](https://www.yellowduck.be/posts/how-i-write-http-services-in-go-after-13-years)  
 
 <!-- BLOG-POST-LIST:END -->
