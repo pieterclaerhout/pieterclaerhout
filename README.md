@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-04` | [🔗 Why your retrospectives don&#39;t work and how to fix them](https://www.yellowduck.be/posts/why-your-retrospectives-dont-work-and-how-to-fix-them)  
 - `2025-12-04` | [🔗 Why engineers can&#39;t be rational about programming languages](https://www.yellowduck.be/posts/why-engineers-cant-be-rational-about-programming-languages)  
 - `2025-12-03` | [🔗 The programmer identity crisis](https://www.yellowduck.be/posts/the-programmer-identity-crisis)  
 - `2025-12-03` | [🔗 The case against pgvector](https://www.yellowduck.be/posts/the-case-against-pgvector)  
@@ -22,6 +23,5 @@
 - `2025-12-02` | [🔗 Your URL is your state](https://www.yellowduck.be/posts/your-url-is-your-state)  
 - `2025-12-01` | [🔗 What a CTO should know about tech](https://www.yellowduck.be/posts/what-a-cto-should-know-about-tech)  
 - `2025-12-01` | [🔗 Yes really, curl is still developed](https://www.yellowduck.be/posts/yes-really-curl-is-still-developed)  
-- `2025-12-01` | [🔗 Do you really need tsvector column?](https://www.yellowduck.be/posts/do-you-really-need-tsvector-column)  
 
 <!-- BLOG-POST-LIST:END -->
