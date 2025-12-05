@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-05` | [🔗 Startup engineering team organisation](https://www.yellowduck.be/posts/startup-engineering-team-organisation)  
 - `2025-12-05` | [🔗 How to get meaningful feedback on your design document](https://www.yellowduck.be/posts/how-to-get-meaningful-feedback-on-your-design-document)  
 - `2025-12-05` | [🔗 How to check for overlapping intervals](https://www.yellowduck.be/posts/how-to-check-for-overlapping-intervals)  
 - `2025-12-04` | [🔗 What they don&#39;t tell you about maintaining an open source project](https://www.yellowduck.be/posts/what-they-dont-tell-you-about-maintaining-an-open-source-project)  
@@ -22,6 +23,5 @@
 - `2025-12-03` | [🔗 The case against pgvector](https://www.yellowduck.be/posts/the-case-against-pgvector)  
 - `2025-12-03` | [🔗 Debugging in Elixir with Observer](https://www.yellowduck.be/posts/debugging-in-elixir-with-observer)  
 - `2025-12-02` | [🔗 Differences between Elixir&#39;s protocols and behaviours](https://www.yellowduck.be/posts/differences-between-elixirs-protocols-and-behaviours)  
-- `2025-12-02` | [🔗 Listen to database changes through the Postgres WAL](https://www.yellowduck.be/posts/listen-to-database-changes-through-the-postgres-wal)  
 
 <!-- BLOG-POST-LIST:END -->
