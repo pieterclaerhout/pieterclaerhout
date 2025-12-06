@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-06` | [🔗 HTMX and Elixir](https://www.yellowduck.be/posts/htmx-and-elixir)  
 - `2025-12-06` | [🔗 We are f*****, the presentation](https://www.yellowduck.be/posts/we-are-f-the-presentation)  
 - `2025-12-05` | [🔗 Startup engineering team organisation](https://www.yellowduck.be/posts/startup-engineering-team-organisation)  
 - `2025-12-05` | [🔗 How to get meaningful feedback on your design document](https://www.yellowduck.be/posts/how-to-get-meaningful-feedback-on-your-design-document)  
@@ -22,6 +23,5 @@
 - `2025-12-04` | [🔗 Why engineers can&#39;t be rational about programming languages](https://www.yellowduck.be/posts/why-engineers-cant-be-rational-about-programming-languages)  
 - `2025-12-03` | [🔗 The programmer identity crisis](https://www.yellowduck.be/posts/the-programmer-identity-crisis)  
 - `2025-12-03` | [🔗 The case against pgvector](https://www.yellowduck.be/posts/the-case-against-pgvector)  
-- `2025-12-03` | [🔗 Debugging in Elixir with Observer](https://www.yellowduck.be/posts/debugging-in-elixir-with-observer)  
 
 <!-- BLOG-POST-LIST:END -->
