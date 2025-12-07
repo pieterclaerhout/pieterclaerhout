@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-07` | [🔗 My first real Rust project](https://www.yellowduck.be/posts/my-first-real-rust-project)  
 - `2025-12-07` | [🔗 Architectural debt is not just technical debt](https://www.yellowduck.be/posts/architectural-debt-is-not-just-technical-debt)  
 - `2025-12-07` | [🔗 A brief history of domains](https://www.yellowduck.be/posts/a-brief-history-of-domains)  
 - `2025-12-06` | [🔗 What if you don&#39;t need MCP at all?](https://www.yellowduck.be/posts/what-if-you-dont-need-mcp-at-all)  
@@ -22,6 +23,5 @@
 - `2025-12-05` | [🔗 How to get meaningful feedback on your design document](https://www.yellowduck.be/posts/how-to-get-meaningful-feedback-on-your-design-document)  
 - `2025-12-05` | [🔗 How to check for overlapping intervals](https://www.yellowduck.be/posts/how-to-check-for-overlapping-intervals)  
 - `2025-12-04` | [🔗 What they don&#39;t tell you about maintaining an open source project](https://www.yellowduck.be/posts/what-they-dont-tell-you-about-maintaining-an-open-source-project)  
-- `2025-12-04` | [🔗 Why your retrospectives don&#39;t work and how to fix them](https://www.yellowduck.be/posts/why-your-retrospectives-dont-work-and-how-to-fix-them)  
 
 <!-- BLOG-POST-LIST:END -->
