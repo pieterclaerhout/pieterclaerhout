@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-08` | [🔗 Ecto types in Elixir: a hidden feature that simplifies your code](https://www.yellowduck.be/posts/ecto-types-in-elixir-a-hidden-feature-that-simplifies-your-code)  
 - `2025-12-08` | [🔗 Returning HTTP 404 responses instead of 403 for unauthorised access](https://www.yellowduck.be/posts/returning-http-404-responses-instead-of-403-for-unauthorised-access)  
 - `2025-12-07` | [🔗 My first real Rust project](https://www.yellowduck.be/posts/my-first-real-rust-project)  
 - `2025-12-07` | [🔗 Architectural debt is not just technical debt](https://www.yellowduck.be/posts/architectural-debt-is-not-just-technical-debt)  
@@ -22,6 +23,5 @@
 - `2025-12-06` | [🔗 We are f*****, the presentation](https://www.yellowduck.be/posts/we-are-f-the-presentation)  
 - `2025-12-05` | [🔗 Startup engineering team organisation](https://www.yellowduck.be/posts/startup-engineering-team-organisation)  
 - `2025-12-05` | [🔗 How to get meaningful feedback on your design document](https://www.yellowduck.be/posts/how-to-get-meaningful-feedback-on-your-design-document)  
-- `2025-12-05` | [🔗 How to check for overlapping intervals](https://www.yellowduck.be/posts/how-to-check-for-overlapping-intervals)  
 
 <!-- BLOG-POST-LIST:END -->
