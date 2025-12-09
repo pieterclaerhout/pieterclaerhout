@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-09` | [🔗 Optimizing filtered vector queries from tens of seconds to single-digit milliseconds in PostgreSQL](https://www.yellowduck.be/posts/optimizing-filtered-vector-queries-from-tens-of-seconds-to-single-digit-milliseconds-in-postgresql)  
 - `2025-12-09` | [🔗 Dependency management in database design](https://www.yellowduck.be/posts/dependency-management-in-database-design)  
 - `2025-12-08` | [🔗 Fran Sans essay](https://www.yellowduck.be/posts/fran-sans-essay-emily-sneddon)  
 - `2025-12-08` | [🔗 Ecto types in Elixir: a hidden feature that simplifies your code](https://www.yellowduck.be/posts/ecto-types-in-elixir-a-hidden-feature-that-simplifies-your-code)  
@@ -22,6 +23,5 @@
 - `2025-12-07` | [🔗 A brief history of domains](https://www.yellowduck.be/posts/a-brief-history-of-domains)  
 - `2025-12-06` | [🔗 What if you don&#39;t need MCP at all?](https://www.yellowduck.be/posts/what-if-you-dont-need-mcp-at-all)  
 - `2025-12-06` | [🔗 HTMX and Elixir](https://www.yellowduck.be/posts/htmx-and-elixir)  
-- `2025-12-06` | [🔗 We are f*****, the presentation](https://www.yellowduck.be/posts/we-are-f-the-presentation)  
 
 <!-- BLOG-POST-LIST:END -->
