@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-10` | [🔗 Laravel&#39;s Http::batch&lpar;&rpar;: parallel requests done right &lpar;finally!&rpar;.](https://www.yellowduck.be/posts/laravels-http-batch-parallel-requests-done-right-finally)  
 - `2025-12-09` | [🐥 Upgrading PostgreSQL from 16 to 18 on Ubuntu](https://www.yellowduck.be/posts/upgrading-postgresql-from-16-to-18-on-ubuntu)  
 - `2025-12-09` | [🔗 Optimizing filtered vector queries from tens of seconds to single-digit milliseconds in PostgreSQL](https://www.yellowduck.be/posts/optimizing-filtered-vector-queries-from-tens-of-seconds-to-single-digit-milliseconds-in-postgresql)  
 - `2025-12-09` | [🔗 Dependency management in database design](https://www.yellowduck.be/posts/dependency-management-in-database-design)  
@@ -22,6 +23,5 @@
 - `2025-12-07` | [🔗 My first real Rust project](https://www.yellowduck.be/posts/my-first-real-rust-project)  
 - `2025-12-07` | [🔗 Architectural debt is not just technical debt](https://www.yellowduck.be/posts/architectural-debt-is-not-just-technical-debt)  
 - `2025-12-07` | [🔗 A brief history of domains](https://www.yellowduck.be/posts/a-brief-history-of-domains)  
-- `2025-12-06` | [🔗 What if you don&#39;t need MCP at all?](https://www.yellowduck.be/posts/what-if-you-dont-need-mcp-at-all)  
 
 <!-- BLOG-POST-LIST:END -->
