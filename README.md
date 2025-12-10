@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-10` | [🔗 Kafka is fast -- I&#39;ll use Postgres](https://www.yellowduck.be/posts/kafka-is-fast-ill-use-postgres)  
 - `2025-12-10` | [🔗 Laravel&#39;s Http::batch&lpar;&rpar;: parallel requests done right &lpar;finally!&rpar;.](https://www.yellowduck.be/posts/laravels-http-batch-parallel-requests-done-right-finally)  
 - `2025-12-09` | [🐥 Upgrading PostgreSQL from 16 to 18 on Ubuntu](https://www.yellowduck.be/posts/upgrading-postgresql-from-16-to-18-on-ubuntu)  
 - `2025-12-09` | [🔗 Optimizing filtered vector queries from tens of seconds to single-digit milliseconds in PostgreSQL](https://www.yellowduck.be/posts/optimizing-filtered-vector-queries-from-tens-of-seconds-to-single-digit-milliseconds-in-postgresql)  
@@ -22,6 +23,5 @@
 - `2025-12-08` | [🔗 Returning HTTP 404 responses instead of 403 for unauthorised access](https://www.yellowduck.be/posts/returning-http-404-responses-instead-of-403-for-unauthorised-access)  
 - `2025-12-07` | [🔗 My first real Rust project](https://www.yellowduck.be/posts/my-first-real-rust-project)  
 - `2025-12-07` | [🔗 Architectural debt is not just technical debt](https://www.yellowduck.be/posts/architectural-debt-is-not-just-technical-debt)  
-- `2025-12-07` | [🔗 A brief history of domains](https://www.yellowduck.be/posts/a-brief-history-of-domains)  
 
 <!-- BLOG-POST-LIST:END -->
