@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-11` | [🐥 Accessing IP address inside LiveView](https://www.yellowduck.be/posts/accessing-ip-address-inside-liveview)  
 - `2025-12-11` | [🔗 How to integrate leaflet maps into Phoenix LiveView in 2 easy steps](https://www.yellowduck.be/posts/how-to-integrate-leaflet-maps-into-phoenix-liveview-in-2-easy-steps)  
 - `2025-12-11` | [🔗 Cursor Pagination for PostgreSQL &amp; MySQL: Complete Developer Guide 2025](https://www.yellowduck.be/posts/cursor-pagination-for-postgresql-mysql-complete-developer-guide-2025)  
 - `2025-12-10` | [🔗 How to use hermes MCP to boost your AI chat app](https://www.yellowduck.be/posts/how-to-use-hermes-mcp-to-boost-your-ai-chat-app-revelry)  
@@ -22,6 +23,5 @@
 - `2025-12-09` | [🔗 Optimizing filtered vector queries from tens of seconds to single-digit milliseconds in PostgreSQL](https://www.yellowduck.be/posts/optimizing-filtered-vector-queries-from-tens-of-seconds-to-single-digit-milliseconds-in-postgresql)  
 - `2025-12-09` | [🔗 Dependency management in database design](https://www.yellowduck.be/posts/dependency-management-in-database-design)  
 - `2025-12-08` | [🔗 Fran Sans essay](https://www.yellowduck.be/posts/fran-sans-essay-emily-sneddon)  
-- `2025-12-08` | [🔗 Ecto types in Elixir: a hidden feature that simplifies your code](https://www.yellowduck.be/posts/ecto-types-in-elixir-a-hidden-feature-that-simplifies-your-code)  
 
 <!-- BLOG-POST-LIST:END -->
