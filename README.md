@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-13` | [🔗 16 years of Go: a programming language built to last](https://www.yellowduck.be/posts/16-years-of-go-a-programming-language-built-to-last)  
 - `2025-12-12` | [🔗 How NimbleParsec works and why I would choose it again!](https://www.yellowduck.be/posts/how-nimbleparsec-works-and-why-i-would-choose-it-again)  
 - `2025-12-12` | [🔗 Refresh-proof your Pinia stores](https://www.yellowduck.be/posts/refresh-proof-your-pinia-stores)  
 - `2025-12-12` | [🔗 The Go ecosystem in 2025: key trends in frameworks, tools, and developer practices](https://www.yellowduck.be/posts/the-go-ecosystem-in-2025-key-trends-in-frameworks-tools-and-developer-practices-the-goland-blog)  
@@ -22,6 +23,5 @@
 - `2025-12-10` | [🔗 How to use hermes MCP to boost your AI chat app](https://www.yellowduck.be/posts/how-to-use-hermes-mcp-to-boost-your-ai-chat-app-revelry)  
 - `2025-12-10` | [🔗 Kafka is fast -- I&#39;ll use Postgres](https://www.yellowduck.be/posts/kafka-is-fast-ill-use-postgres)  
 - `2025-12-10` | [🔗 Laravel&#39;s Http::batch&lpar;&rpar;: parallel requests done right &lpar;finally!&rpar;.](https://www.yellowduck.be/posts/laravels-http-batch-parallel-requests-done-right-finally)  
-- `2025-12-09` | [🐥 Upgrading PostgreSQL from 16 to 18 on Ubuntu](https://www.yellowduck.be/posts/upgrading-postgresql-from-16-to-18-on-ubuntu)  
 
 <!-- BLOG-POST-LIST:END -->
