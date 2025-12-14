@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-14` | [🐥 Extracting clean article introductions from HTML using Elixir, Phoenix, and LLMs](https://www.yellowduck.be/posts/extracting-clean-article-introductions-from-html-using-elixir-phoenix-and-llms)  
 - `2025-12-14` | [🔗 Why software quality disappeared: culture](https://www.yellowduck.be/posts/why-software-quality-disappeared-culture)  
 - `2025-12-14` | [🔗 What is special about MCP?](https://www.yellowduck.be/posts/what-is-special-about-mcp)  
 - `2025-12-13` | [🐥 Detecting and listing duplicate records with Phoenix Ecto](https://www.yellowduck.be/posts/detecting-and-listing-duplicate-records-with-phoenix-ecto)  
@@ -22,6 +23,5 @@
 - `2025-12-12` | [🔗 Refresh-proof your Pinia stores](https://www.yellowduck.be/posts/refresh-proof-your-pinia-stores)  
 - `2025-12-12` | [🔗 The Go ecosystem in 2025: key trends in frameworks, tools, and developer practices](https://www.yellowduck.be/posts/the-go-ecosystem-in-2025-key-trends-in-frameworks-tools-and-developer-practices-the-goland-blog)  
 - `2025-12-11` | [🐥 Accessing IP address inside LiveView](https://www.yellowduck.be/posts/accessing-ip-address-inside-liveview)  
-- `2025-12-11` | [🔗 How to integrate leaflet maps into Phoenix LiveView in 2 easy steps](https://www.yellowduck.be/posts/how-to-integrate-leaflet-maps-into-phoenix-liveview-in-2-easy-steps)  
 
 <!-- BLOG-POST-LIST:END -->
