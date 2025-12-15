@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-15` | [🔗 Unique indexes with some rows excluded](https://www.yellowduck.be/posts/unique-indexes-with-some-rows-excluded)  
 - `2025-12-15` | [🔗 Mr.Popov :: Elixir LiveView single binary](https://www.yellowduck.be/posts/mr-popov-elixir-liveview-single-binary)  
 - `2025-12-14` | [🐥 Extracting clean article introductions from HTML using Elixir, Phoenix, and LLMs](https://www.yellowduck.be/posts/extracting-clean-article-introductions-from-html-using-elixir-phoenix-and-llms)  
 - `2025-12-14` | [🔗 Why software quality disappeared: culture](https://www.yellowduck.be/posts/why-software-quality-disappeared-culture)  
@@ -22,6 +23,5 @@
 - `2025-12-13` | [🔗 16 years of Go: a programming language built to last](https://www.yellowduck.be/posts/16-years-of-go-a-programming-language-built-to-last)  
 - `2025-12-12` | [🔗 How NimbleParsec works and why I would choose it again!](https://www.yellowduck.be/posts/how-nimbleparsec-works-and-why-i-would-choose-it-again)  
 - `2025-12-12` | [🔗 Refresh-proof your Pinia stores](https://www.yellowduck.be/posts/refresh-proof-your-pinia-stores)  
-- `2025-12-12` | [🔗 The Go ecosystem in 2025: key trends in frameworks, tools, and developer practices](https://www.yellowduck.be/posts/the-go-ecosystem-in-2025-key-trends-in-frameworks-tools-and-developer-practices-the-goland-blog)  
 
 <!-- BLOG-POST-LIST:END -->
