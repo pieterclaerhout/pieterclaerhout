@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-16` | [🔗 Delete your old migrations, today](https://www.yellowduck.be/posts/delete-your-old-migrations-today)  
 - `2025-12-15` | [🔗 What TypeScript &amp; Elixir can learn from each other](https://www.yellowduck.be/posts/what-typescript-elixir-can-learn-from-each-other)  
 - `2025-12-15` | [🔗 Unique indexes with some rows excluded](https://www.yellowduck.be/posts/unique-indexes-with-some-rows-excluded)  
 - `2025-12-15` | [🔗 Mr.Popov :: Elixir LiveView single binary](https://www.yellowduck.be/posts/mr-popov-elixir-liveview-single-binary)  
@@ -22,6 +23,5 @@
 - `2025-12-13` | [🐥 Detecting and listing duplicate records with Phoenix Ecto](https://www.yellowduck.be/posts/detecting-and-listing-duplicate-records-with-phoenix-ecto)  
 - `2025-12-13` | [🔗 Why 98.5% of organizations have slow actions/checkout](https://www.yellowduck.be/posts/why-98-5-of-organizations-have-slow-actions-checkout)  
 - `2025-12-13` | [🔗 16 years of Go: a programming language built to last](https://www.yellowduck.be/posts/16-years-of-go-a-programming-language-built-to-last)  
-- `2025-12-12` | [🔗 How NimbleParsec works and why I would choose it again!](https://www.yellowduck.be/posts/how-nimbleparsec-works-and-why-i-would-choose-it-again)  
 
 <!-- BLOG-POST-LIST:END -->
