@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-17` | [🔗 Scaling HNSWs](https://www.yellowduck.be/posts/scaling-hnsws-antirez)  
 - `2025-12-16` | [🔗 Laravel Tip: cleaner OR queries using whereAny&lpar;&rpar;](https://www.yellowduck.be/posts/laravel-tip-cleaner-or-queries-using-whereany)  
 - `2025-12-16` | [🔗 Who needs a JavaScript date picker?](https://www.yellowduck.be/posts/pikaday)  
 - `2025-12-16` | [🔗 Delete your old migrations, today](https://www.yellowduck.be/posts/delete-your-old-migrations-today)  
@@ -22,6 +23,5 @@
 - `2025-12-14` | [🐥 Extracting clean article introductions from HTML using Elixir, Phoenix, and LLMs](https://www.yellowduck.be/posts/extracting-clean-article-introductions-from-html-using-elixir-phoenix-and-llms)  
 - `2025-12-14` | [🔗 Why software quality disappeared: culture](https://www.yellowduck.be/posts/why-software-quality-disappeared-culture)  
 - `2025-12-14` | [🔗 What is special about MCP?](https://www.yellowduck.be/posts/what-is-special-about-mcp)  
-- `2025-12-13` | [🐥 Detecting and listing duplicate records with Phoenix Ecto](https://www.yellowduck.be/posts/detecting-and-listing-duplicate-records-with-phoenix-ecto)  
 
 <!-- BLOG-POST-LIST:END -->
