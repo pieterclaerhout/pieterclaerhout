@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-18` | [🔗 Running Phoenix &lpar;Elixir&rpar; apps on Kubernetes](https://www.yellowduck.be/posts/running-phoenix-elixir-apps-on-kubernetes)  
 - `2025-12-18` | [🔗 The top 3 LiveView form mistakes &lpar;and how to fix them&rpar;](https://www.yellowduck.be/posts/the-top-3-liveview-form-mistakes-and-how-to-fix-them)  
 - `2025-12-18` | [🔗 Building a producer–consumer pipeline in Go using goroutines and channels](https://www.yellowduck.be/posts/building-a-producer-consumer-pipeline-in-go-using-goroutines-and-channels)  
 - `2025-12-17` | [🔗 Distributed Timer With Phoenix LiveView · Chris&#39;s Blog](https://www.yellowduck.be/posts/distributed-timer-with-phoenix-liveview-chriss-blog)  
@@ -22,6 +23,5 @@
 - `2025-12-16` | [🔗 Who needs a JavaScript date picker?](https://www.yellowduck.be/posts/pikaday)  
 - `2025-12-16` | [🔗 Delete your old migrations, today](https://www.yellowduck.be/posts/delete-your-old-migrations-today)  
 - `2025-12-15` | [🔗 What TypeScript &amp; Elixir can learn from each other](https://www.yellowduck.be/posts/what-typescript-elixir-can-learn-from-each-other)  
-- `2025-12-15` | [🔗 Unique indexes with some rows excluded](https://www.yellowduck.be/posts/unique-indexes-with-some-rows-excluded)  
 
 <!-- BLOG-POST-LIST:END -->
