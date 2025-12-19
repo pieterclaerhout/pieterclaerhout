@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-19` | [🔗 Ash framework: calculations and uncertainty](https://www.yellowduck.be/posts/ash-framework-calculations-and-uncertainty)  
 - `2025-12-19` | [🔗 Homebrew 5.0.0](https://www.yellowduck.be/posts/homebrew-5-0-0)  
 - `2025-12-19` | [🔗 Jake Worth | User Manual](https://www.yellowduck.be/posts/jake-worth-user-manual)  
 - `2025-12-18` | [🔗 Running Phoenix &lpar;Elixir&rpar; apps on Kubernetes](https://www.yellowduck.be/posts/running-phoenix-elixir-apps-on-kubernetes)  
@@ -22,6 +23,5 @@
 - `2025-12-17` | [🔗 The terminal of the future](https://www.yellowduck.be/posts/the-terminal-of-the-future)  
 - `2025-12-17` | [🔗 Scaling HNSWs](https://www.yellowduck.be/posts/scaling-hnsws-antirez)  
 - `2025-12-16` | [🔗 Laravel Tip: cleaner OR queries using whereAny&lpar;&rpar;](https://www.yellowduck.be/posts/laravel-tip-cleaner-or-queries-using-whereany)  
-- `2025-12-16` | [🔗 Who needs a JavaScript date picker?](https://www.yellowduck.be/posts/pikaday)  
 
 <!-- BLOG-POST-LIST:END -->
