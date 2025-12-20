@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-20` | [🔗 Introducing GPT-5.1 for developers](https://www.yellowduck.be/posts/introducing-gpt-5-1-for-developers)  
 - `2025-12-20` | [🔗 How I fell in love with Erlang](https://www.yellowduck.be/posts/how-i-fell-in-love-with-erlang)  
 - `2025-12-19` | [🔗 Ash framework: calculations and uncertainty](https://www.yellowduck.be/posts/ash-framework-calculations-and-uncertainty)  
 - `2025-12-19` | [🔗 Homebrew 5.0.0](https://www.yellowduck.be/posts/homebrew-5-0-0)  
@@ -22,6 +23,5 @@
 - `2025-12-18` | [🔗 Building a producer–consumer pipeline in Go using goroutines and channels](https://www.yellowduck.be/posts/building-a-producer-consumer-pipeline-in-go-using-goroutines-and-channels)  
 - `2025-12-17` | [🔗 Distributed Timer With Phoenix LiveView · Chris&#39;s Blog](https://www.yellowduck.be/posts/distributed-timer-with-phoenix-liveview-chriss-blog)  
 - `2025-12-17` | [🔗 The terminal of the future](https://www.yellowduck.be/posts/the-terminal-of-the-future)  
-- `2025-12-17` | [🔗 Scaling HNSWs](https://www.yellowduck.be/posts/scaling-hnsws-antirez)  
 
 <!-- BLOG-POST-LIST:END -->
