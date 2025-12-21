@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-21` | [🔗 Leading companies using Elixir: 7 use cases](https://www.yellowduck.be/posts/leading-companies-using-elixir-7-use-cases)  
 - `2025-12-21` | [🔗 Postgres internals hiding in plain sight](https://www.yellowduck.be/posts/postgres-internals-hiding-in-plain-sight-crunchy-data-blog)  
 - `2025-12-21` | [🔗 A complete guide to the HTML number input](https://www.yellowduck.be/posts/a-complete-guide-to-the-html-number-input)  
 - `2025-12-20` | [🔗 Mnesia tips for Elixir developers](https://www.yellowduck.be/posts/mnesia-tips-for-elixir-developers)  
@@ -22,6 +23,5 @@
 - `2025-12-19` | [🔗 Homebrew 5.0.0](https://www.yellowduck.be/posts/homebrew-5-0-0)  
 - `2025-12-19` | [🔗 Jake Worth | User Manual](https://www.yellowduck.be/posts/jake-worth-user-manual)  
 - `2025-12-18` | [🔗 Running Phoenix &lpar;Elixir&rpar; apps on Kubernetes](https://www.yellowduck.be/posts/running-phoenix-elixir-apps-on-kubernetes)  
-- `2025-12-18` | [🔗 The top 3 LiveView form mistakes &lpar;and how to fix them&rpar;](https://www.yellowduck.be/posts/the-top-3-liveview-form-mistakes-and-how-to-fix-them)  
 
 <!-- BLOG-POST-LIST:END -->
