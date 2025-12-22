@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-22` | [🔗 Creating a simple Elixir Phoenix application to deploy in Kubernetes](https://www.yellowduck.be/posts/creating-a-simple-elixir-phoenix-application-to-deploy-in-kubernetes)  
 - `2025-12-22` | [🔗 A brief look at FreeBSD](https://www.yellowduck.be/posts/a-brief-look-at-freebsd)  
 - `2025-12-22` | [🔗 I am a programmer, not a rubber-stamp that approves Copilot generated code](https://www.yellowduck.be/posts/i-am-a-programmer-not-a-rubber-stamp-that-approves-copilot-generated-code)  
 - `2025-12-21` | [🔗 Leading companies using Elixir: 7 use cases](https://www.yellowduck.be/posts/leading-companies-using-elixir-7-use-cases)  
@@ -22,6 +23,5 @@
 - `2025-12-20` | [🔗 Introducing GPT-5.1 for developers](https://www.yellowduck.be/posts/introducing-gpt-5-1-for-developers)  
 - `2025-12-20` | [🔗 How I fell in love with Erlang](https://www.yellowduck.be/posts/how-i-fell-in-love-with-erlang)  
 - `2025-12-19` | [🔗 Ash framework: calculations and uncertainty](https://www.yellowduck.be/posts/ash-framework-calculations-and-uncertainty)  
-- `2025-12-19` | [🔗 Homebrew 5.0.0](https://www.yellowduck.be/posts/homebrew-5-0-0)  
 
 <!-- BLOG-POST-LIST:END -->
