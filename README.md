@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-24` | [🔗 High-performance syntax highlighting with CSS highlights API](https://www.yellowduck.be/posts/high-performance-syntax-highlighting-with-css-highlights-api)  
 - `2025-12-23` | [🐥 TIL: Removing old PHP versions after an upgrade](https://www.yellowduck.be/posts/til-removing-old-php-versions-after-an-upgrade)  
 - `2025-12-23` | [🔗 The forty-year programmer](https://www.yellowduck.be/posts/the-forty-year-programmer)  
 - `2025-12-23` | [🔗 Improving unit test run time in a Laravel modular monolith](https://www.yellowduck.be/posts/improving-unit-test-run-time-in-a-laravel-modular-monolith)  
@@ -22,6 +23,5 @@
 - `2025-12-21` | [🔗 Leading companies using Elixir: 7 use cases](https://www.yellowduck.be/posts/leading-companies-using-elixir-7-use-cases)  
 - `2025-12-21` | [🔗 Postgres internals hiding in plain sight](https://www.yellowduck.be/posts/postgres-internals-hiding-in-plain-sight-crunchy-data-blog)  
 - `2025-12-21` | [🔗 A complete guide to the HTML number input](https://www.yellowduck.be/posts/a-complete-guide-to-the-html-number-input)  
-- `2025-12-20` | [🔗 Mnesia tips for Elixir developers](https://www.yellowduck.be/posts/mnesia-tips-for-elixir-developers)  
 
 <!-- BLOG-POST-LIST:END -->
