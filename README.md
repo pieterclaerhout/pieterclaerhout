@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-25` | [🔗 Building php docker images in a better way with wolfi-os](https://www.yellowduck.be/posts/building-php-docker-images-in-a-better-way-with-wolfi-os)  
 - `2025-12-25` | [🔗 How when AWS was down, we were not](https://www.yellowduck.be/posts/how-when-aws-was-down-we-were-not-authress-knowledge-base)  
 - `2025-12-25` | [🔗 Stop loading large Ecto fields by default](https://www.yellowduck.be/posts/stop-loading-large-ecto-fields-by-default)  
 - `2025-12-24` | [🔗 Python is not a great language for data science. Part 1: The experience](https://www.yellowduck.be/posts/python-is-not-a-great-language-for-data-science-part-1-the-experience)  
@@ -22,6 +23,5 @@
 - `2025-12-23` | [🔗 The forty-year programmer](https://www.yellowduck.be/posts/the-forty-year-programmer)  
 - `2025-12-23` | [🔗 Improving unit test run time in a Laravel modular monolith](https://www.yellowduck.be/posts/improving-unit-test-run-time-in-a-laravel-modular-monolith)  
 - `2025-12-22` | [🔗 Creating a simple Elixir Phoenix application to deploy in Kubernetes](https://www.yellowduck.be/posts/creating-a-simple-elixir-phoenix-application-to-deploy-in-kubernetes)  
-- `2025-12-22` | [🔗 A brief look at FreeBSD](https://www.yellowduck.be/posts/a-brief-look-at-freebsd)  
 
 <!-- BLOG-POST-LIST:END -->
