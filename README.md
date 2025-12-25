@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-25` | [🔗 Stop loading large Ecto fields by default](https://www.yellowduck.be/posts/stop-loading-large-ecto-fields-by-default)  
 - `2025-12-24` | [🔗 Python is not a great language for data science. Part 1: The experience](https://www.yellowduck.be/posts/python-is-not-a-great-language-for-data-science-part-1-the-experience)  
 - `2025-12-24` | [🔗 Production-grade container deployment with podman quadlets](https://www.yellowduck.be/posts/production-grade-container-deployment-with-podman-quadlets)  
 - `2025-12-24` | [🔗 High-performance syntax highlighting with CSS highlights API](https://www.yellowduck.be/posts/high-performance-syntax-highlighting-with-css-highlights-api)  
@@ -22,6 +23,5 @@
 - `2025-12-22` | [🔗 Creating a simple Elixir Phoenix application to deploy in Kubernetes](https://www.yellowduck.be/posts/creating-a-simple-elixir-phoenix-application-to-deploy-in-kubernetes)  
 - `2025-12-22` | [🔗 A brief look at FreeBSD](https://www.yellowduck.be/posts/a-brief-look-at-freebsd)  
 - `2025-12-22` | [🔗 I am a programmer, not a rubber-stamp that approves Copilot generated code](https://www.yellowduck.be/posts/i-am-a-programmer-not-a-rubber-stamp-that-approves-copilot-generated-code)  
-- `2025-12-21` | [🔗 Leading companies using Elixir: 7 use cases](https://www.yellowduck.be/posts/leading-companies-using-elixir-7-use-cases)  
 
 <!-- BLOG-POST-LIST:END -->
