@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-26` | [🔗 OOP: the worst thing that happened to programming](https://www.yellowduck.be/posts/oop-the-worst-thing-that-happened-to-programming)  
 - `2025-12-26` | [🔗 Building a simple search engine that actually works](https://www.yellowduck.be/posts/building-a-simple-search-engine-that-actually-works)  
 - `2025-12-25` | [🔗 Building php docker images in a better way with wolfi-os](https://www.yellowduck.be/posts/building-php-docker-images-in-a-better-way-with-wolfi-os)  
 - `2025-12-25` | [🔗 How when AWS was down, we were not](https://www.yellowduck.be/posts/how-when-aws-was-down-we-were-not-authress-knowledge-base)  
@@ -22,6 +23,5 @@
 - `2025-12-24` | [🔗 High-performance syntax highlighting with CSS highlights API](https://www.yellowduck.be/posts/high-performance-syntax-highlighting-with-css-highlights-api)  
 - `2025-12-23` | [🐥 TIL: Removing old PHP versions after an upgrade](https://www.yellowduck.be/posts/til-removing-old-php-versions-after-an-upgrade)  
 - `2025-12-23` | [🔗 The forty-year programmer](https://www.yellowduck.be/posts/the-forty-year-programmer)  
-- `2025-12-23` | [🔗 Improving unit test run time in a Laravel modular monolith](https://www.yellowduck.be/posts/improving-unit-test-run-time-in-a-laravel-modular-monolith)  
 
 <!-- BLOG-POST-LIST:END -->
