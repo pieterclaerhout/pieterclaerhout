@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-27` | [🔗 Graceful startup and shutdown for Phoenix applications](https://www.yellowduck.be/posts/graceful-startup-and-shutdown-for-phoenix-applications)  
 - `2025-12-26` | [🔗 Code signing your .NET Core application](https://www.yellowduck.be/posts/code-signing-your-net-core-application)  
 - `2025-12-26` | [🔗 OOP: the worst thing that happened to programming](https://www.yellowduck.be/posts/oop-the-worst-thing-that-happened-to-programming)  
 - `2025-12-26` | [🔗 Building a simple search engine that actually works](https://www.yellowduck.be/posts/building-a-simple-search-engine-that-actually-works)  
@@ -22,6 +23,5 @@
 - `2025-12-24` | [🔗 Python is not a great language for data science. Part 1: The experience](https://www.yellowduck.be/posts/python-is-not-a-great-language-for-data-science-part-1-the-experience)  
 - `2025-12-24` | [🔗 Production-grade container deployment with podman quadlets](https://www.yellowduck.be/posts/production-grade-container-deployment-with-podman-quadlets)  
 - `2025-12-24` | [🔗 High-performance syntax highlighting with CSS highlights API](https://www.yellowduck.be/posts/high-performance-syntax-highlighting-with-css-highlights-api)  
-- `2025-12-23` | [🐥 TIL: Removing old PHP versions after an upgrade](https://www.yellowduck.be/posts/til-removing-old-php-versions-after-an-upgrade)  
 
 <!-- BLOG-POST-LIST:END -->
