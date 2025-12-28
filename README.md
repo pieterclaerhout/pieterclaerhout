@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-28` | [🔗 PostgreSQL: filtering with COUNT&lpar;&rpar;](https://www.yellowduck.be/posts/postgres-filtering-with-count)  
 - `2025-12-27` | [🔗 What actually makes you senior](https://www.yellowduck.be/posts/what-actually-makes-you-senior)  
 - `2025-12-27` | [🔗 Elixir: clustering on kubernetes](https://www.yellowduck.be/posts/elixir-clustering-on-kubernetes)  
 - `2025-12-27` | [🔗 Graceful startup and shutdown for Phoenix applications](https://www.yellowduck.be/posts/graceful-startup-and-shutdown-for-phoenix-applications)  
@@ -22,6 +23,5 @@
 - `2025-12-25` | [🔗 Building php docker images in a better way with wolfi-os](https://www.yellowduck.be/posts/building-php-docker-images-in-a-better-way-with-wolfi-os)  
 - `2025-12-25` | [🔗 How when AWS was down, we were not](https://www.yellowduck.be/posts/how-when-aws-was-down-we-were-not-authress-knowledge-base)  
 - `2025-12-25` | [🔗 Stop loading large Ecto fields by default](https://www.yellowduck.be/posts/stop-loading-large-ecto-fields-by-default)  
-- `2025-12-24` | [🔗 Python is not a great language for data science. Part 1: The experience](https://www.yellowduck.be/posts/python-is-not-a-great-language-for-data-science-part-1-the-experience)  
 
 <!-- BLOG-POST-LIST:END -->
