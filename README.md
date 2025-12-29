@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-29` | [🔗 Building an MCP client in Elixir](https://www.yellowduck.be/posts/building-an-mcp-client-in-elixir)  
 - `2025-12-29` | [🔗 A new era of intelligence with Gemini 3](https://www.yellowduck.be/posts/a-new-era-of-intelligence-with-gemini-3)  
 - `2025-12-28` | [🔗 Revisiting manager READMEs](https://www.yellowduck.be/posts/revisiting-manager-readmes)  
 - `2025-12-28` | [🔗 Install and upgrade to PHP 8.5 on Debian and Ubuntu](https://www.yellowduck.be/posts/install-and-upgrade-to-php-8-5-on-debian-and-ubuntu)  
@@ -22,6 +23,5 @@
 - `2025-12-27` | [🔗 Graceful startup and shutdown for Phoenix applications](https://www.yellowduck.be/posts/graceful-startup-and-shutdown-for-phoenix-applications)  
 - `2025-12-26` | [🔗 Code signing your .NET Core application](https://www.yellowduck.be/posts/code-signing-your-net-core-application)  
 - `2025-12-26` | [🔗 OOP: the worst thing that happened to programming](https://www.yellowduck.be/posts/oop-the-worst-thing-that-happened-to-programming)  
-- `2025-12-26` | [🔗 Building a simple search engine that actually works](https://www.yellowduck.be/posts/building-a-simple-search-engine-that-actually-works)  
 
 <!-- BLOG-POST-LIST:END -->
