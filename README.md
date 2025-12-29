@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-29` | [🐥 Using the lockf command on Linux and macOS](https://www.yellowduck.be/posts/using-the-lockf-command-on-linux-and-macos)  
 - `2025-12-29` | [🔗 Building an MCP client in Elixir](https://www.yellowduck.be/posts/building-an-mcp-client-in-elixir)  
 - `2025-12-29` | [🔗 A new era of intelligence with Gemini 3](https://www.yellowduck.be/posts/a-new-era-of-intelligence-with-gemini-3)  
 - `2025-12-28` | [🔗 Revisiting manager READMEs](https://www.yellowduck.be/posts/revisiting-manager-readmes)  
@@ -22,6 +23,5 @@
 - `2025-12-27` | [🔗 Elixir: clustering on kubernetes](https://www.yellowduck.be/posts/elixir-clustering-on-kubernetes)  
 - `2025-12-27` | [🔗 Graceful startup and shutdown for Phoenix applications](https://www.yellowduck.be/posts/graceful-startup-and-shutdown-for-phoenix-applications)  
 - `2025-12-26` | [🔗 Code signing your .NET Core application](https://www.yellowduck.be/posts/code-signing-your-net-core-application)  
-- `2025-12-26` | [🔗 OOP: the worst thing that happened to programming](https://www.yellowduck.be/posts/oop-the-worst-thing-that-happened-to-programming)  
 
 <!-- BLOG-POST-LIST:END -->
