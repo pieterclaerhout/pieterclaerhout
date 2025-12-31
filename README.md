@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-31` | [🔗 The internet is cool. Thank you, TCP](https://www.yellowduck.be/posts/the-internet-is-cool-thank-you-tcp)  
 - `2025-12-31` | [🔗 Which language is best for AI code generation?](https://www.yellowduck.be/posts/which-language-is-best-for-ai-code-generation)  
 - `2025-12-30` | [🐥 Validating webhook signatures in Phoenix](https://www.yellowduck.be/posts/validating-webhook-signatures-in-phoenix)  
 - `2025-12-30` | [🔗 Battle-tested lessons from 10 years in a single codebase](https://www.yellowduck.be/posts/battle-tested-lessons-from-10-years-in-a-single-codebase)  
@@ -22,6 +23,5 @@
 - `2025-12-29` | [🔗 A new era of intelligence with Gemini 3](https://www.yellowduck.be/posts/a-new-era-of-intelligence-with-gemini-3)  
 - `2025-12-28` | [🔗 Revisiting manager READMEs](https://www.yellowduck.be/posts/revisiting-manager-readmes)  
 - `2025-12-28` | [🔗 Install and upgrade to PHP 8.5 on Debian and Ubuntu](https://www.yellowduck.be/posts/install-and-upgrade-to-php-8-5-on-debian-and-ubuntu)  
-- `2025-12-28` | [🔗 PostgreSQL: filtering with COUNT&lpar;&rpar;](https://www.yellowduck.be/posts/postgres-filtering-with-count)  
 
 <!-- BLOG-POST-LIST:END -->
