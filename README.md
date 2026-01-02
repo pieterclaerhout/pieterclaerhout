@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-02` | [🔗 Virtual fields in Ecto: Eliminating N + 1 queries](https://www.yellowduck.be/posts/virtual-fields-in-ecto-eliminating-n-1-queries)  
 - `2026-01-02` | [🔗 Cabify hubs: Simplifying rider pickups](https://www.yellowduck.be/posts/cabify-hubs-simplifying-rider-pickups)  
 - `2026-01-02` | [🔗 Brand new layouts with CSS subgrid](https://www.yellowduck.be/posts/brand-new-layouts-with-css-subgrid)  
 - `2026-01-01` | [🔗 Why your CTO might start coding again](https://www.yellowduck.be/posts/why-your-cto-might-start-coding-again)  
@@ -22,6 +23,5 @@
 - `2025-12-31` | [🔗 The internet is cool. Thank you, TCP](https://www.yellowduck.be/posts/the-internet-is-cool-thank-you-tcp)  
 - `2025-12-31` | [🔗 Which language is best for AI code generation?](https://www.yellowduck.be/posts/which-language-is-best-for-ai-code-generation)  
 - `2025-12-30` | [🐥 Validating webhook signatures in Phoenix](https://www.yellowduck.be/posts/validating-webhook-signatures-in-phoenix)  
-- `2025-12-30` | [🔗 Battle-tested lessons from 10 years in a single codebase](https://www.yellowduck.be/posts/battle-tested-lessons-from-10-years-in-a-single-codebase)  
 
 <!-- BLOG-POST-LIST:END -->
