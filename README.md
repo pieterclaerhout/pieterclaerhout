@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-03` | [🔗 Database migrations in Kubernetes](https://www.yellowduck.be/posts/database-migrations-in-kubernetes)  
 - `2026-01-03` | [🔗 Simple network communications in Docker without compose](https://www.yellowduck.be/posts/simple-network-communications-in-docker-without-compose)  
 - `2026-01-02` | [🔗 Virtual fields in Ecto: Eliminating N + 1 queries](https://www.yellowduck.be/posts/virtual-fields-in-ecto-eliminating-n-1-queries)  
 - `2026-01-02` | [🔗 Cabify hubs: Simplifying rider pickups](https://www.yellowduck.be/posts/cabify-hubs-simplifying-rider-pickups)  
@@ -22,6 +23,5 @@
 - `2026-01-01` | [🔗 Deploy Phoenix 1.8 with Coolify on Hetzner](https://www.yellowduck.be/posts/1-tutorial-deploy-phoenix-1-8-with-coolify-on-hetzner)  
 - `2025-12-31` | [🐥 Adding a second CSS and JS bundle to a Phoenix application](https://www.yellowduck.be/posts/adding-a-second-css-and-js-bundle-to-a-phoenix-application)  
 - `2025-12-31` | [🔗 The internet is cool. Thank you, TCP](https://www.yellowduck.be/posts/the-internet-is-cool-thank-you-tcp)  
-- `2025-12-31` | [🔗 Which language is best for AI code generation?](https://www.yellowduck.be/posts/which-language-is-best-for-ai-code-generation)  
 
 <!-- BLOG-POST-LIST:END -->
