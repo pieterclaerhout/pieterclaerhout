@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-04` | [🔗 Avoiding recompilation hell in Elixir with mix xref](https://www.yellowduck.be/posts/avoiding-recompilation-hell-in-elixir-with-mix-xref)  
 - `2026-01-04` | [🔗 PDF data extraction and OCR: the ultimate guide](https://www.yellowduck.be/posts/pdf-data-extraction-and-ocr-the-ultimate-guide)  
 - `2026-01-03` | [🔗 Adding Google OAuth to Phoenix](https://www.yellowduck.be/posts/adding-google-oauth-to-phoenix)  
 - `2026-01-03` | [🔗 Database migrations in Kubernetes](https://www.yellowduck.be/posts/database-migrations-in-kubernetes)  
@@ -22,6 +23,5 @@
 - `2026-01-02` | [🔗 Brand new layouts with CSS subgrid](https://www.yellowduck.be/posts/brand-new-layouts-with-css-subgrid)  
 - `2026-01-01` | [🔗 Why your CTO might start coding again](https://www.yellowduck.be/posts/why-your-cto-might-start-coding-again)  
 - `2026-01-01` | [🔗 Why I &lpar;still&rpar; love Linux](https://www.yellowduck.be/posts/why-i-still-love-linux)  
-- `2026-01-01` | [🔗 Deploy Phoenix 1.8 with Coolify on Hetzner](https://www.yellowduck.be/posts/1-tutorial-deploy-phoenix-1-8-with-coolify-on-hetzner)  
 
 <!-- BLOG-POST-LIST:END -->
