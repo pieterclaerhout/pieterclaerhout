@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-05` | [🐥 Be aware of 1Password breaking syntax highlighting](https://www.yellowduck.be/posts/be-aware-of-1password-breaking-syntax-highlighting)  
 - `2026-01-05` | [🔗 LLM APIs are a synchronization problem](https://www.yellowduck.be/posts/llm-apis-are-a-synchronization-problem)  
 - `2026-01-05` | [🔗 Building a MCP server in Elixir](https://www.yellowduck.be/posts/building-a-mcp-server-in-elixir)  
 - `2026-01-04` | [🔗 Tuning TCP ports for your Elixir app](https://www.yellowduck.be/posts/tuning-tcp-ports-for-your-elixir-app)  
@@ -22,6 +23,5 @@
 - `2026-01-03` | [🔗 Database migrations in Kubernetes](https://www.yellowduck.be/posts/database-migrations-in-kubernetes)  
 - `2026-01-03` | [🔗 Simple network communications in Docker without compose](https://www.yellowduck.be/posts/simple-network-communications-in-docker-without-compose)  
 - `2026-01-02` | [🔗 Virtual fields in Ecto: Eliminating N + 1 queries](https://www.yellowduck.be/posts/virtual-fields-in-ecto-eliminating-n-1-queries)  
-- `2026-01-02` | [🔗 Cabify hubs: Simplifying rider pickups](https://www.yellowduck.be/posts/cabify-hubs-simplifying-rider-pickups)  
 
 <!-- BLOG-POST-LIST:END -->
