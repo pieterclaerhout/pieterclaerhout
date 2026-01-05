@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-05` | [🔗 Building a MCP server in Elixir](https://www.yellowduck.be/posts/building-a-mcp-server-in-elixir)  
 - `2026-01-04` | [🔗 Tuning TCP ports for your Elixir app](https://www.yellowduck.be/posts/tuning-tcp-ports-for-your-elixir-app)  
 - `2026-01-04` | [🔗 Avoiding recompilation hell in Elixir with mix xref](https://www.yellowduck.be/posts/avoiding-recompilation-hell-in-elixir-with-mix-xref)  
 - `2026-01-04` | [🔗 PDF data extraction and OCR: the ultimate guide](https://www.yellowduck.be/posts/pdf-data-extraction-and-ocr-the-ultimate-guide)  
@@ -22,6 +23,5 @@
 - `2026-01-02` | [🔗 Virtual fields in Ecto: Eliminating N + 1 queries](https://www.yellowduck.be/posts/virtual-fields-in-ecto-eliminating-n-1-queries)  
 - `2026-01-02` | [🔗 Cabify hubs: Simplifying rider pickups](https://www.yellowduck.be/posts/cabify-hubs-simplifying-rider-pickups)  
 - `2026-01-02` | [🔗 Brand new layouts with CSS subgrid](https://www.yellowduck.be/posts/brand-new-layouts-with-css-subgrid)  
-- `2026-01-01` | [🔗 Why your CTO might start coding again](https://www.yellowduck.be/posts/why-your-cto-might-start-coding-again)  
 
 <!-- BLOG-POST-LIST:END -->
