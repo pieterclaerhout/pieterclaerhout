@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-06` | [🐥 Sorting case insensitive in SQLite with COLLATE NOCASE](https://www.yellowduck.be/posts/sorting-case-insensitive-in-sqlite-with-collate-nocase)  
 - `2026-01-06` | [🔗 How to review AI-generated PRs](https://www.yellowduck.be/posts/how-to-review-ai-generated-prs)  
 - `2026-01-06` | [🔗 What I learned building a vector database on object storage](https://www.yellowduck.be/posts/what-i-learned-building-a-vector-database-on-object-storage)  
 - `2026-01-05` | [🐥 Be aware of 1Password breaking syntax highlighting](https://www.yellowduck.be/posts/be-aware-of-1password-breaking-syntax-highlighting)  
@@ -22,6 +23,5 @@
 - `2026-01-04` | [🔗 Avoiding recompilation hell in Elixir with mix xref](https://www.yellowduck.be/posts/avoiding-recompilation-hell-in-elixir-with-mix-xref)  
 - `2026-01-04` | [🔗 PDF data extraction and OCR: the ultimate guide](https://www.yellowduck.be/posts/pdf-data-extraction-and-ocr-the-ultimate-guide)  
 - `2026-01-03` | [🔗 Adding Google OAuth to Phoenix](https://www.yellowduck.be/posts/adding-google-oauth-to-phoenix)  
-- `2026-01-03` | [🔗 Database migrations in Kubernetes](https://www.yellowduck.be/posts/database-migrations-in-kubernetes)  
 
 <!-- BLOG-POST-LIST:END -->
