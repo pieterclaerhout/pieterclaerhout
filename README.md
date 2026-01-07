@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-07` | [🔗 AI can write your code. it can’t do your job](https://www.yellowduck.be/posts/ai-can-write-your-code-it-cant-do-your-job)  
 - `2026-01-07` | [🔗 What I look for in AI-assisted PRs](https://www.yellowduck.be/posts/what-i-look-for-in-ai-assisted-prs)  
 - `2026-01-06` | [🐥 Sorting case insensitive in SQLite with COLLATE NOCASE](https://www.yellowduck.be/posts/sorting-case-insensitive-in-sqlite-with-collate-nocase)  
 - `2026-01-06` | [🔗 How to review AI-generated PRs](https://www.yellowduck.be/posts/how-to-review-ai-generated-prs)  
@@ -22,6 +23,5 @@
 - `2026-01-05` | [🔗 Building a MCP server in Elixir](https://www.yellowduck.be/posts/building-a-mcp-server-in-elixir)  
 - `2026-01-04` | [🔗 Tuning TCP ports for your Elixir app](https://www.yellowduck.be/posts/tuning-tcp-ports-for-your-elixir-app)  
 - `2026-01-04` | [🔗 Avoiding recompilation hell in Elixir with mix xref](https://www.yellowduck.be/posts/avoiding-recompilation-hell-in-elixir-with-mix-xref)  
-- `2026-01-04` | [🔗 PDF data extraction and OCR: the ultimate guide](https://www.yellowduck.be/posts/pdf-data-extraction-and-ocr-the-ultimate-guide)  
 
 <!-- BLOG-POST-LIST:END -->
