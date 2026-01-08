@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-08` | [🔗 A modern guide to SQL JOINs](https://www.yellowduck.be/posts/a-modern-guide-to-sql-joins)  
 - `2026-01-08` | [🔗 &quot;Secure by default&quot; — how Phoenix keeps you safe for free](https://www.yellowduck.be/posts/secure-by-default-how-phoenix-keeps-you-safe-for-free)  
 - `2026-01-07` | [🔗 You should never build a CMS](https://www.yellowduck.be/posts/you-should-never-build-a-cms)  
 - `2026-01-07` | [🔗 AI can write your code. it can’t do your job](https://www.yellowduck.be/posts/ai-can-write-your-code-it-cant-do-your-job)  
@@ -22,6 +23,5 @@
 - `2026-01-06` | [🔗 What I learned building a vector database on object storage](https://www.yellowduck.be/posts/what-i-learned-building-a-vector-database-on-object-storage)  
 - `2026-01-05` | [🐥 Be aware of 1Password breaking syntax highlighting](https://www.yellowduck.be/posts/be-aware-of-1password-breaking-syntax-highlighting)  
 - `2026-01-05` | [🔗 LLM APIs are a synchronization problem](https://www.yellowduck.be/posts/llm-apis-are-a-synchronization-problem)  
-- `2026-01-05` | [🔗 Building a MCP server in Elixir](https://www.yellowduck.be/posts/building-a-mcp-server-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
