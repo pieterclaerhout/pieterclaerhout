@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-09` | [🔗 Use &#39;git mv&#39; to record filename case changes in Git](https://www.yellowduck.be/posts/use-git-mv-to-record-filename-case-changes-in-git)  
 - `2026-01-09` | [🔗 How startups lose their edge](https://www.yellowduck.be/posts/how-startups-lose-their-edge)  
 - `2026-01-09` | [🔗 Why &lpar;senior&rpar; engineers struggle to build AI agents](https://www.yellowduck.be/posts/why-senior-engineers-struggle-to-build-ai-agents)  
 - `2026-01-08` | [🐥 Using Tailwind CSS group hover to style child elements](https://www.yellowduck.be/posts/using-tailwind-css-group-hover-to-style-child-elements)  
@@ -22,6 +23,5 @@
 - `2026-01-07` | [🔗 AI can write your code. it can’t do your job](https://www.yellowduck.be/posts/ai-can-write-your-code-it-cant-do-your-job)  
 - `2026-01-07` | [🔗 What I look for in AI-assisted PRs](https://www.yellowduck.be/posts/what-i-look-for-in-ai-assisted-prs)  
 - `2026-01-06` | [🐥 Sorting case insensitive in SQLite with COLLATE NOCASE](https://www.yellowduck.be/posts/sorting-case-insensitive-in-sqlite-with-collate-nocase)  
-- `2026-01-06` | [🔗 How to review AI-generated PRs](https://www.yellowduck.be/posts/how-to-review-ai-generated-prs)  
 
 <!-- BLOG-POST-LIST:END -->
