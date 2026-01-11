@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-11` | [🔗 Building a double-entry payment system in Elixir](https://www.yellowduck.be/posts/building-a-double-entry-payment-system-in-elixir)  
 - `2026-01-10` | [🔗 It’s hard to justify Tahoe icons](https://www.yellowduck.be/posts/its-hard-to-justify-tahoe-icons)  
 - `2026-01-10` | [🔗 Exposed EPMD: a hidden security risk for RabbitMQ and the BEAM ecosystem](https://www.yellowduck.be/posts/exposed-epmd-a-hidden-security-risk-for-rabbitmq-and-the-beam-ecosystem)  
 - `2026-01-10` | [🔗 SQLite as an application file format](https://www.yellowduck.be/posts/sqlite-as-an-application-file-format)  
@@ -22,6 +23,5 @@
 - `2026-01-08` | [🐥 Using Tailwind CSS group hover to style child elements](https://www.yellowduck.be/posts/using-tailwind-css-group-hover-to-style-child-elements)  
 - `2026-01-08` | [🔗 A modern guide to SQL JOINs](https://www.yellowduck.be/posts/a-modern-guide-to-sql-joins)  
 - `2026-01-08` | [🔗 &quot;Secure by default&quot; — how Phoenix keeps you safe for free](https://www.yellowduck.be/posts/secure-by-default-how-phoenix-keeps-you-safe-for-free)  
-- `2026-01-07` | [🔗 You should never build a CMS](https://www.yellowduck.be/posts/you-should-never-build-a-cms)  
 
 <!-- BLOG-POST-LIST:END -->
