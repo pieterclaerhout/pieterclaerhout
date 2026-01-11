@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-11` | [🔗 Using React components in Phoenix LiveView](https://www.yellowduck.be/posts/using-react-components-in-phoenix-liveview)  
 - `2026-01-11` | [🔗 Building embeddable widgets with Phoenix Channels](https://www.yellowduck.be/posts/building-embeddable-widgets-with-phoenix-channels)  
 - `2026-01-11` | [🔗 Building a double-entry payment system in Elixir](https://www.yellowduck.be/posts/building-a-double-entry-payment-system-in-elixir)  
 - `2026-01-10` | [🔗 It’s hard to justify Tahoe icons](https://www.yellowduck.be/posts/its-hard-to-justify-tahoe-icons)  
@@ -22,6 +23,5 @@
 - `2026-01-09` | [🔗 How startups lose their edge](https://www.yellowduck.be/posts/how-startups-lose-their-edge)  
 - `2026-01-09` | [🔗 Why &lpar;senior&rpar; engineers struggle to build AI agents](https://www.yellowduck.be/posts/why-senior-engineers-struggle-to-build-ai-agents)  
 - `2026-01-08` | [🐥 Using Tailwind CSS group hover to style child elements](https://www.yellowduck.be/posts/using-tailwind-css-group-hover-to-style-child-elements)  
-- `2026-01-08` | [🔗 A modern guide to SQL JOINs](https://www.yellowduck.be/posts/a-modern-guide-to-sql-joins)  
 
 <!-- BLOG-POST-LIST:END -->
