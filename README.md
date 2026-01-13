@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-13` | [🔗 I&#39;ve built 30+ MVPs. The founders who succeed are the ones you&#39;d probably hate.](https://www.yellowduck.be/posts/ive-built-30-mvps-the-founders-who-succeed-are-the-ones-youd-probably-hate)  
 - `2026-01-12` | [🔗 To spawn, or not to spawn?](https://www.yellowduck.be/posts/to-spawn-or-not-to-spawn)  
 - `2026-01-12` | [🔗 Introduction to HTML, CSS and OpenAI in Phoenix LiveView](https://www.yellowduck.be/posts/introduction-to-html-css-and-openai-in-phoenix-liveview)  
 - `2026-01-12` | [🔗 5 engineering dogmas it&#39;s time to retire](https://www.yellowduck.be/posts/5-engineering-dogmas-its-time-to-retire)  
@@ -22,6 +23,5 @@
 - `2026-01-11` | [🔗 Building a double-entry payment system in Elixir](https://www.yellowduck.be/posts/building-a-double-entry-payment-system-in-elixir)  
 - `2026-01-10` | [🔗 It’s hard to justify Tahoe icons](https://www.yellowduck.be/posts/its-hard-to-justify-tahoe-icons)  
 - `2026-01-10` | [🔗 Exposed EPMD: a hidden security risk for RabbitMQ and the BEAM ecosystem](https://www.yellowduck.be/posts/exposed-epmd-a-hidden-security-risk-for-rabbitmq-and-the-beam-ecosystem)  
-- `2026-01-10` | [🔗 SQLite as an application file format](https://www.yellowduck.be/posts/sqlite-as-an-application-file-format)  
 
 <!-- BLOG-POST-LIST:END -->
