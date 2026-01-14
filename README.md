@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-14` | [🔗 Consolidating input and output validation and sanitization in Elixir with GuardedStruct library](https://www.yellowduck.be/posts/consolidating-input-and-output-validation-and-sanitization-in-elixir-with-guardedstruct-library)  
 - `2026-01-14` | [🔗 Get more from Phoenix LiveDashboard with the built-in PageBuilder](https://www.yellowduck.be/posts/get-more-from-phoenix-livedashboard-with-the-built-in-pagebuilder)  
 - `2026-01-13` | [🔗 Web development is fun again](https://www.yellowduck.be/posts/web-development-is-fun-again)  
 - `2026-01-13` | [🔗 State machines as business logic engines - DEV Community](https://www.yellowduck.be/posts/state-machines-as-business-logic-engines-dev-community)  
@@ -22,6 +23,5 @@
 - `2026-01-12` | [🔗 5 engineering dogmas it&#39;s time to retire](https://www.yellowduck.be/posts/5-engineering-dogmas-its-time-to-retire)  
 - `2026-01-12` | [🔗 Embedding-based tool selection for AI agents](https://www.yellowduck.be/posts/embedding-based-tool-selection-for-ai-agents)  
 - `2026-01-11` | [🔗 Using React components in Phoenix LiveView](https://www.yellowduck.be/posts/using-react-components-in-phoenix-liveview)  
-- `2026-01-11` | [🔗 Building embeddable widgets with Phoenix Channels](https://www.yellowduck.be/posts/building-embeddable-widgets-with-phoenix-channels)  
 
 <!-- BLOG-POST-LIST:END -->
