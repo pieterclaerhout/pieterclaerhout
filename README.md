@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-15` | [🔗 Your job is to deliver code you have proven to work](https://www.yellowduck.be/posts/your-job-is-to-deliver-code-you-have-proven-to-work)  
 - `2026-01-14` | [🔗 How to review code](https://www.yellowduck.be/posts/how-to-review-code)  
 - `2026-01-14` | [🔗 Consolidating input and output validation and sanitization in Elixir with GuardedStruct library](https://www.yellowduck.be/posts/consolidating-input-and-output-validation-and-sanitization-in-elixir-with-guardedstruct-library)  
 - `2026-01-14` | [🔗 Get more from Phoenix LiveDashboard with the built-in PageBuilder](https://www.yellowduck.be/posts/get-more-from-phoenix-livedashboard-with-the-built-in-pagebuilder)  
@@ -22,6 +23,5 @@
 - `2026-01-12` | [🔗 To spawn, or not to spawn?](https://www.yellowduck.be/posts/to-spawn-or-not-to-spawn)  
 - `2026-01-12` | [🔗 Introduction to HTML, CSS and OpenAI in Phoenix LiveView](https://www.yellowduck.be/posts/introduction-to-html-css-and-openai-in-phoenix-liveview)  
 - `2026-01-12` | [🔗 5 engineering dogmas it&#39;s time to retire](https://www.yellowduck.be/posts/5-engineering-dogmas-its-time-to-retire)  
-- `2026-01-12` | [🔗 Embedding-based tool selection for AI agents](https://www.yellowduck.be/posts/embedding-based-tool-selection-for-ai-agents)  
 
 <!-- BLOG-POST-LIST:END -->
