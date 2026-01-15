@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-15` | [🐥 Creating relative URLs from absolute URLs in Elixir](https://www.yellowduck.be/posts/creating-relative-urls-from-absolute-urls-in-elixir)  
 - `2026-01-15` | [🔗 4 Claude code tools we can&#39;t live without](https://www.yellowduck.be/posts/4-claude-code-tools-we-cant-live-without)  
 - `2026-01-15` | [🔗 Your job is to deliver code you have proven to work](https://www.yellowduck.be/posts/your-job-is-to-deliver-code-you-have-proven-to-work)  
 - `2026-01-14` | [🔗 How to review code](https://www.yellowduck.be/posts/how-to-review-code)  
@@ -22,6 +23,5 @@
 - `2026-01-13` | [🔗 State machines as business logic engines - DEV Community](https://www.yellowduck.be/posts/state-machines-as-business-logic-engines-dev-community)  
 - `2026-01-13` | [🔗 I&#39;ve built 30+ MVPs. The founders who succeed are the ones you&#39;d probably hate.](https://www.yellowduck.be/posts/ive-built-30-mvps-the-founders-who-succeed-are-the-ones-youd-probably-hate)  
 - `2026-01-12` | [🔗 To spawn, or not to spawn?](https://www.yellowduck.be/posts/to-spawn-or-not-to-spawn)  
-- `2026-01-12` | [🔗 Introduction to HTML, CSS and OpenAI in Phoenix LiveView](https://www.yellowduck.be/posts/introduction-to-html-css-and-openai-in-phoenix-liveview)  
 
 <!-- BLOG-POST-LIST:END -->
