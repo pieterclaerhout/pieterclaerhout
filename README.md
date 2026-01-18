@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-18` | [🔗 Statistics made simple](https://www.yellowduck.be/posts/statistics-made-simple)  
 - `2026-01-18` | [🔗 Optimizing Claude code: skills, plugins, and the art of teaching your AI to code like you](https://www.yellowduck.be/posts/optimizing-claude-code-skills-plugins-and-the-art-of-teaching-your-ai-to-code-like-you)  
 - `2026-01-17` | [🔗 LiveVue 1.0: nineteen months of making Phoenix and Vue best friends](https://www.yellowduck.be/posts/livevue-1-0-nineteen-months-of-making-phoenix-and-vue-best-friends)  
 - `2026-01-17` | [🔗 AWS CEO explains 3 reasons AI can’t replace junior devs](https://www.yellowduck.be/posts/aws-ceo-explains-3-reasons-ai-cant-replace-junior-devs)  
@@ -22,6 +23,5 @@
 - `2026-01-16` | [🔗 My LLM coding workflow going into 2026](https://www.yellowduck.be/posts/my-llm-coding-workflow-going-into-2026)  
 - `2026-01-15` | [🐥 Creating relative URLs from absolute URLs in Elixir](https://www.yellowduck.be/posts/creating-relative-urls-from-absolute-urls-in-elixir)  
 - `2026-01-15` | [🔗 4 Claude code tools we can&#39;t live without](https://www.yellowduck.be/posts/4-claude-code-tools-we-cant-live-without)  
-- `2026-01-15` | [🔗 Your job is to deliver code you have proven to work](https://www.yellowduck.be/posts/your-job-is-to-deliver-code-you-have-proven-to-work)  
 
 <!-- BLOG-POST-LIST:END -->
