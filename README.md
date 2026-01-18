@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-18` | [🔗 Elixir CI: Testing, publishing, and containerization with GitHub Actions](https://www.yellowduck.be/posts/elixir-ci-testing-publishing-and-containerization-with-github-actions)  
 - `2026-01-18` | [🔗 Statistics made simple](https://www.yellowduck.be/posts/statistics-made-simple)  
 - `2026-01-18` | [🔗 Optimizing Claude code: skills, plugins, and the art of teaching your AI to code like you](https://www.yellowduck.be/posts/optimizing-claude-code-skills-plugins-and-the-art-of-teaching-your-ai-to-code-like-you)  
 - `2026-01-17` | [🔗 LiveVue 1.0: nineteen months of making Phoenix and Vue best friends](https://www.yellowduck.be/posts/livevue-1-0-nineteen-months-of-making-phoenix-and-vue-best-friends)  
@@ -22,6 +23,5 @@
 - `2026-01-16` | [🔗 My 67 bugs in 2025](https://www.yellowduck.be/posts/my-67-bugs-in-2025)  
 - `2026-01-16` | [🔗 My LLM coding workflow going into 2026](https://www.yellowduck.be/posts/my-llm-coding-workflow-going-into-2026)  
 - `2026-01-15` | [🐥 Creating relative URLs from absolute URLs in Elixir](https://www.yellowduck.be/posts/creating-relative-urls-from-absolute-urls-in-elixir)  
-- `2026-01-15` | [🔗 4 Claude code tools we can&#39;t live without](https://www.yellowduck.be/posts/4-claude-code-tools-we-cant-live-without)  
 
 <!-- BLOG-POST-LIST:END -->
