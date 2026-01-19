@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-19` | [🔗 Typst for your code blocks](https://www.yellowduck.be/posts/typst-for-your-code-blocks)  
 - `2026-01-19` | [🔗 Prevent decision paralysis with these battle-tested Elixir libraries](https://www.yellowduck.be/posts/prevent-decision-paralysis-with-these-battle-tested-elixir-libraries)  
 - `2026-01-18` | [🔗 Elixir CI: Testing, publishing, and containerization with GitHub Actions](https://www.yellowduck.be/posts/elixir-ci-testing-publishing-and-containerization-with-github-actions)  
 - `2026-01-18` | [🔗 Statistics made simple](https://www.yellowduck.be/posts/statistics-made-simple)  
@@ -22,6 +23,5 @@
 - `2026-01-17` | [🔗 How SQLite is tested](https://www.yellowduck.be/posts/how-sqlite-is-tested)  
 - `2026-01-16` | [🔗 The BEAM and the crab: Building tunnels](https://www.yellowduck.be/posts/the-beam-and-the-crab-building-tunnels)  
 - `2026-01-16` | [🔗 My 67 bugs in 2025](https://www.yellowduck.be/posts/my-67-bugs-in-2025)  
-- `2026-01-16` | [🔗 My LLM coding workflow going into 2026](https://www.yellowduck.be/posts/my-llm-coding-workflow-going-into-2026)  
 
 <!-- BLOG-POST-LIST:END -->
