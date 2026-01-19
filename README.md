@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-19` | [🔗 Prevent decision paralysis with these battle-tested Elixir libraries](https://www.yellowduck.be/posts/prevent-decision-paralysis-with-these-battle-tested-elixir-libraries)  
 - `2026-01-18` | [🔗 Elixir CI: Testing, publishing, and containerization with GitHub Actions](https://www.yellowduck.be/posts/elixir-ci-testing-publishing-and-containerization-with-github-actions)  
 - `2026-01-18` | [🔗 Statistics made simple](https://www.yellowduck.be/posts/statistics-made-simple)  
 - `2026-01-18` | [🔗 Optimizing Claude code: skills, plugins, and the art of teaching your AI to code like you](https://www.yellowduck.be/posts/optimizing-claude-code-skills-plugins-and-the-art-of-teaching-your-ai-to-code-like-you)  
@@ -22,6 +23,5 @@
 - `2026-01-16` | [🔗 The BEAM and the crab: Building tunnels](https://www.yellowduck.be/posts/the-beam-and-the-crab-building-tunnels)  
 - `2026-01-16` | [🔗 My 67 bugs in 2025](https://www.yellowduck.be/posts/my-67-bugs-in-2025)  
 - `2026-01-16` | [🔗 My LLM coding workflow going into 2026](https://www.yellowduck.be/posts/my-llm-coding-workflow-going-into-2026)  
-- `2026-01-15` | [🐥 Creating relative URLs from absolute URLs in Elixir](https://www.yellowduck.be/posts/creating-relative-urls-from-absolute-urls-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
