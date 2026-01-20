@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-20` | [🐥 Extracting unique IDs from JSON arrays in MySQL](https://www.yellowduck.be/posts/extracting-unique-ids-from-json-arrays-in-mysql)  
 - `2026-01-20` | [🔗 21 lessons from 14 years at Google](https://www.yellowduck.be/posts/21-lessons-from-14-years-at-google)  
 - `2026-01-20` | [🔗 Building effective agents](https://www.yellowduck.be/posts/building-effective-agents)  
 - `2026-01-19` | [🔗 Asynchronous tasks and streaming UIs in Phoenix LiveView](https://www.yellowduck.be/posts/asynchronous-tasks-and-streaming-uis-in-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2026-01-18` | [🔗 Statistics made simple](https://www.yellowduck.be/posts/statistics-made-simple)  
 - `2026-01-18` | [🔗 Optimizing Claude code: skills, plugins, and the art of teaching your AI to code like you](https://www.yellowduck.be/posts/optimizing-claude-code-skills-plugins-and-the-art-of-teaching-your-ai-to-code-like-you)  
 - `2026-01-17` | [🔗 LiveVue 1.0: nineteen months of making Phoenix and Vue best friends](https://www.yellowduck.be/posts/livevue-1-0-nineteen-months-of-making-phoenix-and-vue-best-friends)  
-- `2026-01-17` | [🔗 AWS CEO explains 3 reasons AI can’t replace junior devs](https://www.yellowduck.be/posts/aws-ceo-explains-3-reasons-ai-cant-replace-junior-devs)  
 
 <!-- BLOG-POST-LIST:END -->
