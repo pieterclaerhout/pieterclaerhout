@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-20` | [🔗 Building effective agents](https://www.yellowduck.be/posts/building-effective-agents)  
 - `2026-01-19` | [🔗 Asynchronous tasks and streaming UIs in Phoenix LiveView](https://www.yellowduck.be/posts/asynchronous-tasks-and-streaming-uis-in-phoenix-liveview)  
 - `2026-01-19` | [🔗 Typst for your code blocks](https://www.yellowduck.be/posts/typst-for-your-code-blocks)  
 - `2026-01-19` | [🔗 Prevent decision paralysis with these battle-tested Elixir libraries](https://www.yellowduck.be/posts/prevent-decision-paralysis-with-these-battle-tested-elixir-libraries)  
@@ -22,6 +23,5 @@
 - `2026-01-17` | [🔗 LiveVue 1.0: nineteen months of making Phoenix and Vue best friends](https://www.yellowduck.be/posts/livevue-1-0-nineteen-months-of-making-phoenix-and-vue-best-friends)  
 - `2026-01-17` | [🔗 AWS CEO explains 3 reasons AI can’t replace junior devs](https://www.yellowduck.be/posts/aws-ceo-explains-3-reasons-ai-cant-replace-junior-devs)  
 - `2026-01-17` | [🔗 How SQLite is tested](https://www.yellowduck.be/posts/how-sqlite-is-tested)  
-- `2026-01-16` | [🔗 The BEAM and the crab: Building tunnels](https://www.yellowduck.be/posts/the-beam-and-the-crab-building-tunnels)  
 
 <!-- BLOG-POST-LIST:END -->
