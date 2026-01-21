@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-21` | [🔗 Why are dark deployments a good idea even if no features are being shipped?](https://www.yellowduck.be/posts/why-are-dark-deployments-a-good-idea-even-if-no-features-are-being-shipped)  
 - `2026-01-20` | [🐥 Extracting unique IDs from JSON arrays in MySQL](https://www.yellowduck.be/posts/extracting-unique-ids-from-json-arrays-in-mysql)  
 - `2026-01-20` | [🔗 21 lessons from 14 years at Google](https://www.yellowduck.be/posts/21-lessons-from-14-years-at-google)  
 - `2026-01-20` | [🔗 Building effective agents](https://www.yellowduck.be/posts/building-effective-agents)  
@@ -22,6 +23,5 @@
 - `2026-01-18` | [🔗 Elixir CI: Testing, publishing, and containerization with GitHub Actions](https://www.yellowduck.be/posts/elixir-ci-testing-publishing-and-containerization-with-github-actions)  
 - `2026-01-18` | [🔗 Statistics made simple](https://www.yellowduck.be/posts/statistics-made-simple)  
 - `2026-01-18` | [🔗 Optimizing Claude code: skills, plugins, and the art of teaching your AI to code like you](https://www.yellowduck.be/posts/optimizing-claude-code-skills-plugins-and-the-art-of-teaching-your-ai-to-code-like-you)  
-- `2026-01-17` | [🔗 LiveVue 1.0: nineteen months of making Phoenix and Vue best friends](https://www.yellowduck.be/posts/livevue-1-0-nineteen-months-of-making-phoenix-and-vue-best-friends)  
 
 <!-- BLOG-POST-LIST:END -->
