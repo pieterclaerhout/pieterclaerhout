@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-23` | [🔗 It&#39;s a match!](https://www.yellowduck.be/posts/its-a-match)  
 - `2026-01-23` | [🔗 From dev to production for a small Phoenix project](https://www.yellowduck.be/posts/from-dev-to-production-for-a-small-phoenix-project)  
 - `2026-01-22` | [🔗 How I think about Kubernetes](https://www.yellowduck.be/posts/how-i-think-about-kubernetes)  
 - `2026-01-22` | [🔗 Rebuilding our infrastructure from scratch and migrating live &lpar;AWS ECS migration&rpar;](https://www.yellowduck.be/posts/rebuilding-our-infrastructure-from-scratch-and-migrating-live-aws-ecs-migration)  
@@ -22,6 +23,5 @@
 - `2026-01-21` | [🔗 Why are dark deployments a good idea even if no features are being shipped?](https://www.yellowduck.be/posts/why-are-dark-deployments-a-good-idea-even-if-no-features-are-being-shipped)  
 - `2026-01-20` | [🐥 Extracting unique IDs from JSON arrays in MySQL](https://www.yellowduck.be/posts/extracting-unique-ids-from-json-arrays-in-mysql)  
 - `2026-01-20` | [🔗 21 lessons from 14 years at Google](https://www.yellowduck.be/posts/21-lessons-from-14-years-at-google)  
-- `2026-01-20` | [🔗 Building effective agents](https://www.yellowduck.be/posts/building-effective-agents)  
 
 <!-- BLOG-POST-LIST:END -->
