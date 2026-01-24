@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-24` | [🔗 Treat test code like production code](https://www.yellowduck.be/posts/treat-test-code-like-production-code)  
 - `2026-01-23` | [🔗 Building a RAG server with PostgreSQL - part 1: loading your content](https://www.yellowduck.be/posts/building-a-rag-server-with-postgresql-part-1-loading-your-content)  
 - `2026-01-23` | [🔗 It&#39;s a match!](https://www.yellowduck.be/posts/its-a-match)  
 - `2026-01-23` | [🔗 From dev to production for a small Phoenix project](https://www.yellowduck.be/posts/from-dev-to-production-for-a-small-phoenix-project)  
@@ -22,6 +23,5 @@
 - `2026-01-21` | [🔗 Zero-downtime deployments with Docker Compose and Nginx](https://www.yellowduck.be/posts/zero-downtime-deployments-with-docker-compose-and-nginx)  
 - `2026-01-21` | [🔗 What is better: a lookup table or an enum type?](https://www.yellowduck.be/posts/what-is-better-a-lookup-table-or-an-enum-type)  
 - `2026-01-21` | [🔗 Why are dark deployments a good idea even if no features are being shipped?](https://www.yellowduck.be/posts/why-are-dark-deployments-a-good-idea-even-if-no-features-are-being-shipped)  
-- `2026-01-20` | [🐥 Extracting unique IDs from JSON arrays in MySQL](https://www.yellowduck.be/posts/extracting-unique-ids-from-json-arrays-in-mysql)  
 
 <!-- BLOG-POST-LIST:END -->
