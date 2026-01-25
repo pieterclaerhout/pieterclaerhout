@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-25` | [🔗 Better than JSON](https://www.yellowduck.be/posts/better-than-json)  
 - `2026-01-25` | [🔗 How I reverse engineered a billion-dollar legal AI tool and found 100k+ confidential files](https://www.yellowduck.be/posts/how-i-reverse-engineered-a-billion-dollar-legal-ai-tool-and-found-100k-confidential-files)  
 - `2026-01-24` | [🔗 Rebuilding my blog](https://www.yellowduck.be/posts/rebuilding-my-blog)  
 - `2026-01-24` | [🔗 How to run PostgreSQL in Docker](https://www.yellowduck.be/posts/how-to-run-postgresql-in-docker)  
@@ -22,6 +23,5 @@
 - `2026-01-23` | [🔗 From dev to production for a small Phoenix project](https://www.yellowduck.be/posts/from-dev-to-production-for-a-small-phoenix-project)  
 - `2026-01-22` | [🔗 How I think about Kubernetes](https://www.yellowduck.be/posts/how-i-think-about-kubernetes)  
 - `2026-01-22` | [🔗 Rebuilding our infrastructure from scratch and migrating live &lpar;AWS ECS migration&rpar;](https://www.yellowduck.be/posts/rebuilding-our-infrastructure-from-scratch-and-migrating-live-aws-ecs-migration)  
-- `2026-01-22` | [🔗 Ordering database queries by relationship columns in Laravel](https://www.yellowduck.be/posts/ordering-database-queries-by-relationship-columns-in-laravel)  
 
 <!-- BLOG-POST-LIST:END -->
