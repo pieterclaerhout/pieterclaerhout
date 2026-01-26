@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-26` | [🔗 Ingress NGINX to HAProxy Kubernetes ingress migration](https://www.yellowduck.be/posts/ingress-nginx-to-haproxy-kubernetes-ingress-migration)  
 - `2026-01-25` | [🔗 🎄 Advent of EIP Day 8: Building a production webhook delivery platform](https://www.yellowduck.be/posts/advent-of-eip-day-8-building-a-production-webhook-delivery-platform)  
 - `2026-01-25` | [🔗 Better than JSON](https://www.yellowduck.be/posts/better-than-json)  
 - `2026-01-25` | [🔗 How I reverse engineered a billion-dollar legal AI tool and found 100k+ confidential files](https://www.yellowduck.be/posts/how-i-reverse-engineered-a-billion-dollar-legal-ai-tool-and-found-100k-confidential-files)  
@@ -22,6 +23,5 @@
 - `2026-01-23` | [🔗 Building a RAG server with PostgreSQL - part 1: loading your content](https://www.yellowduck.be/posts/building-a-rag-server-with-postgresql-part-1-loading-your-content)  
 - `2026-01-23` | [🔗 It&#39;s a match!](https://www.yellowduck.be/posts/its-a-match)  
 - `2026-01-23` | [🔗 From dev to production for a small Phoenix project](https://www.yellowduck.be/posts/from-dev-to-production-for-a-small-phoenix-project)  
-- `2026-01-22` | [🔗 How I think about Kubernetes](https://www.yellowduck.be/posts/how-i-think-about-kubernetes)  
 
 <!-- BLOG-POST-LIST:END -->
