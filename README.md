@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-26` | [🔗 Struct updates now require pattern matching in Elixir 1.19](https://www.yellowduck.be/posts/struct-updates-now-require-pattern-matching-in-elixir-1-19)  
 - `2026-01-26` | [🔗 AI won&#39;t eat your job, but it will eat your salary](https://www.yellowduck.be/posts/ai-wont-eat-your-job-but-it-will-eat-your-salary)  
 - `2026-01-26` | [🔗 Ingress NGINX to HAProxy Kubernetes ingress migration](https://www.yellowduck.be/posts/ingress-nginx-to-haproxy-kubernetes-ingress-migration)  
 - `2026-01-25` | [🔗 🎄 Advent of EIP Day 8: Building a production webhook delivery platform](https://www.yellowduck.be/posts/advent-of-eip-day-8-building-a-production-webhook-delivery-platform)  
@@ -22,6 +23,5 @@
 - `2026-01-24` | [🔗 How to run PostgreSQL in Docker](https://www.yellowduck.be/posts/how-to-run-postgresql-in-docker)  
 - `2026-01-24` | [🔗 Treat test code like production code](https://www.yellowduck.be/posts/treat-test-code-like-production-code)  
 - `2026-01-23` | [🔗 Building a RAG server with PostgreSQL - part 1: loading your content](https://www.yellowduck.be/posts/building-a-rag-server-with-postgresql-part-1-loading-your-content)  
-- `2026-01-23` | [🔗 It&#39;s a match!](https://www.yellowduck.be/posts/its-a-match)  
 
 <!-- BLOG-POST-LIST:END -->
