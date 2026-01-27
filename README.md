@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-27` | [🔗 Why regex serialization changed in Elixir 1.19/OTP 28](https://www.yellowduck.be/posts/why-regex-serialization-changed-in-elixir-1-19-otp-28)  
 - `2026-01-27` | [🔗 Leveraging promises and HTTP pooling](https://www.yellowduck.be/posts/leveraging-promises-and-http-pooling)  
 - `2026-01-27` | [🔗 How to handle background jobs and events easily with Inngest](https://www.yellowduck.be/posts/how-to-handle-background-jobs-and-events-easily-with-inngest)  
 - `2026-01-26` | [🔗 Struct updates now require pattern matching in Elixir 1.19](https://www.yellowduck.be/posts/struct-updates-now-require-pattern-matching-in-elixir-1-19)  
@@ -22,6 +23,5 @@
 - `2026-01-25` | [🔗 Better than JSON](https://www.yellowduck.be/posts/better-than-json)  
 - `2026-01-25` | [🔗 How I reverse engineered a billion-dollar legal AI tool and found 100k+ confidential files](https://www.yellowduck.be/posts/how-i-reverse-engineered-a-billion-dollar-legal-ai-tool-and-found-100k-confidential-files)  
 - `2026-01-24` | [🔗 Rebuilding my blog](https://www.yellowduck.be/posts/rebuilding-my-blog)  
-- `2026-01-24` | [🔗 How to run PostgreSQL in Docker](https://www.yellowduck.be/posts/how-to-run-postgresql-in-docker)  
 
 <!-- BLOG-POST-LIST:END -->
