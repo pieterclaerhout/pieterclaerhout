@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-28` | [🔗 Typster v0.6.0](https://www.yellowduck.be/posts/typster-v0-6-0)  
 - `2026-01-28` | [🔗 Nerdlog: Fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server](https://www.yellowduck.be/posts/nerdlog-fast-remote-first-multi-host-tui-log-viewer-with-timeline-histogram-and-no-central-server)  
 - `2026-01-27` | [🔗 Why regex serialization changed in Elixir 1.19/OTP 28](https://www.yellowduck.be/posts/why-regex-serialization-changed-in-elixir-1-19-otp-28)  
 - `2026-01-27` | [🔗 Leveraging promises and HTTP pooling](https://www.yellowduck.be/posts/leveraging-promises-and-http-pooling)  
@@ -22,6 +23,5 @@
 - `2026-01-26` | [🔗 Ingress NGINX to HAProxy Kubernetes ingress migration](https://www.yellowduck.be/posts/ingress-nginx-to-haproxy-kubernetes-ingress-migration)  
 - `2026-01-25` | [🔗 🎄 Advent of EIP Day 8: Building a production webhook delivery platform](https://www.yellowduck.be/posts/advent-of-eip-day-8-building-a-production-webhook-delivery-platform)  
 - `2026-01-25` | [🔗 Better than JSON](https://www.yellowduck.be/posts/better-than-json)  
-- `2026-01-25` | [🔗 How I reverse engineered a billion-dollar legal AI tool and found 100k+ confidential files](https://www.yellowduck.be/posts/how-i-reverse-engineered-a-billion-dollar-legal-ai-tool-and-found-100k-confidential-files)  
 
 <!-- BLOG-POST-LIST:END -->
