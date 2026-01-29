@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-29` | [🔗 Building a custom page for Phoenix Live Dashboard](https://www.yellowduck.be/posts/building-a-custom-page-for-phoenix-live-dashboard)  
 - `2026-01-28` | [🔗 The code review that cost $2 million](https://www.yellowduck.be/posts/the-code-review-that-cost-2-million)  
 - `2026-01-28` | [🔗 Typster v0.6.0](https://www.yellowduck.be/posts/typster-v0-6-0)  
 - `2026-01-28` | [🔗 Nerdlog: Fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server](https://www.yellowduck.be/posts/nerdlog-fast-remote-first-multi-host-tui-log-viewer-with-timeline-histogram-and-no-central-server)  
@@ -22,6 +23,5 @@
 - `2026-01-26` | [🔗 Struct updates now require pattern matching in Elixir 1.19](https://www.yellowduck.be/posts/struct-updates-now-require-pattern-matching-in-elixir-1-19)  
 - `2026-01-26` | [🔗 AI won&#39;t eat your job, but it will eat your salary](https://www.yellowduck.be/posts/ai-wont-eat-your-job-but-it-will-eat-your-salary)  
 - `2026-01-26` | [🔗 Ingress NGINX to HAProxy Kubernetes ingress migration](https://www.yellowduck.be/posts/ingress-nginx-to-haproxy-kubernetes-ingress-migration)  
-- `2026-01-25` | [🔗 🎄 Advent of EIP Day 8: Building a production webhook delivery platform](https://www.yellowduck.be/posts/advent-of-eip-day-8-building-a-production-webhook-delivery-platform)  
 
 <!-- BLOG-POST-LIST:END -->
