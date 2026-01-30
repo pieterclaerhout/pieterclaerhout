@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-01-30` | [🔗 Moving tables across PostgreSQL instances](https://www.yellowduck.be/posts/moving-tables-across-postgresql-instances)  
 - `2026-01-29` | [🔗 Why .NET is the backbone of scalable business software in West Michigan Luniv Technology](https://www.yellowduck.be/posts/why-net-is-the-backbone-of-scalable-business-software-in-west-michigan-luniv-technology)  
 - `2026-01-29` | [🔗 Securing webhook payload delivery in Phoenix](https://www.yellowduck.be/posts/securing-webhook-payload-delivery-in-phoenix)  
 - `2026-01-29` | [🔗 Building a custom page for Phoenix Live Dashboard](https://www.yellowduck.be/posts/building-a-custom-page-for-phoenix-live-dashboard)  
@@ -22,6 +23,5 @@
 - `2026-01-27` | [🔗 Why regex serialization changed in Elixir 1.19/OTP 28](https://www.yellowduck.be/posts/why-regex-serialization-changed-in-elixir-1-19-otp-28)  
 - `2026-01-27` | [🔗 Leveraging promises and HTTP pooling](https://www.yellowduck.be/posts/leveraging-promises-and-http-pooling)  
 - `2026-01-27` | [🔗 How to handle background jobs and events easily with Inngest](https://www.yellowduck.be/posts/how-to-handle-background-jobs-and-events-easily-with-inngest)  
-- `2026-01-26` | [🔗 Struct updates now require pattern matching in Elixir 1.19](https://www.yellowduck.be/posts/struct-updates-now-require-pattern-matching-in-elixir-1-19)  
 
 <!-- BLOG-POST-LIST:END -->
