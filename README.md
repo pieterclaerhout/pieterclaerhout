@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-01` | [🔗 Working with the Container registry - GitHub Docs](https://www.yellowduck.be/posts/working-with-the-container-registry-github-docs)  
 - `2026-02-01` | [🔗 Writing a good claude.md](https://www.yellowduck.be/posts/writing-a-good-claude-md)  
 - `2026-01-31` | [🔗 First steps with Gleam: Building a simple web app](https://www.yellowduck.be/posts/first-steps-with-gleam-building-a-simple-web-app-rest-api-with-postgresql-database)  
 - `2026-01-31` | [🔗 Cabify tech handbook](https://www.yellowduck.be/posts/cabify-tech-handbook)  
@@ -22,6 +23,5 @@
 - `2026-01-30` | [🔗 Moving tables across PostgreSQL instances](https://www.yellowduck.be/posts/moving-tables-across-postgresql-instances)  
 - `2026-01-29` | [🔗 Why .NET is the backbone of scalable business software in West Michigan Luniv Technology](https://www.yellowduck.be/posts/why-net-is-the-backbone-of-scalable-business-software-in-west-michigan-luniv-technology)  
 - `2026-01-29` | [🔗 Securing webhook payload delivery in Phoenix](https://www.yellowduck.be/posts/securing-webhook-payload-delivery-in-phoenix)  
-- `2026-01-29` | [🔗 Building a custom page for Phoenix Live Dashboard](https://www.yellowduck.be/posts/building-a-custom-page-for-phoenix-live-dashboard)  
 
 <!-- BLOG-POST-LIST:END -->
