@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-03` | [🔗 F*** you! Co-creator of Go language is rightly furious over this appreciation email](https://www.yellowduck.be/posts/f-you-co-creator-of-go-language-is-rightly-furious-over-this-appreciation-email)  
 - `2026-02-02` | [🔗 Oban comes to Python](https://www.yellowduck.be/posts/oban-comes-to-python)  
 - `2026-02-02` | [🔗 Replacing JS with just HTML](https://www.yellowduck.be/posts/replacing-js-with-just-html)  
 - `2026-02-02` | [🔗 Streaming uploads with LiveView](https://www.yellowduck.be/posts/streaming-uploads-with-liveview)  
@@ -22,6 +23,5 @@
 - `2026-01-31` | [🔗 First steps with Gleam: Building a simple web app](https://www.yellowduck.be/posts/first-steps-with-gleam-building-a-simple-web-app-rest-api-with-postgresql-database)  
 - `2026-01-31` | [🔗 Cabify tech handbook](https://www.yellowduck.be/posts/cabify-tech-handbook)  
 - `2026-01-31` | [🔗 Show the time in user&#39;s timezone in Phoenix LiveView](https://www.yellowduck.be/posts/show-the-time-in-users-timezone-in-phoenix-liveview)  
-- `2026-01-30` | [🔗 Times New American: A tale of two fonts](https://www.yellowduck.be/posts/times-new-american-a-tale-of-two-fonts)  
 
 <!-- BLOG-POST-LIST:END -->
