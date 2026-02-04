@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-04` | [🔗 Mago: a blazing fast linter, formatter, and static analyzer for PHP](https://www.yellowduck.be/posts/mago-a-blazing-fast-linter-formatter-and-static-analyzer-for-php)  
 - `2026-02-04` | [🔗 Build and publish OCI container images from the BEAM](https://www.yellowduck.be/posts/build-and-publish-oci-container-images-from-the-beam)  
 - `2026-02-03` | [🔗 AI coding tip 001 - Commit before prompt](https://www.yellowduck.be/posts/ai-coding-tip-001-commit-before-prompt)  
 - `2026-02-03` | [🔗 You can make up HTML tags](https://www.yellowduck.be/posts/you-can-make-up-html-tags)  
@@ -22,6 +23,5 @@
 - `2026-02-02` | [🔗 Streaming uploads with LiveView](https://www.yellowduck.be/posts/streaming-uploads-with-liveview)  
 - `2026-02-01` | [🐥 Using pdftoppm from Elixir to convert PDF files to images](https://www.yellowduck.be/posts/using-pdftoppm-from-elixir-to-convert-pdf-files-to-images)  
 - `2026-02-01` | [🔗 Working with the Container registry - GitHub Docs](https://www.yellowduck.be/posts/working-with-the-container-registry-github-docs)  
-- `2026-02-01` | [🔗 Writing a good claude.md](https://www.yellowduck.be/posts/writing-a-good-claude-md)  
 
 <!-- BLOG-POST-LIST:END -->
