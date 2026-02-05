@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-05` | [🔗 How to sort a list of structs or maps by two dates in Elixir](https://www.yellowduck.be/posts/how-to-sort-a-list-of-structs-or-maps-by-two-dates-in-elixir)  
 - `2026-02-05` | [🔗 Enhancing your Docker workflow with local PostgreSQL integration](https://www.yellowduck.be/posts/enhancing-your-docker-workflow-with-local-postgresql-integration)  
 - `2026-02-04` | [🔗 Achieving zero downtime deployments with Docker](https://www.yellowduck.be/posts/achieving-zero-downtime-deployments-with-docker)  
 - `2026-02-04` | [🔗 Mago: a blazing fast linter, formatter, and static analyzer for PHP](https://www.yellowduck.be/posts/mago-a-blazing-fast-linter-formatter-and-static-analyzer-for-php)  
@@ -22,6 +23,5 @@
 - `2026-02-03` | [🔗 F*** you! Co-creator of Go language is rightly furious over this appreciation email](https://www.yellowduck.be/posts/f-you-co-creator-of-go-language-is-rightly-furious-over-this-appreciation-email)  
 - `2026-02-02` | [🔗 Oban comes to Python](https://www.yellowduck.be/posts/oban-comes-to-python)  
 - `2026-02-02` | [🔗 Replacing JS with just HTML](https://www.yellowduck.be/posts/replacing-js-with-just-html)  
-- `2026-02-02` | [🔗 Streaming uploads with LiveView](https://www.yellowduck.be/posts/streaming-uploads-with-liveview)  
 
 <!-- BLOG-POST-LIST:END -->
