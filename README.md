@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-06` | [🔗 Google Sans: evolving Google’s typeface](https://www.yellowduck.be/posts/google-sans-evolving-googles-typeface)  
 - `2026-02-06` | [🔗 Interactive fluid typography](https://www.yellowduck.be/posts/interactive-fluid-typography)  
 - `2026-02-05` | [🔗 7 Slack hacks for engineers and managers](https://www.yellowduck.be/posts/7-slack-hacks-for-engineers-and-managers)  
 - `2026-02-05` | [🔗 How to sort a list of structs or maps by two dates in Elixir](https://www.yellowduck.be/posts/how-to-sort-a-list-of-structs-or-maps-by-two-dates-in-elixir)  
@@ -22,6 +23,5 @@
 - `2026-02-04` | [🔗 Build and publish OCI container images from the BEAM](https://www.yellowduck.be/posts/build-and-publish-oci-container-images-from-the-beam)  
 - `2026-02-03` | [🔗 AI coding tip 001 - Commit before prompt](https://www.yellowduck.be/posts/ai-coding-tip-001-commit-before-prompt)  
 - `2026-02-03` | [🔗 You can make up HTML tags](https://www.yellowduck.be/posts/you-can-make-up-html-tags)  
-- `2026-02-03` | [🔗 F*** you! Co-creator of Go language is rightly furious over this appreciation email](https://www.yellowduck.be/posts/f-you-co-creator-of-go-language-is-rightly-furious-over-this-appreciation-email)  
 
 <!-- BLOG-POST-LIST:END -->
