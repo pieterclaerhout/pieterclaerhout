@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-06` | [🔗 Vanilla CSS is all you need](https://www.yellowduck.be/posts/vanilla-css-is-all-you-need)  
 - `2026-02-06` | [🔗 Google Sans: evolving Google’s typeface](https://www.yellowduck.be/posts/google-sans-evolving-googles-typeface)  
 - `2026-02-06` | [🔗 Interactive fluid typography](https://www.yellowduck.be/posts/interactive-fluid-typography)  
 - `2026-02-05` | [🔗 7 Slack hacks for engineers and managers](https://www.yellowduck.be/posts/7-slack-hacks-for-engineers-and-managers)  
@@ -22,6 +23,5 @@
 - `2026-02-04` | [🔗 Mago: a blazing fast linter, formatter, and static analyzer for PHP](https://www.yellowduck.be/posts/mago-a-blazing-fast-linter-formatter-and-static-analyzer-for-php)  
 - `2026-02-04` | [🔗 Build and publish OCI container images from the BEAM](https://www.yellowduck.be/posts/build-and-publish-oci-container-images-from-the-beam)  
 - `2026-02-03` | [🔗 AI coding tip 001 - Commit before prompt](https://www.yellowduck.be/posts/ai-coding-tip-001-commit-before-prompt)  
-- `2026-02-03` | [🔗 You can make up HTML tags](https://www.yellowduck.be/posts/you-can-make-up-html-tags)  
 
 <!-- BLOG-POST-LIST:END -->
