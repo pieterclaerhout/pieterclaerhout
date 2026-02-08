@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-08` | [🔗 Processing 11 million rows in minutes instead of hours](https://www.yellowduck.be/posts/processing-11-million-rows-in-minutes-instead-of-hours)  
 - `2026-02-07` | [🔗 A guide to Claude Code 2.0 and getting better at using coding agents](https://www.yellowduck.be/posts/a-guide-to-claude-code-2-0-and-getting-better-at-using-coding-agents)  
 - `2026-02-07` | [🔗 My top 10 Claude code tips from 11 months of intense usage](https://www.yellowduck.be/posts/my-top-10-claude-code-tips-from-11-months-of-intense-usage)  
 - `2026-02-07` | [🔗 The Greenfield](https://www.yellowduck.be/posts/the-greenfield)  
@@ -22,6 +23,5 @@
 - `2026-02-05` | [🔗 7 Slack hacks for engineers and managers](https://www.yellowduck.be/posts/7-slack-hacks-for-engineers-and-managers)  
 - `2026-02-05` | [🔗 How to sort a list of structs or maps by two dates in Elixir](https://www.yellowduck.be/posts/how-to-sort-a-list-of-structs-or-maps-by-two-dates-in-elixir)  
 - `2026-02-05` | [🔗 Enhancing your Docker workflow with local PostgreSQL integration](https://www.yellowduck.be/posts/enhancing-your-docker-workflow-with-local-postgresql-integration)  
-- `2026-02-04` | [🔗 Achieving zero downtime deployments with Docker](https://www.yellowduck.be/posts/achieving-zero-downtime-deployments-with-docker)  
 
 <!-- BLOG-POST-LIST:END -->
