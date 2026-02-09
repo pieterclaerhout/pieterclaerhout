@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-09` | [🔗 Cross-app communication with RPC in Elixir](https://www.yellowduck.be/posts/cross-app-communication-with-rpc-in-elixir)  
 - `2026-02-08` | [🐥 Checking whether an IP address is internal](https://www.yellowduck.be/posts/checking-whether-an-ip-address-is-internal)  
 - `2026-02-08` | [🔗 Once again processing 11 million rows, now in seconds](https://www.yellowduck.be/posts/once-again-processing-11-million-rows-now-in-seconds)  
 - `2026-02-08` | [🔗 Processing 11 million rows in minutes instead of hours](https://www.yellowduck.be/posts/processing-11-million-rows-in-minutes-instead-of-hours)  
@@ -22,6 +23,5 @@
 - `2026-02-06` | [🔗 Vanilla CSS is all you need](https://www.yellowduck.be/posts/vanilla-css-is-all-you-need)  
 - `2026-02-06` | [🔗 Google Sans: evolving Google’s typeface](https://www.yellowduck.be/posts/google-sans-evolving-googles-typeface)  
 - `2026-02-06` | [🔗 Interactive fluid typography](https://www.yellowduck.be/posts/interactive-fluid-typography)  
-- `2026-02-05` | [🔗 7 Slack hacks for engineers and managers](https://www.yellowduck.be/posts/7-slack-hacks-for-engineers-and-managers)  
 
 <!-- BLOG-POST-LIST:END -->
