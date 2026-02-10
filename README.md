@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-10` | [🔗 Software engineers should be a little bit cynical](https://www.yellowduck.be/posts/software-engineers-should-be-a-little-bit-cynical)  
 - `2026-02-09` | [🔗 Moving my website from Next.js to Phoenix](https://www.yellowduck.be/posts/moving-my-website-from-next-js-to-phoenix)  
 - `2026-02-09` | [🔗 How to optimize slow aggregate queries on +1M row tables in Ash Framework](https://www.yellowduck.be/posts/how-to-optimize-slow-aggregate-queries-on-1m-row-tables-in-ash-framework)  
 - `2026-02-09` | [🔗 Cross-app communication with RPC in Elixir](https://www.yellowduck.be/posts/cross-app-communication-with-rpc-in-elixir)  
@@ -22,6 +23,5 @@
 - `2026-02-07` | [🔗 A guide to Claude Code 2.0 and getting better at using coding agents](https://www.yellowduck.be/posts/a-guide-to-claude-code-2-0-and-getting-better-at-using-coding-agents)  
 - `2026-02-07` | [🔗 My top 10 Claude code tips from 11 months of intense usage](https://www.yellowduck.be/posts/my-top-10-claude-code-tips-from-11-months-of-intense-usage)  
 - `2026-02-07` | [🔗 The Greenfield](https://www.yellowduck.be/posts/the-greenfield)  
-- `2026-02-06` | [🔗 Vanilla CSS is all you need](https://www.yellowduck.be/posts/vanilla-css-is-all-you-need)  
 
 <!-- BLOG-POST-LIST:END -->
