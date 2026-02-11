@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-11` | [🔗 The hidden cost of PostgreSQL arrays](https://www.yellowduck.be/posts/the-hidden-cost-of-postgresql-arrays)  
 - `2026-02-11` | [🔗 Using Phoenix with React and Inertia](https://www.yellowduck.be/posts/using-phoenix-with-react-and-inertia)  
 - `2026-02-10` | [🔗 Improve your LiveView testing with test-specific attributes](https://www.yellowduck.be/posts/improve-your-liveview-testing-with-test-specific-attributes)  
 - `2026-02-10` | [🔗 TBM 399: 10 prioritization traps](https://www.yellowduck.be/posts/tbm-399-10-prioritization-traps)  
@@ -22,6 +23,5 @@
 - `2026-02-09` | [🔗 Cross-app communication with RPC in Elixir](https://www.yellowduck.be/posts/cross-app-communication-with-rpc-in-elixir)  
 - `2026-02-08` | [🐥 Checking whether an IP address is internal](https://www.yellowduck.be/posts/checking-whether-an-ip-address-is-internal)  
 - `2026-02-08` | [🔗 Once again processing 11 million rows, now in seconds](https://www.yellowduck.be/posts/once-again-processing-11-million-rows-now-in-seconds)  
-- `2026-02-08` | [🔗 Processing 11 million rows in minutes instead of hours](https://www.yellowduck.be/posts/processing-11-million-rows-in-minutes-instead-of-hours)  
 
 <!-- BLOG-POST-LIST:END -->
