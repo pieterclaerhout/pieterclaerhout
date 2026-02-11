@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-11` | [🔗 Using Phoenix with React and Inertia](https://www.yellowduck.be/posts/using-phoenix-with-react-and-inertia)  
 - `2026-02-10` | [🔗 Improve your LiveView testing with test-specific attributes](https://www.yellowduck.be/posts/improve-your-liveview-testing-with-test-specific-attributes)  
 - `2026-02-10` | [🔗 TBM 399: 10 prioritization traps](https://www.yellowduck.be/posts/tbm-399-10-prioritization-traps)  
 - `2026-02-10` | [🔗 Software engineers should be a little bit cynical](https://www.yellowduck.be/posts/software-engineers-should-be-a-little-bit-cynical)  
@@ -22,6 +23,5 @@
 - `2026-02-08` | [🐥 Checking whether an IP address is internal](https://www.yellowduck.be/posts/checking-whether-an-ip-address-is-internal)  
 - `2026-02-08` | [🔗 Once again processing 11 million rows, now in seconds](https://www.yellowduck.be/posts/once-again-processing-11-million-rows-now-in-seconds)  
 - `2026-02-08` | [🔗 Processing 11 million rows in minutes instead of hours](https://www.yellowduck.be/posts/processing-11-million-rows-in-minutes-instead-of-hours)  
-- `2026-02-07` | [🔗 A guide to Claude Code 2.0 and getting better at using coding agents](https://www.yellowduck.be/posts/a-guide-to-claude-code-2-0-and-getting-better-at-using-coding-agents)  
 
 <!-- BLOG-POST-LIST:END -->
