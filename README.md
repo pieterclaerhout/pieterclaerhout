@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-12` | [🔗 Logging sucks – your logs are lying to you](https://www.yellowduck.be/posts/logging-sucks-your-logs-are-lying-to-you)  
 - `2026-02-12` | [🔗 Explainer: Tree-sitter vs. LSP](https://www.yellowduck.be/posts/explainer-tree-sitter-vs-lsp)  
 - `2026-02-11` | [🔗 Making Elixir recompile when external files change](https://www.yellowduck.be/posts/making-elixir-recompile-when-external-files-change)  
 - `2026-02-11` | [🔗 The hidden cost of PostgreSQL arrays](https://www.yellowduck.be/posts/the-hidden-cost-of-postgresql-arrays)  
@@ -22,6 +23,5 @@
 - `2026-02-10` | [🔗 Software engineers should be a little bit cynical](https://www.yellowduck.be/posts/software-engineers-should-be-a-little-bit-cynical)  
 - `2026-02-09` | [🔗 Moving my website from Next.js to Phoenix](https://www.yellowduck.be/posts/moving-my-website-from-next-js-to-phoenix)  
 - `2026-02-09` | [🔗 How to optimize slow aggregate queries on +1M row tables in Ash Framework](https://www.yellowduck.be/posts/how-to-optimize-slow-aggregate-queries-on-1m-row-tables-in-ash-framework)  
-- `2026-02-09` | [🔗 Cross-app communication with RPC in Elixir](https://www.yellowduck.be/posts/cross-app-communication-with-rpc-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
