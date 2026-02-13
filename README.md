@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-13` | [🔗 Corex - Accessible and unstyled UI Phoenix components](https://www.yellowduck.be/posts/corex-accessible-and-unstyled-ui-phoenix-components)  
 - `2026-02-12` | [🔗 150,000 lines of Vibe coded Elixir: the good, the bad, and the ugly](https://www.yellowduck.be/posts/150-000-lines-of-vibe-coded-elixir-the-good-the-bad-and-the-ugly)  
 - `2026-02-12` | [🔗 Logging sucks – your logs are lying to you](https://www.yellowduck.be/posts/logging-sucks-your-logs-are-lying-to-you)  
 - `2026-02-12` | [🔗 Explainer: Tree-sitter vs. LSP](https://www.yellowduck.be/posts/explainer-tree-sitter-vs-lsp)  
@@ -22,6 +23,5 @@
 - `2026-02-10` | [🔗 Improve your LiveView testing with test-specific attributes](https://www.yellowduck.be/posts/improve-your-liveview-testing-with-test-specific-attributes)  
 - `2026-02-10` | [🔗 TBM 399: 10 prioritization traps](https://www.yellowduck.be/posts/tbm-399-10-prioritization-traps)  
 - `2026-02-10` | [🔗 Software engineers should be a little bit cynical](https://www.yellowduck.be/posts/software-engineers-should-be-a-little-bit-cynical)  
-- `2026-02-09` | [🔗 Moving my website from Next.js to Phoenix](https://www.yellowduck.be/posts/moving-my-website-from-next-js-to-phoenix)  
 
 <!-- BLOG-POST-LIST:END -->
