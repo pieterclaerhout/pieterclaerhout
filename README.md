@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-14` | [🔗 The evolution of Wandrer&#39;s &#39;Untraveled roads&#39; feature](https://www.yellowduck.be/posts/the-evolution-of-wandrers-untraveled-roads-feature)  
 - `2026-02-13` | [🔗 Fixing my biggest SPA pet peeve in Phoenix](https://www.yellowduck.be/posts/fixing-my-biggest-spa-pet-peeve-in-phoenix)  
 - `2026-02-13` | [🔗 Keeping feature creep at bay](https://www.yellowduck.be/posts/keeping-feature-creep-at-bay)  
 - `2026-02-13` | [🔗 Corex - Accessible and unstyled UI Phoenix components](https://www.yellowduck.be/posts/corex-accessible-and-unstyled-ui-phoenix-components)  
@@ -22,6 +23,5 @@
 - `2026-02-11` | [🔗 Making Elixir recompile when external files change](https://www.yellowduck.be/posts/making-elixir-recompile-when-external-files-change)  
 - `2026-02-11` | [🔗 The hidden cost of PostgreSQL arrays](https://www.yellowduck.be/posts/the-hidden-cost-of-postgresql-arrays)  
 - `2026-02-11` | [🔗 Using Phoenix with React and Inertia](https://www.yellowduck.be/posts/using-phoenix-with-react-and-inertia)  
-- `2026-02-10` | [🔗 Improve your LiveView testing with test-specific attributes](https://www.yellowduck.be/posts/improve-your-liveview-testing-with-test-specific-attributes)  
 
 <!-- BLOG-POST-LIST:END -->
