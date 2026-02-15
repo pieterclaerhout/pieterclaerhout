@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-15` | [🔗 SQL exists, in and join checks](https://www.yellowduck.be/posts/sql-exists-in-and-join-checks)  
 - `2026-02-14` | [🔗 Integrating Mapbox in your Phoenix LiveView application](https://www.yellowduck.be/posts/integrating-mapbox-in-your-phoenix-liveview-application)  
 - `2026-02-14` | [🔗 Better tests, zero drama: smarter LiveIsolatedComponent patterns](https://www.yellowduck.be/posts/better-tests-zero-drama-smarter-liveisolatedcomponent-patterns)  
 - `2026-02-14` | [🔗 The evolution of Wandrer&#39;s &#39;Untraveled roads&#39; feature](https://www.yellowduck.be/posts/the-evolution-of-wandrers-untraveled-roads-feature)  
@@ -22,6 +23,5 @@
 - `2026-02-12` | [🔗 150,000 lines of Vibe coded Elixir: the good, the bad, and the ugly](https://www.yellowduck.be/posts/150-000-lines-of-vibe-coded-elixir-the-good-the-bad-and-the-ugly)  
 - `2026-02-12` | [🔗 Logging sucks – your logs are lying to you](https://www.yellowduck.be/posts/logging-sucks-your-logs-are-lying-to-you)  
 - `2026-02-12` | [🔗 Explainer: Tree-sitter vs. LSP](https://www.yellowduck.be/posts/explainer-tree-sitter-vs-lsp)  
-- `2026-02-11` | [🔗 Making Elixir recompile when external files change](https://www.yellowduck.be/posts/making-elixir-recompile-when-external-files-change)  
 
 <!-- BLOG-POST-LIST:END -->
