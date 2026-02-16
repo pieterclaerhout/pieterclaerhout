@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-16` | [🔗 Exploring distributed Elixir](https://www.yellowduck.be/posts/exploring-distributed-elixir)  
 - `2026-02-15` | [🐥 Working with date ranges in Elixir: a practical guide](https://www.yellowduck.be/posts/working-with-date-ranges-in-elixir-a-practical-guide)  
 - `2026-02-15` | [🔗 Introduction to PostgreSQL indexes](https://www.yellowduck.be/posts/introduction-to-postgresql-indexes)  
 - `2026-02-15` | [🔗 SQL exists, in and join checks](https://www.yellowduck.be/posts/sql-exists-in-and-join-checks)  
@@ -22,6 +23,5 @@
 - `2026-02-13` | [🔗 Fixing my biggest SPA pet peeve in Phoenix](https://www.yellowduck.be/posts/fixing-my-biggest-spa-pet-peeve-in-phoenix)  
 - `2026-02-13` | [🔗 Keeping feature creep at bay](https://www.yellowduck.be/posts/keeping-feature-creep-at-bay)  
 - `2026-02-13` | [🔗 Corex - Accessible and unstyled UI Phoenix components](https://www.yellowduck.be/posts/corex-accessible-and-unstyled-ui-phoenix-components)  
-- `2026-02-12` | [🔗 150,000 lines of Vibe coded Elixir: the good, the bad, and the ugly](https://www.yellowduck.be/posts/150-000-lines-of-vibe-coded-elixir-the-good-the-bad-and-the-ugly)  
 
 <!-- BLOG-POST-LIST:END -->
