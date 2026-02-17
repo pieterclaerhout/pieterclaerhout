@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-17` | [🔗 Building a calendar in Phoenix LiveView](https://www.yellowduck.be/posts/building-a-calendar-in-phoenix-liveview)  
 - `2026-02-17` | [🔗 I’m a former CTO. Here is the 15-second coding test I used to instantly filter out 50% of unqualified applicants.](https://www.yellowduck.be/posts/im-a-former-cto-here-is-the-15-second-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants)  
 - `2026-02-17` | [🔗 My first impressions on Elixir](https://www.yellowduck.be/posts/my-first-impressions-on-elixir)  
 - `2026-02-16` | [🔗 Domains and resources in Ash for Elixir](https://www.yellowduck.be/posts/domains-and-resources-in-ash-for-elixir)  
@@ -22,6 +23,5 @@
 - `2026-02-15` | [🔗 Introduction to PostgreSQL indexes](https://www.yellowduck.be/posts/introduction-to-postgresql-indexes)  
 - `2026-02-15` | [🔗 SQL exists, in and join checks](https://www.yellowduck.be/posts/sql-exists-in-and-join-checks)  
 - `2026-02-14` | [🔗 Integrating Mapbox in your Phoenix LiveView application](https://www.yellowduck.be/posts/integrating-mapbox-in-your-phoenix-liveview-application)  
-- `2026-02-14` | [🔗 Better tests, zero drama: smarter LiveIsolatedComponent patterns](https://www.yellowduck.be/posts/better-tests-zero-drama-smarter-liveisolatedcomponent-patterns)  
 
 <!-- BLOG-POST-LIST:END -->
