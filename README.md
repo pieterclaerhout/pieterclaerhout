@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-17` | [🔗 My first impressions on Elixir](https://www.yellowduck.be/posts/my-first-impressions-on-elixir)  
 - `2026-02-16` | [🔗 Domains and resources in Ash for Elixir](https://www.yellowduck.be/posts/domains-and-resources-in-ash-for-elixir)  
 - `2026-02-16` | [🔗 Variations on the &quot;leverage language from Elixir&quot; pattern](https://www.yellowduck.be/posts/variations-on-the-leverage-language-from-elixir-pattern)  
 - `2026-02-16` | [🔗 Exploring distributed Elixir](https://www.yellowduck.be/posts/exploring-distributed-elixir)  
@@ -22,6 +23,5 @@
 - `2026-02-14` | [🔗 Integrating Mapbox in your Phoenix LiveView application](https://www.yellowduck.be/posts/integrating-mapbox-in-your-phoenix-liveview-application)  
 - `2026-02-14` | [🔗 Better tests, zero drama: smarter LiveIsolatedComponent patterns](https://www.yellowduck.be/posts/better-tests-zero-drama-smarter-liveisolatedcomponent-patterns)  
 - `2026-02-14` | [🔗 The evolution of Wandrer&#39;s &#39;Untraveled roads&#39; feature](https://www.yellowduck.be/posts/the-evolution-of-wandrers-untraveled-roads-feature)  
-- `2026-02-13` | [🔗 Fixing my biggest SPA pet peeve in Phoenix](https://www.yellowduck.be/posts/fixing-my-biggest-spa-pet-peeve-in-phoenix)  
 
 <!-- BLOG-POST-LIST:END -->
