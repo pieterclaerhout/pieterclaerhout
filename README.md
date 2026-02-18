@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-18` | [🔗 CSRF protection in Phoenix with sec-fetch-site](https://www.yellowduck.be/posts/csrf-protection-in-phoenix-with-sec-fetch-site)  
 - `2026-02-17` | [🔗 Building a calendar in Phoenix LiveView](https://www.yellowduck.be/posts/building-a-calendar-in-phoenix-liveview)  
 - `2026-02-17` | [🔗 I’m a former CTO. Here is the 15-second coding test I used to instantly filter out 50% of unqualified applicants.](https://www.yellowduck.be/posts/im-a-former-cto-here-is-the-15-second-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants)  
 - `2026-02-17` | [🔗 My first impressions on Elixir](https://www.yellowduck.be/posts/my-first-impressions-on-elixir)  
@@ -22,6 +23,5 @@
 - `2026-02-15` | [🐥 Working with date ranges in Elixir: a practical guide](https://www.yellowduck.be/posts/working-with-date-ranges-in-elixir-a-practical-guide)  
 - `2026-02-15` | [🔗 Introduction to PostgreSQL indexes](https://www.yellowduck.be/posts/introduction-to-postgresql-indexes)  
 - `2026-02-15` | [🔗 SQL exists, in and join checks](https://www.yellowduck.be/posts/sql-exists-in-and-join-checks)  
-- `2026-02-14` | [🔗 Integrating Mapbox in your Phoenix LiveView application](https://www.yellowduck.be/posts/integrating-mapbox-in-your-phoenix-liveview-application)  
 
 <!-- BLOG-POST-LIST:END -->
