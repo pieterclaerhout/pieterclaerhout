@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-18` | [🔗 Forget technical debt](https://www.yellowduck.be/posts/forget-technical-debt)  
 - `2026-02-18` | [🔗 My position on AI and software development](https://www.yellowduck.be/posts/my-position-on-ai-and-software-development)  
 - `2026-02-18` | [🔗 CSRF protection in Phoenix with sec-fetch-site](https://www.yellowduck.be/posts/csrf-protection-in-phoenix-with-sec-fetch-site)  
 - `2026-02-17` | [🔗 Building a calendar in Phoenix LiveView](https://www.yellowduck.be/posts/building-a-calendar-in-phoenix-liveview)  
@@ -22,6 +23,5 @@
 - `2026-02-16` | [🔗 Variations on the &quot;leverage language from Elixir&quot; pattern](https://www.yellowduck.be/posts/variations-on-the-leverage-language-from-elixir-pattern)  
 - `2026-02-16` | [🔗 Exploring distributed Elixir](https://www.yellowduck.be/posts/exploring-distributed-elixir)  
 - `2026-02-15` | [🐥 Working with date ranges in Elixir: a practical guide](https://www.yellowduck.be/posts/working-with-date-ranges-in-elixir-a-practical-guide)  
-- `2026-02-15` | [🔗 Introduction to PostgreSQL indexes](https://www.yellowduck.be/posts/introduction-to-postgresql-indexes)  
 
 <!-- BLOG-POST-LIST:END -->
