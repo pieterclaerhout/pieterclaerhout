@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-19` | [🔗 The challenges of soft delete](https://www.yellowduck.be/posts/the-challenges-of-soft-delete)  
 - `2026-02-19` | [🔗 In praise of –dry-run](https://www.yellowduck.be/posts/in-praise-of-dry-run)  
 - `2026-02-18` | [🔗 Forget technical debt](https://www.yellowduck.be/posts/forget-technical-debt)  
 - `2026-02-18` | [🔗 My position on AI and software development](https://www.yellowduck.be/posts/my-position-on-ai-and-software-development)  
@@ -22,6 +23,5 @@
 - `2026-02-17` | [🔗 My first impressions on Elixir](https://www.yellowduck.be/posts/my-first-impressions-on-elixir)  
 - `2026-02-16` | [🔗 Domains and resources in Ash for Elixir](https://www.yellowduck.be/posts/domains-and-resources-in-ash-for-elixir)  
 - `2026-02-16` | [🔗 Variations on the &quot;leverage language from Elixir&quot; pattern](https://www.yellowduck.be/posts/variations-on-the-leverage-language-from-elixir-pattern)  
-- `2026-02-16` | [🔗 Exploring distributed Elixir](https://www.yellowduck.be/posts/exploring-distributed-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
