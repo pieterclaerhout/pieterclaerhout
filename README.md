@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-20` | [🔗 Type inference of all constructs and the next 15 months](https://www.yellowduck.be/posts/type-inference-of-all-constructs-and-the-next-15-months)  
 - `2026-02-20` | [🔗 The quiet discipline of great engineering teams](https://www.yellowduck.be/posts/the-quiet-discipline-of-great-engineering-teams)  
 - `2026-02-20` | [🔗 Why I still write code as an engineering manager](https://www.yellowduck.be/posts/why-i-still-write-code-as-an-engineering-manager)  
 - `2026-02-19` | [🔗 Out-of-the-box Elixir telemetry with Phoenix](https://www.yellowduck.be/posts/out-of-the-box-elixir-telemetry-with-phoenix)  
@@ -22,6 +23,5 @@
 - `2026-02-18` | [🔗 My position on AI and software development](https://www.yellowduck.be/posts/my-position-on-ai-and-software-development)  
 - `2026-02-18` | [🔗 CSRF protection in Phoenix with sec-fetch-site](https://www.yellowduck.be/posts/csrf-protection-in-phoenix-with-sec-fetch-site)  
 - `2026-02-17` | [🔗 Building a calendar in Phoenix LiveView](https://www.yellowduck.be/posts/building-a-calendar-in-phoenix-liveview)  
-- `2026-02-17` | [🔗 I’m a former CTO. Here is the 15-second coding test I used to instantly filter out 50% of unqualified applicants.](https://www.yellowduck.be/posts/im-a-former-cto-here-is-the-15-second-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants)  
 
 <!-- BLOG-POST-LIST:END -->
