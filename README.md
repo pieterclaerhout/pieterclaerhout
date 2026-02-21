@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-21` | [🔗 How to scale a system from 0 to 10 million+ users](https://www.yellowduck.be/posts/how-to-scale-a-system-from-0-to-10-million-users)  
 - `2026-02-21` | [🔗 MySQL binlogs](https://www.yellowduck.be/posts/mysql-binlogs)  
 - `2026-02-20` | [🔗 Type inference of all constructs and the next 15 months](https://www.yellowduck.be/posts/type-inference-of-all-constructs-and-the-next-15-months)  
 - `2026-02-20` | [🔗 The quiet discipline of great engineering teams](https://www.yellowduck.be/posts/the-quiet-discipline-of-great-engineering-teams)  
@@ -22,6 +23,5 @@
 - `2026-02-19` | [🔗 In praise of –dry-run](https://www.yellowduck.be/posts/in-praise-of-dry-run)  
 - `2026-02-18` | [🔗 Forget technical debt](https://www.yellowduck.be/posts/forget-technical-debt)  
 - `2026-02-18` | [🔗 My position on AI and software development](https://www.yellowduck.be/posts/my-position-on-ai-and-software-development)  
-- `2026-02-18` | [🔗 CSRF protection in Phoenix with sec-fetch-site](https://www.yellowduck.be/posts/csrf-protection-in-phoenix-with-sec-fetch-site)  
 
 <!-- BLOG-POST-LIST:END -->
