@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-22` | [🔗 Deep dive: why Phoenix LiveView streams change everything in 2026](https://www.yellowduck.be/posts/deep-dive-why-phoenix-liveview-streams-change-everything-in-2026)  
 - `2026-02-22` | [🔗 Be less eager: using without&lpar;&rpar; alongside $with in Laravel](https://www.yellowduck.be/posts/be-less-eager-using-without-alongside-with-in-laravel)  
 - `2026-02-21` | [🔗 My AI development environment](https://www.yellowduck.be/posts/my-ai-development-environment)  
 - `2026-02-21` | [🔗 How to scale a system from 0 to 10 million+ users](https://www.yellowduck.be/posts/how-to-scale-a-system-from-0-to-10-million-users)  
@@ -22,6 +23,5 @@
 - `2026-02-20` | [🔗 Why I still write code as an engineering manager](https://www.yellowduck.be/posts/why-i-still-write-code-as-an-engineering-manager)  
 - `2026-02-19` | [🔗 Out-of-the-box Elixir telemetry with Phoenix](https://www.yellowduck.be/posts/out-of-the-box-elixir-telemetry-with-phoenix)  
 - `2026-02-19` | [🔗 The challenges of soft delete](https://www.yellowduck.be/posts/the-challenges-of-soft-delete)  
-- `2026-02-19` | [🔗 In praise of –dry-run](https://www.yellowduck.be/posts/in-praise-of-dry-run)  
 
 <!-- BLOG-POST-LIST:END -->
