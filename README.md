@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-22` | [🐥 Cumulative monthly growth queries in MySQL, PostgreSQL, and Phoenix Ecto](https://www.yellowduck.be/posts/cumulative-monthly-growth-queries-in-mysql-postgresql-and-phoenix-ecto)  
 - `2026-02-22` | [🔗 Process-based concurrency: Why BEAM and OTP keep being right](https://www.yellowduck.be/posts/process-based-concurrency-why-beam-and-otp-keep-being-right)  
 - `2026-02-22` | [🔗 Be less eager: using without&lpar;&rpar; alongside $with in Laravel](https://www.yellowduck.be/posts/be-less-eager-using-without-alongside-with-in-laravel)  
 - `2026-02-21` | [🔗 My AI development environment](https://www.yellowduck.be/posts/my-ai-development-environment)  
@@ -22,6 +23,5 @@
 - `2026-02-20` | [🔗 The quiet discipline of great engineering teams](https://www.yellowduck.be/posts/the-quiet-discipline-of-great-engineering-teams)  
 - `2026-02-20` | [🔗 Why I still write code as an engineering manager](https://www.yellowduck.be/posts/why-i-still-write-code-as-an-engineering-manager)  
 - `2026-02-19` | [🔗 Out-of-the-box Elixir telemetry with Phoenix](https://www.yellowduck.be/posts/out-of-the-box-elixir-telemetry-with-phoenix)  
-- `2026-02-19` | [🔗 The challenges of soft delete](https://www.yellowduck.be/posts/the-challenges-of-soft-delete)  
 
 <!-- BLOG-POST-LIST:END -->
