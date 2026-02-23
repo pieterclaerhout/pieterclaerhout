@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-23` | [🔗 Why Elixir is the best language for AI](https://www.yellowduck.be/posts/why-elixir-is-the-best-language-for-ai)  
 - `2026-02-23` | [🔗 Refactoring Phoenix components](https://www.yellowduck.be/posts/refactoring-phoenix-components)  
 - `2026-02-23` | [🔗 Review taste](https://www.yellowduck.be/posts/review-taste)  
 - `2026-02-22` | [🐥 Cumulative monthly growth queries in MySQL, PostgreSQL, and Phoenix Ecto](https://www.yellowduck.be/posts/cumulative-monthly-growth-queries-in-mysql-postgresql-and-phoenix-ecto)  
@@ -22,6 +23,5 @@
 - `2026-02-21` | [🔗 How to scale a system from 0 to 10 million+ users](https://www.yellowduck.be/posts/how-to-scale-a-system-from-0-to-10-million-users)  
 - `2026-02-21` | [🔗 MySQL binlogs](https://www.yellowduck.be/posts/mysql-binlogs)  
 - `2026-02-20` | [🔗 Type inference of all constructs and the next 15 months](https://www.yellowduck.be/posts/type-inference-of-all-constructs-and-the-next-15-months)  
-- `2026-02-20` | [🔗 The quiet discipline of great engineering teams](https://www.yellowduck.be/posts/the-quiet-discipline-of-great-engineering-teams)  
 
 <!-- BLOG-POST-LIST:END -->
