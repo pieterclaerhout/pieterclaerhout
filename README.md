@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-24` | [🔗 Expert language server: The first release candidate](https://www.yellowduck.be/posts/the-first-release-candidate)  
 - `2026-02-24` | [🔗 Quality is a hard sell in big tech](https://www.yellowduck.be/posts/quality-is-a-hard-sell-in-big-tech)  
 - `2026-02-24` | [🔗 Security in Elixir and Phoenix](https://www.yellowduck.be/posts/security-in-elixir-and-phoenix)  
 - `2026-02-23` | [🔗 Why Elixir is the best language for AI](https://www.yellowduck.be/posts/why-elixir-is-the-best-language-for-ai)  
@@ -22,6 +23,5 @@
 - `2026-02-22` | [🔗 Process-based concurrency: Why BEAM and OTP keep being right](https://www.yellowduck.be/posts/process-based-concurrency-why-beam-and-otp-keep-being-right)  
 - `2026-02-22` | [🔗 Be less eager: using without&lpar;&rpar; alongside $with in Laravel](https://www.yellowduck.be/posts/be-less-eager-using-without-alongside-with-in-laravel)  
 - `2026-02-21` | [🔗 My AI development environment](https://www.yellowduck.be/posts/my-ai-development-environment)  
-- `2026-02-21` | [🔗 How to scale a system from 0 to 10 million+ users](https://www.yellowduck.be/posts/how-to-scale-a-system-from-0-to-10-million-users)  
 
 <!-- BLOG-POST-LIST:END -->
