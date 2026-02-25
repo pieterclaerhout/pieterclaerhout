@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-25` | [🔗 Introducing Spatie guidelines for Laravel Boost](https://www.yellowduck.be/posts/introducing-spatie-guidelines-for-laravel-boost)  
 - `2026-02-25` | [🔗 Claude: Speed up responses with fast mode](https://www.yellowduck.be/posts/claude-speed-up-responses-with-fast-mode)  
 - `2026-02-25` | [🔗 Postgres postmaster does not scale](https://www.yellowduck.be/posts/postgres-postmaster-does-not-scale)  
 - `2026-02-24` | [🔗 Expert language server: The first release candidate](https://www.yellowduck.be/posts/the-first-release-candidate)  
@@ -22,6 +23,5 @@
 - `2026-02-23` | [🔗 Refactoring Phoenix components](https://www.yellowduck.be/posts/refactoring-phoenix-components)  
 - `2026-02-23` | [🔗 Review taste](https://www.yellowduck.be/posts/review-taste)  
 - `2026-02-22` | [🐥 Cumulative monthly growth queries in MySQL, PostgreSQL, and Phoenix Ecto](https://www.yellowduck.be/posts/cumulative-monthly-growth-queries-in-mysql-postgresql-and-phoenix-ecto)  
-- `2026-02-22` | [🔗 Process-based concurrency: Why BEAM and OTP keep being right](https://www.yellowduck.be/posts/process-based-concurrency-why-beam-and-otp-keep-being-right)  
 
 <!-- BLOG-POST-LIST:END -->
