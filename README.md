@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-26` | [🔗 Deep dive into Turso, the &quot;SQLite rewrite in Rust&quot;](https://www.yellowduck.be/posts/deep-dive-into-turso-the-sqlite-rewrite-in-rust)  
 - `2026-02-26` | [🔗 Goodbye Java, hello Go!](https://www.yellowduck.be/posts/goodbye-java-hello-go)  
 - `2026-02-25` | [🔗 Introducing Spatie guidelines for Laravel Boost](https://www.yellowduck.be/posts/introducing-spatie-guidelines-for-laravel-boost)  
 - `2026-02-25` | [🔗 Claude: Speed up responses with fast mode](https://www.yellowduck.be/posts/claude-speed-up-responses-with-fast-mode)  
@@ -22,6 +23,5 @@
 - `2026-02-24` | [🔗 Security in Elixir and Phoenix](https://www.yellowduck.be/posts/security-in-elixir-and-phoenix)  
 - `2026-02-23` | [🔗 Why Elixir is the best language for AI](https://www.yellowduck.be/posts/why-elixir-is-the-best-language-for-ai)  
 - `2026-02-23` | [🔗 Refactoring Phoenix components](https://www.yellowduck.be/posts/refactoring-phoenix-components)  
-- `2026-02-23` | [🔗 Review taste](https://www.yellowduck.be/posts/review-taste)  
 
 <!-- BLOG-POST-LIST:END -->
