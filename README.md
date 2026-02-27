@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-27` | [🔗 Go 1.26 is released](https://www.yellowduck.be/posts/go-1-26-is-released-the-go-programming-language)  
 - `2026-02-26` | [🔗 The way I run standup meetings](https://www.yellowduck.be/posts/the-way-i-run-standup-meetings)  
 - `2026-02-26` | [🔗 Deep dive into Turso, the &quot;SQLite rewrite in Rust&quot;](https://www.yellowduck.be/posts/deep-dive-into-turso-the-sqlite-rewrite-in-rust)  
 - `2026-02-26` | [🔗 Goodbye Java, hello Go!](https://www.yellowduck.be/posts/goodbye-java-hello-go)  
@@ -22,6 +23,5 @@
 - `2026-02-24` | [🔗 Expert language server: The first release candidate](https://www.yellowduck.be/posts/the-first-release-candidate)  
 - `2026-02-24` | [🔗 Quality is a hard sell in big tech](https://www.yellowduck.be/posts/quality-is-a-hard-sell-in-big-tech)  
 - `2026-02-24` | [🔗 Security in Elixir and Phoenix](https://www.yellowduck.be/posts/security-in-elixir-and-phoenix)  
-- `2026-02-23` | [🔗 Why Elixir is the best language for AI](https://www.yellowduck.be/posts/why-elixir-is-the-best-language-for-ai)  
 
 <!-- BLOG-POST-LIST:END -->
