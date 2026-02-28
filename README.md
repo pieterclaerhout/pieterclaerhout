@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-02-28` | [🔗 How Markdown took over the world](https://www.yellowduck.be/posts/how-markdown-took-over-the-world)  
 - `2026-02-28` | [🔗 Three ways to solve problems](https://www.yellowduck.be/posts/three-ways-to-solve-problems)  
 - `2026-02-28` | [🔗 How I actually get good advice](https://www.yellowduck.be/posts/how-i-actually-get-good-advice)  
 - `2026-02-27` | [🔗 iex -S mix phx.server: what? how?](https://www.yellowduck.be/posts/iex-s-mix-phx-server-what-how)  
@@ -22,6 +23,5 @@
 - `2026-02-26` | [🔗 Deep dive into Turso, the &quot;SQLite rewrite in Rust&quot;](https://www.yellowduck.be/posts/deep-dive-into-turso-the-sqlite-rewrite-in-rust)  
 - `2026-02-26` | [🔗 Goodbye Java, hello Go!](https://www.yellowduck.be/posts/goodbye-java-hello-go)  
 - `2026-02-25` | [🔗 Introducing Spatie guidelines for Laravel Boost](https://www.yellowduck.be/posts/introducing-spatie-guidelines-for-laravel-boost)  
-- `2026-02-25` | [🔗 Claude: Speed up responses with fast mode](https://www.yellowduck.be/posts/claude-speed-up-responses-with-fast-mode)  
 
 <!-- BLOG-POST-LIST:END -->
