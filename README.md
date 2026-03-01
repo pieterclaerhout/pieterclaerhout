@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-01` | [🐥 Optimizing nested array operations in PHP: from O&lpar;3n&rpar; to O&lpar;n&rpar;](https://www.yellowduck.be/posts/optimizing-nested-array-operations-in-php-from-o-3n-to-o-n)  
 - `2026-03-01` | [🔗 Why we don&#39;t use AI](https://www.yellowduck.be/posts/why-we-dont-use-ai)  
 - `2026-03-01` | [🔗 Least recently used cache](https://www.yellowduck.be/posts/least-recently-used-cache)  
 - `2026-02-28` | [🔗 How Markdown took over the world](https://www.yellowduck.be/posts/how-markdown-took-over-the-world)  
@@ -22,6 +23,5 @@
 - `2026-02-27` | [🔗 How to automatically generate a commit message using Claude](https://www.yellowduck.be/posts/how-to-automatically-generate-a-commit-message-using-claude)  
 - `2026-02-27` | [🔗 Go 1.26 is released](https://www.yellowduck.be/posts/go-1-26-is-released-the-go-programming-language)  
 - `2026-02-26` | [🔗 The way I run standup meetings](https://www.yellowduck.be/posts/the-way-i-run-standup-meetings)  
-- `2026-02-26` | [🔗 Deep dive into Turso, the &quot;SQLite rewrite in Rust&quot;](https://www.yellowduck.be/posts/deep-dive-into-turso-the-sqlite-rewrite-in-rust)  
 
 <!-- BLOG-POST-LIST:END -->
