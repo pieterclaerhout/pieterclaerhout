@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-02` | [🔗 PostgreSQL 18 RETURNING enhancements: a game changer for modern applications](https://www.yellowduck.be/posts/postgresql-18-returning-enhancements-a-game-changer-for-modern-applications)  
 - `2026-03-01` | [🐥 Optimizing nested array operations in PHP: from O&lpar;3n&rpar; to O&lpar;n&rpar;](https://www.yellowduck.be/posts/optimizing-nested-array-operations-in-php-from-o-3n-to-o-n)  
 - `2026-03-01` | [🔗 Why we don&#39;t use AI](https://www.yellowduck.be/posts/why-we-dont-use-ai)  
 - `2026-03-01` | [🔗 Least recently used cache](https://www.yellowduck.be/posts/least-recently-used-cache)  
@@ -22,6 +23,5 @@
 - `2026-02-27` | [🔗 iex -S mix phx.server: what? how?](https://www.yellowduck.be/posts/iex-s-mix-phx-server-what-how)  
 - `2026-02-27` | [🔗 How to automatically generate a commit message using Claude](https://www.yellowduck.be/posts/how-to-automatically-generate-a-commit-message-using-claude)  
 - `2026-02-27` | [🔗 Go 1.26 is released](https://www.yellowduck.be/posts/go-1-26-is-released-the-go-programming-language)  
-- `2026-02-26` | [🔗 The way I run standup meetings](https://www.yellowduck.be/posts/the-way-i-run-standup-meetings)  
 
 <!-- BLOG-POST-LIST:END -->
