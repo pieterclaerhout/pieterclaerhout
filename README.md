@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-03` | [🔗 How I use Claude Code](https://www.yellowduck.be/posts/how-i-use-claude-code)  
 - `2026-03-03` | [🔗 Technical architecture of a Phoenix LiveView meal planning app](https://www.yellowduck.be/posts/technical-architecture-of-a-phoenix-liveview-meal-planning-app)  
 - `2026-03-02` | [🔗 Scaling real-time apps: Elixir libcluster PubSub vs Node.js](https://www.yellowduck.be/posts/scaling-real-time-apps-elixir-libcluster-pubsub-vs-node-js)  
 - `2026-03-02` | [🔗 Stop using natural language interfaces](https://www.yellowduck.be/posts/stop-using-natural-language-interfaces-tidepool-heavy-industries)  
@@ -22,6 +23,5 @@
 - `2026-03-01` | [🔗 Least recently used cache](https://www.yellowduck.be/posts/least-recently-used-cache)  
 - `2026-02-28` | [🔗 How Markdown took over the world](https://www.yellowduck.be/posts/how-markdown-took-over-the-world)  
 - `2026-02-28` | [🔗 Three ways to solve problems](https://www.yellowduck.be/posts/three-ways-to-solve-problems)  
-- `2026-02-28` | [🔗 How I actually get good advice](https://www.yellowduck.be/posts/how-i-actually-get-good-advice)  
 
 <!-- BLOG-POST-LIST:END -->
