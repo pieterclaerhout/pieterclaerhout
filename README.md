@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-04` | [🔗 Thinking Elixir podcast 294: compile times, language servers, and Python, oh my!](https://www.yellowduck.be/posts/thinking-elixir-podcast-294-compile-times-language-servers-and-python-oh-my)  
 - `2026-03-04` | [🔗 Software estimation – building takes longer than you think](https://www.yellowduck.be/posts/software-estimation-building-takes-longer-than-you-think)  
 - `2026-03-04` | [🔗 My current setup for Laravel, PHP and AI development &lpar;2026 edition&rpar;](https://www.yellowduck.be/posts/my-current-setup-for-laravel-php-and-ai-development-2026-edition)  
 - `2026-03-03` | [🔗 Elixir Phoenix optimisations in iPhone Safari](https://www.yellowduck.be/posts/mrpopov-elixir-phoenix-optimisations-in-iphone-safari)  
@@ -22,6 +23,5 @@
 - `2026-03-02` | [🔗 Stop using natural language interfaces](https://www.yellowduck.be/posts/stop-using-natural-language-interfaces-tidepool-heavy-industries)  
 - `2026-03-02` | [🔗 PostgreSQL 18 RETURNING enhancements: a game changer for modern applications](https://www.yellowduck.be/posts/postgresql-18-returning-enhancements-a-game-changer-for-modern-applications)  
 - `2026-03-01` | [🐥 Optimizing nested array operations in PHP: from O&lpar;3n&rpar; to O&lpar;n&rpar;](https://www.yellowduck.be/posts/optimizing-nested-array-operations-in-php-from-o-3n-to-o-n)  
-- `2026-03-01` | [🔗 Why we don&#39;t use AI](https://www.yellowduck.be/posts/why-we-dont-use-ai)  
 
 <!-- BLOG-POST-LIST:END -->
