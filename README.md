@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-04` | [🔗 My current setup for Laravel, PHP and AI development &lpar;2026 edition&rpar;](https://www.yellowduck.be/posts/my-current-setup-for-laravel-php-and-ai-development-2026-edition)  
 - `2026-03-03` | [🔗 Elixir Phoenix optimisations in iPhone Safari](https://www.yellowduck.be/posts/mrpopov-elixir-phoenix-optimisations-in-iphone-safari)  
 - `2026-03-03` | [🔗 How I use Claude Code](https://www.yellowduck.be/posts/how-i-use-claude-code)  
 - `2026-03-03` | [🔗 Technical architecture of a Phoenix LiveView meal planning app](https://www.yellowduck.be/posts/technical-architecture-of-a-phoenix-liveview-meal-planning-app)  
@@ -22,6 +23,5 @@
 - `2026-03-01` | [🐥 Optimizing nested array operations in PHP: from O&lpar;3n&rpar; to O&lpar;n&rpar;](https://www.yellowduck.be/posts/optimizing-nested-array-operations-in-php-from-o-3n-to-o-n)  
 - `2026-03-01` | [🔗 Why we don&#39;t use AI](https://www.yellowduck.be/posts/why-we-dont-use-ai)  
 - `2026-03-01` | [🔗 Least recently used cache](https://www.yellowduck.be/posts/least-recently-used-cache)  
-- `2026-02-28` | [🔗 How Markdown took over the world](https://www.yellowduck.be/posts/how-markdown-took-over-the-world)  
 
 <!-- BLOG-POST-LIST:END -->
