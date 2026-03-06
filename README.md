@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-06` | [🔗 Everything I was lied to about Node.js came true with Elixir](https://www.yellowduck.be/posts/everything-i-was-lied-to-about-node-js-came-true-with-elixir)  
 - `2026-03-06` | [🔗 Go feature: Modernized Go fix](https://www.yellowduck.be/posts/go-feature-modernized-go-fix)  
 - `2026-03-06` | [🔗 Things I check before opening a PR](https://www.yellowduck.be/posts/things-i-check-before-opening-a-pr)  
 - `2026-03-05` | [🐥 Why prefer const arrow functions over function declarations in TypeScript?](https://www.yellowduck.be/posts/why-prefer-const-arrow-functions-over-function-declarations-in-typescript)  
@@ -22,6 +23,5 @@
 - `2026-03-04` | [🔗 Software estimation – building takes longer than you think](https://www.yellowduck.be/posts/software-estimation-building-takes-longer-than-you-think)  
 - `2026-03-04` | [🔗 My current setup for Laravel, PHP and AI development &lpar;2026 edition&rpar;](https://www.yellowduck.be/posts/my-current-setup-for-laravel-php-and-ai-development-2026-edition)  
 - `2026-03-03` | [🔗 Elixir Phoenix optimisations in iPhone Safari](https://www.yellowduck.be/posts/mrpopov-elixir-phoenix-optimisations-in-iphone-safari)  
-- `2026-03-03` | [🔗 How I use Claude Code](https://www.yellowduck.be/posts/how-i-use-claude-code)  
 
 <!-- BLOG-POST-LIST:END -->
