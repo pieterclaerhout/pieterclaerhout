@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-07` | [🔗 How to run a technical due diligence?](https://www.yellowduck.be/posts/how-to-run-a-technical-due-diligence)  
 - `2026-03-07` | [🔗 Fair queue distribution with Laravel&#39;s balanced queue](https://www.yellowduck.be/posts/fair-queue-distribution-with-laravels-balanced-queue)  
 - `2026-03-06` | [🔗 Everything I was lied to about Node.js came true with Elixir](https://www.yellowduck.be/posts/everything-i-was-lied-to-about-node-js-came-true-with-elixir)  
 - `2026-03-06` | [🔗 Go feature: Modernized Go fix](https://www.yellowduck.be/posts/go-feature-modernized-go-fix)  
@@ -22,6 +23,5 @@
 - `2026-03-05` | [🔗 Why senior engineers let bad projects fail](https://www.yellowduck.be/posts/why-senior-engineers-let-bad-projects-fail)  
 - `2026-03-04` | [🔗 Thinking Elixir podcast 294: compile times, language servers, and Python, oh my!](https://www.yellowduck.be/posts/thinking-elixir-podcast-294-compile-times-language-servers-and-python-oh-my)  
 - `2026-03-04` | [🔗 Software estimation – building takes longer than you think](https://www.yellowduck.be/posts/software-estimation-building-takes-longer-than-you-think)  
-- `2026-03-04` | [🔗 My current setup for Laravel, PHP and AI development &lpar;2026 edition&rpar;](https://www.yellowduck.be/posts/my-current-setup-for-laravel-php-and-ai-development-2026-edition)  
 
 <!-- BLOG-POST-LIST:END -->
