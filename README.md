@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-08` | [🔗 On cognitive debt](https://www.yellowduck.be/posts/on-cognitive-debt)  
 - `2026-03-07` | [🔗 Upgrading Amignosis: Phoenix and Elixir with Claude Code](https://www.yellowduck.be/posts/upgrading-amignosis-phoenix-and-elixir-with-claude-code)  
 - `2026-03-07` | [🔗 How to run a technical due diligence?](https://www.yellowduck.be/posts/how-to-run-a-technical-due-diligence)  
 - `2026-03-07` | [🔗 Fair queue distribution with Laravel&#39;s balanced queue](https://www.yellowduck.be/posts/fair-queue-distribution-with-laravels-balanced-queue)  
@@ -22,6 +23,5 @@
 - `2026-03-05` | [🐥 Why prefer const arrow functions over function declarations in TypeScript?](https://www.yellowduck.be/posts/why-prefer-const-arrow-functions-over-function-declarations-in-typescript)  
 - `2026-03-05` | [🔗 Your Go tests probably don&#39;t need a mocking library](https://www.yellowduck.be/posts/your-go-tests-probably-dont-need-a-mocking-library)  
 - `2026-03-05` | [🔗 Why senior engineers let bad projects fail](https://www.yellowduck.be/posts/why-senior-engineers-let-bad-projects-fail)  
-- `2026-03-04` | [🔗 Thinking Elixir podcast 294: compile times, language servers, and Python, oh my!](https://www.yellowduck.be/posts/thinking-elixir-podcast-294-compile-times-language-servers-and-python-oh-my)  
 
 <!-- BLOG-POST-LIST:END -->
