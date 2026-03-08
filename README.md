@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-08` | [🔗 My AI adoption journey](https://www.yellowduck.be/posts/my-ai-adoption-journey)  
 - `2026-03-08` | [🔗 On cognitive debt](https://www.yellowduck.be/posts/on-cognitive-debt)  
 - `2026-03-07` | [🔗 Upgrading Amignosis: Phoenix and Elixir with Claude Code](https://www.yellowduck.be/posts/upgrading-amignosis-phoenix-and-elixir-with-claude-code)  
 - `2026-03-07` | [🔗 How to run a technical due diligence?](https://www.yellowduck.be/posts/how-to-run-a-technical-due-diligence)  
@@ -22,6 +23,5 @@
 - `2026-03-06` | [🔗 Things I check before opening a PR](https://www.yellowduck.be/posts/things-i-check-before-opening-a-pr)  
 - `2026-03-05` | [🐥 Why prefer const arrow functions over function declarations in TypeScript?](https://www.yellowduck.be/posts/why-prefer-const-arrow-functions-over-function-declarations-in-typescript)  
 - `2026-03-05` | [🔗 Your Go tests probably don&#39;t need a mocking library](https://www.yellowduck.be/posts/your-go-tests-probably-dont-need-a-mocking-library)  
-- `2026-03-05` | [🔗 Why senior engineers let bad projects fail](https://www.yellowduck.be/posts/why-senior-engineers-let-bad-projects-fail)  
 
 <!-- BLOG-POST-LIST:END -->
