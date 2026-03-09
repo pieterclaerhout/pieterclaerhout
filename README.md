@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-09` | [🔗 Pattern matching: matching, not assigning](https://www.yellowduck.be/posts/pattern-matching-matching-not-assigning-groxio-blog)  
 - `2026-03-09` | [🔗 Laravel Boost – AI tooling for Laravel](https://www.yellowduck.be/posts/laravel-boost-ai-tooling-for-laravel-by-the-laravel-team)  
 - `2026-03-09` | [🔗 Cross-site request forgery](https://www.yellowduck.be/posts/cross-site-request-forgery)  
 - `2026-03-08` | [🐥 Monitoring the progress of creating an index in PostgreSQL](https://www.yellowduck.be/posts/monitoring-the-progress-of-creating-an-index-in-postgresql)  
@@ -22,6 +23,5 @@
 - `2026-03-07` | [🔗 How to run a technical due diligence?](https://www.yellowduck.be/posts/how-to-run-a-technical-due-diligence)  
 - `2026-03-07` | [🔗 Fair queue distribution with Laravel&#39;s balanced queue](https://www.yellowduck.be/posts/fair-queue-distribution-with-laravels-balanced-queue)  
 - `2026-03-06` | [🔗 Everything I was lied to about Node.js came true with Elixir](https://www.yellowduck.be/posts/everything-i-was-lied-to-about-node-js-came-true-with-elixir)  
-- `2026-03-06` | [🔗 Go feature: Modernized Go fix](https://www.yellowduck.be/posts/go-feature-modernized-go-fix)  
 
 <!-- BLOG-POST-LIST:END -->
