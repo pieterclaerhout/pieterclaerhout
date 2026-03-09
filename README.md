@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-09` | [🔗 Cross-site request forgery](https://www.yellowduck.be/posts/cross-site-request-forgery)  
 - `2026-03-08` | [🐥 Monitoring the progress of creating an index in PostgreSQL](https://www.yellowduck.be/posts/monitoring-the-progress-of-creating-an-index-in-postgresql)  
 - `2026-03-08` | [🔗 My AI adoption journey](https://www.yellowduck.be/posts/my-ai-adoption-journey)  
 - `2026-03-08` | [🔗 On cognitive debt](https://www.yellowduck.be/posts/on-cognitive-debt)  
@@ -22,6 +23,5 @@
 - `2026-03-06` | [🔗 Everything I was lied to about Node.js came true with Elixir](https://www.yellowduck.be/posts/everything-i-was-lied-to-about-node-js-came-true-with-elixir)  
 - `2026-03-06` | [🔗 Go feature: Modernized Go fix](https://www.yellowduck.be/posts/go-feature-modernized-go-fix)  
 - `2026-03-06` | [🔗 Things I check before opening a PR](https://www.yellowduck.be/posts/things-i-check-before-opening-a-pr)  
-- `2026-03-05` | [🐥 Why prefer const arrow functions over function declarations in TypeScript?](https://www.yellowduck.be/posts/why-prefer-const-arrow-functions-over-function-declarations-in-typescript)  
 
 <!-- BLOG-POST-LIST:END -->
