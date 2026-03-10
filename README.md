@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-10` | [🔗 Hidden issue with whereFullText and refresh database in Laravel](https://www.yellowduck.be/posts/hidden-issue-with-wherefulltext-and-refresh-database-in-laravel)  
 - `2026-03-09` | [🔗 Pattern matching: matching, not assigning](https://www.yellowduck.be/posts/pattern-matching-matching-not-assigning-groxio-blog)  
 - `2026-03-09` | [🔗 Laravel Boost – AI tooling for Laravel](https://www.yellowduck.be/posts/laravel-boost-ai-tooling-for-laravel-by-the-laravel-team)  
 - `2026-03-09` | [🔗 Cross-site request forgery](https://www.yellowduck.be/posts/cross-site-request-forgery)  
@@ -22,6 +23,5 @@
 - `2026-03-07` | [🔗 Upgrading Amignosis: Phoenix and Elixir with Claude Code](https://www.yellowduck.be/posts/upgrading-amignosis-phoenix-and-elixir-with-claude-code)  
 - `2026-03-07` | [🔗 How to run a technical due diligence?](https://www.yellowduck.be/posts/how-to-run-a-technical-due-diligence)  
 - `2026-03-07` | [🔗 Fair queue distribution with Laravel&#39;s balanced queue](https://www.yellowduck.be/posts/fair-queue-distribution-with-laravels-balanced-queue)  
-- `2026-03-06` | [🔗 Everything I was lied to about Node.js came true with Elixir](https://www.yellowduck.be/posts/everything-i-was-lied-to-about-node-js-came-true-with-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
