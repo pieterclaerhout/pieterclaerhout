@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-11` | [🔗 100 percent code coverage is not as good as you think](https://www.yellowduck.be/posts/100-percent-code-coverage-is-not-as-good-as-you-think)  
 - `2026-03-11` | [🔗 Getting started with Typst](https://www.yellowduck.be/posts/getting-started-with-typst)  
 - `2026-03-10` | [🔗 Thinking Elixir podcast 295: Is Your Type System Leaking?](https://www.yellowduck.be/posts/thinking-elixir-podcast-295-is-your-type-system-leaking)  
 - `2026-03-10` | [🔗 Enum ordering in PostgreSQL](https://www.yellowduck.be/posts/enum-ordering-in-postgresql)  
@@ -22,6 +23,5 @@
 - `2026-03-09` | [🔗 Cross-site request forgery](https://www.yellowduck.be/posts/cross-site-request-forgery)  
 - `2026-03-08` | [🐥 Monitoring the progress of creating an index in PostgreSQL](https://www.yellowduck.be/posts/monitoring-the-progress-of-creating-an-index-in-postgresql)  
 - `2026-03-08` | [🔗 My AI adoption journey](https://www.yellowduck.be/posts/my-ai-adoption-journey)  
-- `2026-03-08` | [🔗 On cognitive debt](https://www.yellowduck.be/posts/on-cognitive-debt)  
 
 <!-- BLOG-POST-LIST:END -->
