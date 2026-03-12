@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-12` | [🔗 Why pull-based pipelines are faster](https://www.yellowduck.be/posts/why-pull-based-pipelines-are-faster)  
 - `2026-03-12` | [🔗 From skeptic to believer: My journey with the stdlib approach and AI agents](https://www.yellowduck.be/posts/from-skeptic-to-believer-my-journey-with-the-stdlib-approach-and-ai-agents)  
 - `2026-03-11` | [🔗 Open-source ERP for artisanal manufacturers](https://www.yellowduck.be/posts/open-source-erp-for-artisanal-manufacturers)  
 - `2026-03-11` | [🔗 100 percent code coverage is not as good as you think](https://www.yellowduck.be/posts/100-percent-code-coverage-is-not-as-good-as-you-think)  
@@ -22,6 +23,5 @@
 - `2026-03-10` | [🔗 Hidden issue with whereFullText and refresh database in Laravel](https://www.yellowduck.be/posts/hidden-issue-with-wherefulltext-and-refresh-database-in-laravel)  
 - `2026-03-09` | [🔗 Pattern matching: matching, not assigning](https://www.yellowduck.be/posts/pattern-matching-matching-not-assigning-groxio-blog)  
 - `2026-03-09` | [🔗 Laravel Boost – AI tooling for Laravel](https://www.yellowduck.be/posts/laravel-boost-ai-tooling-for-laravel-by-the-laravel-team)  
-- `2026-03-09` | [🔗 Cross-site request forgery](https://www.yellowduck.be/posts/cross-site-request-forgery)  
 
 <!-- BLOG-POST-LIST:END -->
