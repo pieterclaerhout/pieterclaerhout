@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-13` | [🔗 Don’t trust the agents](https://www.yellowduck.be/posts/dont-trust-the-agents)  
 - `2026-03-12` | [🔗 Elixir configuration and environment variables](https://www.yellowduck.be/posts/elixir-configuration-and-environment-variables)  
 - `2026-03-12` | [🔗 Why pull-based pipelines are faster](https://www.yellowduck.be/posts/why-pull-based-pipelines-are-faster)  
 - `2026-03-12` | [🔗 From skeptic to believer: My journey with the stdlib approach and AI agents](https://www.yellowduck.be/posts/from-skeptic-to-believer-my-journey-with-the-stdlib-approach-and-ai-agents)  
@@ -22,6 +23,5 @@
 - `2026-03-10` | [🔗 Thinking Elixir podcast 295: Is Your Type System Leaking?](https://www.yellowduck.be/posts/thinking-elixir-podcast-295-is-your-type-system-leaking)  
 - `2026-03-10` | [🔗 Enum ordering in PostgreSQL](https://www.yellowduck.be/posts/enum-ordering-in-postgresql)  
 - `2026-03-10` | [🔗 Hidden issue with whereFullText and refresh database in Laravel](https://www.yellowduck.be/posts/hidden-issue-with-wherefulltext-and-refresh-database-in-laravel)  
-- `2026-03-09` | [🔗 Pattern matching: matching, not assigning](https://www.yellowduck.be/posts/pattern-matching-matching-not-assigning-groxio-blog)  
 
 <!-- BLOG-POST-LIST:END -->
