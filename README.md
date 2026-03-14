@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-14` | [🔗 Read efficiency issues in PostgreSQL queries](https://www.yellowduck.be/posts/read-efficiency-issues-in-postgresql-queries)  
 - `2026-03-13` | [🔗 PostgreSQL materialized views: when caching your query results makes sense &lpar;and when it doesn&#39;t&rpar;](https://www.yellowduck.be/posts/postgresql-materialized-views-when-caching-your-query-results-makes-sense-and-when-it-doesnt)  
 - `2026-03-13` | [🔗 Deploying single-node ClickHouse® on small servers](https://www.yellowduck.be/posts/deploying-single-node-clickhouse-r-on-small-servers)  
 - `2026-03-13` | [🔗 Don’t trust the agents](https://www.yellowduck.be/posts/dont-trust-the-agents)  
@@ -22,6 +23,5 @@
 - `2026-03-11` | [🔗 Open-source ERP for artisanal manufacturers](https://www.yellowduck.be/posts/open-source-erp-for-artisanal-manufacturers)  
 - `2026-03-11` | [🔗 100 percent code coverage is not as good as you think](https://www.yellowduck.be/posts/100-percent-code-coverage-is-not-as-good-as-you-think)  
 - `2026-03-11` | [🔗 Getting started with Typst](https://www.yellowduck.be/posts/getting-started-with-typst)  
-- `2026-03-10` | [🔗 Thinking Elixir podcast 295: Is Your Type System Leaking?](https://www.yellowduck.be/posts/thinking-elixir-podcast-295-is-your-type-system-leaking)  
 
 <!-- BLOG-POST-LIST:END -->
