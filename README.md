@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-14` | [🔗 Exploring the .git directory – how Git stores your code](https://www.yellowduck.be/posts/exploring-the-git-directory-how-git-stores-your-code)  
 - `2026-03-14` | [🔗 Automating what shouldn&#39;t require effort: the resume as an engineering exercise](https://www.yellowduck.be/posts/automating-what-shouldnt-require-effort-the-resume-as-an-engineering-exercise)  
 - `2026-03-14` | [🔗 Read efficiency issues in PostgreSQL queries](https://www.yellowduck.be/posts/read-efficiency-issues-in-postgresql-queries)  
 - `2026-03-13` | [🔗 PostgreSQL materialized views: when caching your query results makes sense &lpar;and when it doesn&#39;t&rpar;](https://www.yellowduck.be/posts/postgresql-materialized-views-when-caching-your-query-results-makes-sense-and-when-it-doesnt)  
@@ -22,6 +23,5 @@
 - `2026-03-12` | [🔗 Why pull-based pipelines are faster](https://www.yellowduck.be/posts/why-pull-based-pipelines-are-faster)  
 - `2026-03-12` | [🔗 From skeptic to believer: My journey with the stdlib approach and AI agents](https://www.yellowduck.be/posts/from-skeptic-to-believer-my-journey-with-the-stdlib-approach-and-ai-agents)  
 - `2026-03-11` | [🔗 Open-source ERP for artisanal manufacturers](https://www.yellowduck.be/posts/open-source-erp-for-artisanal-manufacturers)  
-- `2026-03-11` | [🔗 100 percent code coverage is not as good as you think](https://www.yellowduck.be/posts/100-percent-code-coverage-is-not-as-good-as-you-think)  
 
 <!-- BLOG-POST-LIST:END -->
