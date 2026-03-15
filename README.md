@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-15` | [🔗 Laravel gets a Claude code simplifier plugin](https://www.yellowduck.be/posts/laravel-gets-a-claude-code-simplifier-plugin)  
 - `2026-03-15` | [🔗 How generative AI is destroying society](https://www.yellowduck.be/posts/how-generative-ai-is-destroying-society)  
 - `2026-03-14` | [🔗 Exploring the .git directory – how Git stores your code](https://www.yellowduck.be/posts/exploring-the-git-directory-how-git-stores-your-code)  
 - `2026-03-14` | [🔗 Automating what shouldn&#39;t require effort: the resume as an engineering exercise](https://www.yellowduck.be/posts/automating-what-shouldnt-require-effort-the-resume-as-an-engineering-exercise)  
@@ -22,6 +23,5 @@
 - `2026-03-13` | [🔗 Don’t trust the agents](https://www.yellowduck.be/posts/dont-trust-the-agents)  
 - `2026-03-12` | [🔗 Elixir configuration and environment variables](https://www.yellowduck.be/posts/elixir-configuration-and-environment-variables)  
 - `2026-03-12` | [🔗 Why pull-based pipelines are faster](https://www.yellowduck.be/posts/why-pull-based-pipelines-are-faster)  
-- `2026-03-12` | [🔗 From skeptic to believer: My journey with the stdlib approach and AI agents](https://www.yellowduck.be/posts/from-skeptic-to-believer-my-journey-with-the-stdlib-approach-and-ai-agents)  
 
 <!-- BLOG-POST-LIST:END -->
