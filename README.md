@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-17` | [🔗 An in-depth guide to customizing lists with CSS](https://www.yellowduck.be/posts/an-in-depth-guide-to-customizing-lists-with-css)  
 - `2026-03-17` | [🔗 Sandbox-exec: macOS&#39;s little-known command-line sandboxing tool](https://www.yellowduck.be/posts/sandbox-exec-macoss-little-known-command-line-sandboxing-tool)  
 - `2026-03-16` | [🔗 Just because you’re getting an index scan, doesn’t mean you can’t do better!](https://www.yellowduck.be/posts/just-because-youre-getting-an-index-scan-doesnt-mean-you-cant-do-better)  
 - `2026-03-16` | [🔗 Software acceleration and desynchronization](https://www.yellowduck.be/posts/software-acceleration-and-desynchronization)  
@@ -22,6 +23,5 @@
 - `2026-03-15` | [🔗 How generative AI is destroying society](https://www.yellowduck.be/posts/how-generative-ai-is-destroying-society)  
 - `2026-03-14` | [🔗 Exploring the .git directory – how Git stores your code](https://www.yellowduck.be/posts/exploring-the-git-directory-how-git-stores-your-code)  
 - `2026-03-14` | [🔗 Automating what shouldn&#39;t require effort: the resume as an engineering exercise](https://www.yellowduck.be/posts/automating-what-shouldnt-require-effort-the-resume-as-an-engineering-exercise)  
-- `2026-03-14` | [🔗 Read efficiency issues in PostgreSQL queries](https://www.yellowduck.be/posts/read-efficiency-issues-in-postgresql-queries)  
 
 <!-- BLOG-POST-LIST:END -->
