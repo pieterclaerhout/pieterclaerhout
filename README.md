@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-18` | [🔗 Due diligence for AI-generated codebases](https://www.yellowduck.be/posts/due-diligence-for-ai-generated-codebases)  
 - `2026-03-18` | [🔗 Is your team still hand-chiseling code?](https://www.yellowduck.be/posts/is-your-team-still-hand-chiseling-code)  
 - `2026-03-17` | [🔗 Stop thinking of AI as a coworker. It&#39;s an exoskeleton.](https://www.yellowduck.be/posts/stop-thinking-of-ai-as-a-coworker-its-an-exoskeleton)  
 - `2026-03-17` | [🔗 An in-depth guide to customizing lists with CSS](https://www.yellowduck.be/posts/an-in-depth-guide-to-customizing-lists-with-css)  
@@ -22,6 +23,5 @@
 - `2026-03-16` | [🔗 Designing team traditions that actually fit your team](https://www.yellowduck.be/posts/designing-team-traditions-that-actually-fit-your-team)  
 - `2026-03-15` | [🔗 Build what cannot be bought, and sell what cannot be built.](https://www.yellowduck.be/posts/build-what-cannot-be-bought-and-sell-what-cannot-be-built)  
 - `2026-03-15` | [🔗 Laravel gets a Claude code simplifier plugin](https://www.yellowduck.be/posts/laravel-gets-a-claude-code-simplifier-plugin)  
-- `2026-03-15` | [🔗 How generative AI is destroying society](https://www.yellowduck.be/posts/how-generative-ai-is-destroying-society)  
 
 <!-- BLOG-POST-LIST:END -->
