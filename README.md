@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-19` | [🔗 We open-sourced our code audit as a Claude Code plugin](https://www.yellowduck.be/posts/we-open-sourced-our-code-audit-as-a-claude-code-plugin)  
 - `2026-03-18` | [🔗 Bridging Elixir and Python with Oban](https://www.yellowduck.be/posts/bridging-elixir-and-python-with-oban)  
 - `2026-03-18` | [🔗 Due diligence for AI-generated codebases](https://www.yellowduck.be/posts/due-diligence-for-ai-generated-codebases)  
 - `2026-03-18` | [🔗 Is your team still hand-chiseling code?](https://www.yellowduck.be/posts/is-your-team-still-hand-chiseling-code)  
@@ -22,6 +23,5 @@
 - `2026-03-16` | [🔗 Just because you’re getting an index scan, doesn’t mean you can’t do better!](https://www.yellowduck.be/posts/just-because-youre-getting-an-index-scan-doesnt-mean-you-cant-do-better)  
 - `2026-03-16` | [🔗 Software acceleration and desynchronization](https://www.yellowduck.be/posts/software-acceleration-and-desynchronization)  
 - `2026-03-16` | [🔗 Designing team traditions that actually fit your team](https://www.yellowduck.be/posts/designing-team-traditions-that-actually-fit-your-team)  
-- `2026-03-15` | [🔗 Build what cannot be bought, and sell what cannot be built.](https://www.yellowduck.be/posts/build-what-cannot-be-bought-and-sell-what-cannot-be-built)  
 
 <!-- BLOG-POST-LIST:END -->
