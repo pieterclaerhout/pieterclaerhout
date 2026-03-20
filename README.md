@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-20` | [🔗 Laravel AI SDK](https://www.yellowduck.be/posts/laravel-ai-sdk)  
 - `2026-03-20` | [🔗 Laravel related content: semantic relationships using pgvector](https://www.yellowduck.be/posts/laravel-related-content-semantic-relationships-using-pgvector)  
 - `2026-03-19` | [🔗 Curiosum-dev/permit_phoenix: Phoenix, Plug and LiveView integrations for the permit authorization library](https://www.yellowduck.be/posts/curiosum-dev-permit-phoenix-phoenix-plug-and-liveview-integrations-for-the-permit-authorization-library)  
 - `2026-03-19` | [🔗 Five ways to make your ClickHouse® slow &lpar;and how to avoid them&rpar;](https://www.yellowduck.be/posts/five-ways-to-make-your-clickhouse-r-slow-and-how-to-avoid-them)  
@@ -22,6 +23,5 @@
 - `2026-03-18` | [🔗 Is your team still hand-chiseling code?](https://www.yellowduck.be/posts/is-your-team-still-hand-chiseling-code)  
 - `2026-03-17` | [🔗 Stop thinking of AI as a coworker. It&#39;s an exoskeleton.](https://www.yellowduck.be/posts/stop-thinking-of-ai-as-a-coworker-its-an-exoskeleton)  
 - `2026-03-17` | [🔗 An in-depth guide to customizing lists with CSS](https://www.yellowduck.be/posts/an-in-depth-guide-to-customizing-lists-with-css)  
-- `2026-03-17` | [🔗 Sandbox-exec: macOS&#39;s little-known command-line sandboxing tool](https://www.yellowduck.be/posts/sandbox-exec-macoss-little-known-command-line-sandboxing-tool)  
 
 <!-- BLOG-POST-LIST:END -->
