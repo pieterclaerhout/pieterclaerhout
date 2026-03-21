@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-21` | [🔗 Running PHP 8.5 with Laravel Octane and FrankenPHP](https://www.yellowduck.be/posts/running-php-8-5-with-laravel-octane-and-frankenphp)  
 - `2026-03-20` | [🔗 Fix a top cause of slow queries in PostgreSQL &lpar;no slow query log needed&rpar;](https://www.yellowduck.be/posts/fix-a-top-cause-of-slow-queries-in-postgresql-no-slow-query-log-needed)  
 - `2026-03-20` | [🔗 Laravel AI SDK](https://www.yellowduck.be/posts/laravel-ai-sdk)  
 - `2026-03-20` | [🔗 Laravel related content: semantic relationships using pgvector](https://www.yellowduck.be/posts/laravel-related-content-semantic-relationships-using-pgvector)  
@@ -22,6 +23,5 @@
 - `2026-03-18` | [🔗 Bridging Elixir and Python with Oban](https://www.yellowduck.be/posts/bridging-elixir-and-python-with-oban)  
 - `2026-03-18` | [🔗 Due diligence for AI-generated codebases](https://www.yellowduck.be/posts/due-diligence-for-ai-generated-codebases)  
 - `2026-03-18` | [🔗 Is your team still hand-chiseling code?](https://www.yellowduck.be/posts/is-your-team-still-hand-chiseling-code)  
-- `2026-03-17` | [🔗 Stop thinking of AI as a coworker. It&#39;s an exoskeleton.](https://www.yellowduck.be/posts/stop-thinking-of-ai-as-a-coworker-its-an-exoskeleton)  
 
 <!-- BLOG-POST-LIST:END -->
