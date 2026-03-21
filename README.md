@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-21` | [🐥 Understanding Agent, GenServer, Task, and ETS in Elixir](https://www.yellowduck.be/posts/understanding-agent-genserver-task-and-ets-in-elixir)  
 - `2026-03-21` | [🔗 Responsive hexagon grid without media queries](https://www.yellowduck.be/posts/responsive-hexagon-grid-without-media-queries)  
 - `2026-03-21` | [🔗 Running PHP 8.5 with Laravel Octane and FrankenPHP](https://www.yellowduck.be/posts/running-php-8-5-with-laravel-octane-and-frankenphp)  
 - `2026-03-20` | [🔗 Fix a top cause of slow queries in PostgreSQL &lpar;no slow query log needed&rpar;](https://www.yellowduck.be/posts/fix-a-top-cause-of-slow-queries-in-postgresql-no-slow-query-log-needed)  
@@ -22,6 +23,5 @@
 - `2026-03-19` | [🔗 Five ways to make your ClickHouse® slow &lpar;and how to avoid them&rpar;](https://www.yellowduck.be/posts/five-ways-to-make-your-clickhouse-r-slow-and-how-to-avoid-them)  
 - `2026-03-19` | [🔗 We open-sourced our code audit as a Claude Code plugin](https://www.yellowduck.be/posts/we-open-sourced-our-code-audit-as-a-claude-code-plugin)  
 - `2026-03-18` | [🔗 Bridging Elixir and Python with Oban](https://www.yellowduck.be/posts/bridging-elixir-and-python-with-oban)  
-- `2026-03-18` | [🔗 Due diligence for AI-generated codebases](https://www.yellowduck.be/posts/due-diligence-for-ai-generated-codebases)  
 
 <!-- BLOG-POST-LIST:END -->
