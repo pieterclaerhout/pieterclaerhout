@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-22` | [🔗 Our 3-part series on SQL performance optimisations](https://www.yellowduck.be/posts/our-3-part-series-on-sql-performance-optimisations)  
 - `2026-03-22` | [🔗 Effective context engineering for AI agents](https://www.yellowduck.be/posts/effective-context-engineering-for-ai-agents)  
 - `2026-03-21` | [🐥 Understanding Agent, GenServer, Task, and ETS in Elixir](https://www.yellowduck.be/posts/understanding-agent-genserver-task-and-ets-in-elixir)  
 - `2026-03-21` | [🔗 Responsive hexagon grid without media queries](https://www.yellowduck.be/posts/responsive-hexagon-grid-without-media-queries)  
@@ -22,6 +23,5 @@
 - `2026-03-20` | [🔗 Laravel related content: semantic relationships using pgvector](https://www.yellowduck.be/posts/laravel-related-content-semantic-relationships-using-pgvector)  
 - `2026-03-19` | [🔗 Curiosum-dev/permit_phoenix: Phoenix, Plug and LiveView integrations for the permit authorization library](https://www.yellowduck.be/posts/curiosum-dev-permit-phoenix-phoenix-plug-and-liveview-integrations-for-the-permit-authorization-library)  
 - `2026-03-19` | [🔗 Five ways to make your ClickHouse® slow &lpar;and how to avoid them&rpar;](https://www.yellowduck.be/posts/five-ways-to-make-your-clickhouse-r-slow-and-how-to-avoid-them)  
-- `2026-03-19` | [🔗 We open-sourced our code audit as a Claude Code plugin](https://www.yellowduck.be/posts/we-open-sourced-our-code-audit-as-a-claude-code-plugin)  
 
 <!-- BLOG-POST-LIST:END -->
