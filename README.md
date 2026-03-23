@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-23` | [🔗 Places to telnet](https://www.yellowduck.be/posts/places-to-telnet)  
 - `2026-03-22` | [🔗 probably-not/safe-nif: Wrap your untrusted NIFs so that they can never crash your Node.js application](https://www.yellowduck.be/posts/probably-not-safe-nif-wrap-your-untrusted-nifs-so-that-they-can-never-crash-your-node-js-application)  
 - `2026-03-22` | [🔗 Our 3-part series on SQL performance optimisations](https://www.yellowduck.be/posts/our-3-part-series-on-sql-performance-optimisations)  
 - `2026-03-22` | [🔗 Effective context engineering for AI agents](https://www.yellowduck.be/posts/effective-context-engineering-for-ai-agents)  
@@ -22,6 +23,5 @@
 - `2026-03-20` | [🔗 Fix a top cause of slow queries in PostgreSQL &lpar;no slow query log needed&rpar;](https://www.yellowduck.be/posts/fix-a-top-cause-of-slow-queries-in-postgresql-no-slow-query-log-needed)  
 - `2026-03-20` | [🔗 Laravel AI SDK](https://www.yellowduck.be/posts/laravel-ai-sdk)  
 - `2026-03-20` | [🔗 Laravel related content: semantic relationships using pgvector](https://www.yellowduck.be/posts/laravel-related-content-semantic-relationships-using-pgvector)  
-- `2026-03-19` | [🔗 Curiosum-dev/permit_phoenix: Phoenix, Plug and LiveView integrations for the permit authorization library](https://www.yellowduck.be/posts/curiosum-dev-permit-phoenix-phoenix-plug-and-liveview-integrations-for-the-permit-authorization-library)  
 
 <!-- BLOG-POST-LIST:END -->
