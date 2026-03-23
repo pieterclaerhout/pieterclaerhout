@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-23` | [🐥 Making Oban workers reusable with job arguments](https://www.yellowduck.be/posts/making-oban-workers-reusable-with-job-arguments)  
 - `2026-03-23` | [🔗 How AI is quietly killing open source](https://www.yellowduck.be/posts/how-ai-is-quietly-killing-open-source)  
 - `2026-03-23` | [🔗 Places to telnet](https://www.yellowduck.be/posts/places-to-telnet)  
 - `2026-03-22` | [🔗 probably-not/safe-nif: Wrap your untrusted NIFs so that they can never crash your Node.js application](https://www.yellowduck.be/posts/probably-not-safe-nif-wrap-your-untrusted-nifs-so-that-they-can-never-crash-your-node-js-application)  
@@ -22,6 +23,5 @@
 - `2026-03-21` | [🔗 Responsive hexagon grid without media queries](https://www.yellowduck.be/posts/responsive-hexagon-grid-without-media-queries)  
 - `2026-03-21` | [🔗 Running PHP 8.5 with Laravel Octane and FrankenPHP](https://www.yellowduck.be/posts/running-php-8-5-with-laravel-octane-and-frankenphp)  
 - `2026-03-20` | [🔗 Fix a top cause of slow queries in PostgreSQL &lpar;no slow query log needed&rpar;](https://www.yellowduck.be/posts/fix-a-top-cause-of-slow-queries-in-postgresql-no-slow-query-log-needed)  
-- `2026-03-20` | [🔗 Laravel AI SDK](https://www.yellowduck.be/posts/laravel-ai-sdk)  
 
 <!-- BLOG-POST-LIST:END -->
