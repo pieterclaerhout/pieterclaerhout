@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-24` | [🔗 Use SQL triggers to prevent overwriting a value](https://www.yellowduck.be/posts/use-sql-triggers-to-prevent-overwriting-a-value)  
 - `2026-03-24` | [🔗 Choosing a language based on its syntax?](https://www.yellowduck.be/posts/choosing-a-language-based-on-its-syntax)  
 - `2026-03-23` | [🐥 Making Oban workers reusable with job arguments](https://www.yellowduck.be/posts/making-oban-workers-reusable-with-job-arguments)  
 - `2026-03-23` | [🔗 How AI is quietly killing open source](https://www.yellowduck.be/posts/how-ai-is-quietly-killing-open-source)  
@@ -22,6 +23,5 @@
 - `2026-03-22` | [🔗 Effective context engineering for AI agents](https://www.yellowduck.be/posts/effective-context-engineering-for-ai-agents)  
 - `2026-03-21` | [🐥 Understanding Agent, GenServer, Task, and ETS in Elixir](https://www.yellowduck.be/posts/understanding-agent-genserver-task-and-ets-in-elixir)  
 - `2026-03-21` | [🔗 Responsive hexagon grid without media queries](https://www.yellowduck.be/posts/responsive-hexagon-grid-without-media-queries)  
-- `2026-03-21` | [🔗 Running PHP 8.5 with Laravel Octane and FrankenPHP](https://www.yellowduck.be/posts/running-php-8-5-with-laravel-octane-and-frankenphp)  
 
 <!-- BLOG-POST-LIST:END -->
