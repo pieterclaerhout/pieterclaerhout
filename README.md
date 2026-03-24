@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-24` | [🔗 Thinking Elixir Podcast 296: OpenAI Chose Elixir and A VM Inside a VMV](https://www.yellowduck.be/posts/thinking-elixir-podcast-296-openai-chose-elixir-and-a-vm-inside-a-vmv)  
 - `2026-03-24` | [🔗 Use SQL triggers to prevent overwriting a value](https://www.yellowduck.be/posts/use-sql-triggers-to-prevent-overwriting-a-value)  
 - `2026-03-24` | [🔗 Choosing a language based on its syntax?](https://www.yellowduck.be/posts/choosing-a-language-based-on-its-syntax)  
 - `2026-03-23` | [🐥 Making Oban workers reusable with job arguments](https://www.yellowduck.be/posts/making-oban-workers-reusable-with-job-arguments)  
@@ -22,6 +23,5 @@
 - `2026-03-22` | [🔗 Our 3-part series on SQL performance optimisations](https://www.yellowduck.be/posts/our-3-part-series-on-sql-performance-optimisations)  
 - `2026-03-22` | [🔗 Effective context engineering for AI agents](https://www.yellowduck.be/posts/effective-context-engineering-for-ai-agents)  
 - `2026-03-21` | [🐥 Understanding Agent, GenServer, Task, and ETS in Elixir](https://www.yellowduck.be/posts/understanding-agent-genserver-task-and-ets-in-elixir)  
-- `2026-03-21` | [🔗 Responsive hexagon grid without media queries](https://www.yellowduck.be/posts/responsive-hexagon-grid-without-media-queries)  
 
 <!-- BLOG-POST-LIST:END -->
