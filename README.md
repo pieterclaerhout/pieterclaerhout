@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-25` | [🐥 Request validation in Phoenix: the Laravel FormRequest approach](https://www.yellowduck.be/posts/request-validation-in-phoenix-the-laravel-formrequest-approach)  
 - `2026-03-25` | [🔗 Git bisect for bug tracking](https://www.yellowduck.be/posts/git-bisect-for-bug-tracking)  
 - `2026-03-25` | [🔗 Supercharging Claude code with the right &lpar;CLI&rpar; tools](https://www.yellowduck.be/posts/supercharging-claude-code-with-the-right-cli-tools)  
 - `2026-03-24` | [🔗 Thinking Elixir Podcast 296: OpenAI Chose Elixir and A VM Inside a VMV](https://www.yellowduck.be/posts/thinking-elixir-podcast-296-openai-chose-elixir-and-a-vm-inside-a-vmv)  
@@ -22,6 +23,5 @@
 - `2026-03-23` | [🔗 How AI is quietly killing open source](https://www.yellowduck.be/posts/how-ai-is-quietly-killing-open-source)  
 - `2026-03-23` | [🔗 Places to telnet](https://www.yellowduck.be/posts/places-to-telnet)  
 - `2026-03-22` | [🔗 probably-not/safe-nif: Wrap your untrusted NIFs so that they can never crash your Node.js application](https://www.yellowduck.be/posts/probably-not-safe-nif-wrap-your-untrusted-nifs-so-that-they-can-never-crash-your-node-js-application)  
-- `2026-03-22` | [🔗 Our 3-part series on SQL performance optimisations](https://www.yellowduck.be/posts/our-3-part-series-on-sql-performance-optimisations)  
 
 <!-- BLOG-POST-LIST:END -->
