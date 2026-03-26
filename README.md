@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-26` | [🔗 The illusion of speed: When AI builds a Phoenix app in 30 minutes](https://www.yellowduck.be/posts/the-illusion-of-speed-when-ai-builds-a-phoenix-app-in-30-minutes)  
 - `2026-03-25` | [🐥 Request validation in Phoenix: the Laravel FormRequest approach](https://www.yellowduck.be/posts/request-validation-in-phoenix-the-laravel-formrequest-approach)  
 - `2026-03-25` | [🔗 Git bisect for bug tracking](https://www.yellowduck.be/posts/git-bisect-for-bug-tracking)  
 - `2026-03-25` | [🔗 Supercharging Claude code with the right &lpar;CLI&rpar; tools](https://www.yellowduck.be/posts/supercharging-claude-code-with-the-right-cli-tools)  
@@ -22,6 +23,5 @@
 - `2026-03-23` | [🐥 Making Oban workers reusable with job arguments](https://www.yellowduck.be/posts/making-oban-workers-reusable-with-job-arguments)  
 - `2026-03-23` | [🔗 How AI is quietly killing open source](https://www.yellowduck.be/posts/how-ai-is-quietly-killing-open-source)  
 - `2026-03-23` | [🔗 Places to telnet](https://www.yellowduck.be/posts/places-to-telnet)  
-- `2026-03-22` | [🔗 probably-not/safe-nif: Wrap your untrusted NIFs so that they can never crash your Node.js application](https://www.yellowduck.be/posts/probably-not-safe-nif-wrap-your-untrusted-nifs-so-that-they-can-never-crash-your-node-js-application)  
 
 <!-- BLOG-POST-LIST:END -->
