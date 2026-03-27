@@ -13,6 +13,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-27` | [🐥 Enforcing polymorphic integrity in PostgreSQL with num_nonnulls](https://www.yellowduck.be/posts/enforcing-polymorphic-integrity-in-postgresql-with-num-nonnulls)  
 - `2026-03-27` | [🔗 Pausing traffic and retrying in Caddy](https://www.yellowduck.be/posts/pausing-traffic-and-retrying-in-caddy)  
 - `2026-03-27` | [🔗 Building a weather agent with Jido](https://www.yellowduck.be/posts/building-a-weather-agent-with-jido)  
 - `2026-03-26` | [🔗 Row locks with joins can produce surprising results in PostgreSQL](https://www.yellowduck.be/posts/row-locks-with-joins-can-produce-surprising-results-in-postgresql)  
@@ -22,6 +23,5 @@
 - `2026-03-25` | [🔗 Git bisect for bug tracking](https://www.yellowduck.be/posts/git-bisect-for-bug-tracking)  
 - `2026-03-25` | [🔗 Supercharging Claude code with the right &lpar;CLI&rpar; tools](https://www.yellowduck.be/posts/supercharging-claude-code-with-the-right-cli-tools)  
 - `2026-03-24` | [🔗 Thinking Elixir Podcast 296: OpenAI Chose Elixir and A VM Inside a VMV](https://www.yellowduck.be/posts/thinking-elixir-podcast-296-openai-chose-elixir-and-a-vm-inside-a-vmv)  
-- `2026-03-24` | [🔗 Use SQL triggers to prevent overwriting a value](https://www.yellowduck.be/posts/use-sql-triggers-to-prevent-overwriting-a-value)  
 
 <!-- BLOG-POST-LIST:END -->
