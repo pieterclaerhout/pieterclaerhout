@@ -7,10 +7,6 @@
 - 😄 Pronouns: Pieter, Duckie, YellowDuck
 - 📫 How to reach me: pieter@yellowduck.be
 
-### My stats
-
-![pieterclaerhout's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pieterclaerhout&show_icons=true&count_private=true&line_height=40)
-
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
 - `2026-03-28` | [🔗 Nobody gets promoted for simplicity](https://www.yellowduck.be/posts/nobody-gets-promoted-for-simplicity)  
