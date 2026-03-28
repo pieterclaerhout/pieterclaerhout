@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-28` | [🔗 Easily connecting to BEAM nodes in Kubernetes with kubectl-beam](https://www.yellowduck.be/posts/easily-connecting-to-beam-nodes-in-kubernetes-with-kubectl-beam)  
 - `2026-03-28` | [🔗 Nobody gets promoted for simplicity](https://www.yellowduck.be/posts/nobody-gets-promoted-for-simplicity)  
 - `2026-03-27` | [🐥 Enforcing polymorphic integrity in PostgreSQL with num_nonnulls](https://www.yellowduck.be/posts/enforcing-polymorphic-integrity-in-postgresql-with-num-nonnulls)  
 - `2026-03-27` | [🔗 Pausing traffic and retrying in Caddy](https://www.yellowduck.be/posts/pausing-traffic-and-retrying-in-caddy)  
@@ -18,6 +19,5 @@
 - `2026-03-26` | [🔗 The illusion of speed: When AI builds a Phoenix app in 30 minutes](https://www.yellowduck.be/posts/the-illusion-of-speed-when-ai-builds-a-phoenix-app-in-30-minutes)  
 - `2026-03-25` | [🐥 Request validation in Phoenix: the Laravel FormRequest approach](https://www.yellowduck.be/posts/request-validation-in-phoenix-the-laravel-formrequest-approach)  
 - `2026-03-25` | [🔗 Git bisect for bug tracking](https://www.yellowduck.be/posts/git-bisect-for-bug-tracking)  
-- `2026-03-25` | [🔗 Supercharging Claude code with the right &lpar;CLI&rpar; tools](https://www.yellowduck.be/posts/supercharging-claude-code-with-the-right-cli-tools)  
 
 <!-- BLOG-POST-LIST:END -->
