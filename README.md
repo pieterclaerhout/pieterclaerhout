@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-29` | [🐥 Fixing a race condition in Oban job counting with telemetry](https://www.yellowduck.be/posts/fixing-a-race-condition-in-oban-job-counting-with-telemetry)  
 - `2026-03-29` | [🔗 Why I stopped using AI code editors](https://www.yellowduck.be/posts/why-i-stopped-using-ai-code-editors)  
 - `2026-03-29` | [🔗 Your agent framework is just a bad clone of Elixir: concurrency lessons from telecom to AI](https://www.yellowduck.be/posts/your-agent-framework-is-just-a-bad-clone-of-elixir-concurrency-lessons-from-telecom-to-ai)  
 - `2026-03-28` | [🐥 TIL: filtering GitHub PRs that are ready for review and not yours](https://www.yellowduck.be/posts/til-filtering-github-prs-that-are-ready-for-review-and-not-yours)  
@@ -18,6 +19,5 @@
 - `2026-03-27` | [🔗 Pausing traffic and retrying in Caddy](https://www.yellowduck.be/posts/pausing-traffic-and-retrying-in-caddy)  
 - `2026-03-27` | [🔗 Building a weather agent with Jido](https://www.yellowduck.be/posts/building-a-weather-agent-with-jido)  
 - `2026-03-26` | [🔗 Row locks with joins can produce surprising results in PostgreSQL](https://www.yellowduck.be/posts/row-locks-with-joins-can-produce-surprising-results-in-postgresql)  
-- `2026-03-26` | [🔗 The instance is up. or is it? Health checking in client-side vs server-side load balancing](https://www.yellowduck.be/posts/the-instance-is-up-or-is-it-health-checking-in-client-side-vs-server-side-load-balancing)  
 
 <!-- BLOG-POST-LIST:END -->
