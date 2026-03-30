@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-30` | [🔗 Batch inserts in SQL for large data loads](https://www.yellowduck.be/posts/batch-inserts-in-sql-for-large-data-loads)  
 - `2026-03-29` | [🐥 Fixing a race condition in Oban job counting with telemetry](https://www.yellowduck.be/posts/fixing-a-race-condition-in-oban-job-counting-with-telemetry)  
 - `2026-03-29` | [🔗 Why I stopped using AI code editors](https://www.yellowduck.be/posts/why-i-stopped-using-ai-code-editors)  
 - `2026-03-29` | [🔗 Your agent framework is just a bad clone of Elixir: concurrency lessons from telecom to AI](https://www.yellowduck.be/posts/your-agent-framework-is-just-a-bad-clone-of-elixir-concurrency-lessons-from-telecom-to-ai)  
@@ -18,6 +19,5 @@
 - `2026-03-27` | [🐥 Enforcing polymorphic integrity in PostgreSQL with num_nonnulls](https://www.yellowduck.be/posts/enforcing-polymorphic-integrity-in-postgresql-with-num-nonnulls)  
 - `2026-03-27` | [🔗 Pausing traffic and retrying in Caddy](https://www.yellowduck.be/posts/pausing-traffic-and-retrying-in-caddy)  
 - `2026-03-27` | [🔗 Building a weather agent with Jido](https://www.yellowduck.be/posts/building-a-weather-agent-with-jido)  
-- `2026-03-26` | [🔗 Row locks with joins can produce surprising results in PostgreSQL](https://www.yellowduck.be/posts/row-locks-with-joins-can-produce-surprising-results-in-postgresql)  
 
 <!-- BLOG-POST-LIST:END -->
