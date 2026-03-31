@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-03-31` | [🔗 Things I miss about Spring Boot after switching to Go](https://www.yellowduck.be/posts/things-i-miss-about-spring-boot-after-switching-to-go)  
 - `2026-03-30` | [🐥 A better way: Using mkcert for HTTPS in Phoenix on macOS](https://www.yellowduck.be/posts/a-better-way-using-mkcert-for-https-in-phoenix-on-macos)  
 - `2026-03-30` | [🔗 A minimalist HTTP library for Go](https://www.yellowduck.be/posts/zen)  
 - `2026-03-30` | [🔗 Batch inserts in SQL for large data loads](https://www.yellowduck.be/posts/batch-inserts-in-sql-for-large-data-loads)  
@@ -18,6 +19,5 @@
 - `2026-03-28` | [🐥 TIL: filtering GitHub PRs that are ready for review and not yours](https://www.yellowduck.be/posts/til-filtering-github-prs-that-are-ready-for-review-and-not-yours)  
 - `2026-03-28` | [🔗 Easily connecting to BEAM nodes in Kubernetes with kubectl-beam](https://www.yellowduck.be/posts/easily-connecting-to-beam-nodes-in-kubernetes-with-kubectl-beam)  
 - `2026-03-28` | [🔗 Nobody gets promoted for simplicity](https://www.yellowduck.be/posts/nobody-gets-promoted-for-simplicity)  
-- `2026-03-27` | [🐥 Enforcing polymorphic integrity in PostgreSQL with num_nonnulls](https://www.yellowduck.be/posts/enforcing-polymorphic-integrity-in-postgresql-with-num-nonnulls)  
 
 <!-- BLOG-POST-LIST:END -->
