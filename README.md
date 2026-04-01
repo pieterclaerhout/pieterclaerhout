@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-01` | [🔗 Using systemd units for Laravel cronjobs and background processes](https://www.yellowduck.be/posts/using-systemd-units-for-laravel-cronjobs-and-background-processes)  
 - `2026-03-31` | [🐥 Taming scrollbars in a Phoenix app](https://www.yellowduck.be/posts/taming-scrollbars-in-a-phoenix-app)  
 - `2026-03-31` | [🔗 Weaving stories with cascading workflows](https://www.yellowduck.be/posts/weaving-stories-with-cascading-workflows)  
 - `2026-03-31` | [🔗 Things I miss about Spring Boot after switching to Go](https://www.yellowduck.be/posts/things-i-miss-about-spring-boot-after-switching-to-go)  
@@ -18,6 +19,5 @@
 - `2026-03-29` | [🐥 Fixing a race condition in Oban job counting with telemetry](https://www.yellowduck.be/posts/fixing-a-race-condition-in-oban-job-counting-with-telemetry)  
 - `2026-03-29` | [🔗 Why I stopped using AI code editors](https://www.yellowduck.be/posts/why-i-stopped-using-ai-code-editors)  
 - `2026-03-29` | [🔗 Your agent framework is just a bad clone of Elixir: concurrency lessons from telecom to AI](https://www.yellowduck.be/posts/your-agent-framework-is-just-a-bad-clone-of-elixir-concurrency-lessons-from-telecom-to-ai)  
-- `2026-03-28` | [🐥 TIL: filtering GitHub PRs that are ready for review and not yours](https://www.yellowduck.be/posts/til-filtering-github-prs-that-are-ready-for-review-and-not-yours)  
 
 <!-- BLOG-POST-LIST:END -->
