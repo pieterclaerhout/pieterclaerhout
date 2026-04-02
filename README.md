@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-02` | [🐥 Installing Claude Code on macOS with Homebrew &lpar;and getting the latest version&rpar;](https://www.yellowduck.be/posts/installing-claude-code-on-macos-with-homebrew-and-getting-the-latest-version)  
 - `2026-04-02` | [🔗 Why use static closures?](https://www.yellowduck.be/posts/why-use-static-closures)  
 - `2026-04-02` | [🔗 Type systems are leaky abstractions: the case of Map.take!/2](https://www.yellowduck.be/posts/type-systems-are-leaky-abstractions-the-case-of-map-take-2)  
 - `2026-04-01` | [🔗 How do you know if you’re a good leader?](https://www.yellowduck.be/posts/how-do-you-know-if-youre-a-good-leader)  
@@ -18,6 +19,5 @@
 - `2026-03-31` | [🔗 Weaving stories with cascading workflows](https://www.yellowduck.be/posts/weaving-stories-with-cascading-workflows)  
 - `2026-03-31` | [🔗 Things I miss about Spring Boot after switching to Go](https://www.yellowduck.be/posts/things-i-miss-about-spring-boot-after-switching-to-go)  
 - `2026-03-30` | [🐥 A better way: Using mkcert for HTTPS in Phoenix on macOS](https://www.yellowduck.be/posts/a-better-way-using-mkcert-for-https-in-phoenix-on-macos)  
-- `2026-03-30` | [🔗 A minimalist HTTP library for Go](https://www.yellowduck.be/posts/zen)  
 
 <!-- BLOG-POST-LIST:END -->
