@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-02` | [🔗 Type systems are leaky abstractions: the case of Map.take!/2](https://www.yellowduck.be/posts/type-systems-are-leaky-abstractions-the-case-of-map-take-2)  
 - `2026-04-01` | [🔗 How do you know if you’re a good leader?](https://www.yellowduck.be/posts/how-do-you-know-if-youre-a-good-leader)  
 - `2026-04-01` | [🔗 Good software knows when to stop](https://www.yellowduck.be/posts/good-software-knows-when-to-stop)  
 - `2026-04-01` | [🔗 Using systemd units for Laravel cronjobs and background processes](https://www.yellowduck.be/posts/using-systemd-units-for-laravel-cronjobs-and-background-processes)  
@@ -18,6 +19,5 @@
 - `2026-03-30` | [🐥 A better way: Using mkcert for HTTPS in Phoenix on macOS](https://www.yellowduck.be/posts/a-better-way-using-mkcert-for-https-in-phoenix-on-macos)  
 - `2026-03-30` | [🔗 A minimalist HTTP library for Go](https://www.yellowduck.be/posts/zen)  
 - `2026-03-30` | [🔗 Batch inserts in SQL for large data loads](https://www.yellowduck.be/posts/batch-inserts-in-sql-for-large-data-loads)  
-- `2026-03-29` | [🐥 Fixing a race condition in Oban job counting with telemetry](https://www.yellowduck.be/posts/fixing-a-race-condition-in-oban-job-counting-with-telemetry)  
 
 <!-- BLOG-POST-LIST:END -->
