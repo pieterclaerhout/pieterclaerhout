@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-04` | [🔗 Using ClickHouse as a webhook endpoint with HMAC verification](https://www.yellowduck.be/posts/using-clickhouse-as-a-webhook-endpoint-with-hmac-verification)  
 - `2026-04-03` | [🔗 Re-Implementing the Google Reader API in 2025](https://www.yellowduck.be/posts/re-implementing-the-google-reader-api-in-2025)  
 - `2026-04-03` | [🔗 Thinking Elixir Podcast 297: JavaScript Joins the BEAM?](https://www.yellowduck.be/posts/thinking-elixir-podcast-297-javascript-joins-the-beam)  
 - `2026-04-03` | [🔗 AI should help us produce better code](https://www.yellowduck.be/posts/ai-should-help-us-produce-better-code)  
@@ -18,6 +19,5 @@
 - `2026-04-01` | [🔗 How do you know if you’re a good leader?](https://www.yellowduck.be/posts/how-do-you-know-if-youre-a-good-leader)  
 - `2026-04-01` | [🔗 Good software knows when to stop](https://www.yellowduck.be/posts/good-software-knows-when-to-stop)  
 - `2026-04-01` | [🔗 Using systemd units for Laravel cronjobs and background processes](https://www.yellowduck.be/posts/using-systemd-units-for-laravel-cronjobs-and-background-processes)  
-- `2026-03-31` | [🐥 Taming scrollbars in a Phoenix app](https://www.yellowduck.be/posts/taming-scrollbars-in-a-phoenix-app)  
 
 <!-- BLOG-POST-LIST:END -->
