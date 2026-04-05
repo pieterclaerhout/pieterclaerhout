@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-05` | [🔗 Elixir library for parsing the Accept-Language HTTP header](https://www.yellowduck.be/posts/elixir-library-for-parsing-the-accept-language-http-header)  
 - `2026-04-04` | [🔗 Why merge queues?](https://www.yellowduck.be/posts/why-merge-queues)  
 - `2026-04-04` | [🔗 Designing AI features that actually help users](https://www.yellowduck.be/posts/designing-ai-features-that-actually-help-users)  
 - `2026-04-04` | [🔗 Using ClickHouse as a webhook endpoint with HMAC verification](https://www.yellowduck.be/posts/using-clickhouse-as-a-webhook-endpoint-with-hmac-verification)  
@@ -18,6 +19,5 @@
 - `2026-04-02` | [🐥 Installing Claude Code on macOS with Homebrew &lpar;and getting the latest version&rpar;](https://www.yellowduck.be/posts/installing-claude-code-on-macos-with-homebrew-and-getting-the-latest-version)  
 - `2026-04-02` | [🔗 Why use static closures?](https://www.yellowduck.be/posts/why-use-static-closures)  
 - `2026-04-02` | [🔗 Type systems are leaky abstractions: the case of Map.take!/2](https://www.yellowduck.be/posts/type-systems-are-leaky-abstractions-the-case-of-map-take-2)  
-- `2026-04-01` | [🔗 How do you know if you’re a good leader?](https://www.yellowduck.be/posts/how-do-you-know-if-youre-a-good-leader)  
 
 <!-- BLOG-POST-LIST:END -->
