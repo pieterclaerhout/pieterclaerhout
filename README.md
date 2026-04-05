@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-05` | [🔗 Secure the AI SDLC with SonarQube CLI](https://www.yellowduck.be/posts/secure-the-ai-sdlc-with-sonarqube-cli)  
 - `2026-04-05` | [🔗 Principles for life &lpar;Dries Buytaert&rpar;](https://www.yellowduck.be/posts/principles-for-life)  
 - `2026-04-05` | [🔗 Elixir library for parsing the Accept-Language HTTP header](https://www.yellowduck.be/posts/elixir-library-for-parsing-the-accept-language-http-header)  
 - `2026-04-04` | [🔗 Why merge queues?](https://www.yellowduck.be/posts/why-merge-queues)  
@@ -18,6 +19,5 @@
 - `2026-04-03` | [🔗 Thinking Elixir Podcast 297: JavaScript Joins the BEAM?](https://www.yellowduck.be/posts/thinking-elixir-podcast-297-javascript-joins-the-beam)  
 - `2026-04-03` | [🔗 AI should help us produce better code](https://www.yellowduck.be/posts/ai-should-help-us-produce-better-code)  
 - `2026-04-02` | [🐥 Installing Claude Code on macOS with Homebrew &lpar;and getting the latest version&rpar;](https://www.yellowduck.be/posts/installing-claude-code-on-macos-with-homebrew-and-getting-the-latest-version)  
-- `2026-04-02` | [🔗 Why use static closures?](https://www.yellowduck.be/posts/why-use-static-closures)  
 
 <!-- BLOG-POST-LIST:END -->
