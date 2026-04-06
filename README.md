@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-06` | [🔗 Why I Love FreeBSD](https://www.yellowduck.be/posts/why-i-love-freebsd-it-notes)  
 - `2026-04-06` | [🔗 Erlang/OTP 28 highlights](https://www.yellowduck.be/posts/erlang-otp-28-highlights)  
 - `2026-04-06` | [🔗 When the shape is the contract: tuples, tagged tuples, and keywords](https://www.yellowduck.be/posts/when-the-shape-is-the-contract-tuples-tagged-tuples-and-keywords)  
 - `2026-04-05` | [🔗 Secure the AI SDLC with SonarQube CLI](https://www.yellowduck.be/posts/secure-the-ai-sdlc-with-sonarqube-cli)  
@@ -18,6 +19,5 @@
 - `2026-04-04` | [🔗 Designing AI features that actually help users](https://www.yellowduck.be/posts/designing-ai-features-that-actually-help-users)  
 - `2026-04-04` | [🔗 Using ClickHouse as a webhook endpoint with HMAC verification](https://www.yellowduck.be/posts/using-clickhouse-as-a-webhook-endpoint-with-hmac-verification)  
 - `2026-04-03` | [🔗 Re-Implementing the Google Reader API in 2025](https://www.yellowduck.be/posts/re-implementing-the-google-reader-api-in-2025)  
-- `2026-04-03` | [🔗 Thinking Elixir Podcast 297: JavaScript Joins the BEAM?](https://www.yellowduck.be/posts/thinking-elixir-podcast-297-javascript-joins-the-beam)  
 
 <!-- BLOG-POST-LIST:END -->
