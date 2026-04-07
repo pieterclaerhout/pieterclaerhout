@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-07` | [🔗 Thinking Elixir Podcast 298: Hex Gets a Glow Up](https://www.yellowduck.be/posts/thinking-elixir-podcast-298-hex-gets-a-glow-up)  
 - `2026-04-07` | [🔗 How moving one word can speed up a query 10–50x](https://www.yellowduck.be/posts/how-moving-one-word-can-speed-up-a-query-10-50x)  
 - `2026-04-07` | [🔗 Thoughts on slowing the fuck down](https://www.yellowduck.be/posts/thoughts-on-slowing-the-fuck-down)  
 - `2026-04-06` | [🔗 Why I Love FreeBSD](https://www.yellowduck.be/posts/why-i-love-freebsd-it-notes)  
@@ -18,6 +19,5 @@
 - `2026-04-05` | [🔗 Principles for life &lpar;Dries Buytaert&rpar;](https://www.yellowduck.be/posts/principles-for-life)  
 - `2026-04-05` | [🔗 Elixir library for parsing the Accept-Language HTTP header](https://www.yellowduck.be/posts/elixir-library-for-parsing-the-accept-language-http-header)  
 - `2026-04-04` | [🔗 Why merge queues?](https://www.yellowduck.be/posts/why-merge-queues)  
-- `2026-04-04` | [🔗 Designing AI features that actually help users](https://www.yellowduck.be/posts/designing-ai-features-that-actually-help-users)  
 
 <!-- BLOG-POST-LIST:END -->
