@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-08` | [🔗 I&#39;m using my engineering colleagues as my personal agents](https://www.yellowduck.be/posts/im-using-my-engineering-colleagues-as-my-personal-agents)  
 - `2026-04-08` | [🔗 Tech interviewing will always be broken](https://www.yellowduck.be/posts/tech-interviewing-will-always-be-broken)  
 - `2026-04-08` | [🔗 Jido 2.0 is now available](https://www.yellowduck.be/posts/jido-2-0-is-now-available)  
 - `2026-04-07` | [🔗 Thinking Elixir Podcast 298: Hex Gets a Glow Up](https://www.yellowduck.be/posts/thinking-elixir-podcast-298-hex-gets-a-glow-up)  
@@ -18,6 +19,5 @@
 - `2026-04-06` | [🔗 Erlang/OTP 28 highlights](https://www.yellowduck.be/posts/erlang-otp-28-highlights)  
 - `2026-04-06` | [🔗 When the shape is the contract: tuples, tagged tuples, and keywords](https://www.yellowduck.be/posts/when-the-shape-is-the-contract-tuples-tagged-tuples-and-keywords)  
 - `2026-04-05` | [🔗 Secure the AI SDLC with SonarQube CLI](https://www.yellowduck.be/posts/secure-the-ai-sdlc-with-sonarqube-cli)  
-- `2026-04-05` | [🔗 Principles for life &lpar;Dries Buytaert&rpar;](https://www.yellowduck.be/posts/principles-for-life)  
 
 <!-- BLOG-POST-LIST:END -->
