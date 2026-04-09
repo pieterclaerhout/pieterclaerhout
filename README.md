@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-09` | [🔗 How to instantly be better at things](https://www.yellowduck.be/posts/how-to-instantly-be-better-at-things)  
 - `2026-04-09` | [🔗 I Decompiled the White House&#39;s New App](https://www.yellowduck.be/posts/i-decompiled-the-white-houses-new-app)  
 - `2026-04-08` | [🔗 I&#39;m using my engineering colleagues as my personal agents](https://www.yellowduck.be/posts/im-using-my-engineering-colleagues-as-my-personal-agents)  
 - `2026-04-08` | [🔗 Tech interviewing will always be broken](https://www.yellowduck.be/posts/tech-interviewing-will-always-be-broken)  
@@ -18,6 +19,5 @@
 - `2026-04-07` | [🔗 Thoughts on slowing the fuck down](https://www.yellowduck.be/posts/thoughts-on-slowing-the-fuck-down)  
 - `2026-04-06` | [🔗 Why I Love FreeBSD](https://www.yellowduck.be/posts/why-i-love-freebsd-it-notes)  
 - `2026-04-06` | [🔗 Erlang/OTP 28 highlights](https://www.yellowduck.be/posts/erlang-otp-28-highlights)  
-- `2026-04-06` | [🔗 When the shape is the contract: tuples, tagged tuples, and keywords](https://www.yellowduck.be/posts/when-the-shape-is-the-contract-tuples-tagged-tuples-and-keywords)  
 
 <!-- BLOG-POST-LIST:END -->
