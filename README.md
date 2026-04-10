@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-10` | [🔗 9 advanced PostgreSQL features I wish I knew sooner](https://www.yellowduck.be/posts/9-advanced-postgresql-features-i-wish-i-knew-sooner)  
 - `2026-04-10` | [🔗 A Unix manifesto for the age of AI](https://www.yellowduck.be/posts/a-unix-manifesto-for-the-age-of-ai)  
 - `2026-04-10` | [🔗 The Value of Immutability in .NET](https://www.yellowduck.be/posts/the-value-of-immutability-in-net)  
 - `2026-04-09` | [🔗 Integrate frontend frameworks into your Phoenix LiveView app](https://www.yellowduck.be/posts/integrate-frontend-frameworks-into-your-phoenix-liveview-app)  
@@ -18,6 +19,5 @@
 - `2026-04-08` | [🔗 Tech interviewing will always be broken](https://www.yellowduck.be/posts/tech-interviewing-will-always-be-broken)  
 - `2026-04-08` | [🔗 Jido 2.0 is now available](https://www.yellowduck.be/posts/jido-2-0-is-now-available)  
 - `2026-04-07` | [🔗 Thinking Elixir Podcast 298: Hex Gets a Glow Up](https://www.yellowduck.be/posts/thinking-elixir-podcast-298-hex-gets-a-glow-up)  
-- `2026-04-07` | [🔗 How moving one word can speed up a query 10–50x](https://www.yellowduck.be/posts/how-moving-one-word-can-speed-up-a-query-10-50x)  
 
 <!-- BLOG-POST-LIST:END -->
