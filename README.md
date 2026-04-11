@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-11` | [🔗 AI is forcing us to write good code](https://www.yellowduck.be/posts/ai-is-forcing-us-to-write-good-code)  
 - `2026-04-10` | [🔗 9 advanced PostgreSQL features I wish I knew sooner](https://www.yellowduck.be/posts/9-advanced-postgresql-features-i-wish-i-knew-sooner)  
 - `2026-04-10` | [🔗 A Unix manifesto for the age of AI](https://www.yellowduck.be/posts/a-unix-manifesto-for-the-age-of-ai)  
 - `2026-04-10` | [🔗 The Value of Immutability in .NET](https://www.yellowduck.be/posts/the-value-of-immutability-in-net)  
@@ -18,6 +19,5 @@
 - `2026-04-08` | [🔗 I&#39;m using my engineering colleagues as my personal agents](https://www.yellowduck.be/posts/im-using-my-engineering-colleagues-as-my-personal-agents)  
 - `2026-04-08` | [🔗 Tech interviewing will always be broken](https://www.yellowduck.be/posts/tech-interviewing-will-always-be-broken)  
 - `2026-04-08` | [🔗 Jido 2.0 is now available](https://www.yellowduck.be/posts/jido-2-0-is-now-available)  
-- `2026-04-07` | [🔗 Thinking Elixir Podcast 298: Hex Gets a Glow Up](https://www.yellowduck.be/posts/thinking-elixir-podcast-298-hex-gets-a-glow-up)  
 
 <!-- BLOG-POST-LIST:END -->
