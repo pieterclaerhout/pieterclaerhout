@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-12` | [🔗 Claude Skill incoming! Generating Postman collections with AI](https://www.yellowduck.be/posts/claude-skill-incoming-generating-postman-collections-with-ai)  
 - `2026-04-12` | [🔗 Good CTE, bad CTE](https://www.yellowduck.be/posts/good-cte-bad-cte)  
 - `2026-04-12` | [🔗 Building a blog with Elixir and Phoenix](https://www.yellowduck.be/posts/building-a-blog-with-elixir-and-phoenix)  
 - `2026-04-11` | [🔗 Two soups, two cookies](https://www.yellowduck.be/posts/two-soups-two-cookies)  
@@ -18,6 +19,5 @@
 - `2026-04-10` | [🔗 A Unix manifesto for the age of AI](https://www.yellowduck.be/posts/a-unix-manifesto-for-the-age-of-ai)  
 - `2026-04-10` | [🔗 The Value of Immutability in .NET](https://www.yellowduck.be/posts/the-value-of-immutability-in-net)  
 - `2026-04-09` | [🔗 Integrate frontend frameworks into your Phoenix LiveView app](https://www.yellowduck.be/posts/integrate-frontend-frameworks-into-your-phoenix-liveview-app)  
-- `2026-04-09` | [🔗 How to instantly be better at things](https://www.yellowduck.be/posts/how-to-instantly-be-better-at-things)  
 
 <!-- BLOG-POST-LIST:END -->
