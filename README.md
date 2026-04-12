@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-12` | [🔗 Good CTE, bad CTE](https://www.yellowduck.be/posts/good-cte-bad-cte)  
 - `2026-04-12` | [🔗 Building a blog with Elixir and Phoenix](https://www.yellowduck.be/posts/building-a-blog-with-elixir-and-phoenix)  
 - `2026-04-11` | [🔗 Two soups, two cookies](https://www.yellowduck.be/posts/two-soups-two-cookies)  
 - `2026-04-11` | [🔗 Getting started with Paraxial.io for Elixir](https://www.yellowduck.be/posts/getting-started-with-paraxial-io-free-tier)  
@@ -18,6 +19,5 @@
 - `2026-04-10` | [🔗 The Value of Immutability in .NET](https://www.yellowduck.be/posts/the-value-of-immutability-in-net)  
 - `2026-04-09` | [🔗 Integrate frontend frameworks into your Phoenix LiveView app](https://www.yellowduck.be/posts/integrate-frontend-frameworks-into-your-phoenix-liveview-app)  
 - `2026-04-09` | [🔗 How to instantly be better at things](https://www.yellowduck.be/posts/how-to-instantly-be-better-at-things)  
-- `2026-04-09` | [🔗 I Decompiled the White House&#39;s New App](https://www.yellowduck.be/posts/i-decompiled-the-white-houses-new-app)  
 
 <!-- BLOG-POST-LIST:END -->
