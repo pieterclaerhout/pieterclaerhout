@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-13` | [🔗 Fixing full recompiles of Elixir caused by Claude code](https://www.yellowduck.be/posts/fixing-full-recompiles-of-elixir-caused-by-claude-code)  
 - `2026-04-13` | [🔗 Slow down to speed up](https://www.yellowduck.be/posts/slow-down-to-speed-up)  
 - `2026-04-12` | [🔗 Claude Skill incoming! Generating Postman collections with AI](https://www.yellowduck.be/posts/claude-skill-incoming-generating-postman-collections-with-ai)  
 - `2026-04-12` | [🔗 Good CTE, bad CTE](https://www.yellowduck.be/posts/good-cte-bad-cte)  
@@ -18,6 +19,5 @@
 - `2026-04-11` | [🔗 AI is forcing us to write good code](https://www.yellowduck.be/posts/ai-is-forcing-us-to-write-good-code)  
 - `2026-04-10` | [🔗 9 advanced PostgreSQL features I wish I knew sooner](https://www.yellowduck.be/posts/9-advanced-postgresql-features-i-wish-i-knew-sooner)  
 - `2026-04-10` | [🔗 A Unix manifesto for the age of AI](https://www.yellowduck.be/posts/a-unix-manifesto-for-the-age-of-ai)  
-- `2026-04-10` | [🔗 The Value of Immutability in .NET](https://www.yellowduck.be/posts/the-value-of-immutability-in-net)  
 
 <!-- BLOG-POST-LIST:END -->
