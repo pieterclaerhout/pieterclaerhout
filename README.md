@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-14` | [🔗 Spec-driven development: From vibe coding to structured development](https://www.yellowduck.be/posts/spec-driven-development-from-vibe-coding-to-structured-development)  
 - `2026-04-13` | [🔗 18 months of code, gone. Here&#39;s what we learned.](https://www.yellowduck.be/posts/18-months-of-code-gone-heres-what-we-learned)  
 - `2026-04-13` | [🔗 Fixing full recompiles of Elixir caused by Claude code](https://www.yellowduck.be/posts/fixing-full-recompiles-of-elixir-caused-by-claude-code)  
 - `2026-04-13` | [🔗 Slow down to speed up](https://www.yellowduck.be/posts/slow-down-to-speed-up)  
@@ -18,6 +19,5 @@
 - `2026-04-11` | [🔗 Two soups, two cookies](https://www.yellowduck.be/posts/two-soups-two-cookies)  
 - `2026-04-11` | [🔗 Getting started with Paraxial.io for Elixir](https://www.yellowduck.be/posts/getting-started-with-paraxial-io-free-tier)  
 - `2026-04-11` | [🔗 AI is forcing us to write good code](https://www.yellowduck.be/posts/ai-is-forcing-us-to-write-good-code)  
-- `2026-04-10` | [🔗 9 advanced PostgreSQL features I wish I knew sooner](https://www.yellowduck.be/posts/9-advanced-postgresql-features-i-wish-i-knew-sooner)  
 
 <!-- BLOG-POST-LIST:END -->
