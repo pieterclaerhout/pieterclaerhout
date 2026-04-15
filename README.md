@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-15` | [🔗 The 2-minute Claude code upgrade you&#39;re probably missing: LSP](https://www.yellowduck.be/posts/the-2-minute-claude-code-upgrade-youre-probably-missing-lsp)  
 - `2026-04-15` | [🔗 How to optimize SonarQube for reviewing AI-generated code](https://www.yellowduck.be/posts/how-to-optimize-sonarqube-for-reviewing-ai-generated-code)  
 - `2026-04-14` | [🔗 The part of the SDLC nobody talks about, and many companies don’t do properly](https://www.yellowduck.be/posts/the-part-of-the-sdlc-nobody-talks-about-and-many-companies-dont-do-properly)  
 - `2026-04-14` | [🔗 AshTypescript Typed Channels](https://www.yellowduck.be/posts/ashtypescript-typed-channels)  
@@ -18,6 +19,5 @@
 - `2026-04-13` | [🔗 Slow down to speed up](https://www.yellowduck.be/posts/slow-down-to-speed-up)  
 - `2026-04-12` | [🔗 Claude Skill incoming! Generating Postman collections with AI](https://www.yellowduck.be/posts/claude-skill-incoming-generating-postman-collections-with-ai)  
 - `2026-04-12` | [🔗 Good CTE, bad CTE](https://www.yellowduck.be/posts/good-cte-bad-cte)  
-- `2026-04-12` | [🔗 Building a blog with Elixir and Phoenix](https://www.yellowduck.be/posts/building-a-blog-with-elixir-and-phoenix)  
 
 <!-- BLOG-POST-LIST:END -->
