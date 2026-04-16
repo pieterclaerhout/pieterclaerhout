@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-16` | [🔗 Google Sheets integration: Elixir data management guide](https://www.yellowduck.be/posts/google-sheets-integration-elixir-data-management-guide)  
 - `2026-04-15` | [🔗 Thinking Elixir Podcast 299: Don&#39;t Paste That Into Your Terminal](https://www.yellowduck.be/posts/thinking-elixir-podcast-299-dont-paste-that-into-your-terminal)  
 - `2026-04-15` | [🔗 The 2-minute Claude code upgrade you&#39;re probably missing: LSP](https://www.yellowduck.be/posts/the-2-minute-claude-code-upgrade-youre-probably-missing-lsp)  
 - `2026-04-15` | [🔗 How to optimize SonarQube for reviewing AI-generated code](https://www.yellowduck.be/posts/how-to-optimize-sonarqube-for-reviewing-ai-generated-code)  
@@ -18,6 +19,5 @@
 - `2026-04-13` | [🔗 18 months of code, gone. Here&#39;s what we learned.](https://www.yellowduck.be/posts/18-months-of-code-gone-heres-what-we-learned)  
 - `2026-04-13` | [🔗 Fixing full recompiles of Elixir caused by Claude code](https://www.yellowduck.be/posts/fixing-full-recompiles-of-elixir-caused-by-claude-code)  
 - `2026-04-13` | [🔗 Slow down to speed up](https://www.yellowduck.be/posts/slow-down-to-speed-up)  
-- `2026-04-12` | [🔗 Claude Skill incoming! Generating Postman collections with AI](https://www.yellowduck.be/posts/claude-skill-incoming-generating-postman-collections-with-ai)  
 
 <!-- BLOG-POST-LIST:END -->
