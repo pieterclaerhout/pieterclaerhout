@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-17` | [🔗 SFQ: Simple, Stateless, Stochastic Fairness](https://www.yellowduck.be/posts/sfq-simple-stateless-stochastic-fairness)  
 - `2026-04-17` | [🔗 AI and the Ship of Theseus](https://www.yellowduck.be/posts/ai-and-the-ship-of-theseus-armin-ronachers-thoughts-and-writings)  
 - `2026-04-17` | [🔗 AI code review tools: what works, what doesn&#39;t, and how to set it up](https://www.yellowduck.be/posts/ai-code-review-tools-what-works-what-doesnt-and-how-to-set-it-up)  
 - `2026-04-16` | [🔗 Writing a PDF parser in PHP from scratch](https://www.yellowduck.be/posts/writing-a-pdf-parser-in-php-from-scratch)  
@@ -18,6 +19,5 @@
 - `2026-04-15` | [🔗 The 2-minute Claude code upgrade you&#39;re probably missing: LSP](https://www.yellowduck.be/posts/the-2-minute-claude-code-upgrade-youre-probably-missing-lsp)  
 - `2026-04-15` | [🔗 How to optimize SonarQube for reviewing AI-generated code](https://www.yellowduck.be/posts/how-to-optimize-sonarqube-for-reviewing-ai-generated-code)  
 - `2026-04-14` | [🔗 The part of the SDLC nobody talks about, and many companies don’t do properly](https://www.yellowduck.be/posts/the-part-of-the-sdlc-nobody-talks-about-and-many-companies-dont-do-properly)  
-- `2026-04-14` | [🔗 AshTypescript Typed Channels](https://www.yellowduck.be/posts/ashtypescript-typed-channels)  
 
 <!-- BLOG-POST-LIST:END -->
