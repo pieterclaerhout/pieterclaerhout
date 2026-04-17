@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-17` | [🔗 AI code review tools: what works, what doesn&#39;t, and how to set it up](https://www.yellowduck.be/posts/ai-code-review-tools-what-works-what-doesnt-and-how-to-set-it-up)  
 - `2026-04-16` | [🔗 Writing a PDF parser in PHP from scratch](https://www.yellowduck.be/posts/writing-a-pdf-parser-in-php-from-scratch)  
 - `2026-04-16` | [🔗 Think of Pavlov](https://www.yellowduck.be/posts/think-of-pavlov)  
 - `2026-04-16` | [🔗 Google Sheets integration: Elixir data management guide](https://www.yellowduck.be/posts/google-sheets-integration-elixir-data-management-guide)  
@@ -18,6 +19,5 @@
 - `2026-04-14` | [🔗 The part of the SDLC nobody talks about, and many companies don’t do properly](https://www.yellowduck.be/posts/the-part-of-the-sdlc-nobody-talks-about-and-many-companies-dont-do-properly)  
 - `2026-04-14` | [🔗 AshTypescript Typed Channels](https://www.yellowduck.be/posts/ashtypescript-typed-channels)  
 - `2026-04-14` | [🔗 Spec-driven development: From vibe coding to structured development](https://www.yellowduck.be/posts/spec-driven-development-from-vibe-coding-to-structured-development)  
-- `2026-04-13` | [🔗 18 months of code, gone. Here&#39;s what we learned.](https://www.yellowduck.be/posts/18-months-of-code-gone-heres-what-we-learned)  
 
 <!-- BLOG-POST-LIST:END -->
