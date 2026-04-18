@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-18` | [🔗 Production query plans without production data](https://www.yellowduck.be/posts/production-query-plans-without-production-data)  
 - `2026-04-18` | [🔗 mickamy/sql-tap: Watch SQL traffic in real-time with a TUI](https://www.yellowduck.be/posts/mickamy-sql-tap-watch-sql-traffic-in-real-time-with-a-tui)  
 - `2026-04-17` | [🔗 SFQ: Simple, Stateless, Stochastic Fairness](https://www.yellowduck.be/posts/sfq-simple-stateless-stochastic-fairness)  
 - `2026-04-17` | [🔗 AI and the Ship of Theseus](https://www.yellowduck.be/posts/ai-and-the-ship-of-theseus-armin-ronachers-thoughts-and-writings)  
@@ -18,6 +19,5 @@
 - `2026-04-16` | [🔗 Google Sheets integration: Elixir data management guide](https://www.yellowduck.be/posts/google-sheets-integration-elixir-data-management-guide)  
 - `2026-04-15` | [🔗 Thinking Elixir Podcast 299: Don&#39;t Paste That Into Your Terminal](https://www.yellowduck.be/posts/thinking-elixir-podcast-299-dont-paste-that-into-your-terminal)  
 - `2026-04-15` | [🔗 The 2-minute Claude code upgrade you&#39;re probably missing: LSP](https://www.yellowduck.be/posts/the-2-minute-claude-code-upgrade-youre-probably-missing-lsp)  
-- `2026-04-15` | [🔗 How to optimize SonarQube for reviewing AI-generated code](https://www.yellowduck.be/posts/how-to-optimize-sonarqube-for-reviewing-ai-generated-code)  
 
 <!-- BLOG-POST-LIST:END -->
