@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-19` | [🔗 What is Claude Code&#39;s AskUserQuestion tool?](https://www.yellowduck.be/posts/what-is-claude-codes-askuserquestion-tool)  
 - `2026-04-19` | [🔗 Comprehension debt - the hidden cost of AI generated code](https://www.yellowduck.be/posts/comprehension-debt-the-hidden-cost-of-ai-generated-code)  
 - `2026-04-19` | [🔗 11 software development best practices in 2026](https://www.yellowduck.be/posts/11-software-development-best-practices-in-2026)  
 - `2026-04-18` | [🔗 Tower 16 for Mac &lpar;Beta&rpar; — Introducing AI commits ✨](https://www.yellowduck.be/posts/tower-16-for-mac-beta-introducing-ai-commits)  
@@ -18,6 +19,5 @@
 - `2026-04-17` | [🔗 AI and the Ship of Theseus](https://www.yellowduck.be/posts/ai-and-the-ship-of-theseus-armin-ronachers-thoughts-and-writings)  
 - `2026-04-17` | [🔗 AI code review tools: what works, what doesn&#39;t, and how to set it up](https://www.yellowduck.be/posts/ai-code-review-tools-what-works-what-doesnt-and-how-to-set-it-up)  
 - `2026-04-16` | [🔗 Writing a PDF parser in PHP from scratch](https://www.yellowduck.be/posts/writing-a-pdf-parser-in-php-from-scratch)  
-- `2026-04-16` | [🔗 Think of Pavlov](https://www.yellowduck.be/posts/think-of-pavlov)  
 
 <!-- BLOG-POST-LIST:END -->
