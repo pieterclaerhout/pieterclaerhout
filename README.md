@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-20` | [🔗 Software engineer interviews for the age of AI](https://www.yellowduck.be/posts/software-engineer-interviews-for-the-age-of-ai)  
 - `2026-04-20` | [🔗 AshEvents: Event sourcing made simple for Ash framework](https://www.yellowduck.be/posts/ashevents-event-sourcing-made-simple-for-ash-framework)  
 - `2026-04-19` | [🔗 What is Claude Code&#39;s AskUserQuestion tool?](https://www.yellowduck.be/posts/what-is-claude-codes-askuserquestion-tool)  
 - `2026-04-19` | [🔗 Comprehension debt - the hidden cost of AI generated code](https://www.yellowduck.be/posts/comprehension-debt-the-hidden-cost-of-ai-generated-code)  
@@ -18,6 +19,5 @@
 - `2026-04-18` | [🔗 mickamy/sql-tap: Watch SQL traffic in real-time with a TUI](https://www.yellowduck.be/posts/mickamy-sql-tap-watch-sql-traffic-in-real-time-with-a-tui)  
 - `2026-04-17` | [🔗 SFQ: Simple, Stateless, Stochastic Fairness](https://www.yellowduck.be/posts/sfq-simple-stateless-stochastic-fairness)  
 - `2026-04-17` | [🔗 AI and the Ship of Theseus](https://www.yellowduck.be/posts/ai-and-the-ship-of-theseus-armin-ronachers-thoughts-and-writings)  
-- `2026-04-17` | [🔗 AI code review tools: what works, what doesn&#39;t, and how to set it up](https://www.yellowduck.be/posts/ai-code-review-tools-what-works-what-doesnt-and-how-to-set-it-up)  
 
 <!-- BLOG-POST-LIST:END -->
