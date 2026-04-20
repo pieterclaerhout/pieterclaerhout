@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-20` | [🔗 AshEvents: Event sourcing made simple for Ash framework](https://www.yellowduck.be/posts/ashevents-event-sourcing-made-simple-for-ash-framework)  
 - `2026-04-19` | [🔗 What is Claude Code&#39;s AskUserQuestion tool?](https://www.yellowduck.be/posts/what-is-claude-codes-askuserquestion-tool)  
 - `2026-04-19` | [🔗 Comprehension debt - the hidden cost of AI generated code](https://www.yellowduck.be/posts/comprehension-debt-the-hidden-cost-of-ai-generated-code)  
 - `2026-04-19` | [🔗 11 software development best practices in 2026](https://www.yellowduck.be/posts/11-software-development-best-practices-in-2026)  
@@ -18,6 +19,5 @@
 - `2026-04-17` | [🔗 SFQ: Simple, Stateless, Stochastic Fairness](https://www.yellowduck.be/posts/sfq-simple-stateless-stochastic-fairness)  
 - `2026-04-17` | [🔗 AI and the Ship of Theseus](https://www.yellowduck.be/posts/ai-and-the-ship-of-theseus-armin-ronachers-thoughts-and-writings)  
 - `2026-04-17` | [🔗 AI code review tools: what works, what doesn&#39;t, and how to set it up](https://www.yellowduck.be/posts/ai-code-review-tools-what-works-what-doesnt-and-how-to-set-it-up)  
-- `2026-04-16` | [🔗 Writing a PDF parser in PHP from scratch](https://www.yellowduck.be/posts/writing-a-pdf-parser-in-php-from-scratch)  
 
 <!-- BLOG-POST-LIST:END -->
