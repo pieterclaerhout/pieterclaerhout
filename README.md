@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-21` | [🔗 Thinking Elixir Podcast 300: Celebrating 300 with José Valim](https://www.yellowduck.be/posts/thinking-elixir-podcast-300-celebrating-300-with-jose-valim)  
 - `2026-04-21` | [🔗 How I&#39;m Productive with Claude Code](https://www.yellowduck.be/posts/how-im-productive-with-claude-code)  
 - `2026-04-21` | [🔗 MrPopov :: Python React to Elixir Phoenix Migration Breakdown](https://www.yellowduck.be/posts/mrpopov-python-react-to-elixir-phoenix-migration-breakdown)  
 - `2026-04-20` | [🔗 The 8 levels of agentic engineering](https://www.yellowduck.be/posts/the-8-levels-of-agentic-engineering)  
@@ -18,6 +19,5 @@
 - `2026-04-19` | [🔗 Comprehension debt - the hidden cost of AI generated code](https://www.yellowduck.be/posts/comprehension-debt-the-hidden-cost-of-ai-generated-code)  
 - `2026-04-19` | [🔗 11 software development best practices in 2026](https://www.yellowduck.be/posts/11-software-development-best-practices-in-2026)  
 - `2026-04-18` | [🔗 Tower 16 for Mac &lpar;Beta&rpar; — Introducing AI commits ✨](https://www.yellowduck.be/posts/tower-16-for-mac-beta-introducing-ai-commits)  
-- `2026-04-18` | [🔗 Production query plans without production data](https://www.yellowduck.be/posts/production-query-plans-without-production-data)  
 
 <!-- BLOG-POST-LIST:END -->
