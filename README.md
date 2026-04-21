@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-21` | [🔗 How I&#39;m Productive with Claude Code](https://www.yellowduck.be/posts/how-im-productive-with-claude-code)  
 - `2026-04-21` | [🔗 MrPopov :: Python React to Elixir Phoenix Migration Breakdown](https://www.yellowduck.be/posts/mrpopov-python-react-to-elixir-phoenix-migration-breakdown)  
 - `2026-04-20` | [🔗 The 8 levels of agentic engineering](https://www.yellowduck.be/posts/the-8-levels-of-agentic-engineering)  
 - `2026-04-20` | [🔗 Software engineer interviews for the age of AI](https://www.yellowduck.be/posts/software-engineer-interviews-for-the-age-of-ai)  
@@ -18,6 +19,5 @@
 - `2026-04-19` | [🔗 11 software development best practices in 2026](https://www.yellowduck.be/posts/11-software-development-best-practices-in-2026)  
 - `2026-04-18` | [🔗 Tower 16 for Mac &lpar;Beta&rpar; — Introducing AI commits ✨](https://www.yellowduck.be/posts/tower-16-for-mac-beta-introducing-ai-commits)  
 - `2026-04-18` | [🔗 Production query plans without production data](https://www.yellowduck.be/posts/production-query-plans-without-production-data)  
-- `2026-04-18` | [🔗 mickamy/sql-tap: Watch SQL traffic in real-time with a TUI](https://www.yellowduck.be/posts/mickamy-sql-tap-watch-sql-traffic-in-real-time-with-a-tui)  
 
 <!-- BLOG-POST-LIST:END -->
