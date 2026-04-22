@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-22` | [🔗 AI is writing our code faster than we can verify it](https://www.yellowduck.be/posts/ai-is-writing-our-code-faster-than-we-can-verify-it)  
 - `2026-04-22` | [🔗 Thoughts and Feelings around Claude Design](https://www.yellowduck.be/posts/thoughts-and-feelings-around-claude-design)  
 - `2026-04-22` | [🔗 Hosting PR previews on GitHub Pages for free](https://www.yellowduck.be/posts/hosting-pr-previews-on-github-pages-for-free)  
 - `2026-04-21` | [🔗 Thinking Elixir Podcast 300: Celebrating 300 with José Valim](https://www.yellowduck.be/posts/thinking-elixir-podcast-300-celebrating-300-with-jose-valim)  
@@ -18,6 +19,5 @@
 - `2026-04-20` | [🔗 Software engineer interviews for the age of AI](https://www.yellowduck.be/posts/software-engineer-interviews-for-the-age-of-ai)  
 - `2026-04-20` | [🔗 AshEvents: Event sourcing made simple for Ash framework](https://www.yellowduck.be/posts/ashevents-event-sourcing-made-simple-for-ash-framework)  
 - `2026-04-19` | [🔗 What is Claude Code&#39;s AskUserQuestion tool?](https://www.yellowduck.be/posts/what-is-claude-codes-askuserquestion-tool)  
-- `2026-04-19` | [🔗 Comprehension debt - the hidden cost of AI generated code](https://www.yellowduck.be/posts/comprehension-debt-the-hidden-cost-of-ai-generated-code)  
 
 <!-- BLOG-POST-LIST:END -->
