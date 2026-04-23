@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-23` | [🔗 Samly SAML Single-Sign-On for Elixir Phoenix](https://www.yellowduck.be/posts/samly-saml-single-sign-on-for-elixir-phoenix)  
 - `2026-04-23` | [🔗 Encoding Team Standards](https://www.yellowduck.be/posts/encoding-team-standards)  
 - `2026-04-23` | [🔗 Different flavors of content management](https://www.yellowduck.be/posts/different-flavors-of-content-management)  
 - `2026-04-22` | [🔗 AI is writing our code faster than we can verify it](https://www.yellowduck.be/posts/ai-is-writing-our-code-faster-than-we-can-verify-it)  
@@ -18,6 +19,5 @@
 - `2026-04-21` | [🔗 How I&#39;m Productive with Claude Code](https://www.yellowduck.be/posts/how-im-productive-with-claude-code)  
 - `2026-04-21` | [🔗 MrPopov :: Python React to Elixir Phoenix Migration Breakdown](https://www.yellowduck.be/posts/mrpopov-python-react-to-elixir-phoenix-migration-breakdown)  
 - `2026-04-20` | [🔗 The 8 levels of agentic engineering](https://www.yellowduck.be/posts/the-8-levels-of-agentic-engineering)  
-- `2026-04-20` | [🔗 Software engineer interviews for the age of AI](https://www.yellowduck.be/posts/software-engineer-interviews-for-the-age-of-ai)  
 
 <!-- BLOG-POST-LIST:END -->
