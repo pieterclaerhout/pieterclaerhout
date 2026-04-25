@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-25` | [🔗 Comparison of AI models across intelligence, performance, and price](https://www.yellowduck.be/posts/comparison-of-ai-models-across-intelligence-performance-and-price)  
 - `2026-04-25` | [🔗 chenglou/pretext: Fast, accurate &amp; comprehensive text measurement &amp; layout](https://www.yellowduck.be/posts/chenglou-pretext-fast-accurate-comprehensive-text-measurement-layout)  
 - `2026-04-24` | [🐥 Upgrading firebase/php-jwt to v7 in a Laravel App &lpar;transitive dependency trap&rpar;](https://www.yellowduck.be/posts/upgrading-firebase-php-jwt-to-v7-in-a-laravel-app-transitive-dependency-trap)  
 - `2026-04-24` | [🔗 Learning Elixir: error handling basics](https://www.yellowduck.be/posts/learning-elixir-error-handling-basics)  
@@ -18,6 +19,5 @@
 - `2026-04-23` | [🔗 Different flavors of content management](https://www.yellowduck.be/posts/different-flavors-of-content-management)  
 - `2026-04-22` | [🔗 AI is writing our code faster than we can verify it](https://www.yellowduck.be/posts/ai-is-writing-our-code-faster-than-we-can-verify-it)  
 - `2026-04-22` | [🔗 Thoughts and Feelings around Claude Design](https://www.yellowduck.be/posts/thoughts-and-feelings-around-claude-design)  
-- `2026-04-22` | [🔗 Hosting PR previews on GitHub Pages for free](https://www.yellowduck.be/posts/hosting-pr-previews-on-github-pages-for-free)  
 
 <!-- BLOG-POST-LIST:END -->
