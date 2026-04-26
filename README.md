@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-26` | [🔗 Typst Examples Book](https://www.yellowduck.be/posts/typst-examples-book)  
 - `2026-04-25` | [🔗 Your context module has 30 query functions. It needs five.](https://www.yellowduck.be/posts/your-context-module-has-30-query-functions-it-needs-five)  
 - `2026-04-25` | [🔗 Comparison of AI models across intelligence, performance, and price](https://www.yellowduck.be/posts/comparison-of-ai-models-across-intelligence-performance-and-price)  
 - `2026-04-25` | [🔗 chenglou/pretext: Fast, accurate &amp; comprehensive text measurement &amp; layout](https://www.yellowduck.be/posts/chenglou-pretext-fast-accurate-comprehensive-text-measurement-layout)  
@@ -18,6 +19,5 @@
 - `2026-04-23` | [🔗 Samly SAML Single-Sign-On for Elixir Phoenix](https://www.yellowduck.be/posts/samly-saml-single-sign-on-for-elixir-phoenix)  
 - `2026-04-23` | [🔗 Encoding Team Standards](https://www.yellowduck.be/posts/encoding-team-standards)  
 - `2026-04-23` | [🔗 Different flavors of content management](https://www.yellowduck.be/posts/different-flavors-of-content-management)  
-- `2026-04-22` | [🔗 AI is writing our code faster than we can verify it](https://www.yellowduck.be/posts/ai-is-writing-our-code-faster-than-we-can-verify-it)  
 
 <!-- BLOG-POST-LIST:END -->
