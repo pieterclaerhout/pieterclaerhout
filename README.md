@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-26` | [🔗 Overcoming AI anxiety](https://www.yellowduck.be/posts/overcoming-ai-anxiety)  
 - `2026-04-26` | [🔗 Adding FreshRSS to NetNewsWire](https://www.yellowduck.be/posts/adding-freshrss-to-netnewswire)  
 - `2026-04-26` | [🔗 Typst Examples Book](https://www.yellowduck.be/posts/typst-examples-book)  
 - `2026-04-25` | [🔗 Your context module has 30 query functions. It needs five.](https://www.yellowduck.be/posts/your-context-module-has-30-query-functions-it-needs-five)  
@@ -18,6 +19,5 @@
 - `2026-04-24` | [🔗 Learning Elixir: error handling basics](https://www.yellowduck.be/posts/learning-elixir-error-handling-basics)  
 - `2026-04-24` | [🔗 Rob Pike&#39;s 5 Rules of Programming](https://www.yellowduck.be/posts/rob-pikes-5-rules-of-programming)  
 - `2026-04-23` | [🔗 Samly SAML Single-Sign-On for Elixir Phoenix](https://www.yellowduck.be/posts/samly-saml-single-sign-on-for-elixir-phoenix)  
-- `2026-04-23` | [🔗 Encoding Team Standards](https://www.yellowduck.be/posts/encoding-team-standards)  
 
 <!-- BLOG-POST-LIST:END -->
