@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-27` | [🔗 Introduction to Delegated Types](https://www.yellowduck.be/posts/introduction-to-delegated-types)  
 - `2026-04-27` | [🔗 Sheet Templates | Mac Excel Automation](https://www.yellowduck.be/posts/sheet-templates-mac-excel-automation)  
 - `2026-04-26` | [🔗 Overcoming AI anxiety](https://www.yellowduck.be/posts/overcoming-ai-anxiety)  
 - `2026-04-26` | [🔗 Adding FreshRSS to NetNewsWire](https://www.yellowduck.be/posts/adding-freshrss-to-netnewswire)  
@@ -18,6 +19,5 @@
 - `2026-04-25` | [🔗 chenglou/pretext: Fast, accurate &amp; comprehensive text measurement &amp; layout](https://www.yellowduck.be/posts/chenglou-pretext-fast-accurate-comprehensive-text-measurement-layout)  
 - `2026-04-24` | [🐥 Upgrading firebase/php-jwt to v7 in a Laravel App &lpar;transitive dependency trap&rpar;](https://www.yellowduck.be/posts/upgrading-firebase-php-jwt-to-v7-in-a-laravel-app-transitive-dependency-trap)  
 - `2026-04-24` | [🔗 Learning Elixir: error handling basics](https://www.yellowduck.be/posts/learning-elixir-error-handling-basics)  
-- `2026-04-24` | [🔗 Rob Pike&#39;s 5 Rules of Programming](https://www.yellowduck.be/posts/rob-pikes-5-rules-of-programming)  
 
 <!-- BLOG-POST-LIST:END -->
