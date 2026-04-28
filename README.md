@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-28` | [🔗 Thinking Elixir Podcast 301: Testing, Debugging, and Departures](https://www.yellowduck.be/posts/thinking-elixir-podcast-301-testing-debugging-and-departures)  
 - `2026-04-28` | [🔗 Claude code template for Spring Boot](https://www.yellowduck.be/posts/claude-code-template-for-spring-boot)  
 - `2026-04-28` | [🔗 Dropping Cloudflare for bunny.net](https://www.yellowduck.be/posts/dropping-cloudflare-for-bunny-net)  
 - `2026-04-27` | [🔗 How to write unmaintainable code](https://www.yellowduck.be/posts/how-to-write-unmaintainable-code)  
@@ -18,6 +19,5 @@
 - `2026-04-26` | [🔗 Adding FreshRSS to NetNewsWire](https://www.yellowduck.be/posts/adding-freshrss-to-netnewswire)  
 - `2026-04-26` | [🔗 Typst Examples Book](https://www.yellowduck.be/posts/typst-examples-book)  
 - `2026-04-25` | [🔗 Your context module has 30 query functions. It needs five.](https://www.yellowduck.be/posts/your-context-module-has-30-query-functions-it-needs-five)  
-- `2026-04-25` | [🔗 Comparison of AI models across intelligence, performance, and price](https://www.yellowduck.be/posts/comparison-of-ai-models-across-intelligence-performance-and-price)  
 
 <!-- BLOG-POST-LIST:END -->
