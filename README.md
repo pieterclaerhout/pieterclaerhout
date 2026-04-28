@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-28` | [🔗 Dropping Cloudflare for bunny.net](https://www.yellowduck.be/posts/dropping-cloudflare-for-bunny-net)  
 - `2026-04-27` | [🔗 How to write unmaintainable code](https://www.yellowduck.be/posts/how-to-write-unmaintainable-code)  
 - `2026-04-27` | [🔗 Introduction to Delegated Types](https://www.yellowduck.be/posts/introduction-to-delegated-types)  
 - `2026-04-27` | [🔗 Sheet Templates | Mac Excel Automation](https://www.yellowduck.be/posts/sheet-templates-mac-excel-automation)  
@@ -18,6 +19,5 @@
 - `2026-04-25` | [🔗 Your context module has 30 query functions. It needs five.](https://www.yellowduck.be/posts/your-context-module-has-30-query-functions-it-needs-five)  
 - `2026-04-25` | [🔗 Comparison of AI models across intelligence, performance, and price](https://www.yellowduck.be/posts/comparison-of-ai-models-across-intelligence-performance-and-price)  
 - `2026-04-25` | [🔗 chenglou/pretext: Fast, accurate &amp; comprehensive text measurement &amp; layout](https://www.yellowduck.be/posts/chenglou-pretext-fast-accurate-comprehensive-text-measurement-layout)  
-- `2026-04-24` | [🐥 Upgrading firebase/php-jwt to v7 in a Laravel App &lpar;transitive dependency trap&rpar;](https://www.yellowduck.be/posts/upgrading-firebase-php-jwt-to-v7-in-a-laravel-app-transitive-dependency-trap)  
 
 <!-- BLOG-POST-LIST:END -->
