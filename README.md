@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-29` | [🔗 Introducing headers.dev](https://www.yellowduck.be/posts/introducing-headers-dev)  
 - `2026-04-29` | [🔗 Let the commits tell the story](https://www.yellowduck.be/posts/let-the-commits-tell-the-story)  
 - `2026-04-29` | [🔗 Securing Claude Cowork: a security practitioner’s guide](https://www.yellowduck.be/posts/securing-claude-cowork-a-security-practitioners-guide)  
 - `2026-04-28` | [🔗 Thinking Elixir Podcast 301: Testing, Debugging, and Departures](https://www.yellowduck.be/posts/thinking-elixir-podcast-301-testing-debugging-and-departures)  
@@ -18,6 +19,5 @@
 - `2026-04-27` | [🔗 Introduction to Delegated Types](https://www.yellowduck.be/posts/introduction-to-delegated-types)  
 - `2026-04-27` | [🔗 Sheet Templates | Mac Excel Automation](https://www.yellowduck.be/posts/sheet-templates-mac-excel-automation)  
 - `2026-04-26` | [🔗 Overcoming AI anxiety](https://www.yellowduck.be/posts/overcoming-ai-anxiety)  
-- `2026-04-26` | [🔗 Adding FreshRSS to NetNewsWire](https://www.yellowduck.be/posts/adding-freshrss-to-netnewswire)  
 
 <!-- BLOG-POST-LIST:END -->
