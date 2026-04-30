@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-30` | [🔗 Build your own Elixir Phoenix + LiveView: Step 3: Router DSL &lpar;Macros&rpar;](https://www.yellowduck.be/posts/build-your-own-elixir-phoenix-liveview-step-3-router-dsl-macros)  
 - `2026-04-29` | [🔗 Introducing headers.dev](https://www.yellowduck.be/posts/introducing-headers-dev)  
 - `2026-04-29` | [🔗 Let the commits tell the story](https://www.yellowduck.be/posts/let-the-commits-tell-the-story)  
 - `2026-04-29` | [🔗 Securing Claude Cowork: a security practitioner’s guide](https://www.yellowduck.be/posts/securing-claude-cowork-a-security-practitioners-guide)  
@@ -18,6 +19,5 @@
 - `2026-04-27` | [🔗 How to write unmaintainable code](https://www.yellowduck.be/posts/how-to-write-unmaintainable-code)  
 - `2026-04-27` | [🔗 Introduction to Delegated Types](https://www.yellowduck.be/posts/introduction-to-delegated-types)  
 - `2026-04-27` | [🔗 Sheet Templates | Mac Excel Automation](https://www.yellowduck.be/posts/sheet-templates-mac-excel-automation)  
-- `2026-04-26` | [🔗 Overcoming AI anxiety](https://www.yellowduck.be/posts/overcoming-ai-anxiety)  
 
 <!-- BLOG-POST-LIST:END -->
