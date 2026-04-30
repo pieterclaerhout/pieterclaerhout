@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-04-30` | [🔗 Release notes | Laravel 13.x](https://www.yellowduck.be/posts/laravel-13-x-release-notes)  
 - `2026-04-30` | [🔗 Flag icons in Phoenix](https://www.yellowduck.be/posts/flag-icons-in-phoenix)  
 - `2026-04-30` | [🔗 Build your own Elixir Phoenix + LiveView: Step 3: Router DSL &lpar;Macros&rpar;](https://www.yellowduck.be/posts/build-your-own-elixir-phoenix-liveview-step-3-router-dsl-macros)  
 - `2026-04-29` | [🔗 Introducing headers.dev](https://www.yellowduck.be/posts/introducing-headers-dev)  
@@ -18,6 +19,5 @@
 - `2026-04-28` | [🔗 Claude code template for Spring Boot](https://www.yellowduck.be/posts/claude-code-template-for-spring-boot)  
 - `2026-04-28` | [🔗 Dropping Cloudflare for bunny.net](https://www.yellowduck.be/posts/dropping-cloudflare-for-bunny-net)  
 - `2026-04-27` | [🔗 How to write unmaintainable code](https://www.yellowduck.be/posts/how-to-write-unmaintainable-code)  
-- `2026-04-27` | [🔗 Introduction to Delegated Types](https://www.yellowduck.be/posts/introduction-to-delegated-types)  
 
 <!-- BLOG-POST-LIST:END -->
