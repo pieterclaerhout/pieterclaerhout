@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-01` | [🔗 Things I&#39;ve realized about testing Elixir code](https://www.yellowduck.be/posts/things-ive-realized-about-testing-elixir-code)  
 - `2026-05-01` | [🔗 [WIP] Google Reader API implementation](https://www.yellowduck.be/posts/wip-google-reader-api-implementation)  
 - `2026-04-30` | [🔗 Release notes | Laravel 13.x](https://www.yellowduck.be/posts/laravel-13-x-release-notes)  
 - `2026-04-30` | [🔗 Flag icons in Phoenix](https://www.yellowduck.be/posts/flag-icons-in-phoenix)  
@@ -18,6 +19,5 @@
 - `2026-04-29` | [🔗 Securing Claude Cowork: a security practitioner’s guide](https://www.yellowduck.be/posts/securing-claude-cowork-a-security-practitioners-guide)  
 - `2026-04-28` | [🔗 Thinking Elixir Podcast 301: Testing, Debugging, and Departures](https://www.yellowduck.be/posts/thinking-elixir-podcast-301-testing-debugging-and-departures)  
 - `2026-04-28` | [🔗 Claude code template for Spring Boot](https://www.yellowduck.be/posts/claude-code-template-for-spring-boot)  
-- `2026-04-28` | [🔗 Dropping Cloudflare for bunny.net](https://www.yellowduck.be/posts/dropping-cloudflare-for-bunny-net)  
 
 <!-- BLOG-POST-LIST:END -->
