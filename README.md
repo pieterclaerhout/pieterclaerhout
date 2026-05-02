@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-02` | [🔗 The Problem of Reconnects in Phoenix LiveView](https://www.yellowduck.be/posts/the-problem-of-reconnects-in-phoenix-liveview)  
 - `2026-05-02` | [🔗 The unreasonable effectiveness of the Highlander rule](https://www.yellowduck.be/posts/the-unreasonable-effectiveness-of-the-highlander-rule)  
 - `2026-05-01` | [🔗 Stream Reddit comments using Elixir, Pythonx and PRAW](https://www.yellowduck.be/posts/stream-reddit-comments-using-elixir-pythonx-and-praw)  
 - `2026-05-01` | [🔗 Things I&#39;ve realized about testing Elixir code](https://www.yellowduck.be/posts/things-ive-realized-about-testing-elixir-code)  
@@ -18,6 +19,5 @@
 - `2026-04-30` | [🔗 Build your own Elixir Phoenix + LiveView: Step 3: Router DSL &lpar;Macros&rpar;](https://www.yellowduck.be/posts/build-your-own-elixir-phoenix-liveview-step-3-router-dsl-macros)  
 - `2026-04-29` | [🔗 Introducing headers.dev](https://www.yellowduck.be/posts/introducing-headers-dev)  
 - `2026-04-29` | [🔗 Let the commits tell the story](https://www.yellowduck.be/posts/let-the-commits-tell-the-story)  
-- `2026-04-29` | [🔗 Securing Claude Cowork: a security practitioner’s guide](https://www.yellowduck.be/posts/securing-claude-cowork-a-security-practitioners-guide)  
 
 <!-- BLOG-POST-LIST:END -->
