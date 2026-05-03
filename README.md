@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-03` | [🔗 Scaling a monolith to 1M LOC: 113 pragmatic lessons from tech lead to CTO](https://www.yellowduck.be/posts/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons-from-tech-lead-to-cto)  
 - `2026-05-03` | [🔗 Returning to Rails in 2026](https://www.yellowduck.be/posts/returning-to-rails-in-2026)  
 - `2026-05-02` | [🔗 Growing Yggdrasil, the World Tree, with Ash](https://www.yellowduck.be/posts/newres-al-haider)  
 - `2026-05-02` | [🔗 The Problem of Reconnects in Phoenix LiveView](https://www.yellowduck.be/posts/the-problem-of-reconnects-in-phoenix-liveview)  
@@ -18,6 +19,5 @@
 - `2026-05-01` | [🔗 [WIP] Google Reader API implementation](https://www.yellowduck.be/posts/wip-google-reader-api-implementation)  
 - `2026-04-30` | [🔗 Release notes | Laravel 13.x](https://www.yellowduck.be/posts/laravel-13-x-release-notes)  
 - `2026-04-30` | [🔗 Flag icons in Phoenix](https://www.yellowduck.be/posts/flag-icons-in-phoenix)  
-- `2026-04-30` | [🔗 Build your own Elixir Phoenix + LiveView: Step 3: Router DSL &lpar;Macros&rpar;](https://www.yellowduck.be/posts/build-your-own-elixir-phoenix-liveview-step-3-router-dsl-macros)  
 
 <!-- BLOG-POST-LIST:END -->
