@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-04` | [🔗 The Git commands I run before reading any code](https://www.yellowduck.be/posts/the-git-commands-i-run-before-reading-any-code)  
 - `2026-05-04` | [🔗 Waiting for PostgreSQL 19 – Introduce the REPACK command](https://www.yellowduck.be/posts/waiting-for-postgresql-19-introduce-the-repack-command)  
 - `2026-05-04` | [🔗 Claude Code Handbook](https://www.yellowduck.be/posts/claude-code-handbook)  
 - `2026-05-03` | [🔗 Securing Hex, the backbone of the Elixir ecosystem](https://www.yellowduck.be/posts/securing-hex-the-backbone-of-the-elixir-ecosystem)  
@@ -18,6 +19,5 @@
 - `2026-05-02` | [🔗 The Problem of Reconnects in Phoenix LiveView](https://www.yellowduck.be/posts/the-problem-of-reconnects-in-phoenix-liveview)  
 - `2026-05-02` | [🔗 The unreasonable effectiveness of the Highlander rule](https://www.yellowduck.be/posts/the-unreasonable-effectiveness-of-the-highlander-rule)  
 - `2026-05-01` | [🔗 Stream Reddit comments using Elixir, Pythonx and PRAW](https://www.yellowduck.be/posts/stream-reddit-comments-using-elixir-pythonx-and-praw)  
-- `2026-05-01` | [🔗 Things I&#39;ve realized about testing Elixir code](https://www.yellowduck.be/posts/things-ive-realized-about-testing-elixir-code)  
 
 <!-- BLOG-POST-LIST:END -->
