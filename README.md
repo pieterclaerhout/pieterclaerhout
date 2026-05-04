@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-04` | [🔗 Claude Code Handbook](https://www.yellowduck.be/posts/claude-code-handbook)  
 - `2026-05-03` | [🔗 Securing Hex, the backbone of the Elixir ecosystem](https://www.yellowduck.be/posts/securing-hex-the-backbone-of-the-elixir-ecosystem)  
 - `2026-05-03` | [🔗 Scaling a monolith to 1M LOC: 113 pragmatic lessons from tech lead to CTO](https://www.yellowduck.be/posts/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons-from-tech-lead-to-cto)  
 - `2026-05-03` | [🔗 Returning to Rails in 2026](https://www.yellowduck.be/posts/returning-to-rails-in-2026)  
@@ -18,6 +19,5 @@
 - `2026-05-01` | [🔗 Stream Reddit comments using Elixir, Pythonx and PRAW](https://www.yellowduck.be/posts/stream-reddit-comments-using-elixir-pythonx-and-praw)  
 - `2026-05-01` | [🔗 Things I&#39;ve realized about testing Elixir code](https://www.yellowduck.be/posts/things-ive-realized-about-testing-elixir-code)  
 - `2026-05-01` | [🔗 [WIP] Google Reader API implementation](https://www.yellowduck.be/posts/wip-google-reader-api-implementation)  
-- `2026-04-30` | [🔗 Release notes | Laravel 13.x](https://www.yellowduck.be/posts/laravel-13-x-release-notes)  
 
 <!-- BLOG-POST-LIST:END -->
