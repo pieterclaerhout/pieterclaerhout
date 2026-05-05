@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-05` | [🔗 The two kinds of error](https://www.yellowduck.be/posts/the-two-kinds-of-error)  
 - `2026-05-04` | [🔗 The Git commands I run before reading any code](https://www.yellowduck.be/posts/the-git-commands-i-run-before-reading-any-code)  
 - `2026-05-04` | [🔗 Waiting for PostgreSQL 19 – Introduce the REPACK command](https://www.yellowduck.be/posts/waiting-for-postgresql-19-introduce-the-repack-command)  
 - `2026-05-04` | [🔗 Claude Code Handbook](https://www.yellowduck.be/posts/claude-code-handbook)  
@@ -18,6 +19,5 @@
 - `2026-05-02` | [🔗 Growing Yggdrasil, the World Tree, with Ash](https://www.yellowduck.be/posts/newres-al-haider)  
 - `2026-05-02` | [🔗 The Problem of Reconnects in Phoenix LiveView](https://www.yellowduck.be/posts/the-problem-of-reconnects-in-phoenix-liveview)  
 - `2026-05-02` | [🔗 The unreasonable effectiveness of the Highlander rule](https://www.yellowduck.be/posts/the-unreasonable-effectiveness-of-the-highlander-rule)  
-- `2026-05-01` | [🔗 Stream Reddit comments using Elixir, Pythonx and PRAW](https://www.yellowduck.be/posts/stream-reddit-comments-using-elixir-pythonx-and-praw)  
 
 <!-- BLOG-POST-LIST:END -->
