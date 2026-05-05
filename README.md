@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-05` | [🐥 Fixing the Ondrej Nginx PPA 403 error on Laravel Forge servers](https://www.yellowduck.be/posts/fixing-the-ondrej-nginx-ppa-403-error-on-laravel-forge-servers)  
 - `2026-05-05` | [🔗 Collaborative Editing in ProseMirror](https://www.yellowduck.be/posts/collaborative-editing-in-prosemirror)  
 - `2026-05-05` | [🔗 The two kinds of error](https://www.yellowduck.be/posts/the-two-kinds-of-error)  
 - `2026-05-04` | [🔗 The Git commands I run before reading any code](https://www.yellowduck.be/posts/the-git-commands-i-run-before-reading-any-code)  
@@ -18,6 +19,5 @@
 - `2026-05-03` | [🔗 Scaling a monolith to 1M LOC: 113 pragmatic lessons from tech lead to CTO](https://www.yellowduck.be/posts/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons-from-tech-lead-to-cto)  
 - `2026-05-03` | [🔗 Returning to Rails in 2026](https://www.yellowduck.be/posts/returning-to-rails-in-2026)  
 - `2026-05-02` | [🔗 Growing Yggdrasil, the World Tree, with Ash](https://www.yellowduck.be/posts/newres-al-haider)  
-- `2026-05-02` | [🔗 The Problem of Reconnects in Phoenix LiveView](https://www.yellowduck.be/posts/the-problem-of-reconnects-in-phoenix-liveview)  
 
 <!-- BLOG-POST-LIST:END -->
