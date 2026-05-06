@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-06` | [🔗 On knowing what code to throw away](https://www.yellowduck.be/posts/on-knowing-what-code-to-throw-away)  
 - `2026-05-06` | [🔗 What I learned from nearly 1,000 interviews at Amazon](https://www.yellowduck.be/posts/what-i-learned-from-nearly-1-000-interviews-at-amazon)  
 - `2026-05-05` | [🐥 Fixing the Ondrej Nginx PPA 403 error on Laravel Forge servers](https://www.yellowduck.be/posts/fixing-the-ondrej-nginx-ppa-403-error-on-laravel-forge-servers)  
 - `2026-05-05` | [🔗 Collaborative Editing in ProseMirror](https://www.yellowduck.be/posts/collaborative-editing-in-prosemirror)  
@@ -18,6 +19,5 @@
 - `2026-05-04` | [🔗 Claude Code Handbook](https://www.yellowduck.be/posts/claude-code-handbook)  
 - `2026-05-03` | [🔗 Securing Hex, the backbone of the Elixir ecosystem](https://www.yellowduck.be/posts/securing-hex-the-backbone-of-the-elixir-ecosystem)  
 - `2026-05-03` | [🔗 Scaling a monolith to 1M LOC: 113 pragmatic lessons from tech lead to CTO](https://www.yellowduck.be/posts/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons-from-tech-lead-to-cto)  
-- `2026-05-03` | [🔗 Returning to Rails in 2026](https://www.yellowduck.be/posts/returning-to-rails-in-2026)  
 
 <!-- BLOG-POST-LIST:END -->
