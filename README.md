@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-07` | [🔗 Debugging slow ecto queries with AppSignal](https://www.yellowduck.be/posts/debugging-slow-ecto-queries-with-appsignal)  
 - `2026-05-06` | [🔗 Did contexts kill Phoenix?](https://www.yellowduck.be/posts/did-contexts-kill-phoenix)  
 - `2026-05-06` | [🔗 On knowing what code to throw away](https://www.yellowduck.be/posts/on-knowing-what-code-to-throw-away)  
 - `2026-05-06` | [🔗 What I learned from nearly 1,000 interviews at Amazon](https://www.yellowduck.be/posts/what-i-learned-from-nearly-1-000-interviews-at-amazon)  
@@ -18,6 +19,5 @@
 - `2026-05-04` | [🔗 The Git commands I run before reading any code](https://www.yellowduck.be/posts/the-git-commands-i-run-before-reading-any-code)  
 - `2026-05-04` | [🔗 Waiting for PostgreSQL 19 – Introduce the REPACK command](https://www.yellowduck.be/posts/waiting-for-postgresql-19-introduce-the-repack-command)  
 - `2026-05-04` | [🔗 Claude Code Handbook](https://www.yellowduck.be/posts/claude-code-handbook)  
-- `2026-05-03` | [🔗 Securing Hex, the backbone of the Elixir ecosystem](https://www.yellowduck.be/posts/securing-hex-the-backbone-of-the-elixir-ecosystem)  
 
 <!-- BLOG-POST-LIST:END -->
