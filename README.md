@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-07` | [🔗 PHP attributes in Laravel 13: The ultimate guide &lpar;36 new attributes!&rpar;](https://www.yellowduck.be/posts/php-attributes-in-laravel-13-the-ultimate-guide-36-new-attributes)  
 - `2026-05-07` | [🔗 Debugging slow ecto queries with AppSignal](https://www.yellowduck.be/posts/debugging-slow-ecto-queries-with-appsignal)  
 - `2026-05-06` | [🔗 Did contexts kill Phoenix?](https://www.yellowduck.be/posts/did-contexts-kill-phoenix)  
 - `2026-05-06` | [🔗 On knowing what code to throw away](https://www.yellowduck.be/posts/on-knowing-what-code-to-throw-away)  
@@ -18,6 +19,5 @@
 - `2026-05-05` | [🔗 The two kinds of error](https://www.yellowduck.be/posts/the-two-kinds-of-error)  
 - `2026-05-04` | [🔗 The Git commands I run before reading any code](https://www.yellowduck.be/posts/the-git-commands-i-run-before-reading-any-code)  
 - `2026-05-04` | [🔗 Waiting for PostgreSQL 19 – Introduce the REPACK command](https://www.yellowduck.be/posts/waiting-for-postgresql-19-introduce-the-repack-command)  
-- `2026-05-04` | [🔗 Claude Code Handbook](https://www.yellowduck.be/posts/claude-code-handbook)  
 
 <!-- BLOG-POST-LIST:END -->
