@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-08` | [🔗 Most devs ignore git worktree. Here&#39;s why they&#39;re wrong](https://www.yellowduck.be/posts/most-devs-ignore-git-worktree-heres-why-theyre-wrong)  
 - `2026-05-07` | [🐥 Using generators for PHPUnit data providers](https://www.yellowduck.be/posts/using-generators-for-phpunit-data-providers)  
 - `2026-05-07` | [🔗 PHP attributes in Laravel 13: The ultimate guide &lpar;36 new attributes!&rpar;](https://www.yellowduck.be/posts/php-attributes-in-laravel-13-the-ultimate-guide-36-new-attributes)  
 - `2026-05-07` | [🔗 Debugging slow ecto queries with AppSignal](https://www.yellowduck.be/posts/debugging-slow-ecto-queries-with-appsignal)  
@@ -18,6 +19,5 @@
 - `2026-05-05` | [🐥 Fixing the Ondrej Nginx PPA 403 error on Laravel Forge servers](https://www.yellowduck.be/posts/fixing-the-ondrej-nginx-ppa-403-error-on-laravel-forge-servers)  
 - `2026-05-05` | [🔗 Collaborative Editing in ProseMirror](https://www.yellowduck.be/posts/collaborative-editing-in-prosemirror)  
 - `2026-05-05` | [🔗 The two kinds of error](https://www.yellowduck.be/posts/the-two-kinds-of-error)  
-- `2026-05-04` | [🔗 The Git commands I run before reading any code](https://www.yellowduck.be/posts/the-git-commands-i-run-before-reading-any-code)  
 
 <!-- BLOG-POST-LIST:END -->
