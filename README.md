@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-08` | [🔗 EXPLAIN&#39;s other superpowers](https://www.yellowduck.be/posts/explains-other-superpowers)  
 - `2026-05-08` | [🔗 Thinking Elixir Podcast 302: BEAM in Your Pocket](https://www.yellowduck.be/posts/thinking-elixir-podcast-302-beam-in-your-pocket)  
 - `2026-05-08` | [🔗 Most devs ignore git worktree. Here&#39;s why they&#39;re wrong](https://www.yellowduck.be/posts/most-devs-ignore-git-worktree-heres-why-theyre-wrong)  
 - `2026-05-07` | [🐥 Using generators for PHPUnit data providers](https://www.yellowduck.be/posts/using-generators-for-phpunit-data-providers)  
@@ -18,6 +19,5 @@
 - `2026-05-06` | [🔗 On knowing what code to throw away](https://www.yellowduck.be/posts/on-knowing-what-code-to-throw-away)  
 - `2026-05-06` | [🔗 What I learned from nearly 1,000 interviews at Amazon](https://www.yellowduck.be/posts/what-i-learned-from-nearly-1-000-interviews-at-amazon)  
 - `2026-05-05` | [🐥 Fixing the Ondrej Nginx PPA 403 error on Laravel Forge servers](https://www.yellowduck.be/posts/fixing-the-ondrej-nginx-ppa-403-error-on-laravel-forge-servers)  
-- `2026-05-05` | [🔗 Collaborative Editing in ProseMirror](https://www.yellowduck.be/posts/collaborative-editing-in-prosemirror)  
 
 <!-- BLOG-POST-LIST:END -->
