@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-09` | [🔗 Finding my way with AI coding agents](https://www.yellowduck.be/posts/tidewave-changed-how-i-feel-about-ai-assisted-coding)  
 - `2026-05-09` | [🔗 Every layer of review makes you 10x slower](https://www.yellowduck.be/posts/every-layer-of-review-makes-you-10x-slower)  
 - `2026-05-08` | [🔗 EXPLAIN&#39;s other superpowers](https://www.yellowduck.be/posts/explains-other-superpowers)  
 - `2026-05-08` | [🔗 Thinking Elixir Podcast 302: BEAM in Your Pocket](https://www.yellowduck.be/posts/thinking-elixir-podcast-302-beam-in-your-pocket)  
@@ -18,6 +19,5 @@
 - `2026-05-07` | [🔗 Debugging slow ecto queries with AppSignal](https://www.yellowduck.be/posts/debugging-slow-ecto-queries-with-appsignal)  
 - `2026-05-06` | [🔗 Did contexts kill Phoenix?](https://www.yellowduck.be/posts/did-contexts-kill-phoenix)  
 - `2026-05-06` | [🔗 On knowing what code to throw away](https://www.yellowduck.be/posts/on-knowing-what-code-to-throw-away)  
-- `2026-05-06` | [🔗 What I learned from nearly 1,000 interviews at Amazon](https://www.yellowduck.be/posts/what-i-learned-from-nearly-1-000-interviews-at-amazon)  
 
 <!-- BLOG-POST-LIST:END -->
