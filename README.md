@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-11` | [🔗 Anti-frameworkism: Choosing native web APIs over frameworks](https://www.yellowduck.be/posts/anti-frameworkism-choosing-native-web-apis-over-frameworks)  
 - `2026-05-10` | [🔗 Laravel raised money and now injects ads directly into your agent](https://www.yellowduck.be/posts/laravel-raised-money-and-now-injects-ads-directly-into-your-agent)  
 - `2026-05-10` | [🔗 Migrating from DigitalOcean to Hetzner: from $1,432 to $233/month with zero downtime](https://www.yellowduck.be/posts/migrating-from-digitalocean-to-hetzner-from-1-432-to-233-month-with-zero-downtime)  
 - `2026-05-10` | [🔗 pg_textsearch: How we built a BM25 search engine on Postgres pages](https://www.yellowduck.be/posts/pg-textsearch-1-0-how-we-built-a-bm25-search-engine-on-postgres-pages)  
@@ -18,6 +19,5 @@
 - `2026-05-08` | [🔗 EXPLAIN&#39;s other superpowers](https://www.yellowduck.be/posts/explains-other-superpowers)  
 - `2026-05-08` | [🔗 Thinking Elixir Podcast 302: BEAM in Your Pocket](https://www.yellowduck.be/posts/thinking-elixir-podcast-302-beam-in-your-pocket)  
 - `2026-05-08` | [🔗 Most devs ignore git worktree. Here&#39;s why they&#39;re wrong](https://www.yellowduck.be/posts/most-devs-ignore-git-worktree-heres-why-theyre-wrong)  
-- `2026-05-07` | [🐥 Using generators for PHPUnit data providers](https://www.yellowduck.be/posts/using-generators-for-phpunit-data-providers)  
 
 <!-- BLOG-POST-LIST:END -->
