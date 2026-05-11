@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-11` | [🐥 Restarting supervisord daemons by working directory on Linux](https://www.yellowduck.be/posts/restarting-supervisord-daemons-by-working-directory-on-linux)  
 - `2026-05-11` | [🔗 Shell tricks that actually make life easier &lpar;and save your sanity&rpar;](https://www.yellowduck.be/posts/shell-tricks-that-actually-make-life-easier-and-save-your-sanity)  
 - `2026-05-11` | [🔗 Anti-frameworkism: Choosing native web APIs over frameworks](https://www.yellowduck.be/posts/anti-frameworkism-choosing-native-web-apis-over-frameworks)  
 - `2026-05-10` | [🔗 Laravel raised money and now injects ads directly into your agent](https://www.yellowduck.be/posts/laravel-raised-money-and-now-injects-ads-directly-into-your-agent)  
@@ -18,6 +19,5 @@
 - `2026-05-09` | [🔗 Finding my way with AI coding agents](https://www.yellowduck.be/posts/tidewave-changed-how-i-feel-about-ai-assisted-coding)  
 - `2026-05-09` | [🔗 Every layer of review makes you 10x slower](https://www.yellowduck.be/posts/every-layer-of-review-makes-you-10x-slower)  
 - `2026-05-08` | [🔗 EXPLAIN&#39;s other superpowers](https://www.yellowduck.be/posts/explains-other-superpowers)  
-- `2026-05-08` | [🔗 Thinking Elixir Podcast 302: BEAM in Your Pocket](https://www.yellowduck.be/posts/thinking-elixir-podcast-302-beam-in-your-pocket)  
 
 <!-- BLOG-POST-LIST:END -->
