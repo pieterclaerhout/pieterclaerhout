@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-12` | [🔗 Intelligent curation tagging for creative workflows](https://www.yellowduck.be/posts/intelligent-curation-tagging-for-creative-workflows)  
 - `2026-05-12` | [🔗 Common CORS errors and how to fix them](https://www.yellowduck.be/posts/common-cors-errors-and-how-to-fix-them)  
 - `2026-05-11` | [🐥 Restarting supervisord daemons by working directory on Linux](https://www.yellowduck.be/posts/restarting-supervisord-daemons-by-working-directory-on-linux)  
 - `2026-05-11` | [🔗 Shell tricks that actually make life easier &lpar;and save your sanity&rpar;](https://www.yellowduck.be/posts/shell-tricks-that-actually-make-life-easier-and-save-your-sanity)  
@@ -18,6 +19,5 @@
 - `2026-05-10` | [🔗 pg_textsearch: How we built a BM25 search engine on Postgres pages](https://www.yellowduck.be/posts/pg-textsearch-1-0-how-we-built-a-bm25-search-engine-on-postgres-pages)  
 - `2026-05-09` | [🐥 Make your shell scripts&#39; environment variables overridable](https://www.yellowduck.be/posts/make-your-shell-scripts-environment-variables-overridable)  
 - `2026-05-09` | [🔗 Finding my way with AI coding agents](https://www.yellowduck.be/posts/tidewave-changed-how-i-feel-about-ai-assisted-coding)  
-- `2026-05-09` | [🔗 Every layer of review makes you 10x slower](https://www.yellowduck.be/posts/every-layer-of-review-makes-you-10x-slower)  
 
 <!-- BLOG-POST-LIST:END -->
