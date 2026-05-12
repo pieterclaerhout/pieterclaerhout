@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-12` | [🔗 Thinking Elixir Podcast 303: The Taming of the Slop](https://www.yellowduck.be/posts/thinking-elixir-podcast-303-the-taming-of-the-slop)  
 - `2026-05-12` | [🔗 Intelligent curation tagging for creative workflows](https://www.yellowduck.be/posts/intelligent-curation-tagging-for-creative-workflows)  
 - `2026-05-12` | [🔗 Common CORS errors and how to fix them](https://www.yellowduck.be/posts/common-cors-errors-and-how-to-fix-them)  
 - `2026-05-11` | [🐥 Restarting supervisord daemons by working directory on Linux](https://www.yellowduck.be/posts/restarting-supervisord-daemons-by-working-directory-on-linux)  
@@ -18,6 +19,5 @@
 - `2026-05-10` | [🔗 Migrating from DigitalOcean to Hetzner: from $1,432 to $233/month with zero downtime](https://www.yellowduck.be/posts/migrating-from-digitalocean-to-hetzner-from-1-432-to-233-month-with-zero-downtime)  
 - `2026-05-10` | [🔗 pg_textsearch: How we built a BM25 search engine on Postgres pages](https://www.yellowduck.be/posts/pg-textsearch-1-0-how-we-built-a-bm25-search-engine-on-postgres-pages)  
 - `2026-05-09` | [🐥 Make your shell scripts&#39; environment variables overridable](https://www.yellowduck.be/posts/make-your-shell-scripts-environment-variables-overridable)  
-- `2026-05-09` | [🔗 Finding my way with AI coding agents](https://www.yellowduck.be/posts/tidewave-changed-how-i-feel-about-ai-assisted-coding)  
 
 <!-- BLOG-POST-LIST:END -->
