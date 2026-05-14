@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-14` | [🔗 How we rewrote 130K lines from React to Svelte in two weeks](https://www.yellowduck.be/posts/how-we-rewrote-130k-lines-from-react-to-svelte-in-two-weeks)  
 - `2026-05-13` | [🐥 Anti-Corruption Layer in Elixir/Phoenix - Keep your domain clean](https://www.yellowduck.be/posts/anti-corruption-layer-in-elixir-phoenix-keep-your-domain-clean)  
 - `2026-05-13` | [🔗 No management needed: anti-patterns in early-stage engineering teams](https://www.yellowduck.be/posts/no-management-needed-anti-patterns-in-early-stage-engineering-teams)  
 - `2026-05-13` | [🔗 SQLite features you didn’t know it had: JSON, text search, CTE, STRICT, generated columns, WAL](https://www.yellowduck.be/posts/sqlite-features-you-didnt-know-it-had-json-text-search-cte-strict-generated-columns-wal)  
@@ -18,6 +19,5 @@
 - `2026-05-11` | [🐥 Restarting supervisord daemons by working directory on Linux](https://www.yellowduck.be/posts/restarting-supervisord-daemons-by-working-directory-on-linux)  
 - `2026-05-11` | [🔗 Shell tricks that actually make life easier &lpar;and save your sanity&rpar;](https://www.yellowduck.be/posts/shell-tricks-that-actually-make-life-easier-and-save-your-sanity)  
 - `2026-05-11` | [🔗 Anti-frameworkism: Choosing native web APIs over frameworks](https://www.yellowduck.be/posts/anti-frameworkism-choosing-native-web-apis-over-frameworks)  
-- `2026-05-10` | [🔗 Laravel raised money and now injects ads directly into your agent](https://www.yellowduck.be/posts/laravel-raised-money-and-now-injects-ads-directly-into-your-agent)  
 
 <!-- BLOG-POST-LIST:END -->
