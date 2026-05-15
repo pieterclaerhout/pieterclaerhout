@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-15` | [🐥 Keeping Elixir stdlib source in sync with your project](https://www.yellowduck.be/posts/keeping-elixir-stdlib-source-in-sync-with-your-project)  
 - `2026-05-15` | [🔗 Phoenix app monitoring: Grafana and PromEx real-time setup](https://www.yellowduck.be/posts/phoenix-app-monitoring-grafana-and-promex-real-time-setup)  
 - `2026-05-15` | [🔗 My stance on AI in software development](https://www.yellowduck.be/posts/my-stance-on-ai-in-software-development)  
 - `2026-05-14` | [🔗 Madhadron - The seven programming ur-languages](https://www.yellowduck.be/posts/the-seven-programming-ur-languages)  
@@ -18,6 +19,5 @@
 - `2026-05-13` | [🔗 No management needed: anti-patterns in early-stage engineering teams](https://www.yellowduck.be/posts/no-management-needed-anti-patterns-in-early-stage-engineering-teams)  
 - `2026-05-13` | [🔗 SQLite features you didn’t know it had: JSON, text search, CTE, STRICT, generated columns, WAL](https://www.yellowduck.be/posts/sqlite-features-you-didnt-know-it-had-json-text-search-cte-strict-generated-columns-wal)  
 - `2026-05-12` | [🔗 Thinking Elixir Podcast 303: The Taming of the Slop](https://www.yellowduck.be/posts/thinking-elixir-podcast-303-the-taming-of-the-slop)  
-- `2026-05-12` | [🔗 Intelligent curation tagging for creative workflows](https://www.yellowduck.be/posts/intelligent-curation-tagging-for-creative-workflows)  
 
 <!-- BLOG-POST-LIST:END -->
