@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-15` | [🔗 My stance on AI in software development](https://www.yellowduck.be/posts/my-stance-on-ai-in-software-development)  
 - `2026-05-14` | [🔗 Madhadron - The seven programming ur-languages](https://www.yellowduck.be/posts/the-seven-programming-ur-languages)  
 - `2026-05-14` | [🔗 Using Pandoc and Typst to produce PDFs](https://www.yellowduck.be/posts/using-pandoc-and-typst-to-produce-pdfs)  
 - `2026-05-14` | [🔗 How we rewrote 130K lines from React to Svelte in two weeks](https://www.yellowduck.be/posts/how-we-rewrote-130k-lines-from-react-to-svelte-in-two-weeks)  
@@ -18,6 +19,5 @@
 - `2026-05-12` | [🔗 Thinking Elixir Podcast 303: The Taming of the Slop](https://www.yellowduck.be/posts/thinking-elixir-podcast-303-the-taming-of-the-slop)  
 - `2026-05-12` | [🔗 Intelligent curation tagging for creative workflows](https://www.yellowduck.be/posts/intelligent-curation-tagging-for-creative-workflows)  
 - `2026-05-12` | [🔗 Common CORS errors and how to fix them](https://www.yellowduck.be/posts/common-cors-errors-and-how-to-fix-them)  
-- `2026-05-11` | [🐥 Restarting supervisord daemons by working directory on Linux](https://www.yellowduck.be/posts/restarting-supervisord-daemons-by-working-directory-on-linux)  
 
 <!-- BLOG-POST-LIST:END -->
