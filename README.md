@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-16` | [🔗 29 React codebase red flags from a senior frontend developer](https://www.yellowduck.be/posts/29-react-codebase-red-flags-from-a-senior-frontend-developer)  
 - `2026-05-16` | [🔗 From VS Code to Helix](https://www.yellowduck.be/posts/from-vs-code-to-helix)  
 - `2026-05-16` | [🔗 12 practices for optimizing PostgreSQL queries for large datasets](https://www.yellowduck.be/posts/12-practices-for-optimizing-postgresql-queries-for-large-datasets)  
 - `2026-05-15` | [🐥 Keeping Elixir stdlib source in sync with your project](https://www.yellowduck.be/posts/keeping-elixir-stdlib-source-in-sync-with-your-project)  
@@ -18,6 +19,5 @@
 - `2026-05-14` | [🔗 Using Pandoc and Typst to produce PDFs](https://www.yellowduck.be/posts/using-pandoc-and-typst-to-produce-pdfs)  
 - `2026-05-14` | [🔗 How we rewrote 130K lines from React to Svelte in two weeks](https://www.yellowduck.be/posts/how-we-rewrote-130k-lines-from-react-to-svelte-in-two-weeks)  
 - `2026-05-13` | [🐥 Anti-Corruption Layer in Elixir/Phoenix - Keep your domain clean](https://www.yellowduck.be/posts/anti-corruption-layer-in-elixir-phoenix-keep-your-domain-clean)  
-- `2026-05-13` | [🔗 No management needed: anti-patterns in early-stage engineering teams](https://www.yellowduck.be/posts/no-management-needed-anti-patterns-in-early-stage-engineering-teams)  
 
 <!-- BLOG-POST-LIST:END -->
