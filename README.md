@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-17` | [🐥 Why Dexter LSP doesn&#39;t autocomplete Elixir stdlib modules](https://www.yellowduck.be/posts/why-dexter-lsp-doesnt-autocomplete-elixir-stdlib-modules)  
 - `2026-05-17` | [🔗 New prompt injection papers: agents rule of two and the attacker moves second](https://www.yellowduck.be/posts/new-prompt-injection-papers-agents-rule-of-two-and-the-attacker-moves-second)  
 - `2026-05-17` | [🔗 Running a technical due diligence: the details](https://www.yellowduck.be/posts/running-a-technical-due-diligence-the-details)  
 - `2026-05-16` | [🔗 29 React codebase red flags from a senior frontend developer](https://www.yellowduck.be/posts/29-react-codebase-red-flags-from-a-senior-frontend-developer)  
@@ -18,6 +19,5 @@
 - `2026-05-15` | [🔗 Phoenix app monitoring: Grafana and PromEx real-time setup](https://www.yellowduck.be/posts/phoenix-app-monitoring-grafana-and-promex-real-time-setup)  
 - `2026-05-15` | [🔗 My stance on AI in software development](https://www.yellowduck.be/posts/my-stance-on-ai-in-software-development)  
 - `2026-05-14` | [🔗 Madhadron - The seven programming ur-languages](https://www.yellowduck.be/posts/the-seven-programming-ur-languages)  
-- `2026-05-14` | [🔗 Using Pandoc and Typst to produce PDFs](https://www.yellowduck.be/posts/using-pandoc-and-typst-to-produce-pdfs)  
 
 <!-- BLOG-POST-LIST:END -->
