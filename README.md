@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-18` | [🔗 I stopped needing to spend three hours a day finding things out](https://www.yellowduck.be/posts/i-stopped-needing-to-spend-three-hours-a-day-finding-things-out)  
 - `2026-05-18` | [🔗 Programming patterns in simple words](https://www.yellowduck.be/posts/programming-patterns-in-simple-words)  
 - `2026-05-17` | [🐥 Why Dexter LSP doesn&#39;t autocomplete Elixir stdlib modules](https://www.yellowduck.be/posts/why-dexter-lsp-doesnt-autocomplete-elixir-stdlib-modules)  
 - `2026-05-17` | [🔗 New prompt injection papers: agents rule of two and the attacker moves second](https://www.yellowduck.be/posts/new-prompt-injection-papers-agents-rule-of-two-and-the-attacker-moves-second)  
@@ -18,6 +19,5 @@
 - `2026-05-16` | [🔗 12 practices for optimizing PostgreSQL queries for large datasets](https://www.yellowduck.be/posts/12-practices-for-optimizing-postgresql-queries-for-large-datasets)  
 - `2026-05-15` | [🐥 Keeping Elixir stdlib source in sync with your project](https://www.yellowduck.be/posts/keeping-elixir-stdlib-source-in-sync-with-your-project)  
 - `2026-05-15` | [🔗 Phoenix app monitoring: Grafana and PromEx real-time setup](https://www.yellowduck.be/posts/phoenix-app-monitoring-grafana-and-promex-real-time-setup)  
-- `2026-05-15` | [🔗 My stance on AI in software development](https://www.yellowduck.be/posts/my-stance-on-ai-in-software-development)  
 
 <!-- BLOG-POST-LIST:END -->
