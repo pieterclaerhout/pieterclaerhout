@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-20` | [🔗 AI coding tips - A series on practical advices to user the AI to code](https://www.yellowduck.be/posts/ai-coding-tips-a-series-on-practical-advices-to-user-the-ai-to-code)  
 - `2026-05-19` | [🐥 Color-code your GitHub PR list with custom CSS](https://www.yellowduck.be/posts/color-code-your-github-pr-list-with-custom-css)  
 - `2026-05-19` | [🔗 Thinking Elixir Podcast 304: Types, CVEs, and Hot Reloads](https://www.yellowduck.be/posts/thinking-elixir-podcast-304-types-cves-and-hot-reloads)  
 - `2026-05-19` | [🔗 What we let machines do](https://www.yellowduck.be/posts/what-we-let-machines-do)  
@@ -18,6 +19,5 @@
 - `2026-05-17` | [🐥 Why Dexter LSP doesn&#39;t autocomplete Elixir stdlib modules](https://www.yellowduck.be/posts/why-dexter-lsp-doesnt-autocomplete-elixir-stdlib-modules)  
 - `2026-05-17` | [🔗 New prompt injection papers: agents rule of two and the attacker moves second](https://www.yellowduck.be/posts/new-prompt-injection-papers-agents-rule-of-two-and-the-attacker-moves-second)  
 - `2026-05-17` | [🔗 Running a technical due diligence: the details](https://www.yellowduck.be/posts/running-a-technical-due-diligence-the-details)  
-- `2026-05-16` | [🔗 29 React codebase red flags from a senior frontend developer](https://www.yellowduck.be/posts/29-react-codebase-red-flags-from-a-senior-frontend-developer)  
 
 <!-- BLOG-POST-LIST:END -->
