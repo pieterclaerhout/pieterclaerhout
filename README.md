@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-21` | [🔗 Lisette — Rust syntax, Go runtime](https://www.yellowduck.be/posts/lisette-rust-syntax-go-runtime)  
 - `2026-05-21` | [🔗 Scotty, I need warp speed in three minutes](https://www.yellowduck.be/posts/scotty-i-need-warp-speed-in-three-minutes)  
 - `2026-05-20` | [🔗 The agentic artisan](https://www.yellowduck.be/posts/the-agentic-artisan)  
 - `2026-05-20` | [🔗 The Cathedral, the Bazaar, and the Winchester Mystery House](https://www.yellowduck.be/posts/the-cathedral-the-bazaar-and-the-winchester-mystery-house)  
@@ -18,6 +19,5 @@
 - `2026-05-19` | [🔗 What we let machines do](https://www.yellowduck.be/posts/what-we-let-machines-do)  
 - `2026-05-18` | [🔗 On Being Bossy](https://www.yellowduck.be/posts/on-being-bossy)  
 - `2026-05-18` | [🔗 I stopped needing to spend three hours a day finding things out](https://www.yellowduck.be/posts/i-stopped-needing-to-spend-three-hours-a-day-finding-things-out)  
-- `2026-05-18` | [🔗 Programming patterns in simple words](https://www.yellowduck.be/posts/programming-patterns-in-simple-words)  
 
 <!-- BLOG-POST-LIST:END -->
