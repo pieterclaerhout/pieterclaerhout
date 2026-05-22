@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-22` | [🔗 How to one-on-one](https://www.yellowduck.be/posts/how-to-one-on-one)  
 - `2026-05-21` | [🐥 TypeScript&#39;s Pick utility type: select what you need](https://www.yellowduck.be/posts/typescripts-pick-utility-type-select-what-you-need)  
 - `2026-05-21` | [🔗 Lisette — Rust syntax, Go runtime](https://www.yellowduck.be/posts/lisette-rust-syntax-go-runtime)  
 - `2026-05-21` | [🔗 Scotty, I need warp speed in three minutes](https://www.yellowduck.be/posts/scotty-i-need-warp-speed-in-three-minutes)  
@@ -18,6 +19,5 @@
 - `2026-05-19` | [🐥 Color-code your GitHub PR list with custom CSS](https://www.yellowduck.be/posts/color-code-your-github-pr-list-with-custom-css)  
 - `2026-05-19` | [🔗 Thinking Elixir Podcast 304: Types, CVEs, and Hot Reloads](https://www.yellowduck.be/posts/thinking-elixir-podcast-304-types-cves-and-hot-reloads)  
 - `2026-05-19` | [🔗 What we let machines do](https://www.yellowduck.be/posts/what-we-let-machines-do)  
-- `2026-05-18` | [🔗 On Being Bossy](https://www.yellowduck.be/posts/on-being-bossy)  
 
 <!-- BLOG-POST-LIST:END -->
