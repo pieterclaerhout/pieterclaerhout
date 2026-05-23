@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-23` | [🔗 Elixir’s defdelegate: An Underrated Tool for Stable APIs](https://www.yellowduck.be/posts/elixirs-defdelegate-an-underrated-tool-for-stable-apis)  
 - `2026-05-23` | [🔗 We upgraded to a Frontier model and our costs went down](https://www.yellowduck.be/posts/we-upgraded-to-a-frontier-model-and-our-costs-went-down)  
 - `2026-05-22` | [🔗 3 constraints before I build anything](https://www.yellowduck.be/posts/3-constraints-before-i-build-anything)  
 - `2026-05-22` | [🔗 The Zig project&#39;s rationale for their firm anti-AI contribution policy](https://www.yellowduck.be/posts/the-zig-projects-rationale-for-their-firm-anti-ai-contribution-policy)  
@@ -18,6 +19,5 @@
 - `2026-05-21` | [🔗 Scotty, I need warp speed in three minutes](https://www.yellowduck.be/posts/scotty-i-need-warp-speed-in-three-minutes)  
 - `2026-05-20` | [🔗 The agentic artisan](https://www.yellowduck.be/posts/the-agentic-artisan)  
 - `2026-05-20` | [🔗 The Cathedral, the Bazaar, and the Winchester Mystery House](https://www.yellowduck.be/posts/the-cathedral-the-bazaar-and-the-winchester-mystery-house)  
-- `2026-05-20` | [🔗 AI coding tips - A series on practical advices to user the AI to code](https://www.yellowduck.be/posts/ai-coding-tips-a-series-on-practical-advices-to-user-the-ai-to-code)  
 
 <!-- BLOG-POST-LIST:END -->
