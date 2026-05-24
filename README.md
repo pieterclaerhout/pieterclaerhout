@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-24` | [🔗 Why I moved from Python to Elixir for AI work, and what I found on the other side.](https://www.yellowduck.be/posts/why-i-moved-from-python-to-elixir-for-ai-work-and-what-i-found-on-the-other-side)  
 - `2026-05-23` | [🐥 Scanning files with clamdscan and --fdpass](https://www.yellowduck.be/posts/scanning-files-with-clamdscan-and-fdpass)  
 - `2026-05-23` | [🔗 Elixir’s defdelegate: An Underrated Tool for Stable APIs](https://www.yellowduck.be/posts/elixirs-defdelegate-an-underrated-tool-for-stable-apis)  
 - `2026-05-23` | [🔗 We upgraded to a Frontier model and our costs went down](https://www.yellowduck.be/posts/we-upgraded-to-a-frontier-model-and-our-costs-went-down)  
@@ -18,6 +19,5 @@
 - `2026-05-21` | [🐥 TypeScript&#39;s Pick utility type: select what you need](https://www.yellowduck.be/posts/typescripts-pick-utility-type-select-what-you-need)  
 - `2026-05-21` | [🔗 Lisette — Rust syntax, Go runtime](https://www.yellowduck.be/posts/lisette-rust-syntax-go-runtime)  
 - `2026-05-21` | [🔗 Scotty, I need warp speed in three minutes](https://www.yellowduck.be/posts/scotty-i-need-warp-speed-in-three-minutes)  
-- `2026-05-20` | [🔗 The agentic artisan](https://www.yellowduck.be/posts/the-agentic-artisan)  
 
 <!-- BLOG-POST-LIST:END -->
