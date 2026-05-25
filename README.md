@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-25` | [🐥 Hide a layout section from a specific child view in Laravel Blade](https://www.yellowduck.be/posts/hide-a-layout-section-from-a-specific-child-view-in-laravel-blade)  
 - `2026-05-25` | [🔗 The 20 software engineering laws](https://www.yellowduck.be/posts/the-20-software-engineering-laws)  
 - `2026-05-25` | [🔗 AI now writes 97% of my code. Here&#39;s what I learned](https://www.yellowduck.be/posts/ai-now-writes-97-of-my-code-heres-what-i-learned)  
 - `2026-05-24` | [🔗 Ghostty is leaving GitHub](https://www.yellowduck.be/posts/ghostty-is-leaving-github)  
@@ -18,6 +19,5 @@
 - `2026-05-23` | [🔗 Elixir’s defdelegate: An Underrated Tool for Stable APIs](https://www.yellowduck.be/posts/elixirs-defdelegate-an-underrated-tool-for-stable-apis)  
 - `2026-05-23` | [🔗 We upgraded to a Frontier model and our costs went down](https://www.yellowduck.be/posts/we-upgraded-to-a-frontier-model-and-our-costs-went-down)  
 - `2026-05-22` | [🔗 3 constraints before I build anything](https://www.yellowduck.be/posts/3-constraints-before-i-build-anything)  
-- `2026-05-22` | [🔗 The Zig project&#39;s rationale for their firm anti-AI contribution policy](https://www.yellowduck.be/posts/the-zig-projects-rationale-for-their-firm-anti-ai-contribution-policy)  
 
 <!-- BLOG-POST-LIST:END -->
