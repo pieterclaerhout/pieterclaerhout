@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-26` | [🔗 The Pulse: token spend breaks budgets – what next?](https://www.yellowduck.be/posts/the-pulse-token-spend-breaks-budgets-what-next)  
 - `2026-05-26` | [🔗 Laravel Route Binding Behind the Curtains](https://www.yellowduck.be/posts/laravel-route-binding-behind-the-curtains)  
 - `2026-05-26` | [🔗 Validating array inputs in Laravel without the N+1](https://www.yellowduck.be/posts/validating-array-inputs-in-laravel-without-the-n-1)  
 - `2026-05-25` | [🐥 Hide a layout section from a specific child view in Laravel Blade](https://www.yellowduck.be/posts/hide-a-layout-section-from-a-specific-child-view-in-laravel-blade)  
@@ -18,6 +19,5 @@
 - `2026-05-24` | [🔗 Embedded Elixir sound controller with Nerves and Arduino](https://www.yellowduck.be/posts/embedded-elixir-sound-controller-with-nerves-and-arduino)  
 - `2026-05-24` | [🔗 Why I moved from Python to Elixir for AI work, and what I found on the other side.](https://www.yellowduck.be/posts/why-i-moved-from-python-to-elixir-for-ai-work-and-what-i-found-on-the-other-side)  
 - `2026-05-23` | [🐥 Scanning files with clamdscan and --fdpass](https://www.yellowduck.be/posts/scanning-files-with-clamdscan-and-fdpass)  
-- `2026-05-23` | [🔗 Elixir’s defdelegate: An Underrated Tool for Stable APIs](https://www.yellowduck.be/posts/elixirs-defdelegate-an-underrated-tool-for-stable-apis)  
 
 <!-- BLOG-POST-LIST:END -->
