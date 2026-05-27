@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-27` | [🐥 The Tailwind `enabled:` selector trick for disabled buttons](https://www.yellowduck.be/posts/the-tailwind-enabled-selector-trick-for-disabled-buttons)  
 - `2026-05-27` | [🔗 Recursion as a design pattern](https://www.yellowduck.be/posts/recursion-as-a-design-pattern)  
 - `2026-05-27` | [🔗 Don&#39;t let AI write for you](https://www.yellowduck.be/posts/dont-let-ai-write-for-you)  
 - `2026-05-26` | [🔗 The Pulse: token spend breaks budgets – what next?](https://www.yellowduck.be/posts/the-pulse-token-spend-breaks-budgets-what-next)  
@@ -18,6 +19,5 @@
 - `2026-05-25` | [🔗 The 20 software engineering laws](https://www.yellowduck.be/posts/the-20-software-engineering-laws)  
 - `2026-05-25` | [🔗 AI now writes 97% of my code. Here&#39;s what I learned](https://www.yellowduck.be/posts/ai-now-writes-97-of-my-code-heres-what-i-learned)  
 - `2026-05-24` | [🔗 Ghostty is leaving GitHub](https://www.yellowduck.be/posts/ghostty-is-leaving-github)  
-- `2026-05-24` | [🔗 Embedded Elixir sound controller with Nerves and Arduino](https://www.yellowduck.be/posts/embedded-elixir-sound-controller-with-nerves-and-arduino)  
 
 <!-- BLOG-POST-LIST:END -->
