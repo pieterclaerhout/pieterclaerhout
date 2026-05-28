@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-28` | [🔗 S3 Files and the changing face of S3](https://www.yellowduck.be/posts/s3-files-and-the-changing-face-of-s3)  
 - `2026-05-28` | [🔗 Phoenix LiveView widgets with hooks: a reusable pattern](https://www.yellowduck.be/posts/phoenix-liveview-widgets-with-hooks-a-reusable-pattern)  
 - `2026-05-27` | [🐥 The Tailwind `enabled:` selector trick for disabled buttons](https://www.yellowduck.be/posts/the-tailwind-enabled-selector-trick-for-disabled-buttons)  
 - `2026-05-27` | [🔗 Recursion as a design pattern](https://www.yellowduck.be/posts/recursion-as-a-design-pattern)  
@@ -18,6 +19,5 @@
 - `2026-05-26` | [🔗 Validating array inputs in Laravel without the N+1](https://www.yellowduck.be/posts/validating-array-inputs-in-laravel-without-the-n-1)  
 - `2026-05-25` | [🐥 Hide a layout section from a specific child view in Laravel Blade](https://www.yellowduck.be/posts/hide-a-layout-section-from-a-specific-child-view-in-laravel-blade)  
 - `2026-05-25` | [🔗 The 20 software engineering laws](https://www.yellowduck.be/posts/the-20-software-engineering-laws)  
-- `2026-05-25` | [🔗 AI now writes 97% of my code. Here&#39;s what I learned](https://www.yellowduck.be/posts/ai-now-writes-97-of-my-code-heres-what-i-learned)  
 
 <!-- BLOG-POST-LIST:END -->
