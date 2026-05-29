@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-29` | [🐥 Downloading external images as squares from a Phoenix app](https://www.yellowduck.be/posts/downloading-external-images-as-squares-from-a-phoenix-app)  
 - `2026-05-29` | [🔗 Programming in 2026: excitement, dread, and the coming wave](https://www.yellowduck.be/posts/programming-in-2026-excitement-dread-and-the-coming-wave)  
 - `2026-05-29` | [🔗 When everyone has AI and the company still learns nothing](https://www.yellowduck.be/posts/when-everyone-has-ai-and-the-company-still-learns-nothing)  
 - `2026-05-28` | [🔗 Claude code is not making your product better](https://www.yellowduck.be/posts/claude-code-is-not-making-your-product-better)  
@@ -18,6 +19,5 @@
 - `2026-05-27` | [🔗 Recursion as a design pattern](https://www.yellowduck.be/posts/recursion-as-a-design-pattern)  
 - `2026-05-27` | [🔗 Don&#39;t let AI write for you](https://www.yellowduck.be/posts/dont-let-ai-write-for-you)  
 - `2026-05-26` | [🔗 The Pulse: token spend breaks budgets – what next?](https://www.yellowduck.be/posts/the-pulse-token-spend-breaks-budgets-what-next)  
-- `2026-05-26` | [🔗 Laravel Route Binding Behind the Curtains](https://www.yellowduck.be/posts/laravel-route-binding-behind-the-curtains)  
 
 <!-- BLOG-POST-LIST:END -->
