@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-29` | [🔗 When everyone has AI and the company still learns nothing](https://www.yellowduck.be/posts/when-everyone-has-ai-and-the-company-still-learns-nothing)  
 - `2026-05-28` | [🔗 Claude code is not making your product better](https://www.yellowduck.be/posts/claude-code-is-not-making-your-product-better)  
 - `2026-05-28` | [🔗 S3 Files and the changing face of S3](https://www.yellowduck.be/posts/s3-files-and-the-changing-face-of-s3)  
 - `2026-05-28` | [🔗 Phoenix LiveView widgets with hooks: a reusable pattern](https://www.yellowduck.be/posts/phoenix-liveview-widgets-with-hooks-a-reusable-pattern)  
@@ -18,6 +19,5 @@
 - `2026-05-26` | [🔗 The Pulse: token spend breaks budgets – what next?](https://www.yellowduck.be/posts/the-pulse-token-spend-breaks-budgets-what-next)  
 - `2026-05-26` | [🔗 Laravel Route Binding Behind the Curtains](https://www.yellowduck.be/posts/laravel-route-binding-behind-the-curtains)  
 - `2026-05-26` | [🔗 Validating array inputs in Laravel without the N+1](https://www.yellowduck.be/posts/validating-array-inputs-in-laravel-without-the-n-1)  
-- `2026-05-25` | [🐥 Hide a layout section from a specific child view in Laravel Blade](https://www.yellowduck.be/posts/hide-a-layout-section-from-a-specific-child-view-in-laravel-blade)  
 
 <!-- BLOG-POST-LIST:END -->
