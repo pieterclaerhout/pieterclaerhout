@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-30` | [🔗 OpenAPI DSLs: The silent developer productivity killer](https://www.yellowduck.be/posts/openapi-dsls-the-silent-developer-productivity-killer)  
 - `2026-05-30` | [🔗 10 lessons for agentic coding](https://www.yellowduck.be/posts/10-lessons-for-agentic-coding)  
 - `2026-05-29` | [🐥 Downloading external images as squares from a Phoenix app](https://www.yellowduck.be/posts/downloading-external-images-as-squares-from-a-phoenix-app)  
 - `2026-05-29` | [🔗 Programming in 2026: excitement, dread, and the coming wave](https://www.yellowduck.be/posts/programming-in-2026-excitement-dread-and-the-coming-wave)  
@@ -18,6 +19,5 @@
 - `2026-05-28` | [🔗 Phoenix LiveView widgets with hooks: a reusable pattern](https://www.yellowduck.be/posts/phoenix-liveview-widgets-with-hooks-a-reusable-pattern)  
 - `2026-05-27` | [🐥 The Tailwind `enabled:` selector trick for disabled buttons](https://www.yellowduck.be/posts/the-tailwind-enabled-selector-trick-for-disabled-buttons)  
 - `2026-05-27` | [🔗 Recursion as a design pattern](https://www.yellowduck.be/posts/recursion-as-a-design-pattern)  
-- `2026-05-27` | [🔗 Don&#39;t let AI write for you](https://www.yellowduck.be/posts/dont-let-ai-write-for-you)  
 
 <!-- BLOG-POST-LIST:END -->
