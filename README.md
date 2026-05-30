@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-30` | [🔗 10 lessons for agentic coding](https://www.yellowduck.be/posts/10-lessons-for-agentic-coding)  
 - `2026-05-29` | [🐥 Downloading external images as squares from a Phoenix app](https://www.yellowduck.be/posts/downloading-external-images-as-squares-from-a-phoenix-app)  
 - `2026-05-29` | [🔗 Programming in 2026: excitement, dread, and the coming wave](https://www.yellowduck.be/posts/programming-in-2026-excitement-dread-and-the-coming-wave)  
 - `2026-05-29` | [🔗 When everyone has AI and the company still learns nothing](https://www.yellowduck.be/posts/when-everyone-has-ai-and-the-company-still-learns-nothing)  
@@ -18,6 +19,5 @@
 - `2026-05-27` | [🐥 The Tailwind `enabled:` selector trick for disabled buttons](https://www.yellowduck.be/posts/the-tailwind-enabled-selector-trick-for-disabled-buttons)  
 - `2026-05-27` | [🔗 Recursion as a design pattern](https://www.yellowduck.be/posts/recursion-as-a-design-pattern)  
 - `2026-05-27` | [🔗 Don&#39;t let AI write for you](https://www.yellowduck.be/posts/dont-let-ai-write-for-you)  
-- `2026-05-26` | [🔗 The Pulse: token spend breaks budgets – what next?](https://www.yellowduck.be/posts/the-pulse-token-spend-breaks-budgets-what-next)  
 
 <!-- BLOG-POST-LIST:END -->
