@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-31` | [🔗 I don&#39;t want your PRs anymore](https://www.yellowduck.be/posts/i-dont-want-your-prs-anymore)  
 - `2026-05-30` | [🔗 The age of refinement: optimizing search performance for MCP systems](https://www.yellowduck.be/posts/the-age-of-refinement-optimizing-search-performance-for-mcp-systems)  
 - `2026-05-30` | [🔗 OpenAPI DSLs: The silent developer productivity killer](https://www.yellowduck.be/posts/openapi-dsls-the-silent-developer-productivity-killer)  
 - `2026-05-30` | [🔗 10 lessons for agentic coding](https://www.yellowduck.be/posts/10-lessons-for-agentic-coding)  
@@ -18,6 +19,5 @@
 - `2026-05-28` | [🔗 Claude code is not making your product better](https://www.yellowduck.be/posts/claude-code-is-not-making-your-product-better)  
 - `2026-05-28` | [🔗 S3 Files and the changing face of S3](https://www.yellowduck.be/posts/s3-files-and-the-changing-face-of-s3)  
 - `2026-05-28` | [🔗 Phoenix LiveView widgets with hooks: a reusable pattern](https://www.yellowduck.be/posts/phoenix-liveview-widgets-with-hooks-a-reusable-pattern)  
-- `2026-05-27` | [🐥 The Tailwind `enabled:` selector trick for disabled buttons](https://www.yellowduck.be/posts/the-tailwind-enabled-selector-trick-for-disabled-buttons)  
 
 <!-- BLOG-POST-LIST:END -->
