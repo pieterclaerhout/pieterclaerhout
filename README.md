@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-01` | [🔗 API versioning should be your last resort](https://www.yellowduck.be/posts/api-versioning-should-be-your-last-resort)  
 - `2026-05-31` | [🐥 How to find all Jira issues ever assigned to someone &lpar;even historical ones&rpar;](https://www.yellowduck.be/posts/how-to-find-all-jira-issues-ever-assigned-to-someone-even-historical-ones)  
 - `2026-05-31` | [🔗 How I write HTTP servers](https://www.yellowduck.be/posts/how-i-write-http-servers)  
 - `2026-05-31` | [🔗 I don&#39;t want your PRs anymore](https://www.yellowduck.be/posts/i-dont-want-your-prs-anymore)  
@@ -18,6 +19,5 @@
 - `2026-05-29` | [🐥 Downloading external images as squares from a Phoenix app](https://www.yellowduck.be/posts/downloading-external-images-as-squares-from-a-phoenix-app)  
 - `2026-05-29` | [🔗 Programming in 2026: excitement, dread, and the coming wave](https://www.yellowduck.be/posts/programming-in-2026-excitement-dread-and-the-coming-wave)  
 - `2026-05-29` | [🔗 When everyone has AI and the company still learns nothing](https://www.yellowduck.be/posts/when-everyone-has-ai-and-the-company-still-learns-nothing)  
-- `2026-05-28` | [🔗 Claude code is not making your product better](https://www.yellowduck.be/posts/claude-code-is-not-making-your-product-better)  
 
 <!-- BLOG-POST-LIST:END -->
