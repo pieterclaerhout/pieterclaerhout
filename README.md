@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-03` | [🔗 The robots are replacing the packages](https://www.yellowduck.be/posts/the-robots-are-replacing-the-packages)  
 - `2026-06-02` | [🐥 Why crypto.getRandomValues&lpar;&rpar; matters in JavaScript](https://www.yellowduck.be/posts/why-crypto-getrandomvalues-matters-in-javascript)  
 - `2026-06-02` | [🔗 The language of the boundary](https://www.yellowduck.be/posts/the-language-of-the-boundary)  
 - `2026-06-02` | [🔗 AI agents keep failing. The fix is 40 years old.](https://www.yellowduck.be/posts/ai-agents-keep-failing-the-fix-is-40-years-old)  
@@ -18,6 +19,5 @@
 - `2026-05-31` | [🐥 How to find all Jira issues ever assigned to someone &lpar;even historical ones&rpar;](https://www.yellowduck.be/posts/how-to-find-all-jira-issues-ever-assigned-to-someone-even-historical-ones)  
 - `2026-05-31` | [🔗 How I write HTTP servers](https://www.yellowduck.be/posts/how-i-write-http-servers)  
 - `2026-05-31` | [🔗 I don&#39;t want your PRs anymore](https://www.yellowduck.be/posts/i-dont-want-your-prs-anymore)  
-- `2026-05-30` | [🔗 The age of refinement: optimizing search performance for MCP systems](https://www.yellowduck.be/posts/the-age-of-refinement-optimizing-search-performance-for-mcp-systems)  
 
 <!-- BLOG-POST-LIST:END -->
