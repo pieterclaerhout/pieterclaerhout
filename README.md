@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-04` | [🔗 How I write HTTP clients](https://www.yellowduck.be/posts/how-i-write-http-clients)  
 - `2026-06-03` | [🔗 Computer use is 45x more expensive than structured APIs](https://www.yellowduck.be/posts/computer-use-is-45x-more-expensive-than-structured-apis)  
 - `2026-06-03` | [🔗 Why developers should – and shouldn’t – use LLMs in our development](https://www.yellowduck.be/posts/why-developers-should-and-shouldnt-use-llms-in-our-development)  
 - `2026-06-03` | [🔗 The robots are replacing the packages](https://www.yellowduck.be/posts/the-robots-are-replacing-the-packages)  
@@ -18,6 +19,5 @@
 - `2026-06-01` | [🔗 Claude Code is a build system, not a chatbot](https://www.yellowduck.be/posts/claude-code-is-a-build-system-not-a-chatbot)  
 - `2026-06-01` | [🔗 Functional programmers need to take a look at Zig](https://www.yellowduck.be/posts/functional-programmers-need-to-take-a-look-at-zig)  
 - `2026-06-01` | [🔗 API versioning should be your last resort](https://www.yellowduck.be/posts/api-versioning-should-be-your-last-resort)  
-- `2026-05-31` | [🐥 How to find all Jira issues ever assigned to someone &lpar;even historical ones&rpar;](https://www.yellowduck.be/posts/how-to-find-all-jira-issues-ever-assigned-to-someone-even-historical-ones)  
 
 <!-- BLOG-POST-LIST:END -->
