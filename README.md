@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-05` | [🔗 Learnings from 100K lines of Rust with AI](https://www.yellowduck.be/posts/learnings-from-100k-lines-of-rust-with-ai)  
 - `2026-06-04` | [🐥 Fixing PHPUnit 13 with*&lpar;&rpar; without expects&lpar;&rpar; deprecations in Laravel tests](https://www.yellowduck.be/posts/fixing-phpunit-13-with-without-expects-deprecations-in-laravel-tests)  
 - `2026-06-04` | [🔗 Composable SFTP streams in Elixir](https://www.yellowduck.be/posts/composable-sftp-streams-in-elixir)  
 - `2026-06-04` | [🔗 How I write HTTP clients](https://www.yellowduck.be/posts/how-i-write-http-clients)  
@@ -18,6 +19,5 @@
 - `2026-06-02` | [🐥 Why crypto.getRandomValues&lpar;&rpar; matters in JavaScript](https://www.yellowduck.be/posts/why-crypto-getrandomvalues-matters-in-javascript)  
 - `2026-06-02` | [🔗 The language of the boundary](https://www.yellowduck.be/posts/the-language-of-the-boundary)  
 - `2026-06-02` | [🔗 AI agents keep failing. The fix is 40 years old.](https://www.yellowduck.be/posts/ai-agents-keep-failing-the-fix-is-40-years-old)  
-- `2026-06-01` | [🔗 Claude Code is a build system, not a chatbot](https://www.yellowduck.be/posts/claude-code-is-a-build-system-not-a-chatbot)  
 
 <!-- BLOG-POST-LIST:END -->
