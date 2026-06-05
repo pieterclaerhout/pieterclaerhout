@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-05` | [🔗 34 days in an Elixir tunnel to refactor my SaaS without a rewrite](https://www.yellowduck.be/posts/34-days-in-an-elixir-tunnel-to-refactor-my-saas-without-a-rewrite)  
 - `2026-06-05` | [🔗 Learnings from 100K lines of Rust with AI](https://www.yellowduck.be/posts/learnings-from-100k-lines-of-rust-with-ai)  
 - `2026-06-04` | [🐥 Fixing PHPUnit 13 with*&lpar;&rpar; without expects&lpar;&rpar; deprecations in Laravel tests](https://www.yellowduck.be/posts/fixing-phpunit-13-with-without-expects-deprecations-in-laravel-tests)  
 - `2026-06-04` | [🔗 Composable SFTP streams in Elixir](https://www.yellowduck.be/posts/composable-sftp-streams-in-elixir)  
@@ -18,6 +19,5 @@
 - `2026-06-03` | [🔗 The robots are replacing the packages](https://www.yellowduck.be/posts/the-robots-are-replacing-the-packages)  
 - `2026-06-02` | [🐥 Why crypto.getRandomValues&lpar;&rpar; matters in JavaScript](https://www.yellowduck.be/posts/why-crypto-getrandomvalues-matters-in-javascript)  
 - `2026-06-02` | [🔗 The language of the boundary](https://www.yellowduck.be/posts/the-language-of-the-boundary)  
-- `2026-06-02` | [🔗 AI agents keep failing. The fix is 40 years old.](https://www.yellowduck.be/posts/ai-agents-keep-failing-the-fix-is-40-years-old)  
 
 <!-- BLOG-POST-LIST:END -->
