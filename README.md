@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-06` | [🔗 What if the browser was the server?](https://www.yellowduck.be/posts/what-if-the-browser-was-the-server)  
 - `2026-06-05` | [🔗 Using daisyUI means less LLM cost and faster UI generation](https://www.yellowduck.be/posts/using-daisyui-means-less-llm-cost-and-faster-ui-generation)  
 - `2026-06-05` | [🔗 34 days in an Elixir tunnel to refactor my SaaS without a rewrite](https://www.yellowduck.be/posts/34-days-in-an-elixir-tunnel-to-refactor-my-saas-without-a-rewrite)  
 - `2026-06-05` | [🔗 Learnings from 100K lines of Rust with AI](https://www.yellowduck.be/posts/learnings-from-100k-lines-of-rust-with-ai)  
@@ -18,6 +19,5 @@
 - `2026-06-03` | [🔗 Computer use is 45x more expensive than structured APIs](https://www.yellowduck.be/posts/computer-use-is-45x-more-expensive-than-structured-apis)  
 - `2026-06-03` | [🔗 Why developers should – and shouldn’t – use LLMs in our development](https://www.yellowduck.be/posts/why-developers-should-and-shouldnt-use-llms-in-our-development)  
 - `2026-06-03` | [🔗 The robots are replacing the packages](https://www.yellowduck.be/posts/the-robots-are-replacing-the-packages)  
-- `2026-06-02` | [🐥 Why crypto.getRandomValues&lpar;&rpar; matters in JavaScript](https://www.yellowduck.be/posts/why-crypto-getrandomvalues-matters-in-javascript)  
 
 <!-- BLOG-POST-LIST:END -->
