@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-07` | [🔗 How I moved my digital stack to Europe](https://www.yellowduck.be/posts/how-i-moved-my-digital-stack-to-europe)  
 - `2026-06-07` | [🔗 The myth of never giving up](https://www.yellowduck.be/posts/the-myth-of-never-giving-up)  
 - `2026-06-07` | [🔗 What’s gone wrong at GitHub?](https://www.yellowduck.be/posts/whats-gone-wrong-at-github)  
 - `2026-06-06` | [🐥 How to check how much memory a systemd unit is actually using](https://www.yellowduck.be/posts/how-to-check-how-much-memory-a-systemd-unit-is-actually-using)  
@@ -18,6 +19,5 @@
 - `2026-06-05` | [🔗 34 days in an Elixir tunnel to refactor my SaaS without a rewrite](https://www.yellowduck.be/posts/34-days-in-an-elixir-tunnel-to-refactor-my-saas-without-a-rewrite)  
 - `2026-06-05` | [🔗 Learnings from 100K lines of Rust with AI](https://www.yellowduck.be/posts/learnings-from-100k-lines-of-rust-with-ai)  
 - `2026-06-04` | [🐥 Fixing PHPUnit 13 with*&lpar;&rpar; without expects&lpar;&rpar; deprecations in Laravel tests](https://www.yellowduck.be/posts/fixing-phpunit-13-with-without-expects-deprecations-in-laravel-tests)  
-- `2026-06-04` | [🔗 Composable SFTP streams in Elixir](https://www.yellowduck.be/posts/composable-sftp-streams-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
