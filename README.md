@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-07` | [🔗 What’s gone wrong at GitHub?](https://www.yellowduck.be/posts/whats-gone-wrong-at-github)  
 - `2026-06-06` | [🐥 How to check how much memory a systemd unit is actually using](https://www.yellowduck.be/posts/how-to-check-how-much-memory-a-systemd-unit-is-actually-using)  
 - `2026-06-06` | [🔗 How Claude Code works in large codebases: Best practices and where to start](https://www.yellowduck.be/posts/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)  
 - `2026-06-06` | [🔗 What if the browser was the server?](https://www.yellowduck.be/posts/what-if-the-browser-was-the-server)  
@@ -18,6 +19,5 @@
 - `2026-06-04` | [🐥 Fixing PHPUnit 13 with*&lpar;&rpar; without expects&lpar;&rpar; deprecations in Laravel tests](https://www.yellowduck.be/posts/fixing-phpunit-13-with-without-expects-deprecations-in-laravel-tests)  
 - `2026-06-04` | [🔗 Composable SFTP streams in Elixir](https://www.yellowduck.be/posts/composable-sftp-streams-in-elixir)  
 - `2026-06-04` | [🔗 How I write HTTP clients](https://www.yellowduck.be/posts/how-i-write-http-clients)  
-- `2026-06-03` | [🔗 Computer use is 45x more expensive than structured APIs](https://www.yellowduck.be/posts/computer-use-is-45x-more-expensive-than-structured-apis)  
 
 <!-- BLOG-POST-LIST:END -->
