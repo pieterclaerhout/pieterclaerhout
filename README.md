@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-10` | [🔗 Just fucking use Go](https://www.yellowduck.be/posts/just-fucking-use-go)  
 - `2026-06-09` | [🔗 Writing code that feels native to Laravel](https://www.yellowduck.be/posts/writing-code-that-feels-native-to-laravel)  
 - `2026-06-09` | [🔗 The hidden danger of shipping fast](https://www.yellowduck.be/posts/the-hidden-danger-of-shipping-fast)  
 - `2026-06-09` | [🔗 Watching for file changes on macOS](https://www.yellowduck.be/posts/watching-for-file-changes-on-macos)  
@@ -18,6 +19,5 @@
 - `2026-06-07` | [🔗 How I moved my digital stack to Europe](https://www.yellowduck.be/posts/how-i-moved-my-digital-stack-to-europe)  
 - `2026-06-07` | [🔗 The myth of never giving up](https://www.yellowduck.be/posts/the-myth-of-never-giving-up)  
 - `2026-06-07` | [🔗 What’s gone wrong at GitHub?](https://www.yellowduck.be/posts/whats-gone-wrong-at-github)  
-- `2026-06-06` | [🐥 How to check how much memory a systemd unit is actually using](https://www.yellowduck.be/posts/how-to-check-how-much-memory-a-systemd-unit-is-actually-using)  
 
 <!-- BLOG-POST-LIST:END -->
