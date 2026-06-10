@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-10` | [🔗 Go away Microsoft! The Netherlands is quietly building its own GitHub replacement](https://www.yellowduck.be/posts/go-away-microsoft-the-netherlands-is-quietly-building-its-own-github-replacement)  
 - `2026-06-10` | [🔗 Just fucking use Go](https://www.yellowduck.be/posts/just-fucking-use-go)  
 - `2026-06-09` | [🔗 Writing code that feels native to Laravel](https://www.yellowduck.be/posts/writing-code-that-feels-native-to-laravel)  
 - `2026-06-09` | [🔗 The hidden danger of shipping fast](https://www.yellowduck.be/posts/the-hidden-danger-of-shipping-fast)  
@@ -18,6 +19,5 @@
 - `2026-06-08` | [🔗 Moving away from Tailwind, and learning to structure my CSS](https://www.yellowduck.be/posts/moving-away-from-tailwind-and-learning-to-structure-my-css)  
 - `2026-06-07` | [🔗 How I moved my digital stack to Europe](https://www.yellowduck.be/posts/how-i-moved-my-digital-stack-to-europe)  
 - `2026-06-07` | [🔗 The myth of never giving up](https://www.yellowduck.be/posts/the-myth-of-never-giving-up)  
-- `2026-06-07` | [🔗 What’s gone wrong at GitHub?](https://www.yellowduck.be/posts/whats-gone-wrong-at-github)  
 
 <!-- BLOG-POST-LIST:END -->
