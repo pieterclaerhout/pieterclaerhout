@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-12` | [🐥 Debugging PHPUnit notices in Laravel parallel tests](https://www.yellowduck.be/posts/debugging-phpunit-notices-in-laravel-parallel-tests)  
 - `2026-06-12` | [🔗 Working with PHP and Laravel on VSCode](https://www.yellowduck.be/posts/working-with-php-and-laravel-on-vscode)  
 - `2026-06-12` | [🔗 Ai turned me into a 0.1x developer](https://www.yellowduck.be/posts/ai-turned-me-into-a-0-1x-developer)  
 - `2026-06-11` | [🔗 The most underrated startup skill isn’t hustle. It’s curiosity.](https://www.yellowduck.be/posts/the-most-underrated-startup-skill-isnt-hustle-its-curiosity)  
@@ -18,6 +19,5 @@
 - `2026-06-10` | [🔗 Go away Microsoft! The Netherlands is quietly building its own GitHub replacement](https://www.yellowduck.be/posts/go-away-microsoft-the-netherlands-is-quietly-building-its-own-github-replacement)  
 - `2026-06-10` | [🔗 Just fucking use Go](https://www.yellowduck.be/posts/just-fucking-use-go)  
 - `2026-06-09` | [🔗 Writing code that feels native to Laravel](https://www.yellowduck.be/posts/writing-code-that-feels-native-to-laravel)  
-- `2026-06-09` | [🔗 The hidden danger of shipping fast](https://www.yellowduck.be/posts/the-hidden-danger-of-shipping-fast)  
 
 <!-- BLOG-POST-LIST:END -->
