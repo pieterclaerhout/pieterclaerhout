@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-12` | [🔗 Working with PHP and Laravel on VSCode](https://www.yellowduck.be/posts/working-with-php-and-laravel-on-vscode)  
 - `2026-06-12` | [🔗 Ai turned me into a 0.1x developer](https://www.yellowduck.be/posts/ai-turned-me-into-a-0-1x-developer)  
 - `2026-06-11` | [🔗 The most underrated startup skill isn’t hustle. It’s curiosity.](https://www.yellowduck.be/posts/the-most-underrated-startup-skill-isnt-hustle-its-curiosity)  
 - `2026-06-11` | [🔗 How to debug a team that isn’t working: the Waterline Model](https://www.yellowduck.be/posts/how-to-debug-a-team-that-isnt-working-the-waterline-model)  
@@ -18,6 +19,5 @@
 - `2026-06-10` | [🔗 Just fucking use Go](https://www.yellowduck.be/posts/just-fucking-use-go)  
 - `2026-06-09` | [🔗 Writing code that feels native to Laravel](https://www.yellowduck.be/posts/writing-code-that-feels-native-to-laravel)  
 - `2026-06-09` | [🔗 The hidden danger of shipping fast](https://www.yellowduck.be/posts/the-hidden-danger-of-shipping-fast)  
-- `2026-06-09` | [🔗 Watching for file changes on macOS](https://www.yellowduck.be/posts/watching-for-file-changes-on-macos)  
 
 <!-- BLOG-POST-LIST:END -->
