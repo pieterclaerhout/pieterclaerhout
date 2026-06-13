@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-13` | [🔗 AI load breaks GitHub – why not other vendors?](https://www.yellowduck.be/posts/ai-load-breaks-github-why-not-other-vendors)  
 - `2026-06-13` | [🔗 Idempotency: What, why and how](https://www.yellowduck.be/posts/idempotency-what-why-and-how)  
 - `2026-06-13` | [🔗 The unwritten laws of software engineering](https://www.yellowduck.be/posts/the-unwritten-laws-of-software-engineering)  
 - `2026-06-12` | [🐥 Debugging PHPUnit notices in Laravel parallel tests](https://www.yellowduck.be/posts/debugging-phpunit-notices-in-laravel-parallel-tests)  
@@ -18,6 +19,5 @@
 - `2026-06-11` | [🔗 How to debug a team that isn’t working: the Waterline Model](https://www.yellowduck.be/posts/how-to-debug-a-team-that-isnt-working-the-waterline-model)  
 - `2026-06-11` | [🔗 How do I write Elixir tests?](https://www.yellowduck.be/posts/how-do-i-write-elixir-tests)  
 - `2026-06-10` | [🐥 From N+1 to 1: Extracting paged PDF text with a single pdftotext call](https://www.yellowduck.be/posts/from-n-1-to-1-extracting-paged-pdf-text-with-a-single-pdftotext-call)  
-- `2026-06-10` | [🔗 Go away Microsoft! The Netherlands is quietly building its own GitHub replacement](https://www.yellowduck.be/posts/go-away-microsoft-the-netherlands-is-quietly-building-its-own-github-replacement)  
 
 <!-- BLOG-POST-LIST:END -->
