@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-15` | [🔗 Django LiveView vs Phoenix LiveView: a real benchmark](https://www.yellowduck.be/posts/django-liveview-vs-phoenix-liveview-a-real-benchmark)  
 - `2026-06-14` | [🐥 Speeding up S3 uploads in GitHub Actions with Bash parallelism](https://www.yellowduck.be/posts/speeding-up-s3-uploads-in-github-actions-with-bash-parallelism)  
 - `2026-06-14` | [🔗 This blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://www.yellowduck.be/posts/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd)  
 - `2026-06-14` | [🔗 Running local models on an M4 with 24GB memory](https://www.yellowduck.be/posts/running-local-models-on-an-m4-with-24gb-memory)  
@@ -18,6 +19,5 @@
 - `2026-06-12` | [🐥 Debugging PHPUnit notices in Laravel parallel tests](https://www.yellowduck.be/posts/debugging-phpunit-notices-in-laravel-parallel-tests)  
 - `2026-06-12` | [🔗 Working with PHP and Laravel on VSCode](https://www.yellowduck.be/posts/working-with-php-and-laravel-on-vscode)  
 - `2026-06-12` | [🔗 Ai turned me into a 0.1x developer](https://www.yellowduck.be/posts/ai-turned-me-into-a-0-1x-developer)  
-- `2026-06-11` | [🔗 The most underrated startup skill isn’t hustle. It’s curiosity.](https://www.yellowduck.be/posts/the-most-underrated-startup-skill-isnt-hustle-its-curiosity)  
 
 <!-- BLOG-POST-LIST:END -->
