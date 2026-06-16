@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-16` | [🔗 Lies I was told about collaborative editing, part 1: algorithms for offline editing](https://www.yellowduck.be/posts/lies-i-was-told-about-collaborative-editing-part-1-algorithms-for-offline-editing)  
 - `2026-06-15` | [🔗 Piper: Laravel-style array and string helpers for PHP&#39;s pipe operator](https://www.yellowduck.be/posts/piper-laravel-style-array-and-string-helpers-for-phps-pipe-operator)  
 - `2026-06-15` | [🔗 How LLMs interpret websites: guide to AI visibility](https://www.yellowduck.be/posts/how-llms-interpret-websites-guide-to-ai-visibility)  
 - `2026-06-15` | [🔗 Django LiveView vs Phoenix LiveView: a real benchmark](https://www.yellowduck.be/posts/django-liveview-vs-phoenix-liveview-a-real-benchmark)  
@@ -18,6 +19,5 @@
 - `2026-06-13` | [🔗 AI load breaks GitHub – why not other vendors?](https://www.yellowduck.be/posts/ai-load-breaks-github-why-not-other-vendors)  
 - `2026-06-13` | [🔗 Idempotency: What, why and how](https://www.yellowduck.be/posts/idempotency-what-why-and-how)  
 - `2026-06-13` | [🔗 The unwritten laws of software engineering](https://www.yellowduck.be/posts/the-unwritten-laws-of-software-engineering)  
-- `2026-06-12` | [🐥 Debugging PHPUnit notices in Laravel parallel tests](https://www.yellowduck.be/posts/debugging-phpunit-notices-in-laravel-parallel-tests)  
 
 <!-- BLOG-POST-LIST:END -->
