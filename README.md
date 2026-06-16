@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-16` | [🐥 Testing that Laravel events fire after a transaction commits](https://www.yellowduck.be/posts/testing-that-laravel-events-fire-after-a-transaction-commits)  
 - `2026-06-16` | [🔗 Lies I was told about collaborative editing, part 2: Why we don&#39;t use Yjs](https://www.yellowduck.be/posts/lies-i-was-told-about-collaborative-editing-part-2-why-we-dont-use-yjs)  
 - `2026-06-16` | [🔗 Lies I was told about collaborative editing, part 1: algorithms for offline editing](https://www.yellowduck.be/posts/lies-i-was-told-about-collaborative-editing-part-1-algorithms-for-offline-editing)  
 - `2026-06-15` | [🔗 Piper: Laravel-style array and string helpers for PHP&#39;s pipe operator](https://www.yellowduck.be/posts/piper-laravel-style-array-and-string-helpers-for-phps-pipe-operator)  
@@ -18,6 +19,5 @@
 - `2026-06-14` | [🔗 This blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://www.yellowduck.be/posts/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd)  
 - `2026-06-14` | [🔗 Running local models on an M4 with 24GB memory](https://www.yellowduck.be/posts/running-local-models-on-an-m4-with-24gb-memory)  
 - `2026-06-13` | [🔗 AI load breaks GitHub – why not other vendors?](https://www.yellowduck.be/posts/ai-load-breaks-github-why-not-other-vendors)  
-- `2026-06-13` | [🔗 Idempotency: What, why and how](https://www.yellowduck.be/posts/idempotency-what-why-and-how)  
 
 <!-- BLOG-POST-LIST:END -->
