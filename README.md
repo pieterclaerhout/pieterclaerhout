@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-17` | [🔗 Utilizing Claude skills in client projects](https://www.yellowduck.be/posts/utilizing-claude-skills-in-client-projects)  
 - `2026-06-17` | [🔗 Symptoms of bad software design](https://www.yellowduck.be/posts/symptoms-of-bad-software-design)  
 - `2026-06-17` | [🔗 Why senior developers fail to communicate their expertise](https://www.yellowduck.be/posts/why-senior-developers-fail-to-communicate-their-expertise)  
 - `2026-06-16` | [🐥 Testing that Laravel events fire after a transaction commits](https://www.yellowduck.be/posts/testing-that-laravel-events-fire-after-a-transaction-commits)  
@@ -18,6 +19,5 @@
 - `2026-06-15` | [🔗 How LLMs interpret websites: guide to AI visibility](https://www.yellowduck.be/posts/how-llms-interpret-websites-guide-to-ai-visibility)  
 - `2026-06-15` | [🔗 Django LiveView vs Phoenix LiveView: a real benchmark](https://www.yellowduck.be/posts/django-liveview-vs-phoenix-liveview-a-real-benchmark)  
 - `2026-06-14` | [🐥 Speeding up S3 uploads in GitHub Actions with Bash parallelism](https://www.yellowduck.be/posts/speeding-up-s3-uploads-in-github-actions-with-bash-parallelism)  
-- `2026-06-14` | [🔗 This blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://www.yellowduck.be/posts/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd)  
 
 <!-- BLOG-POST-LIST:END -->
