@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-18` | [🔗 Make friends with your AI assistant](https://www.yellowduck.be/posts/make-friends-with-your-ai-assistant)  
 - `2026-06-18` | [🔗 Before GitHub](https://www.yellowduck.be/posts/before-github)  
 - `2026-06-17` | [🔗 Utilizing Claude skills in client projects](https://www.yellowduck.be/posts/utilizing-claude-skills-in-client-projects)  
 - `2026-06-17` | [🔗 Symptoms of bad software design](https://www.yellowduck.be/posts/symptoms-of-bad-software-design)  
@@ -18,6 +19,5 @@
 - `2026-06-16` | [🔗 Lies I was told about collaborative editing, part 1: algorithms for offline editing](https://www.yellowduck.be/posts/lies-i-was-told-about-collaborative-editing-part-1-algorithms-for-offline-editing)  
 - `2026-06-15` | [🔗 Piper: Laravel-style array and string helpers for PHP&#39;s pipe operator](https://www.yellowduck.be/posts/piper-laravel-style-array-and-string-helpers-for-phps-pipe-operator)  
 - `2026-06-15` | [🔗 How LLMs interpret websites: guide to AI visibility](https://www.yellowduck.be/posts/how-llms-interpret-websites-guide-to-ai-visibility)  
-- `2026-06-15` | [🔗 Django LiveView vs Phoenix LiveView: a real benchmark](https://www.yellowduck.be/posts/django-liveview-vs-phoenix-liveview-a-real-benchmark)  
 
 <!-- BLOG-POST-LIST:END -->
