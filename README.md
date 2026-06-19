@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-19` | [🔗 High performance Git](https://www.yellowduck.be/posts/high-performance-git)  
 - `2026-06-18` | [🐥 The MySQL null-safe equality operator: &lt;=&gt;](https://www.yellowduck.be/posts/the-mysql-null-safe-equality-operator)  
 - `2026-06-18` | [🔗 Make friends with your AI assistant](https://www.yellowduck.be/posts/make-friends-with-your-ai-assistant)  
 - `2026-06-18` | [🔗 Before GitHub](https://www.yellowduck.be/posts/before-github)  
@@ -18,6 +19,5 @@
 - `2026-06-16` | [🐥 Testing that Laravel events fire after a transaction commits](https://www.yellowduck.be/posts/testing-that-laravel-events-fire-after-a-transaction-commits)  
 - `2026-06-16` | [🔗 Lies I was told about collaborative editing, part 2: Why we don&#39;t use Yjs](https://www.yellowduck.be/posts/lies-i-was-told-about-collaborative-editing-part-2-why-we-dont-use-yjs)  
 - `2026-06-16` | [🔗 Lies I was told about collaborative editing, part 1: algorithms for offline editing](https://www.yellowduck.be/posts/lies-i-was-told-about-collaborative-editing-part-1-algorithms-for-offline-editing)  
-- `2026-06-15` | [🔗 Piper: Laravel-style array and string helpers for PHP&#39;s pipe operator](https://www.yellowduck.be/posts/piper-laravel-style-array-and-string-helpers-for-phps-pipe-operator)  
 
 <!-- BLOG-POST-LIST:END -->
