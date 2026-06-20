@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-20` | [🔗 Laravel MCP: Getting started](https://www.yellowduck.be/posts/laravel-mcp-getting-started)  
 - `2026-06-20` | [🔗 Credence: Elixir semantic linter](https://www.yellowduck.be/posts/credence-elixir-semantic-linter)  
 - `2026-06-19` | [🔗 The tacit dimension: why your best engineers can&#39;t tell you what they know](https://www.yellowduck.be/posts/the-tacit-dimension-why-your-best-engineers-cant-tell-you-what-they-know)  
 - `2026-06-19` | [🔗 AI’s impact on software engineers in 2026: key trends, Part 2](https://www.yellowduck.be/posts/ais-impact-on-software-engineers-in-2026-key-trends-part-2)  
@@ -18,6 +19,5 @@
 - `2026-06-18` | [🔗 Before GitHub](https://www.yellowduck.be/posts/before-github)  
 - `2026-06-17` | [🔗 Utilizing Claude skills in client projects](https://www.yellowduck.be/posts/utilizing-claude-skills-in-client-projects)  
 - `2026-06-17` | [🔗 Symptoms of bad software design](https://www.yellowduck.be/posts/symptoms-of-bad-software-design)  
-- `2026-06-17` | [🔗 Why senior developers fail to communicate their expertise](https://www.yellowduck.be/posts/why-senior-developers-fail-to-communicate-their-expertise)  
 
 <!-- BLOG-POST-LIST:END -->
