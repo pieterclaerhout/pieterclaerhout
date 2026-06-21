@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-21` | [🔗 Reading a 200k-line codebase you didn&#39;t write: a field guide](https://www.yellowduck.be/posts/reading-a-200k-line-codebase-you-didn-x27-t-write-a-field-guide)  
 - `2026-06-21` | [🔗 Claude talk small. Code still big.](https://www.yellowduck.be/posts/claude-talk-small-code-still-big)  
 - `2026-06-20` | [🔗 OAuth 2.0 – device flow explained for engineers, especially for backend engineers](https://www.yellowduck.be/posts/oauth-2-0-device-flow-explained-for-engineers-especially-for-backend-engineers)  
 - `2026-06-20` | [🔗 Laravel MCP: Getting started](https://www.yellowduck.be/posts/laravel-mcp-getting-started)  
@@ -18,6 +19,5 @@
 - `2026-06-19` | [🔗 High performance Git](https://www.yellowduck.be/posts/high-performance-git)  
 - `2026-06-18` | [🐥 The MySQL null-safe equality operator: &lt;=&gt;](https://www.yellowduck.be/posts/the-mysql-null-safe-equality-operator)  
 - `2026-06-18` | [🔗 Make friends with your AI assistant](https://www.yellowduck.be/posts/make-friends-with-your-ai-assistant)  
-- `2026-06-18` | [🔗 Before GitHub](https://www.yellowduck.be/posts/before-github)  
 
 <!-- BLOG-POST-LIST:END -->
