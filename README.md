@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-22` | [🔗 GenServer state management in Elixir: A production order book](https://www.yellowduck.be/posts/genserver-state-management-in-elixir-a-production-order-book)  
 - `2026-06-22` | [🔗 Concurrent reads, serialized writes with GenServer and Registry](https://www.yellowduck.be/posts/concurrent-reads-serialized-writes-with-genserver-and-registry)  
 - `2026-06-22` | [🔗 The beginning of programming as we’ll know it](https://www.yellowduck.be/posts/the-beginning-of-programming-as-well-know-it)  
 - `2026-06-21` | [🔗 Rust vs Go: A hands-on comparison](https://www.yellowduck.be/posts/rust-vs-go-comparison)  
@@ -18,6 +19,5 @@
 - `2026-06-20` | [🔗 Laravel MCP: Getting started](https://www.yellowduck.be/posts/laravel-mcp-getting-started)  
 - `2026-06-20` | [🔗 Credence: Elixir semantic linter](https://www.yellowduck.be/posts/credence-elixir-semantic-linter)  
 - `2026-06-19` | [🔗 The tacit dimension: why your best engineers can&#39;t tell you what they know](https://www.yellowduck.be/posts/the-tacit-dimension-why-your-best-engineers-cant-tell-you-what-they-know)  
-- `2026-06-19` | [🔗 AI’s impact on software engineers in 2026: key trends, Part 2](https://www.yellowduck.be/posts/ais-impact-on-software-engineers-in-2026-key-trends-part-2)  
 
 <!-- BLOG-POST-LIST:END -->
