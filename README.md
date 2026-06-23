@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-23` | [🔗 Build an MCP server with Laravel &lpar;and use it to publish this post&rpar;](https://www.yellowduck.be/posts/build-an-mcp-server-with-laravel-and-use-it-to-publish-this-post)  
 - `2026-06-23` | [🔗 Software engineering discipline and posture](https://www.yellowduck.be/posts/software-engineering-discipline-and-posture)  
 - `2026-06-23` | [🔗 Pair-programming is a cheat code](https://www.yellowduck.be/posts/pair-programming-is-a-cheat-code)  
 - `2026-06-22` | [🔗 GenServer state management in Elixir: A production order book](https://www.yellowduck.be/posts/genserver-state-management-in-elixir-a-production-order-book)  
@@ -18,6 +19,5 @@
 - `2026-06-21` | [🔗 Reading a 200k-line codebase you didn&#39;t write: a field guide](https://www.yellowduck.be/posts/reading-a-200k-line-codebase-you-didn-x27-t-write-a-field-guide)  
 - `2026-06-21` | [🔗 Claude talk small. Code still big.](https://www.yellowduck.be/posts/claude-talk-small-code-still-big)  
 - `2026-06-20` | [🔗 OAuth 2.0 – device flow explained for engineers, especially for backend engineers](https://www.yellowduck.be/posts/oauth-2-0-device-flow-explained-for-engineers-especially-for-backend-engineers)  
-- `2026-06-20` | [🔗 Laravel MCP: Getting started](https://www.yellowduck.be/posts/laravel-mcp-getting-started)  
 
 <!-- BLOG-POST-LIST:END -->
