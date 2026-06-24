@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-24` | [🔗 How I use LLMs as a staff engineer in 2026](https://www.yellowduck.be/posts/how-i-use-llms-as-a-staff-engineer-in-2026)  
 - `2026-06-24` | [🔗 How to write &quot;garbage code&quot; &lpar;by Linus Torvalds&rpar;](https://www.yellowduck.be/posts/how-to-write-garbage-code-by-linus-torvalds)  
 - `2026-06-23` | [🔗 Build an MCP server with Laravel &lpar;and use it to publish this post&rpar;](https://www.yellowduck.be/posts/build-an-mcp-server-with-laravel-and-use-it-to-publish-this-post)  
 - `2026-06-23` | [🔗 Software engineering discipline and posture](https://www.yellowduck.be/posts/software-engineering-discipline-and-posture)  
@@ -18,6 +19,5 @@
 - `2026-06-22` | [🔗 The beginning of programming as we’ll know it](https://www.yellowduck.be/posts/the-beginning-of-programming-as-well-know-it)  
 - `2026-06-21` | [🔗 Rust vs Go: A hands-on comparison](https://www.yellowduck.be/posts/rust-vs-go-comparison)  
 - `2026-06-21` | [🔗 Reading a 200k-line codebase you didn&#39;t write: a field guide](https://www.yellowduck.be/posts/reading-a-200k-line-codebase-you-didn-x27-t-write-a-field-guide)  
-- `2026-06-21` | [🔗 Claude talk small. Code still big.](https://www.yellowduck.be/posts/claude-talk-small-code-still-big)  
 
 <!-- BLOG-POST-LIST:END -->
