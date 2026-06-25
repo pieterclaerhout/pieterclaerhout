@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-25` | [🔗 AI literacy is not prompt literacy. Ann Handley says it&#39;s judgment literacy](https://www.yellowduck.be/posts/ai-literacy-is-not-prompt-literacy-ann-handley-says-its-judgment-literacy)  
 - `2026-06-24` | [🔗 Test coverage won&#39;t save you](https://www.yellowduck.be/posts/test-coverage-wont-save-you)  
 - `2026-06-24` | [🔗 How I use LLMs as a staff engineer in 2026](https://www.yellowduck.be/posts/how-i-use-llms-as-a-staff-engineer-in-2026)  
 - `2026-06-24` | [🔗 How to write &quot;garbage code&quot; &lpar;by Linus Torvalds&rpar;](https://www.yellowduck.be/posts/how-to-write-garbage-code-by-linus-torvalds)  
@@ -18,6 +19,5 @@
 - `2026-06-22` | [🔗 GenServer state management in Elixir: A production order book](https://www.yellowduck.be/posts/genserver-state-management-in-elixir-a-production-order-book)  
 - `2026-06-22` | [🔗 Concurrent reads, serialized writes with GenServer and Registry](https://www.yellowduck.be/posts/concurrent-reads-serialized-writes-with-genserver-and-registry)  
 - `2026-06-22` | [🔗 The beginning of programming as we’ll know it](https://www.yellowduck.be/posts/the-beginning-of-programming-as-well-know-it)  
-- `2026-06-21` | [🔗 Rust vs Go: A hands-on comparison](https://www.yellowduck.be/posts/rust-vs-go-comparison)  
 
 <!-- BLOG-POST-LIST:END -->
