@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-25` | [🔗 What is AI governance?](https://www.yellowduck.be/posts/what-is-ai-governance)  
 - `2026-06-25` | [🔗 How Erlang&#39;s parser tools saved my DSMR library](https://www.yellowduck.be/posts/how-erlangs-parser-tools-saved-my-dsmr-library)  
 - `2026-06-25` | [🔗 AI literacy is not prompt literacy. Ann Handley says it&#39;s judgment literacy](https://www.yellowduck.be/posts/ai-literacy-is-not-prompt-literacy-ann-handley-says-its-judgment-literacy)  
 - `2026-06-24` | [🔗 Test coverage won&#39;t save you](https://www.yellowduck.be/posts/test-coverage-wont-save-you)  
@@ -18,6 +19,5 @@
 - `2026-06-23` | [🔗 Software engineering discipline and posture](https://www.yellowduck.be/posts/software-engineering-discipline-and-posture)  
 - `2026-06-23` | [🔗 Pair-programming is a cheat code](https://www.yellowduck.be/posts/pair-programming-is-a-cheat-code)  
 - `2026-06-22` | [🔗 GenServer state management in Elixir: A production order book](https://www.yellowduck.be/posts/genserver-state-management-in-elixir-a-production-order-book)  
-- `2026-06-22` | [🔗 Concurrent reads, serialized writes with GenServer and Registry](https://www.yellowduck.be/posts/concurrent-reads-serialized-writes-with-genserver-and-registry)  
 
 <!-- BLOG-POST-LIST:END -->
