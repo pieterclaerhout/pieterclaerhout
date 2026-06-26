@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-26` | [🔗 #[RouteParameter] does not bind your model](https://www.yellowduck.be/posts/routeparameter-does-not-bind-your-model)  
 - `2026-06-26` | [🔗 Why enterprise AI projects fail: 5 root causes &amp; fixes](https://www.yellowduck.be/posts/why-enterprise-ai-projects-fail-5-root-causes-fixes)  
 - `2026-06-25` | [🔗 What is AI governance?](https://www.yellowduck.be/posts/what-is-ai-governance)  
 - `2026-06-25` | [🔗 How Erlang&#39;s parser tools saved my DSMR library](https://www.yellowduck.be/posts/how-erlangs-parser-tools-saved-my-dsmr-library)  
@@ -18,6 +19,5 @@
 - `2026-06-24` | [🔗 How to write &quot;garbage code&quot; &lpar;by Linus Torvalds&rpar;](https://www.yellowduck.be/posts/how-to-write-garbage-code-by-linus-torvalds)  
 - `2026-06-23` | [🔗 Build an MCP server with Laravel &lpar;and use it to publish this post&rpar;](https://www.yellowduck.be/posts/build-an-mcp-server-with-laravel-and-use-it-to-publish-this-post)  
 - `2026-06-23` | [🔗 Software engineering discipline and posture](https://www.yellowduck.be/posts/software-engineering-discipline-and-posture)  
-- `2026-06-23` | [🔗 Pair-programming is a cheat code](https://www.yellowduck.be/posts/pair-programming-is-a-cheat-code)  
 
 <!-- BLOG-POST-LIST:END -->
