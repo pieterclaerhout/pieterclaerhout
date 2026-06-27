@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-27` | [🔗 The hasOne&lpar;&rpar; in Laravel that returned another customer&#39;s data](https://www.yellowduck.be/posts/the-hasone-in-laravel-that-returned-another-customers-data)  
 - `2026-06-27` | [🔗 Generating OG images in Elixir](https://www.yellowduck.be/posts/generating-og-images-in-elixir)  
 - `2026-06-27` | [🔗 PHPStan 2.2: Unsealed array shapes, safer array keys, and more!](https://www.yellowduck.be/posts/phpstan-2-2-unsealed-array-shapes-safer-array-keys-and-more)  
 - `2026-06-26` | [🔗 The stack behind There There](https://www.yellowduck.be/posts/the-stack-behind-there-there)  
@@ -18,6 +19,5 @@
 - `2026-06-25` | [🔗 How Erlang&#39;s parser tools saved my DSMR library](https://www.yellowduck.be/posts/how-erlangs-parser-tools-saved-my-dsmr-library)  
 - `2026-06-25` | [🔗 AI literacy is not prompt literacy. Ann Handley says it&#39;s judgment literacy](https://www.yellowduck.be/posts/ai-literacy-is-not-prompt-literacy-ann-handley-says-its-judgment-literacy)  
 - `2026-06-24` | [🔗 Test coverage won&#39;t save you](https://www.yellowduck.be/posts/test-coverage-wont-save-you)  
-- `2026-06-24` | [🔗 How I use LLMs as a staff engineer in 2026](https://www.yellowduck.be/posts/how-i-use-llms-as-a-staff-engineer-in-2026)  
 
 <!-- BLOG-POST-LIST:END -->
