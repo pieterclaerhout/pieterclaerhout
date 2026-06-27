@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-27` | [🔗 PHPStan 2.2: Unsealed array shapes, safer array keys, and more!](https://www.yellowduck.be/posts/phpstan-2-2-unsealed-array-shapes-safer-array-keys-and-more)  
 - `2026-06-26` | [🔗 The stack behind There There](https://www.yellowduck.be/posts/the-stack-behind-there-there)  
 - `2026-06-26` | [🔗 #[RouteParameter] does not bind your model](https://www.yellowduck.be/posts/routeparameter-does-not-bind-your-model)  
 - `2026-06-26` | [🔗 Why enterprise AI projects fail: 5 root causes &amp; fixes](https://www.yellowduck.be/posts/why-enterprise-ai-projects-fail-5-root-causes-fixes)  
@@ -18,6 +19,5 @@
 - `2026-06-24` | [🔗 Test coverage won&#39;t save you](https://www.yellowduck.be/posts/test-coverage-wont-save-you)  
 - `2026-06-24` | [🔗 How I use LLMs as a staff engineer in 2026](https://www.yellowduck.be/posts/how-i-use-llms-as-a-staff-engineer-in-2026)  
 - `2026-06-24` | [🔗 How to write &quot;garbage code&quot; &lpar;by Linus Torvalds&rpar;](https://www.yellowduck.be/posts/how-to-write-garbage-code-by-linus-torvalds)  
-- `2026-06-23` | [🔗 Build an MCP server with Laravel &lpar;and use it to publish this post&rpar;](https://www.yellowduck.be/posts/build-an-mcp-server-with-laravel-and-use-it-to-publish-this-post)  
 
 <!-- BLOG-POST-LIST:END -->
