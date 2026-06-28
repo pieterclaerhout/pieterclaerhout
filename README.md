@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-28` | [🔗 Installing JS dependencies through mix](https://www.yellowduck.be/posts/installing-js-dependencies-through-mix)  
 - `2026-06-28` | [🔗 The maintainer&#39;s dilemma](https://www.yellowduck.be/posts/the-maintainers-dilemma)  
 - `2026-06-28` | [🔗 Publishing your blog to standard.site in Elixir](https://www.yellowduck.be/posts/publishing-your-blog-to-standard-site-in-elixir)  
 - `2026-06-27` | [🔗 The hasOne&lpar;&rpar; in Laravel that returned another customer&#39;s data](https://www.yellowduck.be/posts/the-hasone-in-laravel-that-returned-another-customers-data)  
@@ -18,6 +19,5 @@
 - `2026-06-26` | [🔗 #[RouteParameter] does not bind your model](https://www.yellowduck.be/posts/routeparameter-does-not-bind-your-model)  
 - `2026-06-26` | [🔗 Why enterprise AI projects fail: 5 root causes &amp; fixes](https://www.yellowduck.be/posts/why-enterprise-ai-projects-fail-5-root-causes-fixes)  
 - `2026-06-25` | [🔗 What is AI governance?](https://www.yellowduck.be/posts/what-is-ai-governance)  
-- `2026-06-25` | [🔗 How Erlang&#39;s parser tools saved my DSMR library](https://www.yellowduck.be/posts/how-erlangs-parser-tools-saved-my-dsmr-library)  
 
 <!-- BLOG-POST-LIST:END -->
