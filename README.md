@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-29` | [🔗 Continuous learning](https://www.yellowduck.be/posts/continuous-learning)  
 - `2026-06-28` | [🔗 Installing JS dependencies through mix](https://www.yellowduck.be/posts/installing-js-dependencies-through-mix)  
 - `2026-06-28` | [🔗 The maintainer&#39;s dilemma](https://www.yellowduck.be/posts/the-maintainers-dilemma)  
 - `2026-06-28` | [🔗 Publishing your blog to standard.site in Elixir](https://www.yellowduck.be/posts/publishing-your-blog-to-standard-site-in-elixir)  
@@ -18,6 +19,5 @@
 - `2026-06-26` | [🔗 The stack behind There There](https://www.yellowduck.be/posts/the-stack-behind-there-there)  
 - `2026-06-26` | [🔗 #[RouteParameter] does not bind your model](https://www.yellowduck.be/posts/routeparameter-does-not-bind-your-model)  
 - `2026-06-26` | [🔗 Why enterprise AI projects fail: 5 root causes &amp; fixes](https://www.yellowduck.be/posts/why-enterprise-ai-projects-fail-5-root-causes-fixes)  
-- `2026-06-25` | [🔗 What is AI governance?](https://www.yellowduck.be/posts/what-is-ai-governance)  
 
 <!-- BLOG-POST-LIST:END -->
