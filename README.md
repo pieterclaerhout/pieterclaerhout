@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-29` | [🔗 Self-Mocking Actions in Laravel](https://www.yellowduck.be/posts/self-mocking-actions-in-laravel)  
 - `2026-06-29` | [🔗 We replaced Redis with MySQL for inventory reservations—and it scaled](https://www.yellowduck.be/posts/we-replaced-redis-with-mysql-for-inventory-reservations-and-it-scaled)  
 - `2026-06-29` | [🔗 Continuous learning](https://www.yellowduck.be/posts/continuous-learning)  
 - `2026-06-28` | [🔗 Installing JS dependencies through mix](https://www.yellowduck.be/posts/installing-js-dependencies-through-mix)  
@@ -18,6 +19,5 @@
 - `2026-06-27` | [🔗 Generating OG images in Elixir](https://www.yellowduck.be/posts/generating-og-images-in-elixir)  
 - `2026-06-27` | [🔗 PHPStan 2.2: Unsealed array shapes, safer array keys, and more!](https://www.yellowduck.be/posts/phpstan-2-2-unsealed-array-shapes-safer-array-keys-and-more)  
 - `2026-06-26` | [🔗 The stack behind There There](https://www.yellowduck.be/posts/the-stack-behind-there-there)  
-- `2026-06-26` | [🔗 #[RouteParameter] does not bind your model](https://www.yellowduck.be/posts/routeparameter-does-not-bind-your-model)  
 
 <!-- BLOG-POST-LIST:END -->
