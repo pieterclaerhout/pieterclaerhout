@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-30` | [🔗 Your next project will run on PHP](https://www.yellowduck.be/posts/your-next-project-will-run-on-php)  
 - `2026-06-30` | [🔗 Lost, forgotten, and unfamiliar HTML](https://www.yellowduck.be/posts/lost-forgotten-and-unfamiliar-html)  
 - `2026-06-30` | [🔗 The sludge on the wall](https://www.yellowduck.be/posts/the-sludge-on-the-wall)  
 - `2026-06-29` | [🔗 Self-Mocking Actions in Laravel](https://www.yellowduck.be/posts/self-mocking-actions-in-laravel)  
@@ -18,6 +19,5 @@
 - `2026-06-28` | [🔗 The maintainer&#39;s dilemma](https://www.yellowduck.be/posts/the-maintainers-dilemma)  
 - `2026-06-28` | [🔗 Publishing your blog to standard.site in Elixir](https://www.yellowduck.be/posts/publishing-your-blog-to-standard-site-in-elixir)  
 - `2026-06-27` | [🔗 The hasOne&lpar;&rpar; in Laravel that returned another customer&#39;s data](https://www.yellowduck.be/posts/the-hasone-in-laravel-that-returned-another-customers-data)  
-- `2026-06-27` | [🔗 Generating OG images in Elixir](https://www.yellowduck.be/posts/generating-og-images-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
