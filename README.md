@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-30` | [🔗 Lost, forgotten, and unfamiliar HTML](https://www.yellowduck.be/posts/lost-forgotten-and-unfamiliar-html)  
 - `2026-06-30` | [🔗 The sludge on the wall](https://www.yellowduck.be/posts/the-sludge-on-the-wall)  
 - `2026-06-29` | [🔗 Self-Mocking Actions in Laravel](https://www.yellowduck.be/posts/self-mocking-actions-in-laravel)  
 - `2026-06-29` | [🔗 We replaced Redis with MySQL for inventory reservations—and it scaled](https://www.yellowduck.be/posts/we-replaced-redis-with-mysql-for-inventory-reservations-and-it-scaled)  
@@ -18,6 +19,5 @@
 - `2026-06-28` | [🔗 Publishing your blog to standard.site in Elixir](https://www.yellowduck.be/posts/publishing-your-blog-to-standard-site-in-elixir)  
 - `2026-06-27` | [🔗 The hasOne&lpar;&rpar; in Laravel that returned another customer&#39;s data](https://www.yellowduck.be/posts/the-hasone-in-laravel-that-returned-another-customers-data)  
 - `2026-06-27` | [🔗 Generating OG images in Elixir](https://www.yellowduck.be/posts/generating-og-images-in-elixir)  
-- `2026-06-27` | [🔗 PHPStan 2.2: Unsealed array shapes, safer array keys, and more!](https://www.yellowduck.be/posts/phpstan-2-2-unsealed-array-shapes-safer-array-keys-and-more)  
 
 <!-- BLOG-POST-LIST:END -->
