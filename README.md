@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-02` | [🔗 Using AI to write better code more slowly](https://www.yellowduck.be/posts/using-ai-to-write-better-code-more-slowly)  
 - `2026-07-01` | [🔗 Killing PRs was the easy part. Now technical death keeps the CTO up.](https://www.yellowduck.be/posts/killing-prs-was-the-easy-part-now-technical-death-keeps-the-cto-up)  
 - `2026-07-01` | [🔗 The 10 Go error handling commandments](https://www.yellowduck.be/posts/the-10-go-error-handling-commandments)  
 - `2026-07-01` | [🔗 Reading code with AI, not generating it](https://www.yellowduck.be/posts/reading-code-with-ai-not-generating-it)  
@@ -18,6 +19,5 @@
 - `2026-06-29` | [🔗 Self-Mocking Actions in Laravel](https://www.yellowduck.be/posts/self-mocking-actions-in-laravel)  
 - `2026-06-29` | [🔗 We replaced Redis with MySQL for inventory reservations—and it scaled](https://www.yellowduck.be/posts/we-replaced-redis-with-mysql-for-inventory-reservations-and-it-scaled)  
 - `2026-06-29` | [🔗 Continuous learning](https://www.yellowduck.be/posts/continuous-learning)  
-- `2026-06-28` | [🔗 Installing JS dependencies through mix](https://www.yellowduck.be/posts/installing-js-dependencies-through-mix)  
 
 <!-- BLOG-POST-LIST:END -->
