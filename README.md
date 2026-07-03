@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-03` | [🔗 5 faster ways to copy large or millions of files in Linux](https://www.yellowduck.be/posts/5-faster-ways-to-copy-large-or-millions-of-files-in-linux)  
 - `2026-07-03` | [🔗 Creating a poll that doesn&#39;t crash under load](https://www.yellowduck.be/posts/creating-a-poll-that-doesnt-crash-under-load)  
 - `2026-07-02` | [🔗 Beyond the prompt: Claude Code](https://www.yellowduck.be/posts/beyond-the-prompt-claude-code)  
 - `2026-07-02` | [🔗 AI security: 10 top risks and best practices in 2026](https://www.yellowduck.be/posts/ai-security-10-top-risks-and-best-practices-in-2026)  
@@ -18,6 +19,5 @@
 - `2026-07-01` | [🔗 Reading code with AI, not generating it](https://www.yellowduck.be/posts/reading-code-with-ai-not-generating-it)  
 - `2026-06-30` | [🔗 Your next project will run on PHP](https://www.yellowduck.be/posts/your-next-project-will-run-on-php)  
 - `2026-06-30` | [🔗 Lost, forgotten, and unfamiliar HTML](https://www.yellowduck.be/posts/lost-forgotten-and-unfamiliar-html)  
-- `2026-06-30` | [🔗 The sludge on the wall](https://www.yellowduck.be/posts/the-sludge-on-the-wall)  
 
 <!-- BLOG-POST-LIST:END -->
