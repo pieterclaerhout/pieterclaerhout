@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-04` | [🔗 Testing Go CLIs with testscript](https://www.yellowduck.be/posts/testing-go-clis-with-testscript)  
 - `2026-07-04` | [🔗 The 10x AI delusion &amp; the real bottlenecks](https://www.yellowduck.be/posts/the-10x-ai-delusion-the-real-bottlenecks)  
 - `2026-07-04` | [🔗 CLI vs MCP vs API for AI agents: which integration method should you use?](https://www.yellowduck.be/posts/cli-vs-mcp-vs-api-for-ai-agents-which-integration-method-should-you-use)  
 - `2026-07-03` | [🔗 Elixir v1.20 released: now a gradually typed language](https://www.yellowduck.be/posts/elixir-v1-20-released-now-a-gradually-typed-language)  
@@ -18,6 +19,5 @@
 - `2026-07-02` | [🔗 AI security: 10 top risks and best practices in 2026](https://www.yellowduck.be/posts/ai-security-10-top-risks-and-best-practices-in-2026)  
 - `2026-07-02` | [🔗 Using AI to write better code more slowly](https://www.yellowduck.be/posts/using-ai-to-write-better-code-more-slowly)  
 - `2026-07-01` | [🔗 Killing PRs was the easy part. Now technical death keeps the CTO up.](https://www.yellowduck.be/posts/killing-prs-was-the-easy-part-now-technical-death-keeps-the-cto-up)  
-- `2026-07-01` | [🔗 The 10 Go error handling commandments](https://www.yellowduck.be/posts/the-10-go-error-handling-commandments)  
 
 <!-- BLOG-POST-LIST:END -->
