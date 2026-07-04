@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-04` | [🔗 CLI vs MCP vs API for AI agents: which integration method should you use?](https://www.yellowduck.be/posts/cli-vs-mcp-vs-api-for-ai-agents-which-integration-method-should-you-use)  
 - `2026-07-03` | [🔗 Elixir v1.20 released: now a gradually typed language](https://www.yellowduck.be/posts/elixir-v1-20-released-now-a-gradually-typed-language)  
 - `2026-07-03` | [🔗 5 faster ways to copy large or millions of files in Linux](https://www.yellowduck.be/posts/5-faster-ways-to-copy-large-or-millions-of-files-in-linux)  
 - `2026-07-03` | [🔗 Creating a poll that doesn&#39;t crash under load](https://www.yellowduck.be/posts/creating-a-poll-that-doesnt-crash-under-load)  
@@ -18,6 +19,5 @@
 - `2026-07-01` | [🔗 Killing PRs was the easy part. Now technical death keeps the CTO up.](https://www.yellowduck.be/posts/killing-prs-was-the-easy-part-now-technical-death-keeps-the-cto-up)  
 - `2026-07-01` | [🔗 The 10 Go error handling commandments](https://www.yellowduck.be/posts/the-10-go-error-handling-commandments)  
 - `2026-07-01` | [🔗 Reading code with AI, not generating it](https://www.yellowduck.be/posts/reading-code-with-ai-not-generating-it)  
-- `2026-06-30` | [🔗 Your next project will run on PHP](https://www.yellowduck.be/posts/your-next-project-will-run-on-php)  
 
 <!-- BLOG-POST-LIST:END -->
