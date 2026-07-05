@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-05` | [🐥 Fixing Korean PDF rendering issues in Poppler on Ubuntu 22.04](https://www.yellowduck.be/posts/fixing-korean-pdf-rendering-issues-in-poppler-on-ubuntu-22-04)  
 - `2026-07-05` | [🔗 Don&#39;t roll your own ...](https://www.yellowduck.be/posts/dont-roll-your-own)  
 - `2026-07-05` | [🔗 Migrating from Go to Rust](https://www.yellowduck.be/posts/migrating-from-go-to-rust)  
 - `2026-07-04` | [🔗 Testing Go CLIs with testscript](https://www.yellowduck.be/posts/testing-go-clis-with-testscript)  
@@ -18,6 +19,5 @@
 - `2026-07-03` | [🔗 5 faster ways to copy large or millions of files in Linux](https://www.yellowduck.be/posts/5-faster-ways-to-copy-large-or-millions-of-files-in-linux)  
 - `2026-07-03` | [🔗 Creating a poll that doesn&#39;t crash under load](https://www.yellowduck.be/posts/creating-a-poll-that-doesnt-crash-under-load)  
 - `2026-07-02` | [🔗 Beyond the prompt: Claude Code](https://www.yellowduck.be/posts/beyond-the-prompt-claude-code)  
-- `2026-07-02` | [🔗 AI security: 10 top risks and best practices in 2026](https://www.yellowduck.be/posts/ai-security-10-top-risks-and-best-practices-in-2026)  
 
 <!-- BLOG-POST-LIST:END -->
