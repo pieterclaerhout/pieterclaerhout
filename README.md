@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-06` | [🔗 Why your X2D II files look better on iPad than iPhone](https://www.yellowduck.be/posts/why-your-x2d-ii-files-look-better-on-ipad-than-iphone)  
 - `2026-07-06` | [🔗 Agentic RAG vs long-context LLMs: a 171-question benchmark on 30 long PDFs](https://www.yellowduck.be/posts/agentic-rag-vs-long-context-llms-a-171-question-benchmark-on-30-long-pdfs)  
 - `2026-07-05` | [🐥 Fixing Korean PDF rendering issues in Poppler on Ubuntu 22.04](https://www.yellowduck.be/posts/fixing-korean-pdf-rendering-issues-in-poppler-on-ubuntu-22-04)  
 - `2026-07-05` | [🔗 Don&#39;t roll your own ...](https://www.yellowduck.be/posts/dont-roll-your-own)  
@@ -18,6 +19,5 @@
 - `2026-07-04` | [🔗 CLI vs MCP vs API for AI agents: which integration method should you use?](https://www.yellowduck.be/posts/cli-vs-mcp-vs-api-for-ai-agents-which-integration-method-should-you-use)  
 - `2026-07-03` | [🔗 Elixir v1.20 released: now a gradually typed language](https://www.yellowduck.be/posts/elixir-v1-20-released-now-a-gradually-typed-language)  
 - `2026-07-03` | [🔗 5 faster ways to copy large or millions of files in Linux](https://www.yellowduck.be/posts/5-faster-ways-to-copy-large-or-millions-of-files-in-linux)  
-- `2026-07-03` | [🔗 Creating a poll that doesn&#39;t crash under load](https://www.yellowduck.be/posts/creating-a-poll-that-doesnt-crash-under-load)  
 
 <!-- BLOG-POST-LIST:END -->
