@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-07` | [🐥 How to start and enable ClamAV service on Linux](https://www.yellowduck.be/posts/how-to-start-and-enable-clamav-service-on-linux)  
 - `2026-07-07` | [🔗 Build a document processing workflow in 30 minutes](https://www.yellowduck.be/posts/build-a-document-processing-workflow-in-30-minutes)  
 - `2026-07-07` | [🔗 RBAC in Laravel: a practical deep dive](https://www.yellowduck.be/posts/rbac-in-laravel-a-practical-deep-dive)  
 - `2026-07-06` | [🔗 Building Go APIs with Huma, sqlc, and Goose](https://www.yellowduck.be/posts/building-go-apis-with-huma-sqlc-and-goose)  
@@ -18,6 +19,5 @@
 - `2026-07-05` | [🔗 Don&#39;t roll your own ...](https://www.yellowduck.be/posts/dont-roll-your-own)  
 - `2026-07-05` | [🔗 Migrating from Go to Rust](https://www.yellowduck.be/posts/migrating-from-go-to-rust)  
 - `2026-07-04` | [🔗 Testing Go CLIs with testscript](https://www.yellowduck.be/posts/testing-go-clis-with-testscript)  
-- `2026-07-04` | [🔗 The 10x AI delusion &amp; the real bottlenecks](https://www.yellowduck.be/posts/the-10x-ai-delusion-the-real-bottlenecks)  
 
 <!-- BLOG-POST-LIST:END -->
