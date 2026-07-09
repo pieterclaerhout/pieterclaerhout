@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-09` | [🔗 Stop programming in Markdown](https://www.yellowduck.be/posts/stop-programming-in-markdown)  
 - `2026-07-09` | [🔗 Modern CSS theming with light-dark&lpar;&rpar;, contrast-color&lpar;&rpar;, and style queries](https://www.yellowduck.be/posts/modern-css-theming-with-light-dark-contrast-color-and-style-queries)  
 - `2026-07-08` | [🔗 Mistral OCR 4 : SOTA OCR for Document Intelligence](https://www.yellowduck.be/posts/mistral-ocr-4-sota-ocr-for-document-intelligence)  
 - `2026-07-08` | [🔗 In memory of the man who put red and green squiggles under words](https://www.yellowduck.be/posts/in-memory-of-the-man-who-put-red-and-green-squiggles-under-words)  
@@ -18,6 +19,5 @@
 - `2026-07-07` | [🔗 RBAC in Laravel: a practical deep dive](https://www.yellowduck.be/posts/rbac-in-laravel-a-practical-deep-dive)  
 - `2026-07-06` | [🔗 Building Go APIs with Huma, sqlc, and Goose](https://www.yellowduck.be/posts/building-go-apis-with-huma-sqlc-and-goose)  
 - `2026-07-06` | [🔗 Why your X2D II files look better on iPad than iPhone](https://www.yellowduck.be/posts/why-your-x2d-ii-files-look-better-on-ipad-than-iphone)  
-- `2026-07-06` | [🔗 Agentic RAG vs long-context LLMs: a 171-question benchmark on 30 long PDFs](https://www.yellowduck.be/posts/agentic-rag-vs-long-context-llms-a-171-question-benchmark-on-30-long-pdfs)  
 
 <!-- BLOG-POST-LIST:END -->
