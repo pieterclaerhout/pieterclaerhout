@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-10` | [🔗 Docker alternative: Podman on Linux](https://www.yellowduck.be/posts/docker-alternative-podman-on-linux)  
 - `2026-07-10` | [🔗 Six SQL patterns I use to catch transaction fraud](https://www.yellowduck.be/posts/six-sql-patterns-i-use-to-catch-transaction-fraud)  
 - `2026-07-09` | [🔗 Stop mounting your LiveView twice](https://www.yellowduck.be/posts/stop-mounting-your-liveview-twice)  
 - `2026-07-09` | [🔗 Stop programming in Markdown](https://www.yellowduck.be/posts/stop-programming-in-markdown)  
@@ -18,6 +19,5 @@
 - `2026-07-08` | [🔗 Key activities for sustainable engineering team](https://www.yellowduck.be/posts/key-activities-for-sustainable-engineering-team)  
 - `2026-07-07` | [🐥 How to start and enable ClamAV service on Linux](https://www.yellowduck.be/posts/how-to-start-and-enable-clamav-service-on-linux)  
 - `2026-07-07` | [🔗 Build a document processing workflow in 30 minutes](https://www.yellowduck.be/posts/build-a-document-processing-workflow-in-30-minutes)  
-- `2026-07-07` | [🔗 RBAC in Laravel: a practical deep dive](https://www.yellowduck.be/posts/rbac-in-laravel-a-practical-deep-dive)  
 
 <!-- BLOG-POST-LIST:END -->
