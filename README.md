@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-10` | [🔗 Six SQL patterns I use to catch transaction fraud](https://www.yellowduck.be/posts/six-sql-patterns-i-use-to-catch-transaction-fraud)  
 - `2026-07-09` | [🔗 Stop mounting your LiveView twice](https://www.yellowduck.be/posts/stop-mounting-your-liveview-twice)  
 - `2026-07-09` | [🔗 Stop programming in Markdown](https://www.yellowduck.be/posts/stop-programming-in-markdown)  
 - `2026-07-09` | [🔗 Modern CSS theming with light-dark&lpar;&rpar;, contrast-color&lpar;&rpar;, and style queries](https://www.yellowduck.be/posts/modern-css-theming-with-light-dark-contrast-color-and-style-queries)  
@@ -18,6 +19,5 @@
 - `2026-07-07` | [🐥 How to start and enable ClamAV service on Linux](https://www.yellowduck.be/posts/how-to-start-and-enable-clamav-service-on-linux)  
 - `2026-07-07` | [🔗 Build a document processing workflow in 30 minutes](https://www.yellowduck.be/posts/build-a-document-processing-workflow-in-30-minutes)  
 - `2026-07-07` | [🔗 RBAC in Laravel: a practical deep dive](https://www.yellowduck.be/posts/rbac-in-laravel-a-practical-deep-dive)  
-- `2026-07-06` | [🔗 Building Go APIs with Huma, sqlc, and Goose](https://www.yellowduck.be/posts/building-go-apis-with-huma-sqlc-and-goose)  
 
 <!-- BLOG-POST-LIST:END -->
