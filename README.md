@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-10` | [🔗 Why dead code feels hard to delete](https://www.yellowduck.be/posts/why-dead-code-feels-hard-to-delete)  
 - `2026-07-10` | [🔗 Docker alternative: Podman on Linux](https://www.yellowduck.be/posts/docker-alternative-podman-on-linux)  
 - `2026-07-10` | [🔗 Six SQL patterns I use to catch transaction fraud](https://www.yellowduck.be/posts/six-sql-patterns-i-use-to-catch-transaction-fraud)  
 - `2026-07-09` | [🔗 Stop mounting your LiveView twice](https://www.yellowduck.be/posts/stop-mounting-your-liveview-twice)  
@@ -18,6 +19,5 @@
 - `2026-07-08` | [🔗 In memory of the man who put red and green squiggles under words](https://www.yellowduck.be/posts/in-memory-of-the-man-who-put-red-and-green-squiggles-under-words)  
 - `2026-07-08` | [🔗 Key activities for sustainable engineering team](https://www.yellowduck.be/posts/key-activities-for-sustainable-engineering-team)  
 - `2026-07-07` | [🐥 How to start and enable ClamAV service on Linux](https://www.yellowduck.be/posts/how-to-start-and-enable-clamav-service-on-linux)  
-- `2026-07-07` | [🔗 Build a document processing workflow in 30 minutes](https://www.yellowduck.be/posts/build-a-document-processing-workflow-in-30-minutes)  
 
 <!-- BLOG-POST-LIST:END -->
