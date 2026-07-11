@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-11` | [🔗 Add a second remote origin with Git](https://www.yellowduck.be/posts/add-a-second-remote-origin-with-git)  
 - `2026-07-10` | [🔗 Why dead code feels hard to delete](https://www.yellowduck.be/posts/why-dead-code-feels-hard-to-delete)  
 - `2026-07-10` | [🔗 Docker alternative: Podman on Linux](https://www.yellowduck.be/posts/docker-alternative-podman-on-linux)  
 - `2026-07-10` | [🔗 Six SQL patterns I use to catch transaction fraud](https://www.yellowduck.be/posts/six-sql-patterns-i-use-to-catch-transaction-fraud)  
@@ -18,6 +19,5 @@
 - `2026-07-08` | [🔗 Mistral OCR 4 : SOTA OCR for Document Intelligence](https://www.yellowduck.be/posts/mistral-ocr-4-sota-ocr-for-document-intelligence)  
 - `2026-07-08` | [🔗 In memory of the man who put red and green squiggles under words](https://www.yellowduck.be/posts/in-memory-of-the-man-who-put-red-and-green-squiggles-under-words)  
 - `2026-07-08` | [🔗 Key activities for sustainable engineering team](https://www.yellowduck.be/posts/key-activities-for-sustainable-engineering-team)  
-- `2026-07-07` | [🐥 How to start and enable ClamAV service on Linux](https://www.yellowduck.be/posts/how-to-start-and-enable-clamav-service-on-linux)  
 
 <!-- BLOG-POST-LIST:END -->
