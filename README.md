@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-11` | [🔗 How to safely delete records in massive tables on AWS using Laravel](https://www.yellowduck.be/posts/how-to-safely-delete-records-in-massive-tables-on-aws-using-laravel)  
 - `2026-07-11` | [🔗 Add a second remote origin with Git](https://www.yellowduck.be/posts/add-a-second-remote-origin-with-git)  
 - `2026-07-10` | [🔗 Why dead code feels hard to delete](https://www.yellowduck.be/posts/why-dead-code-feels-hard-to-delete)  
 - `2026-07-10` | [🔗 Docker alternative: Podman on Linux](https://www.yellowduck.be/posts/docker-alternative-podman-on-linux)  
@@ -18,6 +19,5 @@
 - `2026-07-09` | [🔗 Modern CSS theming with light-dark&lpar;&rpar;, contrast-color&lpar;&rpar;, and style queries](https://www.yellowduck.be/posts/modern-css-theming-with-light-dark-contrast-color-and-style-queries)  
 - `2026-07-08` | [🔗 Mistral OCR 4 : SOTA OCR for Document Intelligence](https://www.yellowduck.be/posts/mistral-ocr-4-sota-ocr-for-document-intelligence)  
 - `2026-07-08` | [🔗 In memory of the man who put red and green squiggles under words](https://www.yellowduck.be/posts/in-memory-of-the-man-who-put-red-and-green-squiggles-under-words)  
-- `2026-07-08` | [🔗 Key activities for sustainable engineering team](https://www.yellowduck.be/posts/key-activities-for-sustainable-engineering-team)  
 
 <!-- BLOG-POST-LIST:END -->
