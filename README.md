@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-13` | [🔗 The artisan dev command in Laravel 13.16.0](https://www.yellowduck.be/posts/the-artisan-dev-command-in-laravel-13-16-0)  
 - `2026-07-12` | [🔗 The 37signals guide to making decisions](https://www.yellowduck.be/posts/the-37signals-guide-to-making-decisions)  
 - `2026-07-12` | [🔗 Lies, damn lies and database benchmarks](https://www.yellowduck.be/posts/lies-damn-lies-and-database-benchmarks)  
 - `2026-07-12` | [🔗 Cleaning up after AI rockstar developers](https://www.yellowduck.be/posts/cleaning-up-after-ai-rockstar-developers)  
@@ -18,6 +19,5 @@
 - `2026-07-10` | [🔗 Why dead code feels hard to delete](https://www.yellowduck.be/posts/why-dead-code-feels-hard-to-delete)  
 - `2026-07-10` | [🔗 Docker alternative: Podman on Linux](https://www.yellowduck.be/posts/docker-alternative-podman-on-linux)  
 - `2026-07-10` | [🔗 Six SQL patterns I use to catch transaction fraud](https://www.yellowduck.be/posts/six-sql-patterns-i-use-to-catch-transaction-fraud)  
-- `2026-07-09` | [🔗 Stop mounting your LiveView twice](https://www.yellowduck.be/posts/stop-mounting-your-liveview-twice)  
 
 <!-- BLOG-POST-LIST:END -->
