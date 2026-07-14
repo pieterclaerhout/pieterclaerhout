@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-14` | [🔗 Our new product strategy for Wagtail](https://www.yellowduck.be/posts/our-new-product-strategy-for-wagtail)  
 - `2026-07-13` | [🔗 Why Svelte is better than React in the AI era](https://www.yellowduck.be/posts/why-svelte-is-better-than-react-in-the-ai-era)  
 - `2026-07-13` | [🔗 The only scalable delete in Postgres is DROP TABLE](https://www.yellowduck.be/posts/the-only-scalable-delete-in-postgres-is-drop-table)  
 - `2026-07-13` | [🔗 The artisan dev command in Laravel 13.16.0](https://www.yellowduck.be/posts/the-artisan-dev-command-in-laravel-13-16-0)  
@@ -18,6 +19,5 @@
 - `2026-07-11` | [🔗 Draw the rest of the ___ owl &lpar;software factory edition&rpar;](https://www.yellowduck.be/posts/draw-the-rest-of-the-owl-software-factory-edition)  
 - `2026-07-11` | [🔗 How to safely delete records in massive tables on AWS using Laravel](https://www.yellowduck.be/posts/how-to-safely-delete-records-in-massive-tables-on-aws-using-laravel)  
 - `2026-07-11` | [🔗 Add a second remote origin with Git](https://www.yellowduck.be/posts/add-a-second-remote-origin-with-git)  
-- `2026-07-10` | [🔗 Why dead code feels hard to delete](https://www.yellowduck.be/posts/why-dead-code-feels-hard-to-delete)  
 
 <!-- BLOG-POST-LIST:END -->
