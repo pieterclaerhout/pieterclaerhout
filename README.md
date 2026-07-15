@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-15` | [🔗 Pgcopydb v0.18](https://www.yellowduck.be/posts/pgcopydb-v0-18)  
 - `2026-07-15` | [🔗 When AI costs more than the engineer](https://www.yellowduck.be/posts/when-ai-costs-more-than-the-engineer)  
 - `2026-07-15` | [🔗 Introducing Podman v6.0.0](https://www.yellowduck.be/posts/introducing-podman-v6-0-0)  
 - `2026-07-14` | [🔗 Understanding is the new bottleneck](https://www.yellowduck.be/posts/understanding-is-the-new-bottleneck)  
@@ -18,6 +19,5 @@
 - `2026-07-13` | [🔗 The only scalable delete in Postgres is DROP TABLE](https://www.yellowduck.be/posts/the-only-scalable-delete-in-postgres-is-drop-table)  
 - `2026-07-13` | [🔗 The artisan dev command in Laravel 13.16.0](https://www.yellowduck.be/posts/the-artisan-dev-command-in-laravel-13-16-0)  
 - `2026-07-12` | [🔗 The 37signals guide to making decisions](https://www.yellowduck.be/posts/the-37signals-guide-to-making-decisions)  
-- `2026-07-12` | [🔗 Lies, damn lies and database benchmarks](https://www.yellowduck.be/posts/lies-damn-lies-and-database-benchmarks)  
 
 <!-- BLOG-POST-LIST:END -->
