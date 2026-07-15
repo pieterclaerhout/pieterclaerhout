@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-15` | [🔗 Introducing Podman v6.0.0](https://www.yellowduck.be/posts/introducing-podman-v6-0-0)  
 - `2026-07-14` | [🔗 Understanding is the new bottleneck](https://www.yellowduck.be/posts/understanding-is-the-new-bottleneck)  
 - `2026-07-14` | [🔗 Does a url in a prompt steer an llm&#39;s output toward its content?](https://www.yellowduck.be/posts/does-a-url-in-a-prompt-steer-an-llms-output-toward-its-content)  
 - `2026-07-14` | [🔗 Our new product strategy for Wagtail](https://www.yellowduck.be/posts/our-new-product-strategy-for-wagtail)  
@@ -18,6 +19,5 @@
 - `2026-07-12` | [🔗 The 37signals guide to making decisions](https://www.yellowduck.be/posts/the-37signals-guide-to-making-decisions)  
 - `2026-07-12` | [🔗 Lies, damn lies and database benchmarks](https://www.yellowduck.be/posts/lies-damn-lies-and-database-benchmarks)  
 - `2026-07-12` | [🔗 Cleaning up after AI rockstar developers](https://www.yellowduck.be/posts/cleaning-up-after-ai-rockstar-developers)  
-- `2026-07-11` | [🔗 Draw the rest of the ___ owl &lpar;software factory edition&rpar;](https://www.yellowduck.be/posts/draw-the-rest-of-the-owl-software-factory-edition)  
 
 <!-- BLOG-POST-LIST:END -->
