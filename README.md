@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-16` | [🔗 Decisions and dollars](https://www.yellowduck.be/posts/decisions-and-dollars)  
 - `2026-07-16` | [🔗 The rise of the command line: building a new IDE &lpar;2017–2026&rpar;](https://www.yellowduck.be/posts/the-rise-of-the-command-line-building-a-new-ide-2017-2026)  
 - `2026-07-16` | [🔗 FizzBuzz in Elixir](https://www.yellowduck.be/posts/fizzbuzz-in-elixir)  
 - `2026-07-15` | [🔗 Pgcopydb v0.18](https://www.yellowduck.be/posts/pgcopydb-v0-18)  
@@ -18,6 +19,5 @@
 - `2026-07-14` | [🔗 Does a url in a prompt steer an llm&#39;s output toward its content?](https://www.yellowduck.be/posts/does-a-url-in-a-prompt-steer-an-llms-output-toward-its-content)  
 - `2026-07-14` | [🔗 Our new product strategy for Wagtail](https://www.yellowduck.be/posts/our-new-product-strategy-for-wagtail)  
 - `2026-07-13` | [🔗 Why Svelte is better than React in the AI era](https://www.yellowduck.be/posts/why-svelte-is-better-than-react-in-the-ai-era)  
-- `2026-07-13` | [🔗 The only scalable delete in Postgres is DROP TABLE](https://www.yellowduck.be/posts/the-only-scalable-delete-in-postgres-is-drop-table)  
 
 <!-- BLOG-POST-LIST:END -->
