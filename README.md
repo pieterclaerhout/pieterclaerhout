@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-16` | [🔗 FizzBuzz in Elixir](https://www.yellowduck.be/posts/fizzbuzz-in-elixir)  
 - `2026-07-15` | [🔗 Pgcopydb v0.18](https://www.yellowduck.be/posts/pgcopydb-v0-18)  
 - `2026-07-15` | [🔗 When AI costs more than the engineer](https://www.yellowduck.be/posts/when-ai-costs-more-than-the-engineer)  
 - `2026-07-15` | [🔗 Introducing Podman v6.0.0](https://www.yellowduck.be/posts/introducing-podman-v6-0-0)  
@@ -18,6 +19,5 @@
 - `2026-07-13` | [🔗 Why Svelte is better than React in the AI era](https://www.yellowduck.be/posts/why-svelte-is-better-than-react-in-the-ai-era)  
 - `2026-07-13` | [🔗 The only scalable delete in Postgres is DROP TABLE](https://www.yellowduck.be/posts/the-only-scalable-delete-in-postgres-is-drop-table)  
 - `2026-07-13` | [🔗 The artisan dev command in Laravel 13.16.0](https://www.yellowduck.be/posts/the-artisan-dev-command-in-laravel-13-16-0)  
-- `2026-07-12` | [🔗 The 37signals guide to making decisions](https://www.yellowduck.be/posts/the-37signals-guide-to-making-decisions)  
 
 <!-- BLOG-POST-LIST:END -->
