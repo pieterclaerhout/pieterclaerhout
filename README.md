@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-17` | [🔗 Why your AI bill is bigger than it should be](https://www.yellowduck.be/posts/why-your-ai-bill-is-bigger-than-it-should-be)  
 - `2026-07-17` | [🔗 Wagtail: Product strategy](https://www.yellowduck.be/posts/wagtail-product-strategy)  
 - `2026-07-17` | [🔗 CORS in Phoenix](https://www.yellowduck.be/posts/cors-in-phoenix)  
 - `2026-07-16` | [🔗 Decisions and dollars](https://www.yellowduck.be/posts/decisions-and-dollars)  
@@ -18,6 +19,5 @@
 - `2026-07-15` | [🔗 When AI costs more than the engineer](https://www.yellowduck.be/posts/when-ai-costs-more-than-the-engineer)  
 - `2026-07-15` | [🔗 Introducing Podman v6.0.0](https://www.yellowduck.be/posts/introducing-podman-v6-0-0)  
 - `2026-07-14` | [🔗 Understanding is the new bottleneck](https://www.yellowduck.be/posts/understanding-is-the-new-bottleneck)  
-- `2026-07-14` | [🔗 Does a url in a prompt steer an llm&#39;s output toward its content?](https://www.yellowduck.be/posts/does-a-url-in-a-prompt-steer-an-llms-output-toward-its-content)  
 
 <!-- BLOG-POST-LIST:END -->
