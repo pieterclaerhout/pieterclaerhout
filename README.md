@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-18` | [🔗 EnvGuard — env_guard v2.0.0](https://www.yellowduck.be/posts/envguard-env-guard-v2-0-0)  
 - `2026-07-18` | [🔗 GitHub - collabst/collabst: Self-hosted collaborative workspace for Typst.](https://www.yellowduck.be/posts/github-collabst-collabst-self-hosted-collaborative-workspace-for-typst)  
 - `2026-07-17` | [🔗 Why your AI bill is bigger than it should be](https://www.yellowduck.be/posts/why-your-ai-bill-is-bigger-than-it-should-be)  
 - `2026-07-17` | [🔗 Wagtail: Product strategy](https://www.yellowduck.be/posts/wagtail-product-strategy)  
@@ -18,6 +19,5 @@
 - `2026-07-16` | [🔗 FizzBuzz in Elixir](https://www.yellowduck.be/posts/fizzbuzz-in-elixir)  
 - `2026-07-15` | [🔗 Pgcopydb v0.18](https://www.yellowduck.be/posts/pgcopydb-v0-18)  
 - `2026-07-15` | [🔗 When AI costs more than the engineer](https://www.yellowduck.be/posts/when-ai-costs-more-than-the-engineer)  
-- `2026-07-15` | [🔗 Introducing Podman v6.0.0](https://www.yellowduck.be/posts/introducing-podman-v6-0-0)  
 
 <!-- BLOG-POST-LIST:END -->
