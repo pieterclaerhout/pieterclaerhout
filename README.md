@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-19` | [🔗 Using the ADR &lpar;Action/Domain/Responder&rpar; pattern in Laravel](https://www.yellowduck.be/posts/using-the-adr-action-domain-responder-pattern-in-laravel)  
 - `2026-07-19` | [🔗 Elixir package: Calendrical](https://www.yellowduck.be/posts/elixir-package-calendrical)  
 - `2026-07-19` | [🔗 GitHub - agoodway/livefilter: A flexible and composable filtering library for LiveView using PgRest](https://www.yellowduck.be/posts/github-agoodway-livefilter-a-flexible-and-composable-filtering-library-for-liveview-using-pgrest)  
 - `2026-07-18` | [🔗 Caching get_certificate lookups in Caddy](https://www.yellowduck.be/posts/caching-get-certificate-lookups-in-caddy)  
@@ -18,6 +19,5 @@
 - `2026-07-17` | [🔗 Wagtail: Product strategy](https://www.yellowduck.be/posts/wagtail-product-strategy)  
 - `2026-07-17` | [🔗 CORS in Phoenix](https://www.yellowduck.be/posts/cors-in-phoenix)  
 - `2026-07-16` | [🔗 Decisions and dollars](https://www.yellowduck.be/posts/decisions-and-dollars)  
-- `2026-07-16` | [🔗 The rise of the command line: building a new IDE &lpar;2017–2026&rpar;](https://www.yellowduck.be/posts/the-rise-of-the-command-line-building-a-new-ide-2017-2026)  
 
 <!-- BLOG-POST-LIST:END -->
