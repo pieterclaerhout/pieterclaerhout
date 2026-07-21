@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-21` | [🔗 Not all model upgrades are upgrades](https://www.yellowduck.be/posts/not-all-model-upgrades-are-upgrades)  
 - `2026-07-21` | [🔗 Hex v25 released](https://www.yellowduck.be/posts/hex-v25-released)  
 - `2026-07-20` | [🐥 Request::input&lpar;&rpar; vs Request::string&lpar;&rpar; in Laravel](https://www.yellowduck.be/posts/request-input-vs-request-string-in-laravel)  
 - `2026-07-20` | [🔗 Build yourself a Claude Code Plugin Marketplace](https://www.yellowduck.be/posts/build-yourself-a-claude-code-plugin-marketplace)  
@@ -18,6 +19,5 @@
 - `2026-07-19` | [🔗 GitHub - agoodway/livefilter: A flexible and composable filtering library for LiveView using PgRest](https://www.yellowduck.be/posts/github-agoodway-livefilter-a-flexible-and-composable-filtering-library-for-liveview-using-pgrest)  
 - `2026-07-18` | [🔗 Caching get_certificate lookups in Caddy](https://www.yellowduck.be/posts/caching-get-certificate-lookups-in-caddy)  
 - `2026-07-18` | [🔗 EnvGuard — env_guard v2.0.0](https://www.yellowduck.be/posts/envguard-env-guard-v2-0-0)  
-- `2026-07-18` | [🔗 GitHub - collabst/collabst: Self-hosted collaborative workspace for Typst.](https://www.yellowduck.be/posts/github-collabst-collabst-self-hosted-collaborative-workspace-for-typst)  
 
 <!-- BLOG-POST-LIST:END -->
