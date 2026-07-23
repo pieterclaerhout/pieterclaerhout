@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-23` | [🔗 Let libraries be libraries](https://www.yellowduck.be/posts/let-libraries-be-libraries)  
 - `2026-07-23` | [🔗 Davit — a native macOS UI for Apple containers](https://www.yellowduck.be/posts/davit-a-native-macos-ui-for-apple-containers)  
 - `2026-07-22` | [🔗 Teaching LLMs new UI tricks](https://www.yellowduck.be/posts/teaching-llms-new-ui-tricks)  
 - `2026-07-22` | [🔗 The Hitchhiker&#39;s Guide to Agentic AI: From Foundations to Systems](https://www.yellowduck.be/posts/the-hitchhikers-guide-to-agentic-ai-from-foundations-to-systems)  
@@ -18,6 +19,5 @@
 - `2026-07-21` | [🔗 Hex v25 released](https://www.yellowduck.be/posts/hex-v25-released)  
 - `2026-07-20` | [🐥 Request::input&lpar;&rpar; vs Request::string&lpar;&rpar; in Laravel](https://www.yellowduck.be/posts/request-input-vs-request-string-in-laravel)  
 - `2026-07-20` | [🔗 Build yourself a Claude Code Plugin Marketplace](https://www.yellowduck.be/posts/build-yourself-a-claude-code-plugin-marketplace)  
-- `2026-07-20` | [🔗 Spatie Guidelines as AI Skills](https://www.yellowduck.be/posts/spatie-guidelines-as-ai-skills)  
 
 <!-- BLOG-POST-LIST:END -->
