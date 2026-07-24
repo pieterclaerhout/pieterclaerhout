@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-24` | [🔗 What do we do with logging in libraries?](https://www.yellowduck.be/posts/what-do-we-do-with-logging-in-libraries)  
 - `2026-07-24` | [🔗 How LLMs figure out what you mean - no math degree required](https://www.yellowduck.be/posts/how-llms-figure-out-what-you-mean-no-math-degree-required)  
 - `2026-07-23` | [🔗 Programming patterns in an AI-driven world](https://www.yellowduck.be/posts/programming-patterns-in-an-ai-driven-world)  
 - `2026-07-23` | [🔗 Let libraries be libraries](https://www.yellowduck.be/posts/let-libraries-be-libraries)  
@@ -18,6 +19,5 @@
 - `2026-07-22` | [🔗 Pros and cons of solo development](https://www.yellowduck.be/posts/pros-and-cons-of-solo-development)  
 - `2026-07-21` | [🔗 A farewell to code reviews](https://www.yellowduck.be/posts/a-farewell-to-code-reviews)  
 - `2026-07-21` | [🔗 Not all model upgrades are upgrades](https://www.yellowduck.be/posts/not-all-model-upgrades-are-upgrades)  
-- `2026-07-21` | [🔗 Hex v25 released](https://www.yellowduck.be/posts/hex-v25-released)  
 
 <!-- BLOG-POST-LIST:END -->
