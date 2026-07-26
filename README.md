@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-26` | [🔗 Watch: Exploring LiveView 1.2&#39;s server-composed JS commands, colocated CSS, and colocated hooks](https://www.yellowduck.be/posts/watch-exploring-liveview-1-2s-server-composed-js-commands-colocated-css-and-colocated-hooks)  
 - `2026-07-26` | [🔗 Ash Framework in 11 minutes](https://www.yellowduck.be/posts/ash-framework-in-11-minutes)  
 - `2026-07-25` | [🐥 Katagelophobia and cyber security: when fear of ridicule becomes a vulnerability](https://www.yellowduck.be/posts/katagelophobia-and-cyber-security-when-fear-of-ridicule-becomes-a-vulnerability)  
 - `2026-07-25` | [🔗 Mastering linux administration: 20 powerful commands to know](https://www.yellowduck.be/posts/mastering-linux-administration-20-powerful-commands-to-know)  
@@ -18,6 +19,5 @@
 - `2026-07-24` | [🔗 How LLMs figure out what you mean - no math degree required](https://www.yellowduck.be/posts/how-llms-figure-out-what-you-mean-no-math-degree-required)  
 - `2026-07-23` | [🔗 Programming patterns in an AI-driven world](https://www.yellowduck.be/posts/programming-patterns-in-an-ai-driven-world)  
 - `2026-07-23` | [🔗 Let libraries be libraries](https://www.yellowduck.be/posts/let-libraries-be-libraries)  
-- `2026-07-23` | [🔗 Davit — a native macOS UI for Apple containers](https://www.yellowduck.be/posts/davit-a-native-macos-ui-for-apple-containers)  
 
 <!-- BLOG-POST-LIST:END -->
