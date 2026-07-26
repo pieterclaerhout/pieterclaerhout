@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-26` | [🔗 Ash Framework in 11 minutes](https://www.yellowduck.be/posts/ash-framework-in-11-minutes)  
 - `2026-07-25` | [🐥 Katagelophobia and cyber security: when fear of ridicule becomes a vulnerability](https://www.yellowduck.be/posts/katagelophobia-and-cyber-security-when-fear-of-ridicule-becomes-a-vulnerability)  
 - `2026-07-25` | [🔗 Mastering linux administration: 20 powerful commands to know](https://www.yellowduck.be/posts/mastering-linux-administration-20-powerful-commands-to-know)  
 - `2026-07-25` | [🔗 DaisyUI skill: essential for all daisyUI projects](https://www.yellowduck.be/posts/daisyui-skill-essential-for-all-daisyui-projects)  
@@ -18,6 +19,5 @@
 - `2026-07-23` | [🔗 Programming patterns in an AI-driven world](https://www.yellowduck.be/posts/programming-patterns-in-an-ai-driven-world)  
 - `2026-07-23` | [🔗 Let libraries be libraries](https://www.yellowduck.be/posts/let-libraries-be-libraries)  
 - `2026-07-23` | [🔗 Davit — a native macOS UI for Apple containers](https://www.yellowduck.be/posts/davit-a-native-macos-ui-for-apple-containers)  
-- `2026-07-22` | [🔗 Teaching LLMs new UI tricks](https://www.yellowduck.be/posts/teaching-llms-new-ui-tricks)  
 
 <!-- BLOG-POST-LIST:END -->
