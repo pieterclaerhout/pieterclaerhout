@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-27` | [🔗 The four horsemen behind thousands of Postgres outages](https://www.yellowduck.be/posts/the-four-horsemen-behind-thousands-of-postgres-outages)  
 - `2026-07-27` | [🔗 Old icons](https://www.yellowduck.be/posts/old-icons)  
 - `2026-07-26` | [🔗 LiveStash Performance Tests](https://www.yellowduck.be/posts/livestash-performance-tests)  
 - `2026-07-26` | [🔗 Watch: Exploring LiveView 1.2&#39;s server-composed JS commands, colocated CSS, and colocated hooks](https://www.yellowduck.be/posts/watch-exploring-liveview-1-2s-server-composed-js-commands-colocated-css-and-colocated-hooks)  
@@ -18,6 +19,5 @@
 - `2026-07-25` | [🔗 DaisyUI skill: essential for all daisyUI projects](https://www.yellowduck.be/posts/daisyui-skill-essential-for-all-daisyui-projects)  
 - `2026-07-24` | [🔗 Linux server health checks: 10 metrics every sysadmin should monitor](https://www.yellowduck.be/posts/linux-server-health-checks-10-metrics-every-sysadmin-should-monitor)  
 - `2026-07-24` | [🔗 What do we do with logging in libraries?](https://www.yellowduck.be/posts/what-do-we-do-with-logging-in-libraries)  
-- `2026-07-24` | [🔗 How LLMs figure out what you mean - no math degree required](https://www.yellowduck.be/posts/how-llms-figure-out-what-you-mean-no-math-degree-required)  
 
 <!-- BLOG-POST-LIST:END -->
