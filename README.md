@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-28` | [🔗 HTTP query method support in Laravel 13.19](https://www.yellowduck.be/posts/http-query-method-support-in-laravel-13-19)  
 - `2026-07-28` | [🔗 Tower 17 for Mac &lpar;Beta&rpar; — smarter &quot;fully merged&quot; detection](https://www.yellowduck.be/posts/tower-17-for-mac-beta-smarter-fully-merged-detection)  
 - `2026-07-27` | [🔗 Announcing TypeScript 7.0](https://www.yellowduck.be/posts/announcing-typescript-7-0)  
 - `2026-07-27` | [🔗 The four horsemen behind thousands of Postgres outages](https://www.yellowduck.be/posts/the-four-horsemen-behind-thousands-of-postgres-outages)  
@@ -18,6 +19,5 @@
 - `2026-07-26` | [🔗 Ash Framework in 11 minutes](https://www.yellowduck.be/posts/ash-framework-in-11-minutes)  
 - `2026-07-25` | [🐥 Katagelophobia and cyber security: when fear of ridicule becomes a vulnerability](https://www.yellowduck.be/posts/katagelophobia-and-cyber-security-when-fear-of-ridicule-becomes-a-vulnerability)  
 - `2026-07-25` | [🔗 Mastering linux administration: 20 powerful commands to know](https://www.yellowduck.be/posts/mastering-linux-administration-20-powerful-commands-to-know)  
-- `2026-07-25` | [🔗 DaisyUI skill: essential for all daisyUI projects](https://www.yellowduck.be/posts/daisyui-skill-essential-for-all-daisyui-projects)  
 
 <!-- BLOG-POST-LIST:END -->
