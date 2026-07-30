@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-30` | [🔗 My AI learning journey](https://www.yellowduck.be/posts/my-ai-learning-journey)  
 - `2026-07-30` | [🔗 Good tools are delightful](https://www.yellowduck.be/posts/good-tools-are-delightful)  
 - `2026-07-29` | [🔗 Two database migrations and a divorce](https://www.yellowduck.be/posts/two-database-migrations-and-a-divorce)  
 - `2026-07-29` | [🔗 Claude.md is RAM, not disk](https://www.yellowduck.be/posts/claude-md-is-ram-not-disk)  
@@ -18,6 +19,5 @@
 - `2026-07-28` | [🔗 Tower 17 for Mac &lpar;Beta&rpar; — smarter &quot;fully merged&quot; detection](https://www.yellowduck.be/posts/tower-17-for-mac-beta-smarter-fully-merged-detection)  
 - `2026-07-27` | [🔗 Announcing TypeScript 7.0](https://www.yellowduck.be/posts/announcing-typescript-7-0)  
 - `2026-07-27` | [🔗 The four horsemen behind thousands of Postgres outages](https://www.yellowduck.be/posts/the-four-horsemen-behind-thousands-of-postgres-outages)  
-- `2026-07-27` | [🔗 Old icons](https://www.yellowduck.be/posts/old-icons)  
 
 <!-- BLOG-POST-LIST:END -->
