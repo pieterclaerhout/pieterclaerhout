@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-31` | [🔗 The Order of Data: defaults, performance, determinism &amp; paging](https://www.yellowduck.be/posts/the-order-of-data-defaults-performance-determinism-paging)  
 - `2026-07-31` | [🔗 Small programming tricks](https://www.yellowduck.be/posts/small-programming-tricks)  
 - `2026-07-31` | [🔗 Lucas&#39; Laws of Project Management](https://www.yellowduck.be/posts/lucas-laws-of-project-management)  
 - `2026-07-30` | [🔗 Go-flavored concurrency in C](https://www.yellowduck.be/posts/go-flavored-concurrency-in-c)  
@@ -18,6 +19,5 @@
 - `2026-07-29` | [🔗 Claude.md is RAM, not disk](https://www.yellowduck.be/posts/claude-md-is-ram-not-disk)  
 - `2026-07-29` | [🔗 I think I have LLM burnout](https://www.yellowduck.be/posts/i-think-i-have-llm-burnout)  
 - `2026-07-28` | [🐥 Finding unexpected HTTP responses in JSON logs with jq](https://www.yellowduck.be/posts/finding-unexpected-http-responses-in-json-logs-with-jq)  
-- `2026-07-28` | [🔗 HTTP query method support in Laravel 13.19](https://www.yellowduck.be/posts/http-query-method-support-in-laravel-13-19)  
 
 <!-- BLOG-POST-LIST:END -->
