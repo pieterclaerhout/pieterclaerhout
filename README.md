@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-02` | [🔗 Claude Code sends 4.7x more tokens than OpenCode before reading your prompt](https://www.yellowduck.be/posts/claude-code-sends-4-7x-more-tokens-than-opencode-before-reading-your-prompt)  
 - `2026-08-01` | [🔗 Software has changed](https://www.yellowduck.be/posts/software-has-changed)  
 - `2026-08-01` | [🔗 Zig creator calls spade a spade, Anthropic blows smoke](https://www.yellowduck.be/posts/zig-creator-calls-spade-a-spade-anthropic-blows-smoke)  
 - `2026-08-01` | [🔗 De Morgan’s Law](https://www.yellowduck.be/posts/de-morgans-law)  
@@ -18,6 +19,5 @@
 - `2026-07-30` | [🔗 Go-flavored concurrency in C](https://www.yellowduck.be/posts/go-flavored-concurrency-in-c)  
 - `2026-07-30` | [🔗 My AI learning journey](https://www.yellowduck.be/posts/my-ai-learning-journey)  
 - `2026-07-30` | [🔗 Good tools are delightful](https://www.yellowduck.be/posts/good-tools-are-delightful)  
-- `2026-07-29` | [🔗 Two database migrations and a divorce](https://www.yellowduck.be/posts/two-database-migrations-and-a-divorce)  
 
 <!-- BLOG-POST-LIST:END -->
