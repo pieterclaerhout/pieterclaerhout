@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-02` | [🔗 The Laravel Scheduler Under the Hood](https://www.yellowduck.be/posts/the-laravel-scheduler-under-the-hood)  
 - `2026-08-02` | [🔗 Waze now supports electric vehicles in Belgium](https://www.yellowduck.be/posts/waze-now-supports-electric-vehicles-in-belgium)  
 - `2026-08-02` | [🔗 Claude Code sends 4.7x more tokens than OpenCode before reading your prompt](https://www.yellowduck.be/posts/claude-code-sends-4-7x-more-tokens-than-opencode-before-reading-your-prompt)  
 - `2026-08-01` | [🔗 Software has changed](https://www.yellowduck.be/posts/software-has-changed)  
@@ -18,6 +19,5 @@
 - `2026-07-31` | [🔗 Small programming tricks](https://www.yellowduck.be/posts/small-programming-tricks)  
 - `2026-07-31` | [🔗 Lucas&#39; Laws of Project Management](https://www.yellowduck.be/posts/lucas-laws-of-project-management)  
 - `2026-07-30` | [🔗 Go-flavored concurrency in C](https://www.yellowduck.be/posts/go-flavored-concurrency-in-c)  
-- `2026-07-30` | [🔗 My AI learning journey](https://www.yellowduck.be/posts/my-ai-learning-journey)  
 
 <!-- BLOG-POST-LIST:END -->
