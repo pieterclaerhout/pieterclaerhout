@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-03` | [🔗 Why backlogs are harmful, why they never shrink, and what to do instead](https://www.yellowduck.be/posts/why-backlogs-are-harmful-why-they-never-shrink-and-what-to-do-instead)  
 - `2026-08-02` | [🔗 The Laravel Scheduler Under the Hood](https://www.yellowduck.be/posts/the-laravel-scheduler-under-the-hood)  
 - `2026-08-02` | [🔗 Waze now supports electric vehicles in Belgium](https://www.yellowduck.be/posts/waze-now-supports-electric-vehicles-in-belgium)  
 - `2026-08-02` | [🔗 Claude Code sends 4.7x more tokens than OpenCode before reading your prompt](https://www.yellowduck.be/posts/claude-code-sends-4-7x-more-tokens-than-opencode-before-reading-your-prompt)  
@@ -18,6 +19,5 @@
 - `2026-07-31` | [🔗 The Order of Data: defaults, performance, determinism &amp; paging](https://www.yellowduck.be/posts/the-order-of-data-defaults-performance-determinism-paging)  
 - `2026-07-31` | [🔗 Small programming tricks](https://www.yellowduck.be/posts/small-programming-tricks)  
 - `2026-07-31` | [🔗 Lucas&#39; Laws of Project Management](https://www.yellowduck.be/posts/lucas-laws-of-project-management)  
-- `2026-07-30` | [🔗 Go-flavored concurrency in C](https://www.yellowduck.be/posts/go-flavored-concurrency-in-c)  
 
 <!-- BLOG-POST-LIST:END -->
