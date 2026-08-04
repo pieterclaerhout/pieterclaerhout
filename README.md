@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-04` | [🔗 Ever run into a PostgreSQL query that you can figure out what it does??](https://www.yellowduck.be/posts/ever-run-into-a-postgresql-query-that-you-can-figure-out-what-it-does)  
 - `2026-08-03` | [🐥 Adding 2FA to Phoenix LiveView with phx.gen.auth](https://www.yellowduck.be/posts/adding-2fa-to-phoenix-liveview-with-phx-gen-auth)  
 - `2026-08-03` | [🔗 More shell patterns I use weekly](https://www.yellowduck.be/posts/more-shell-patterns-i-use-weekly)  
 - `2026-08-03` | [🔗 Why backlogs are harmful, why they never shrink, and what to do instead](https://www.yellowduck.be/posts/why-backlogs-are-harmful-why-they-never-shrink-and-what-to-do-instead)  
@@ -18,6 +19,5 @@
 - `2026-08-01` | [🔗 Software has changed](https://www.yellowduck.be/posts/software-has-changed)  
 - `2026-08-01` | [🔗 Zig creator calls spade a spade, Anthropic blows smoke](https://www.yellowduck.be/posts/zig-creator-calls-spade-a-spade-anthropic-blows-smoke)  
 - `2026-08-01` | [🔗 De Morgan’s Law](https://www.yellowduck.be/posts/de-morgans-law)  
-- `2026-07-31` | [🔗 The Order of Data: defaults, performance, determinism &amp; paging](https://www.yellowduck.be/posts/the-order-of-data-defaults-performance-determinism-paging)  
 
 <!-- BLOG-POST-LIST:END -->
