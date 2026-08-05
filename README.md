@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-05` | [🔗 Introducing Mishka Chelekom v0.0.9](https://www.yellowduck.be/posts/introducing-mishka-chelekom-v0-0-9)  
 - `2026-08-05` | [🔗 Kubernetes architecture](https://www.yellowduck.be/posts/kubernetes-architecture)  
 - `2026-08-05` | [🔗 Best and worst software projects: What developers really think](https://www.yellowduck.be/posts/best-and-worst-software-projects-what-developers-really-think)  
 - `2026-08-04` | [🔗 Prefer strict tables in SQLite](https://www.yellowduck.be/posts/prefer-strict-tables-in-sqlite)  
@@ -18,6 +19,5 @@
 - `2026-08-03` | [🔗 More shell patterns I use weekly](https://www.yellowduck.be/posts/more-shell-patterns-i-use-weekly)  
 - `2026-08-03` | [🔗 Why backlogs are harmful, why they never shrink, and what to do instead](https://www.yellowduck.be/posts/why-backlogs-are-harmful-why-they-never-shrink-and-what-to-do-instead)  
 - `2026-08-02` | [🔗 The Laravel Scheduler Under the Hood](https://www.yellowduck.be/posts/the-laravel-scheduler-under-the-hood)  
-- `2026-08-02` | [🔗 Waze now supports electric vehicles in Belgium](https://www.yellowduck.be/posts/waze-now-supports-electric-vehicles-in-belgium)  
 
 <!-- BLOG-POST-LIST:END -->
