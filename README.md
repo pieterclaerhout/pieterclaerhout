@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-05` | [🔗 Best and worst software projects: What developers really think](https://www.yellowduck.be/posts/best-and-worst-software-projects-what-developers-really-think)  
 - `2026-08-04` | [🔗 Prefer strict tables in SQLite](https://www.yellowduck.be/posts/prefer-strict-tables-in-sqlite)  
 - `2026-08-04` | [🔗 Rewriting Bun in Rust](https://www.yellowduck.be/posts/rewriting-bun-in-rust)  
 - `2026-08-04` | [🔗 Ever run into a PostgreSQL query that you can figure out what it does??](https://www.yellowduck.be/posts/ever-run-into-a-postgresql-query-that-you-can-figure-out-what-it-does)  
@@ -18,6 +19,5 @@
 - `2026-08-02` | [🔗 The Laravel Scheduler Under the Hood](https://www.yellowduck.be/posts/the-laravel-scheduler-under-the-hood)  
 - `2026-08-02` | [🔗 Waze now supports electric vehicles in Belgium](https://www.yellowduck.be/posts/waze-now-supports-electric-vehicles-in-belgium)  
 - `2026-08-02` | [🔗 Claude Code sends 4.7x more tokens than OpenCode before reading your prompt](https://www.yellowduck.be/posts/claude-code-sends-4-7x-more-tokens-than-opencode-before-reading-your-prompt)  
-- `2026-08-01` | [🔗 Software has changed](https://www.yellowduck.be/posts/software-has-changed)  
 
 <!-- BLOG-POST-LIST:END -->
