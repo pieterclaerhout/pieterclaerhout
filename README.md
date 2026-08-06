@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-06` | [🔗 Markdown support coming in NetNewsWire](https://www.yellowduck.be/posts/markdown-support-coming-in-netnewswire)  
 - `2026-08-05` | [🔗 Introducing Mishka Chelekom v0.0.9](https://www.yellowduck.be/posts/introducing-mishka-chelekom-v0-0-9)  
 - `2026-08-05` | [🔗 Kubernetes architecture](https://www.yellowduck.be/posts/kubernetes-architecture)  
 - `2026-08-05` | [🔗 Best and worst software projects: What developers really think](https://www.yellowduck.be/posts/best-and-worst-software-projects-what-developers-really-think)  
@@ -18,6 +19,5 @@
 - `2026-08-03` | [🐥 Adding 2FA to Phoenix LiveView with phx.gen.auth](https://www.yellowduck.be/posts/adding-2fa-to-phoenix-liveview-with-phx-gen-auth)  
 - `2026-08-03` | [🔗 More shell patterns I use weekly](https://www.yellowduck.be/posts/more-shell-patterns-i-use-weekly)  
 - `2026-08-03` | [🔗 Why backlogs are harmful, why they never shrink, and what to do instead](https://www.yellowduck.be/posts/why-backlogs-are-harmful-why-they-never-shrink-and-what-to-do-instead)  
-- `2026-08-02` | [🔗 The Laravel Scheduler Under the Hood](https://www.yellowduck.be/posts/the-laravel-scheduler-under-the-hood)  
 
 <!-- BLOG-POST-LIST:END -->
