@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-07` | [🔗 Why Pogačar rides on a car tire brand](https://www.yellowduck.be/posts/why-pogacar-rides-on-a-car-tire-brand)  
 - `2026-08-06` | [🔗 Your Dropbox is now a skill server](https://www.yellowduck.be/posts/your-dropbox-is-now-a-skill-server)  
 - `2026-08-06` | [🔗 Kubernetes Dashboard to Headlamp: A Step-by-Step Guide](https://www.yellowduck.be/posts/kubernetes-dashboard-to-headlamp-a-step-by-step-guide)  
 - `2026-08-06` | [🔗 Markdown support coming in NetNewsWire](https://www.yellowduck.be/posts/markdown-support-coming-in-netnewswire)  
@@ -18,6 +19,5 @@
 - `2026-08-04` | [🔗 Prefer strict tables in SQLite](https://www.yellowduck.be/posts/prefer-strict-tables-in-sqlite)  
 - `2026-08-04` | [🔗 Rewriting Bun in Rust](https://www.yellowduck.be/posts/rewriting-bun-in-rust)  
 - `2026-08-04` | [🔗 Ever run into a PostgreSQL query that you can figure out what it does??](https://www.yellowduck.be/posts/ever-run-into-a-postgresql-query-that-you-can-figure-out-what-it-does)  
-- `2026-08-03` | [🐥 Adding 2FA to Phoenix LiveView with phx.gen.auth](https://www.yellowduck.be/posts/adding-2fa-to-phoenix-liveview-with-phx-gen-auth)  
 
 <!-- BLOG-POST-LIST:END -->
