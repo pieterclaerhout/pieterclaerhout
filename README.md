@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-07` | [🔗 Nginx vs Caddy vs Traefik in 2026 — I Ran All Three Under Real Production Load](https://www.yellowduck.be/posts/nginx-vs-caddy-vs-traefik-in-2026-i-ran-all-three-under-real-production-load)  
 - `2026-08-07` | [🔗 How to hire engineers for strong judgment and taste](https://www.yellowduck.be/posts/how-to-hire-engineers-for-strong-judgment-and-taste)  
 - `2026-08-07` | [🔗 Why Pogačar rides on a car tire brand](https://www.yellowduck.be/posts/why-pogacar-rides-on-a-car-tire-brand)  
 - `2026-08-06` | [🔗 Your Dropbox is now a skill server](https://www.yellowduck.be/posts/your-dropbox-is-now-a-skill-server)  
@@ -18,6 +19,5 @@
 - `2026-08-05` | [🔗 Kubernetes architecture](https://www.yellowduck.be/posts/kubernetes-architecture)  
 - `2026-08-05` | [🔗 Best and worst software projects: What developers really think](https://www.yellowduck.be/posts/best-and-worst-software-projects-what-developers-really-think)  
 - `2026-08-04` | [🔗 Prefer strict tables in SQLite](https://www.yellowduck.be/posts/prefer-strict-tables-in-sqlite)  
-- `2026-08-04` | [🔗 Rewriting Bun in Rust](https://www.yellowduck.be/posts/rewriting-bun-in-rust)  
 
 <!-- BLOG-POST-LIST:END -->
