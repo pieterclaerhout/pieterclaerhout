@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-08` | [🐥 Distributing a Go CLI via a Homebrew tap](https://www.yellowduck.be/posts/distributing-a-go-cli-via-a-homebrew-tap)  
 - `2026-08-08` | [🔗 How I use HTMX with Go](https://www.yellowduck.be/posts/how-i-use-htmx-with-go)  
 - `2026-08-08` | [🔗 The strangest hobby at the table](https://www.yellowduck.be/posts/the-strangest-hobby-at-the-table)  
 - `2026-08-07` | [🔗 Nginx vs Caddy vs Traefik in 2026 — I Ran All Three Under Real Production Load](https://www.yellowduck.be/posts/nginx-vs-caddy-vs-traefik-in-2026-i-ran-all-three-under-real-production-load)  
@@ -18,6 +19,5 @@
 - `2026-08-06` | [🔗 Kubernetes Dashboard to Headlamp: A Step-by-Step Guide](https://www.yellowduck.be/posts/kubernetes-dashboard-to-headlamp-a-step-by-step-guide)  
 - `2026-08-06` | [🔗 Markdown support coming in NetNewsWire](https://www.yellowduck.be/posts/markdown-support-coming-in-netnewswire)  
 - `2026-08-05` | [🔗 Introducing Mishka Chelekom v0.0.9](https://www.yellowduck.be/posts/introducing-mishka-chelekom-v0-0-9)  
-- `2026-08-05` | [🔗 Kubernetes architecture](https://www.yellowduck.be/posts/kubernetes-architecture)  
 
 <!-- BLOG-POST-LIST:END -->
