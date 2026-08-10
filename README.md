@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-10` | [🔗 Top 10 backend frameworks for enterprise development in 2026](https://www.yellowduck.be/posts/top-10-backend-frameworks-for-enterprise-development-in-2026)  
 - `2026-08-10` | [🔗 AI coding tip 027 - Force code standards](https://www.yellowduck.be/posts/ai-coding-tip-027-force-code-standards)  
 - `2026-08-10` | [🔗 Jurassic Park computers in excruciating detail](https://www.yellowduck.be/posts/jurassic-park-computers-in-excruciating-detail)  
 - `2026-08-09` | [🔗 Are we offloading too much of our thinking to AI?](https://www.yellowduck.be/posts/are-we-offloading-too-much-of-our-thinking-to-ai)  
@@ -18,6 +19,5 @@
 - `2026-08-08` | [🔗 How I use HTMX with Go](https://www.yellowduck.be/posts/how-i-use-htmx-with-go)  
 - `2026-08-08` | [🔗 The strangest hobby at the table](https://www.yellowduck.be/posts/the-strangest-hobby-at-the-table)  
 - `2026-08-07` | [🔗 Nginx vs Caddy vs Traefik in 2026 — I Ran All Three Under Real Production Load](https://www.yellowduck.be/posts/nginx-vs-caddy-vs-traefik-in-2026-i-ran-all-three-under-real-production-load)  
-- `2026-08-07` | [🔗 How to hire engineers for strong judgment and taste](https://www.yellowduck.be/posts/how-to-hire-engineers-for-strong-judgment-and-taste)  
 
 <!-- BLOG-POST-LIST:END -->
