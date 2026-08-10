@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-10` | [🔗 Jurassic Park computers in excruciating detail](https://www.yellowduck.be/posts/jurassic-park-computers-in-excruciating-detail)  
 - `2026-08-09` | [🔗 Are we offloading too much of our thinking to AI?](https://www.yellowduck.be/posts/are-we-offloading-too-much-of-our-thinking-to-ai)  
 - `2026-08-09` | [🔗 Lobste.rs is now running on SQLite](https://www.yellowduck.be/posts/lobste-rs-is-now-running-on-sqlite)  
 - `2026-08-09` | [🔗 I could&#39;ve rickrolled the entire FIFA World Cup. All I needed was my ID.](https://www.yellowduck.be/posts/i-couldve-rickrolled-the-entire-fifa-world-cup-all-i-needed-was-my-id)  
@@ -18,6 +19,5 @@
 - `2026-08-07` | [🔗 Nginx vs Caddy vs Traefik in 2026 — I Ran All Three Under Real Production Load](https://www.yellowduck.be/posts/nginx-vs-caddy-vs-traefik-in-2026-i-ran-all-three-under-real-production-load)  
 - `2026-08-07` | [🔗 How to hire engineers for strong judgment and taste](https://www.yellowduck.be/posts/how-to-hire-engineers-for-strong-judgment-and-taste)  
 - `2026-08-07` | [🔗 Why Pogačar rides on a car tire brand](https://www.yellowduck.be/posts/why-pogacar-rides-on-a-car-tire-brand)  
-- `2026-08-06` | [🔗 Your Dropbox is now a skill server](https://www.yellowduck.be/posts/your-dropbox-is-now-a-skill-server)  
 
 <!-- BLOG-POST-LIST:END -->
