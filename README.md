@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-11` | [🔗 Designing partitioning you don&#39;t have to babysit](https://www.yellowduck.be/posts/designing-partitioning-you-dont-have-to-babysit)  
 - `2026-08-11` | [🔗 How to stop Claude from saying load-bearing](https://www.yellowduck.be/posts/how-to-stop-claude-from-saying-load-bearing)  
 - `2026-08-11` | [🔗 What is good code?](https://www.yellowduck.be/posts/what-is-good-code)  
 - `2026-08-10` | [🔗 Top 10 backend frameworks for enterprise development in 2026](https://www.yellowduck.be/posts/top-10-backend-frameworks-for-enterprise-development-in-2026)  
@@ -18,6 +19,5 @@
 - `2026-08-09` | [🔗 Lobste.rs is now running on SQLite](https://www.yellowduck.be/posts/lobste-rs-is-now-running-on-sqlite)  
 - `2026-08-09` | [🔗 I could&#39;ve rickrolled the entire FIFA World Cup. All I needed was my ID.](https://www.yellowduck.be/posts/i-couldve-rickrolled-the-entire-fifa-world-cup-all-i-needed-was-my-id)  
 - `2026-08-08` | [🐥 Distributing a Go CLI via a Homebrew tap](https://www.yellowduck.be/posts/distributing-a-go-cli-via-a-homebrew-tap)  
-- `2026-08-08` | [🔗 How I use HTMX with Go](https://www.yellowduck.be/posts/how-i-use-htmx-with-go)  
 
 <!-- BLOG-POST-LIST:END -->
