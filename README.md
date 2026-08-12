@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-12` | [🔗 GitHub - jamesob/local-llm: Everything I know about running LLMs locally](https://www.yellowduck.be/posts/github-jamesob-local-llm-everything-i-know-about-running-llms-locally)  
 - `2026-08-12` | [🔗 Running local LLMs: A practical guide](https://www.yellowduck.be/posts/running-local-llms-a-practical-guide)  
 - `2026-08-11` | [🔗 Designing partitioning you don&#39;t have to babysit](https://www.yellowduck.be/posts/designing-partitioning-you-dont-have-to-babysit)  
 - `2026-08-11` | [🔗 How to stop Claude from saying load-bearing](https://www.yellowduck.be/posts/how-to-stop-claude-from-saying-load-bearing)  
@@ -18,6 +19,5 @@
 - `2026-08-10` | [🔗 Jurassic Park computers in excruciating detail](https://www.yellowduck.be/posts/jurassic-park-computers-in-excruciating-detail)  
 - `2026-08-09` | [🔗 Are we offloading too much of our thinking to AI?](https://www.yellowduck.be/posts/are-we-offloading-too-much-of-our-thinking-to-ai)  
 - `2026-08-09` | [🔗 Lobste.rs is now running on SQLite](https://www.yellowduck.be/posts/lobste-rs-is-now-running-on-sqlite)  
-- `2026-08-09` | [🔗 I could&#39;ve rickrolled the entire FIFA World Cup. All I needed was my ID.](https://www.yellowduck.be/posts/i-couldve-rickrolled-the-entire-fifa-world-cup-all-i-needed-was-my-id)  
 
 <!-- BLOG-POST-LIST:END -->
