@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-14` | [🔗 The query that was correct but broke everything else](https://www.yellowduck.be/posts/the-query-that-was-correct-but-broke-everything-else)  
 - `2026-08-14` | [🔗 Req is all you need](https://www.yellowduck.be/posts/req-is-all-you-need)  
 - `2026-08-13` | [🔗 Using Go for mobile apps](https://www.yellowduck.be/posts/using-go-for-mobile-apps)  
 - `2026-08-13` | [🔗 Job queues are deceptively tricky](https://www.yellowduck.be/posts/job-queues-are-deceptively-tricky)  
@@ -18,6 +19,5 @@
 - `2026-08-12` | [🔗 Running local LLMs: A practical guide](https://www.yellowduck.be/posts/running-local-llms-a-practical-guide)  
 - `2026-08-11` | [🔗 Designing partitioning you don&#39;t have to babysit](https://www.yellowduck.be/posts/designing-partitioning-you-dont-have-to-babysit)  
 - `2026-08-11` | [🔗 How to stop Claude from saying load-bearing](https://www.yellowduck.be/posts/how-to-stop-claude-from-saying-load-bearing)  
-- `2026-08-11` | [🔗 What is good code?](https://www.yellowduck.be/posts/what-is-good-code)  
 
 <!-- BLOG-POST-LIST:END -->
