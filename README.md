@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-15` | [🔗 My thoughts on the future of Go in the AI era](https://www.yellowduck.be/posts/my-thoughts-on-the-future-of-go-in-the-ai-era)  
 - `2026-08-15` | [🔗 SQLite should have &lpar;Rust-style&rpar; editions](https://www.yellowduck.be/posts/sqlite-should-have-rust-style-editions)  
 - `2026-08-14` | [🐥 Hosting your own APT repository for a Go CLI tool](https://www.yellowduck.be/posts/hosting-your-own-apt-repository-for-a-go-cli-tool)  
 - `2026-08-14` | [🔗 The query that was correct but broke everything else](https://www.yellowduck.be/posts/the-query-that-was-correct-but-broke-everything-else)  
@@ -18,6 +19,5 @@
 - `2026-08-13` | [🔗 Improving prettier performance with the new prettier cli](https://www.yellowduck.be/posts/improving-prettier-performance-with-the-new-cli)  
 - `2026-08-12` | [🔗 Htop explained](https://www.yellowduck.be/posts/htop-explained)  
 - `2026-08-12` | [🔗 GitHub - jamesob/local-llm: Everything I know about running LLMs locally](https://www.yellowduck.be/posts/github-jamesob-local-llm-everything-i-know-about-running-llms-locally)  
-- `2026-08-12` | [🔗 Running local LLMs: A practical guide](https://www.yellowduck.be/posts/running-local-llms-a-practical-guide)  
 
 <!-- BLOG-POST-LIST:END -->
