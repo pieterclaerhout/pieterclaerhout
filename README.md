@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-18` | [🔗 Go releases are exciting &lpar;especially 1.27&rpar;](https://www.yellowduck.be/posts/go-releases-are-exciting-especially-1-27)  
 - `2026-08-18` | [🔗 Laravel facade pattern explained: build your own custom facade](https://www.yellowduck.be/posts/laravel-facade-pattern-explained-build-your-own-custom-facade)  
 - `2026-08-17` | [🐥 Advanced debugging in Elixir with IO.inspect](https://www.yellowduck.be/posts/advanced-debugging-in-elixir-with-io-inspect)  
 - `2026-08-17` | [🔗 My notes on three years of coding with AI](https://www.yellowduck.be/posts/my-notes-on-three-years-of-coding-with-ai)  
@@ -18,6 +19,5 @@
 - `2026-08-16` | [🔗 From microservice to subprocess](https://www.yellowduck.be/posts/from-microservice-to-subprocess)  
 - `2026-08-15` | [🔗 The Anti-Mac User Interface &lpar;Don Gentner and Jakob Nielsen&rpar;](https://www.yellowduck.be/posts/the-anti-mac-user-interface-don-gentner-and-jakob-nielsen)  
 - `2026-08-15` | [🔗 My thoughts on the future of Go in the AI era](https://www.yellowduck.be/posts/my-thoughts-on-the-future-of-go-in-the-ai-era)  
-- `2026-08-15` | [🔗 SQLite should have &lpar;Rust-style&rpar; editions](https://www.yellowduck.be/posts/sqlite-should-have-rust-style-editions)  
 
 <!-- BLOG-POST-LIST:END -->
