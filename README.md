@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-19` | [🔗 Git rebase -i is not that scary](https://www.yellowduck.be/posts/git-rebase-i-is-not-that-scary)  
 - `2026-08-19` | [🔗 The integration loop](https://www.yellowduck.be/posts/the-integration-loop)  
 - `2026-08-18` | [🔗 Supercharge your PHP apps with Go-powered PHP extensions](https://www.yellowduck.be/posts/supercharge-your-php-apps-with-go-powered-php-extensions)  
 - `2026-08-18` | [🔗 Go releases are exciting &lpar;especially 1.27&rpar;](https://www.yellowduck.be/posts/go-releases-are-exciting-especially-1-27)  
@@ -18,6 +19,5 @@
 - `2026-08-17` | [🔗 1Password for Claude: give Claude access without giving up your credentials](https://www.yellowduck.be/posts/1password-for-claude-give-claude-access-without-giving-up-your-credentials)  
 - `2026-08-16` | [🔗 Detecting full table scans with SQLite](https://www.yellowduck.be/posts/detecting-full-table-scans-with-sqlite)  
 - `2026-08-16` | [🔗 It’s time to rethink how we measure engineering productivity](https://www.yellowduck.be/posts/its-time-to-rethink-how-we-measure-engineering-productivity)  
-- `2026-08-16` | [🔗 From microservice to subprocess](https://www.yellowduck.be/posts/from-microservice-to-subprocess)  
 
 <!-- BLOG-POST-LIST:END -->
