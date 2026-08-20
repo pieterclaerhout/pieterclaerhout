@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-20` | [🔗 Film: Final Frontier Patagonia](https://www.yellowduck.be/posts/film-final-frontier-patagonia)  
 - `2026-08-19` | [🔗 Learning a few things about running SQLite](https://www.yellowduck.be/posts/learning-a-few-things-about-running-sqlite)  
 - `2026-08-19` | [🔗 Git rebase -i is not that scary](https://www.yellowduck.be/posts/git-rebase-i-is-not-that-scary)  
 - `2026-08-19` | [🔗 The integration loop](https://www.yellowduck.be/posts/the-integration-loop)  
@@ -18,6 +19,5 @@
 - `2026-08-17` | [🐥 Advanced debugging in Elixir with IO.inspect](https://www.yellowduck.be/posts/advanced-debugging-in-elixir-with-io-inspect)  
 - `2026-08-17` | [🔗 My notes on three years of coding with AI](https://www.yellowduck.be/posts/my-notes-on-three-years-of-coding-with-ai)  
 - `2026-08-17` | [🔗 1Password for Claude: give Claude access without giving up your credentials](https://www.yellowduck.be/posts/1password-for-claude-give-claude-access-without-giving-up-your-credentials)  
-- `2026-08-16` | [🔗 Detecting full table scans with SQLite](https://www.yellowduck.be/posts/detecting-full-table-scans-with-sqlite)  
 
 <!-- BLOG-POST-LIST:END -->
