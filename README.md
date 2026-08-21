@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-21` | [🔗 Work loudly](https://www.yellowduck.be/posts/work-loudly)  
 - `2026-08-21` | [🔗 The git history command deserves more attention](https://www.yellowduck.be/posts/the-git-history-command-deserves-more-attention)  
 - `2026-08-20` | [🐥 Speeding up our PHP test suite with a GitHub Actions matrix strategy](https://www.yellowduck.be/posts/speeding-up-our-php-test-suite-with-a-github-actions-matrix-strategy)  
 - `2026-08-20` | [🔗 Learning Elixir: Error Handling with try/rescue/catch/after](https://www.yellowduck.be/posts/learning-elixir-error-handling-with-try-rescue-catch-after)  
@@ -18,6 +19,5 @@
 - `2026-08-19` | [🔗 The integration loop](https://www.yellowduck.be/posts/the-integration-loop)  
 - `2026-08-18` | [🔗 Supercharge your PHP apps with Go-powered PHP extensions](https://www.yellowduck.be/posts/supercharge-your-php-apps-with-go-powered-php-extensions)  
 - `2026-08-18` | [🔗 Go releases are exciting &lpar;especially 1.27&rpar;](https://www.yellowduck.be/posts/go-releases-are-exciting-especially-1-27)  
-- `2026-08-18` | [🔗 Laravel facade pattern explained: build your own custom facade](https://www.yellowduck.be/posts/laravel-facade-pattern-explained-build-your-own-custom-facade)  
 
 <!-- BLOG-POST-LIST:END -->
