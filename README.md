@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-22` | [🔗 Why Elixir is the best language for LLMs](https://www.yellowduck.be/posts/why-elixir-is-the-best-language-for-llms)  
 - `2026-08-22` | [🔗 The Go architecture behind intelligence API](https://www.yellowduck.be/posts/the-go-architecture-behind-intelligence-api)  
 - `2026-08-21` | [🔗 First-party image processing in Laravel 13.20](https://www.yellowduck.be/posts/first-party-image-processing-in-laravel-13-20)  
 - `2026-08-21` | [🔗 Work loudly](https://www.yellowduck.be/posts/work-loudly)  
@@ -18,6 +19,5 @@
 - `2026-08-20` | [🔗 Film: Final Frontier Patagonia](https://www.yellowduck.be/posts/film-final-frontier-patagonia)  
 - `2026-08-19` | [🔗 Learning a few things about running SQLite](https://www.yellowduck.be/posts/learning-a-few-things-about-running-sqlite)  
 - `2026-08-19` | [🔗 Git rebase -i is not that scary](https://www.yellowduck.be/posts/git-rebase-i-is-not-that-scary)  
-- `2026-08-19` | [🔗 The integration loop](https://www.yellowduck.be/posts/the-integration-loop)  
 
 <!-- BLOG-POST-LIST:END -->
