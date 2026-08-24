@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-24` | [🔗 A PDF parser from the 80s beats Claude &lpar;and they use it internally&rpar;](https://www.yellowduck.be/posts/a-pdf-parser-from-the-80s-beats-claude-and-they-use-it-internally)  
 - `2026-08-23` | [🔗 Modernizing my dotfiles](https://www.yellowduck.be/posts/modernizing-my-dotfiles)  
 - `2026-08-23` | [🔗 How to achieve pruning when querying by non-partitioned columns in PostgreSQL](https://www.yellowduck.be/posts/how-to-achieve-pruning-when-querying-by-non-partitioned-columns-in-postgresql)  
 - `2026-08-23` | [🔗 Sanding UI](https://www.yellowduck.be/posts/sanding-ui)  
@@ -18,6 +19,5 @@
 - `2026-08-21` | [🔗 First-party image processing in Laravel 13.20](https://www.yellowduck.be/posts/first-party-image-processing-in-laravel-13-20)  
 - `2026-08-21` | [🔗 Work loudly](https://www.yellowduck.be/posts/work-loudly)  
 - `2026-08-21` | [🔗 The git history command deserves more attention](https://www.yellowduck.be/posts/the-git-history-command-deserves-more-attention)  
-- `2026-08-20` | [🐥 Speeding up our PHP test suite with a GitHub Actions matrix strategy](https://www.yellowduck.be/posts/speeding-up-our-php-test-suite-with-a-github-actions-matrix-strategy)  
 
 <!-- BLOG-POST-LIST:END -->
