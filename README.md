@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-25` | [🐥 Chaining GitHub Actions Workflows the right way](https://www.yellowduck.be/posts/chaining-github-actions-workflows-the-right-way)  
 - `2026-08-25` | [🔗 Building and shipping Mac and iOS apps without ever opening Xcode](https://www.yellowduck.be/posts/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode)  
 - `2026-08-25` | [🔗 Why AI-generated code needs monitoring more than handwritten code](https://www.yellowduck.be/posts/why-ai-generated-code-needs-monitoring-more-than-handwritten-code)  
 - `2026-08-24` | [🔗 Claude Code skills: automate repetitive Linux tasks with custom skills](https://www.yellowduck.be/posts/claude-code-skills-automate-repetitive-linux-tasks-with-custom-skills)  
@@ -18,6 +19,5 @@
 - `2026-08-23` | [🔗 How to achieve pruning when querying by non-partitioned columns in PostgreSQL](https://www.yellowduck.be/posts/how-to-achieve-pruning-when-querying-by-non-partitioned-columns-in-postgresql)  
 - `2026-08-23` | [🔗 Sanding UI](https://www.yellowduck.be/posts/sanding-ui)  
 - `2026-08-22` | [🐥 Faster, leaner MySQL backups and restores with mysqldump](https://www.yellowduck.be/posts/faster-leaner-mysql-backups-and-restores-with-mysqldump)  
-- `2026-08-22` | [🔗 Why Elixir is the best language for LLMs](https://www.yellowduck.be/posts/why-elixir-is-the-best-language-for-llms)  
 
 <!-- BLOG-POST-LIST:END -->
