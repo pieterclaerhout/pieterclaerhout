@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-25` | [🔗 Building and shipping Mac and iOS apps without ever opening Xcode](https://www.yellowduck.be/posts/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode)  
 - `2026-08-25` | [🔗 Why AI-generated code needs monitoring more than handwritten code](https://www.yellowduck.be/posts/why-ai-generated-code-needs-monitoring-more-than-handwritten-code)  
 - `2026-08-24` | [🔗 Claude Code skills: automate repetitive Linux tasks with custom skills](https://www.yellowduck.be/posts/claude-code-skills-automate-repetitive-linux-tasks-with-custom-skills)  
 - `2026-08-24` | [🔗 Reviewing AI code is not a viable argument](https://www.yellowduck.be/posts/reviewing-ai-code-is-not-a-viable-argument)  
@@ -18,6 +19,5 @@
 - `2026-08-23` | [🔗 Sanding UI](https://www.yellowduck.be/posts/sanding-ui)  
 - `2026-08-22` | [🐥 Faster, leaner MySQL backups and restores with mysqldump](https://www.yellowduck.be/posts/faster-leaner-mysql-backups-and-restores-with-mysqldump)  
 - `2026-08-22` | [🔗 Why Elixir is the best language for LLMs](https://www.yellowduck.be/posts/why-elixir-is-the-best-language-for-llms)  
-- `2026-08-22` | [🔗 The Go architecture behind intelligence API](https://www.yellowduck.be/posts/the-go-architecture-behind-intelligence-api)  
 
 <!-- BLOG-POST-LIST:END -->
