@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-26` | [🔗 .gitignore patterns every developer should have in their toolkit](https://www.yellowduck.be/posts/gitignore-patterns-every-developer-should-have-in-their-toolkit)  
 - `2026-08-26` | [🔗 Designing APIs for agents](https://www.yellowduck.be/posts/designing-apis-for-agents)  
 - `2026-08-25` | [🐥 Chaining GitHub Actions Workflows the right way](https://www.yellowduck.be/posts/chaining-github-actions-workflows-the-right-way)  
 - `2026-08-25` | [🔗 Building and shipping Mac and iOS apps without ever opening Xcode](https://www.yellowduck.be/posts/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode)  
@@ -18,6 +19,5 @@
 - `2026-08-24` | [🔗 A PDF parser from the 80s beats Claude &lpar;and they use it internally&rpar;](https://www.yellowduck.be/posts/a-pdf-parser-from-the-80s-beats-claude-and-they-use-it-internally)  
 - `2026-08-23` | [🔗 Modernizing my dotfiles](https://www.yellowduck.be/posts/modernizing-my-dotfiles)  
 - `2026-08-23` | [🔗 How to achieve pruning when querying by non-partitioned columns in PostgreSQL](https://www.yellowduck.be/posts/how-to-achieve-pruning-when-querying-by-non-partitioned-columns-in-postgresql)  
-- `2026-08-23` | [🔗 Sanding UI](https://www.yellowduck.be/posts/sanding-ui)  
 
 <!-- BLOG-POST-LIST:END -->
