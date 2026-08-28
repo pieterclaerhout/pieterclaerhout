@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-28` | [🔗 Elixir Cluster 101](https://www.yellowduck.be/posts/elixir-cluster-101)  
 - `2026-08-27` | [🔗 I lint-scanned 36 popular MCP servers. A third of them are failing your agent.](https://www.yellowduck.be/posts/i-lint-scanned-36-popular-mcp-servers-a-third-of-them-are-failing-your-agent)  
 - `2026-08-27` | [🔗 Run AI locally on your Mac](https://www.yellowduck.be/posts/run-ai-locally-on-your-mac)  
 - `2026-08-27` | [🔗 How to optimize SQL queries: 20 proven best practices](https://www.yellowduck.be/posts/how-to-optimize-sql-queries-20-proven-best-practices)  
@@ -18,6 +19,5 @@
 - `2026-08-25` | [🐥 Chaining GitHub Actions Workflows the right way](https://www.yellowduck.be/posts/chaining-github-actions-workflows-the-right-way)  
 - `2026-08-25` | [🔗 Building and shipping Mac and iOS apps without ever opening Xcode](https://www.yellowduck.be/posts/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode)  
 - `2026-08-25` | [🔗 Why AI-generated code needs monitoring more than handwritten code](https://www.yellowduck.be/posts/why-ai-generated-code-needs-monitoring-more-than-handwritten-code)  
-- `2026-08-24` | [🔗 Claude Code skills: automate repetitive Linux tasks with custom skills](https://www.yellowduck.be/posts/claude-code-skills-automate-repetitive-linux-tasks-with-custom-skills)  
 
 <!-- BLOG-POST-LIST:END -->
