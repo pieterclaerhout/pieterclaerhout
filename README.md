@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-28` | [🔗 Protecting PII in Elixir before it reaches logs, APIs, and LLMs](https://www.yellowduck.be/posts/protecting-pii-in-elixir-before-it-reaches-logs-apis-and-llms)  
+- `2026-08-28` | [🔗 Guarding against AI drift: my automated Elixir quality checks](https://www.yellowduck.be/posts/guarding-against-ai-drift-my-automated-elixir-quality-checks)  
 - `2026-08-28` | [🔗 Elixir Cluster 101](https://www.yellowduck.be/posts/elixir-cluster-101)  
 - `2026-08-27` | [🔗 I lint-scanned 36 popular MCP servers. A third of them are failing your agent.](https://www.yellowduck.be/posts/i-lint-scanned-36-popular-mcp-servers-a-third-of-them-are-failing-your-agent)  
 - `2026-08-27` | [🔗 Run AI locally on your Mac](https://www.yellowduck.be/posts/run-ai-locally-on-your-mac)  
@@ -17,7 +19,5 @@
 - `2026-08-26` | [🔗 .gitignore patterns every developer should have in their toolkit](https://www.yellowduck.be/posts/gitignore-patterns-every-developer-should-have-in-their-toolkit)  
 - `2026-08-26` | [🔗 Designing APIs for agents](https://www.yellowduck.be/posts/designing-apis-for-agents)  
 - `2026-08-25` | [🐥 Chaining GitHub Actions Workflows the right way](https://www.yellowduck.be/posts/chaining-github-actions-workflows-the-right-way)  
-- `2026-08-25` | [🔗 Building and shipping Mac and iOS apps without ever opening Xcode](https://www.yellowduck.be/posts/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode)  
-- `2026-08-25` | [🔗 Why AI-generated code needs monitoring more than handwritten code](https://www.yellowduck.be/posts/why-ai-generated-code-needs-monitoring-more-than-handwritten-code)  
 
 <!-- BLOG-POST-LIST:END -->
