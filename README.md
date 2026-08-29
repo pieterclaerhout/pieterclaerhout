@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-29` | [🔗 Return of CSS outline](https://www.yellowduck.be/posts/return-of-css-outline)  
 - `2026-08-29` | [🔗 Rebuilding FIFA standings layout with CSS subgrid](https://www.yellowduck.be/posts/rebuilding-fifa-standings-layout-with-css-subgrid)  
 - `2026-08-29` | [🔗 Opaque IDs, editable titles in TIL URLs](https://www.yellowduck.be/posts/opaque-ids-editable-titles-in-til-urls)  
 - `2026-08-28` | [🔗 Protecting PII in Elixir before it reaches logs, APIs, and LLMs](https://www.yellowduck.be/posts/protecting-pii-in-elixir-before-it-reaches-logs-apis-and-llms)  
@@ -18,6 +19,5 @@
 - `2026-08-27` | [🔗 Run AI locally on your Mac](https://www.yellowduck.be/posts/run-ai-locally-on-your-mac)  
 - `2026-08-27` | [🔗 How to optimize SQL queries: 20 proven best practices](https://www.yellowduck.be/posts/how-to-optimize-sql-queries-20-proven-best-practices)  
 - `2026-08-26` | [🔗 Cheap Self-Hosted Kubernetes on Hetzner Cloud](https://www.yellowduck.be/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud)  
-- `2026-08-26` | [🔗 .gitignore patterns every developer should have in their toolkit](https://www.yellowduck.be/posts/gitignore-patterns-every-developer-should-have-in-their-toolkit)  
 
 <!-- BLOG-POST-LIST:END -->
