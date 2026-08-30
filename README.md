@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-30` | [🔗 Code coverage: How to measure it, understand the metrics, and improve your tests](https://www.yellowduck.be/posts/code-coverage-how-to-measure-it-understand-the-metrics-and-improve-your-tests)  
+- `2026-08-30` | [🔗 Engineering leaders day-to-day activities](https://www.yellowduck.be/posts/engineering-leaders-day-to-day-activities)  
 - `2026-08-29` | [🔗 Return of CSS outline](https://www.yellowduck.be/posts/return-of-css-outline)  
 - `2026-08-29` | [🔗 Rebuilding FIFA standings layout with CSS subgrid](https://www.yellowduck.be/posts/rebuilding-fifa-standings-layout-with-css-subgrid)  
 - `2026-08-29` | [🔗 Opaque IDs, editable titles in TIL URLs](https://www.yellowduck.be/posts/opaque-ids-editable-titles-in-til-urls)  
@@ -17,7 +19,5 @@
 - `2026-08-28` | [🔗 Elixir Cluster 101](https://www.yellowduck.be/posts/elixir-cluster-101)  
 - `2026-08-27` | [🔗 I lint-scanned 36 popular MCP servers. A third of them are failing your agent.](https://www.yellowduck.be/posts/i-lint-scanned-36-popular-mcp-servers-a-third-of-them-are-failing-your-agent)  
 - `2026-08-27` | [🔗 Run AI locally on your Mac](https://www.yellowduck.be/posts/run-ai-locally-on-your-mac)  
-- `2026-08-27` | [🔗 How to optimize SQL queries: 20 proven best practices](https://www.yellowduck.be/posts/how-to-optimize-sql-queries-20-proven-best-practices)  
-- `2026-08-26` | [🔗 Cheap Self-Hosted Kubernetes on Hetzner Cloud](https://www.yellowduck.be/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud)  
 
 <!-- BLOG-POST-LIST:END -->
