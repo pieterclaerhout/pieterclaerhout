@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-31` | [🔗 Batching Phoenix LiveView updates](https://www.yellowduck.be/posts/batching-phoenix-liveview-updates)  
 - `2026-08-30` | [🔗 The startup&#39;s PostgreSQL survival guide](https://www.yellowduck.be/posts/the-startups-postgresql-survival-guide)  
 - `2026-08-30` | [🔗 Code coverage: How to measure it, understand the metrics, and improve your tests](https://www.yellowduck.be/posts/code-coverage-how-to-measure-it-understand-the-metrics-and-improve-your-tests)  
 - `2026-08-30` | [🔗 Engineering leaders day-to-day activities](https://www.yellowduck.be/posts/engineering-leaders-day-to-day-activities)  
@@ -18,6 +19,5 @@
 - `2026-08-28` | [🔗 Protecting PII in Elixir before it reaches logs, APIs, and LLMs](https://www.yellowduck.be/posts/protecting-pii-in-elixir-before-it-reaches-logs-apis-and-llms)  
 - `2026-08-28` | [🔗 Guarding against AI drift: my automated Elixir quality checks](https://www.yellowduck.be/posts/guarding-against-ai-drift-my-automated-elixir-quality-checks)  
 - `2026-08-28` | [🔗 Elixir Cluster 101](https://www.yellowduck.be/posts/elixir-cluster-101)  
-- `2026-08-27` | [🔗 I lint-scanned 36 popular MCP servers. A third of them are failing your agent.](https://www.yellowduck.be/posts/i-lint-scanned-36-popular-mcp-servers-a-third-of-them-are-failing-your-agent)  
 
 <!-- BLOG-POST-LIST:END -->
