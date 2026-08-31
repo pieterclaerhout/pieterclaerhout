@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-08-31` | [🐥 Building a Laravel-style event system in Elixir Phoenix](https://www.yellowduck.be/posts/building-a-laravel-style-event-system-in-elixir-phoenix)  
+- `2026-08-31` | [🔗 Why I build software like I’m going to maintain it for 10 years](https://www.yellowduck.be/posts/why-i-build-software-like-im-going-to-maintain-it-for-10-years)  
 - `2026-08-31` | [🔗 Batching Phoenix LiveView updates](https://www.yellowduck.be/posts/batching-phoenix-liveview-updates)  
 - `2026-08-30` | [🔗 The startup&#39;s PostgreSQL survival guide](https://www.yellowduck.be/posts/the-startups-postgresql-survival-guide)  
 - `2026-08-30` | [🔗 Code coverage: How to measure it, understand the metrics, and improve your tests](https://www.yellowduck.be/posts/code-coverage-how-to-measure-it-understand-the-metrics-and-improve-your-tests)  
@@ -17,7 +19,5 @@
 - `2026-08-29` | [🔗 Rebuilding FIFA standings layout with CSS subgrid](https://www.yellowduck.be/posts/rebuilding-fifa-standings-layout-with-css-subgrid)  
 - `2026-08-29` | [🔗 Opaque IDs, editable titles in TIL URLs](https://www.yellowduck.be/posts/opaque-ids-editable-titles-in-til-urls)  
 - `2026-08-28` | [🔗 Protecting PII in Elixir before it reaches logs, APIs, and LLMs](https://www.yellowduck.be/posts/protecting-pii-in-elixir-before-it-reaches-logs-apis-and-llms)  
-- `2026-08-28` | [🔗 Guarding against AI drift: my automated Elixir quality checks](https://www.yellowduck.be/posts/guarding-against-ai-drift-my-automated-elixir-quality-checks)  
-- `2026-08-28` | [🔗 Elixir Cluster 101](https://www.yellowduck.be/posts/elixir-cluster-101)  
 
 <!-- BLOG-POST-LIST:END -->
