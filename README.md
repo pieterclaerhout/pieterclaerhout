@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-01` | [🔗 Shimming your way off a dead Elixir dependency](https://www.yellowduck.be/posts/shimming-your-way-off-a-dead-elixir-dependency)  
 - `2026-09-01` | [🔗 TiptapEx](https://www.yellowduck.be/posts/tiptapex)  
 - `2026-09-01` | [🔗 What&#39;s new in PostgreSQL 19](https://www.yellowduck.be/posts/whats-new-in-postgresql-19)  
 - `2026-08-31` | [🐥 Building a Laravel-style event system in Elixir Phoenix](https://www.yellowduck.be/posts/building-a-laravel-style-event-system-in-elixir-phoenix)  
@@ -18,6 +19,5 @@
 - `2026-08-30` | [🔗 Code coverage: How to measure it, understand the metrics, and improve your tests](https://www.yellowduck.be/posts/code-coverage-how-to-measure-it-understand-the-metrics-and-improve-your-tests)  
 - `2026-08-30` | [🔗 Engineering leaders day-to-day activities](https://www.yellowduck.be/posts/engineering-leaders-day-to-day-activities)  
 - `2026-08-29` | [🔗 Return of CSS outline](https://www.yellowduck.be/posts/return-of-css-outline)  
-- `2026-08-29` | [🔗 Rebuilding FIFA standings layout with CSS subgrid](https://www.yellowduck.be/posts/rebuilding-fifa-standings-layout-with-css-subgrid)  
 
 <!-- BLOG-POST-LIST:END -->
