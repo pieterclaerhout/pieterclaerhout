@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-01` | [🔗 TiptapEx](https://www.yellowduck.be/posts/tiptapex)  
+- `2026-09-01` | [🔗 What&#39;s new in PostgreSQL 19](https://www.yellowduck.be/posts/whats-new-in-postgresql-19)  
 - `2026-08-31` | [🐥 Building a Laravel-style event system in Elixir Phoenix](https://www.yellowduck.be/posts/building-a-laravel-style-event-system-in-elixir-phoenix)  
 - `2026-08-31` | [🔗 Why I build software like I’m going to maintain it for 10 years](https://www.yellowduck.be/posts/why-i-build-software-like-im-going-to-maintain-it-for-10-years)  
 - `2026-08-31` | [🔗 Batching Phoenix LiveView updates](https://www.yellowduck.be/posts/batching-phoenix-liveview-updates)  
@@ -17,7 +19,5 @@
 - `2026-08-30` | [🔗 Engineering leaders day-to-day activities](https://www.yellowduck.be/posts/engineering-leaders-day-to-day-activities)  
 - `2026-08-29` | [🔗 Return of CSS outline](https://www.yellowduck.be/posts/return-of-css-outline)  
 - `2026-08-29` | [🔗 Rebuilding FIFA standings layout with CSS subgrid](https://www.yellowduck.be/posts/rebuilding-fifa-standings-layout-with-css-subgrid)  
-- `2026-08-29` | [🔗 Opaque IDs, editable titles in TIL URLs](https://www.yellowduck.be/posts/opaque-ids-editable-titles-in-til-urls)  
-- `2026-08-28` | [🔗 Protecting PII in Elixir before it reaches logs, APIs, and LLMs](https://www.yellowduck.be/posts/protecting-pii-in-elixir-before-it-reaches-logs-apis-and-llms)  
 
 <!-- BLOG-POST-LIST:END -->
