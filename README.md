@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-02` | [🔗 The depth-first search pattern: exploring trees and graphs](https://www.yellowduck.be/posts/the-depth-first-search-pattern-exploring-trees-and-graphs)  
 - `2026-09-02` | [🔗 How modern indexing works in PostgreSQL](https://www.yellowduck.be/posts/how-modern-indexing-works-in-postgresql)  
 - `2026-09-01` | [🔗 Shimming your way off a dead Elixir dependency](https://www.yellowduck.be/posts/shimming-your-way-off-a-dead-elixir-dependency)  
 - `2026-09-01` | [🔗 TiptapEx](https://www.yellowduck.be/posts/tiptapex)  
@@ -18,6 +19,5 @@
 - `2026-08-31` | [🔗 Batching Phoenix LiveView updates](https://www.yellowduck.be/posts/batching-phoenix-liveview-updates)  
 - `2026-08-30` | [🔗 The startup&#39;s PostgreSQL survival guide](https://www.yellowduck.be/posts/the-startups-postgresql-survival-guide)  
 - `2026-08-30` | [🔗 Code coverage: How to measure it, understand the metrics, and improve your tests](https://www.yellowduck.be/posts/code-coverage-how-to-measure-it-understand-the-metrics-and-improve-your-tests)  
-- `2026-08-30` | [🔗 Engineering leaders day-to-day activities](https://www.yellowduck.be/posts/engineering-leaders-day-to-day-activities)  
 
 <!-- BLOG-POST-LIST:END -->
