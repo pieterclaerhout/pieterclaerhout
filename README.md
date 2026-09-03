@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-03` | [🔗 Commenting now works with two redirects](https://www.yellowduck.be/posts/commenting-now-works-with-two-redirects)  
 - `2026-09-03` | [🔗 Three ways to consume code](https://www.yellowduck.be/posts/three-ways-to-consume-code)  
 - `2026-09-02` | [🐥 Customizing the Laravel Boost guidelines](https://www.yellowduck.be/posts/customizing-the-laravel-boost-guidelines)  
 - `2026-09-02` | [🔗 The depth-first search pattern: exploring trees and graphs](https://www.yellowduck.be/posts/the-depth-first-search-pattern-exploring-trees-and-graphs)  
@@ -18,6 +19,5 @@
 - `2026-09-01` | [🔗 What&#39;s new in PostgreSQL 19](https://www.yellowduck.be/posts/whats-new-in-postgresql-19)  
 - `2026-08-31` | [🐥 Building a Laravel-style event system in Elixir Phoenix](https://www.yellowduck.be/posts/building-a-laravel-style-event-system-in-elixir-phoenix)  
 - `2026-08-31` | [🔗 Why I build software like I’m going to maintain it for 10 years](https://www.yellowduck.be/posts/why-i-build-software-like-im-going-to-maintain-it-for-10-years)  
-- `2026-08-31` | [🔗 Batching Phoenix LiveView updates](https://www.yellowduck.be/posts/batching-phoenix-liveview-updates)  
 
 <!-- BLOG-POST-LIST:END -->
