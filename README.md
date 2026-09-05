@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-05` | [🔗 Curl says it&#39;s fast. Your users disagree.](https://www.yellowduck.be/posts/curl-says-its-fast-your-users-disagree)  
 - `2026-09-05` | [🔗 SQLite vs DuckDB on the same $16 box: every cliff moved 100X](https://www.yellowduck.be/posts/sqlite-vs-duckdb-on-the-same-16-box-every-cliff-moved-100x)  
 - `2026-09-04` | [🔗 Each test should own its setup](https://www.yellowduck.be/posts/each-test-should-own-its-setup)  
 - `2026-09-04` | [🔗 Migrating 6.5 billion rows from MongoDB](https://www.yellowduck.be/posts/migrating-6-5-billion-rows-from-mongodb)  
@@ -18,6 +19,5 @@
 - `2026-09-03` | [🔗 Three ways to consume code](https://www.yellowduck.be/posts/three-ways-to-consume-code)  
 - `2026-09-02` | [🐥 Customizing the Laravel Boost guidelines](https://www.yellowduck.be/posts/customizing-the-laravel-boost-guidelines)  
 - `2026-09-02` | [🔗 The depth-first search pattern: exploring trees and graphs](https://www.yellowduck.be/posts/the-depth-first-search-pattern-exploring-trees-and-graphs)  
-- `2026-09-02` | [🔗 How modern indexing works in PostgreSQL](https://www.yellowduck.be/posts/how-modern-indexing-works-in-postgresql)  
 
 <!-- BLOG-POST-LIST:END -->
