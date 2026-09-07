@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-07` | [🐥 Laravel boost best practices: A major tone shift &lpar;August 2026&rpar;](https://www.yellowduck.be/posts/laravel-boost-best-practices-a-major-tone-shift-august-2026)  
+- `2026-09-07` | [🔗 Native apps should be avoided whenever possible](https://www.yellowduck.be/posts/native-apps-should-be-avoided-whenever-possible)  
 - `2026-09-07` | [🔗 IBM i &lpar;OS/400&rpar; the database operating system](https://www.yellowduck.be/posts/ibm-i-os-400-the-database-operating-system)  
 - `2026-09-06` | [🔗 The schema doctor is in](https://www.yellowduck.be/posts/the-schema-doctor-is-in)  
 - `2026-09-06` | [🔗 15 Linux interview questions every sysadmin should know](https://www.yellowduck.be/posts/15-linux-interview-questions-every-sysadmin-should-know)  
@@ -17,7 +19,5 @@
 - `2026-09-05` | [🔗 Curl says it&#39;s fast. Your users disagree.](https://www.yellowduck.be/posts/curl-says-its-fast-your-users-disagree)  
 - `2026-09-05` | [🔗 SQLite vs DuckDB on the same $16 box: every cliff moved 100X](https://www.yellowduck.be/posts/sqlite-vs-duckdb-on-the-same-16-box-every-cliff-moved-100x)  
 - `2026-09-04` | [🔗 Each test should own its setup](https://www.yellowduck.be/posts/each-test-should-own-its-setup)  
-- `2026-09-04` | [🔗 Migrating 6.5 billion rows from MongoDB](https://www.yellowduck.be/posts/migrating-6-5-billion-rows-from-mongodb)  
-- `2026-09-04` | [🔗 3 take-aways from the 2026 Tour de France](https://www.yellowduck.be/posts/3-take-aways-from-the-2026-tour-de-france)  
 
 <!-- BLOG-POST-LIST:END -->
