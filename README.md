@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-08` | [🔗 Image dominant color and HEIC support in Laravel 13.24](https://www.yellowduck.be/posts/image-dominant-color-and-heic-support-in-laravel-13-24)  
 - `2026-09-08` | [🔗 Limited output is a feature.](https://www.yellowduck.be/posts/limited-output-is-a-feature)  
 - `2026-09-08` | [🔗 What&#39;s new in PHP 8.6](https://www.yellowduck.be/posts/whats-new-in-php-8-6)  
 - `2026-09-07` | [🐥 Laravel boost best practices: A major tone shift &lpar;August 2026&rpar;](https://www.yellowduck.be/posts/laravel-boost-best-practices-a-major-tone-shift-august-2026)  
@@ -18,6 +19,5 @@
 - `2026-09-06` | [🔗 15 Linux interview questions every sysadmin should know](https://www.yellowduck.be/posts/15-linux-interview-questions-every-sysadmin-should-know)  
 - `2026-09-06` | [🔗 With purpose: How to win the transcontinental race](https://www.yellowduck.be/posts/with-purpose-how-to-win-the-transcontinental-race)  
 - `2026-09-05` | [🐥 One line to measure PHP memory](https://www.yellowduck.be/posts/one-line-to-measure-php-memory)  
-- `2026-09-05` | [🔗 Curl says it&#39;s fast. Your users disagree.](https://www.yellowduck.be/posts/curl-says-its-fast-your-users-disagree)  
 
 <!-- BLOG-POST-LIST:END -->
