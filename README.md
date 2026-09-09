@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-09` | [🔗 What are code reviews even for?](https://www.yellowduck.be/posts/what-are-code-reviews-even-for)  
+- `2026-09-09` | [🔗 Your COUNT&lpar;DISTINCT&rpar; is too slow: Approximations and sampling in PostgreSQL](https://www.yellowduck.be/posts/your-count-distinct-is-too-slow-approximations-and-sampling-in-postgresql)  
 - `2026-09-09` | [🔗 Hybrid search patterns with PostgreSQL and pgvector](https://www.yellowduck.be/posts/hybrid-search-patterns-with-postgresql-and-pgvector)  
 - `2026-09-08` | [🔗 Image dominant color and HEIC support in Laravel 13.24](https://www.yellowduck.be/posts/image-dominant-color-and-heic-support-in-laravel-13-24)  
 - `2026-09-08` | [🔗 Limited output is a feature.](https://www.yellowduck.be/posts/limited-output-is-a-feature)  
@@ -17,7 +19,5 @@
 - `2026-09-07` | [🔗 Native apps should be avoided whenever possible](https://www.yellowduck.be/posts/native-apps-should-be-avoided-whenever-possible)  
 - `2026-09-07` | [🔗 IBM i &lpar;OS/400&rpar; the database operating system](https://www.yellowduck.be/posts/ibm-i-os-400-the-database-operating-system)  
 - `2026-09-06` | [🔗 The schema doctor is in](https://www.yellowduck.be/posts/the-schema-doctor-is-in)  
-- `2026-09-06` | [🔗 15 Linux interview questions every sysadmin should know](https://www.yellowduck.be/posts/15-linux-interview-questions-every-sysadmin-should-know)  
-- `2026-09-06` | [🔗 With purpose: How to win the transcontinental race](https://www.yellowduck.be/posts/with-purpose-how-to-win-the-transcontinental-race)  
 
 <!-- BLOG-POST-LIST:END -->
