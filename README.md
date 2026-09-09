@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-09` | [🔗 Hybrid search patterns with PostgreSQL and pgvector](https://www.yellowduck.be/posts/hybrid-search-patterns-with-postgresql-and-pgvector)  
 - `2026-09-08` | [🔗 Image dominant color and HEIC support in Laravel 13.24](https://www.yellowduck.be/posts/image-dominant-color-and-heic-support-in-laravel-13-24)  
 - `2026-09-08` | [🔗 Limited output is a feature.](https://www.yellowduck.be/posts/limited-output-is-a-feature)  
 - `2026-09-08` | [🔗 What&#39;s new in PHP 8.6](https://www.yellowduck.be/posts/whats-new-in-php-8-6)  
@@ -18,6 +19,5 @@
 - `2026-09-06` | [🔗 The schema doctor is in](https://www.yellowduck.be/posts/the-schema-doctor-is-in)  
 - `2026-09-06` | [🔗 15 Linux interview questions every sysadmin should know](https://www.yellowduck.be/posts/15-linux-interview-questions-every-sysadmin-should-know)  
 - `2026-09-06` | [🔗 With purpose: How to win the transcontinental race](https://www.yellowduck.be/posts/with-purpose-how-to-win-the-transcontinental-race)  
-- `2026-09-05` | [🐥 One line to measure PHP memory](https://www.yellowduck.be/posts/one-line-to-measure-php-memory)  
 
 <!-- BLOG-POST-LIST:END -->
