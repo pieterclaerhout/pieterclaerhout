@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-10` | [🔗 The DISTINCT in your COUNT](https://www.yellowduck.be/posts/the-distinct-in-your-count)  
 - `2026-09-09` | [🔗 What are code reviews even for?](https://www.yellowduck.be/posts/what-are-code-reviews-even-for)  
 - `2026-09-09` | [🔗 Your COUNT&lpar;DISTINCT&rpar; is too slow: Approximations and sampling in PostgreSQL](https://www.yellowduck.be/posts/your-count-distinct-is-too-slow-approximations-and-sampling-in-postgresql)  
 - `2026-09-09` | [🔗 Hybrid search patterns with PostgreSQL and pgvector](https://www.yellowduck.be/posts/hybrid-search-patterns-with-postgresql-and-pgvector)  
@@ -18,6 +19,5 @@
 - `2026-09-07` | [🐥 Laravel boost best practices: A major tone shift &lpar;August 2026&rpar;](https://www.yellowduck.be/posts/laravel-boost-best-practices-a-major-tone-shift-august-2026)  
 - `2026-09-07` | [🔗 Native apps should be avoided whenever possible](https://www.yellowduck.be/posts/native-apps-should-be-avoided-whenever-possible)  
 - `2026-09-07` | [🔗 IBM i &lpar;OS/400&rpar; the database operating system](https://www.yellowduck.be/posts/ibm-i-os-400-the-database-operating-system)  
-- `2026-09-06` | [🔗 The schema doctor is in](https://www.yellowduck.be/posts/the-schema-doctor-is-in)  
 
 <!-- BLOG-POST-LIST:END -->
