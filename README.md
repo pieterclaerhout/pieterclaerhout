@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-11` | [🔗 Phoenix version adoption &amp; security](https://www.yellowduck.be/posts/phoenix-version-adoption-security)  
 - `2026-09-10` | [🔗 GenStage demand visualized](https://www.yellowduck.be/posts/genstage-demand-visualized)  
 - `2026-09-10` | [🔗 GitHub Actions is having one of the worst days in its history](https://www.yellowduck.be/posts/github-actions-is-having-one-of-the-worst-days-in-its-history)  
 - `2026-09-10` | [🔗 The DISTINCT in your COUNT](https://www.yellowduck.be/posts/the-distinct-in-your-count)  
@@ -18,6 +19,5 @@
 - `2026-09-08` | [🔗 Image dominant color and HEIC support in Laravel 13.24](https://www.yellowduck.be/posts/image-dominant-color-and-heic-support-in-laravel-13-24)  
 - `2026-09-08` | [🔗 Limited output is a feature.](https://www.yellowduck.be/posts/limited-output-is-a-feature)  
 - `2026-09-08` | [🔗 What&#39;s new in PHP 8.6](https://www.yellowduck.be/posts/whats-new-in-php-8-6)  
-- `2026-09-07` | [🐥 Laravel boost best practices: A major tone shift &lpar;August 2026&rpar;](https://www.yellowduck.be/posts/laravel-boost-best-practices-a-major-tone-shift-august-2026)  
 
 <!-- BLOG-POST-LIST:END -->
