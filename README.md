@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-12` | [🔗 Laravel Doctor: Diagnose your app with one artisan command](https://www.yellowduck.be/posts/laravel-doctor-diagnose-your-app-with-one-artisan-command)  
 - `2026-09-11` | [🔗 ClickHouse adapter Elixir](https://www.yellowduck.be/posts/clickhouse-adapter-elixir)  
 - `2026-09-11` | [🔗 Anti-antipatterns in Elixir library guidelines](https://www.yellowduck.be/posts/anti-antipatterns-in-elixir-library-guidelines)  
 - `2026-09-11` | [🔗 Phoenix version adoption &amp; security](https://www.yellowduck.be/posts/phoenix-version-adoption-security)  
@@ -18,6 +19,5 @@
 - `2026-09-09` | [🔗 What are code reviews even for?](https://www.yellowduck.be/posts/what-are-code-reviews-even-for)  
 - `2026-09-09` | [🔗 Your COUNT&lpar;DISTINCT&rpar; is too slow: Approximations and sampling in PostgreSQL](https://www.yellowduck.be/posts/your-count-distinct-is-too-slow-approximations-and-sampling-in-postgresql)  
 - `2026-09-09` | [🔗 Hybrid search patterns with PostgreSQL and pgvector](https://www.yellowduck.be/posts/hybrid-search-patterns-with-postgresql-and-pgvector)  
-- `2026-09-08` | [🔗 Image dominant color and HEIC support in Laravel 13.24](https://www.yellowduck.be/posts/image-dominant-color-and-heic-support-in-laravel-13-24)  
 
 <!-- BLOG-POST-LIST:END -->
