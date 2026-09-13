@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-13` | [🔗 The Appwrite CLI is now written in Go](https://www.yellowduck.be/posts/the-appwrite-cli-is-now-written-in-go)  
 - `2026-09-13` | [🔗 Dialog API vs Popover API: Which one should you actually use?](https://www.yellowduck.be/posts/dialog-api-vs-popover-api-which-one-should-you-actually-use)  
 - `2026-09-12` | [🐥 Undoing a pushed merge commit without losing work](https://www.yellowduck.be/posts/undoing-a-pushed-merge-commit-without-losing-work)  
 - `2026-09-12` | [🔗 Why We Don’t Use AI @ Rene Herse Cycles](https://www.yellowduck.be/posts/why-we-dont-use-ai-rene-herse-cycles)  
@@ -18,6 +19,5 @@
 - `2026-09-11` | [🔗 Anti-antipatterns in Elixir library guidelines](https://www.yellowduck.be/posts/anti-antipatterns-in-elixir-library-guidelines)  
 - `2026-09-11` | [🔗 Phoenix version adoption &amp; security](https://www.yellowduck.be/posts/phoenix-version-adoption-security)  
 - `2026-09-10` | [🔗 GenStage demand visualized](https://www.yellowduck.be/posts/genstage-demand-visualized)  
-- `2026-09-10` | [🔗 GitHub Actions is having one of the worst days in its history](https://www.yellowduck.be/posts/github-actions-is-having-one-of-the-worst-days-in-its-history)  
 
 <!-- BLOG-POST-LIST:END -->
