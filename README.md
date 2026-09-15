@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-15` | [🔗 Privacy-safe Phoenix request logging without changing controller params](https://www.yellowduck.be/posts/privacy-safe-phoenix-request-logging-without-changing-controller-params)  
 - `2026-09-15` | [🔗 Building distributed systems with Elixir — 02: Correlated request–reply](https://www.yellowduck.be/posts/building-distributed-systems-with-elixir-02-correlated-request-reply)  
 - `2026-09-15` | [🔗 Calculating P&amp;L when a trade spans multiple sessions](https://www.yellowduck.be/posts/calculating-p-l-when-a-trade-spans-multiple-sessions)  
 - `2026-09-14` | [🔗 Learning Elixir: Module attributes](https://www.yellowduck.be/posts/learning-elixir-module-attributes)  
@@ -18,6 +19,5 @@
 - `2026-09-13` | [🔗 The Appwrite CLI is now written in Go](https://www.yellowduck.be/posts/the-appwrite-cli-is-now-written-in-go)  
 - `2026-09-13` | [🔗 Dialog API vs Popover API: Which one should you actually use?](https://www.yellowduck.be/posts/dialog-api-vs-popover-api-which-one-should-you-actually-use)  
 - `2026-09-12` | [🐥 Undoing a pushed merge commit without losing work](https://www.yellowduck.be/posts/undoing-a-pushed-merge-commit-without-losing-work)  
-- `2026-09-12` | [🔗 Why We Don’t Use AI @ Rene Herse Cycles](https://www.yellowduck.be/posts/why-we-dont-use-ai-rene-herse-cycles)  
 
 <!-- BLOG-POST-LIST:END -->
