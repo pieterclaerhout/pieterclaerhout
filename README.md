@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-16` | [🐥 Natural sorting in Laravel API resources](https://www.yellowduck.be/posts/natural-sorting-in-laravel-api-resources)  
 - `2026-09-16` | [🔗 Introducing sqlfmt: an SQL GoFmt-style formatter](https://www.yellowduck.be/posts/introducing-sqlfmt-an-sql-gofmt-style-formatter)  
 - `2026-09-16` | [🔗 Modeling state transitions in PostgreSQL](https://www.yellowduck.be/posts/modeling-state-transitions-in-postgresql)  
 - `2026-09-15` | [🔗 Privacy-safe Phoenix request logging without changing controller params](https://www.yellowduck.be/posts/privacy-safe-phoenix-request-logging-without-changing-controller-params)  
@@ -18,6 +19,5 @@
 - `2026-09-14` | [🔗 Waterfall was never the problem](https://www.yellowduck.be/posts/waterfall-was-never-the-problem)  
 - `2026-09-14` | [🔗 The cost of saying yes has changed](https://www.yellowduck.be/posts/the-cost-of-saying-yes-has-changed)  
 - `2026-09-13` | [🔗 Why Go is an ideal language for AI-assisted software engineering](https://www.yellowduck.be/posts/why-go-is-an-ideal-language-for-ai-assisted-software-engineering)  
-- `2026-09-13` | [🔗 The Appwrite CLI is now written in Go](https://www.yellowduck.be/posts/the-appwrite-cli-is-now-written-in-go)  
 
 <!-- BLOG-POST-LIST:END -->
