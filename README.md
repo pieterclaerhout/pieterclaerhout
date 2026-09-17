@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-17` | [🔗 Why we removed AI solutions from Flare](https://www.yellowduck.be/posts/why-we-removed-ai-solutions-from-flare)  
 - `2026-09-17` | [🔗 Why SQLite still wins](https://www.yellowduck.be/posts/why-sqlite-still-wins)  
 - `2026-09-17` | [🔗 Mea vita: Carpe diem: Upside down Apple logo](https://www.yellowduck.be/posts/mea-vita-carpe-diem-upside-down-apple-logo)  
 - `2026-09-16` | [🐥 Natural sorting in Laravel API resources](https://www.yellowduck.be/posts/natural-sorting-in-laravel-api-resources)  
@@ -18,6 +19,5 @@
 - `2026-09-15` | [🔗 Building distributed systems with Elixir — 02: Correlated request–reply](https://www.yellowduck.be/posts/building-distributed-systems-with-elixir-02-correlated-request-reply)  
 - `2026-09-15` | [🔗 Calculating P&amp;L when a trade spans multiple sessions](https://www.yellowduck.be/posts/calculating-p-l-when-a-trade-spans-multiple-sessions)  
 - `2026-09-14` | [🔗 Learning Elixir: Module attributes](https://www.yellowduck.be/posts/learning-elixir-module-attributes)  
-- `2026-09-14` | [🔗 Waterfall was never the problem](https://www.yellowduck.be/posts/waterfall-was-never-the-problem)  
 
 <!-- BLOG-POST-LIST:END -->
