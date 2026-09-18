@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-18` | [🔗 An agent skill for updating Elixir dependencies](https://www.yellowduck.be/posts/an-agent-skill-for-updating-elixir-dependencies)  
 - `2026-09-18` | [🔗 GitHub&#39;s recent crisis has a simple fix](https://www.yellowduck.be/posts/githubs-recent-crisis-has-a-simple-fix)  
 - `2026-09-17` | [🔗 Why we removed AI solutions from Flare](https://www.yellowduck.be/posts/why-we-removed-ai-solutions-from-flare)  
 - `2026-09-17` | [🔗 Why SQLite still wins](https://www.yellowduck.be/posts/why-sqlite-still-wins)  
@@ -18,6 +19,5 @@
 - `2026-09-16` | [🔗 Modeling state transitions in PostgreSQL](https://www.yellowduck.be/posts/modeling-state-transitions-in-postgresql)  
 - `2026-09-15` | [🔗 Privacy-safe Phoenix request logging without changing controller params](https://www.yellowduck.be/posts/privacy-safe-phoenix-request-logging-without-changing-controller-params)  
 - `2026-09-15` | [🔗 Building distributed systems with Elixir — 02: Correlated request–reply](https://www.yellowduck.be/posts/building-distributed-systems-with-elixir-02-correlated-request-reply)  
-- `2026-09-15` | [🔗 Calculating P&amp;L when a trade spans multiple sessions](https://www.yellowduck.be/posts/calculating-p-l-when-a-trade-spans-multiple-sessions)  
 
 <!-- BLOG-POST-LIST:END -->
