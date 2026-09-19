@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-19` | [🔗 A generic REST interface into Elixir](https://www.yellowduck.be/posts/a-generic-rest-interface-into-elixir)  
 - `2026-09-18` | [🔗 Distributing Elixir applications with Burrito](https://www.yellowduck.be/posts/distributing-elixir-applications-with-burrito)  
 - `2026-09-18` | [🔗 An agent skill for updating Elixir dependencies](https://www.yellowduck.be/posts/an-agent-skill-for-updating-elixir-dependencies)  
 - `2026-09-18` | [🔗 GitHub&#39;s recent crisis has a simple fix](https://www.yellowduck.be/posts/githubs-recent-crisis-has-a-simple-fix)  
@@ -18,6 +19,5 @@
 - `2026-09-16` | [🐥 Natural sorting in Laravel API resources](https://www.yellowduck.be/posts/natural-sorting-in-laravel-api-resources)  
 - `2026-09-16` | [🔗 Introducing sqlfmt: an SQL GoFmt-style formatter](https://www.yellowduck.be/posts/introducing-sqlfmt-an-sql-gofmt-style-formatter)  
 - `2026-09-16` | [🔗 Modeling state transitions in PostgreSQL](https://www.yellowduck.be/posts/modeling-state-transitions-in-postgresql)  
-- `2026-09-15` | [🔗 Privacy-safe Phoenix request logging without changing controller params](https://www.yellowduck.be/posts/privacy-safe-phoenix-request-logging-without-changing-controller-params)  
 
 <!-- BLOG-POST-LIST:END -->
