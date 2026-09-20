@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-20` | [🔗 A deep &lpar;and fuzzy&rpar; dive into search](https://www.yellowduck.be/posts/a-deep-and-fuzzy-dive-into-search)  
 - `2026-09-19` | [🔗 How I use AI in 2026 &lpar;Coding, Writing, Learning, Assistant-ing&rpar;](https://www.yellowduck.be/posts/how-i-use-ai-in-2026-coding-writing-learning-assistant-ing)  
 - `2026-09-19` | [🔗 cURL performance](https://www.yellowduck.be/posts/curl-performance)  
 - `2026-09-19` | [🔗 A generic REST interface into Elixir](https://www.yellowduck.be/posts/a-generic-rest-interface-into-elixir)  
@@ -18,6 +19,5 @@
 - `2026-09-17` | [🔗 Why we removed AI solutions from Flare](https://www.yellowduck.be/posts/why-we-removed-ai-solutions-from-flare)  
 - `2026-09-17` | [🔗 Why SQLite still wins](https://www.yellowduck.be/posts/why-sqlite-still-wins)  
 - `2026-09-17` | [🔗 Mea vita: Carpe diem: Upside down Apple logo](https://www.yellowduck.be/posts/mea-vita-carpe-diem-upside-down-apple-logo)  
-- `2026-09-16` | [🐥 Natural sorting in Laravel API resources](https://www.yellowduck.be/posts/natural-sorting-in-laravel-api-resources)  
 
 <!-- BLOG-POST-LIST:END -->
