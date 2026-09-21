@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-21` | [🔗 Can’t touch the DOM? Reach for :has&lpar;&rpar; to style any element](https://www.yellowduck.be/posts/cant-touch-the-dom-reach-for-has-to-style-any-element)  
 - `2026-09-20` | [🔗 Engineering judgment matters more than ever](https://www.yellowduck.be/posts/engineering-judgment-matters-more-than-ever)  
 - `2026-09-20` | [🔗 APIs are 100x more important than five years ago, and still uncool](https://www.yellowduck.be/posts/apis-are-100x-more-important-than-five-years-ago-and-still-uncool)  
 - `2026-09-20` | [🔗 A deep &lpar;and fuzzy&rpar; dive into search](https://www.yellowduck.be/posts/a-deep-and-fuzzy-dive-into-search)  
@@ -18,6 +19,5 @@
 - `2026-09-18` | [🔗 Distributing Elixir applications with Burrito](https://www.yellowduck.be/posts/distributing-elixir-applications-with-burrito)  
 - `2026-09-18` | [🔗 An agent skill for updating Elixir dependencies](https://www.yellowduck.be/posts/an-agent-skill-for-updating-elixir-dependencies)  
 - `2026-09-18` | [🔗 GitHub&#39;s recent crisis has a simple fix](https://www.yellowduck.be/posts/githubs-recent-crisis-has-a-simple-fix)  
-- `2026-09-17` | [🔗 Why we removed AI solutions from Flare](https://www.yellowduck.be/posts/why-we-removed-ai-solutions-from-flare)  
 
 <!-- BLOG-POST-LIST:END -->
