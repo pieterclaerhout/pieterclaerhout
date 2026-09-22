@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-22` | [🔗 The case for tri-state dark mode toggles](https://www.yellowduck.be/posts/the-case-for-tri-state-dark-mode-toggles)  
 - `2026-09-21` | [🔗 1 million DB updates, 3 days, 200 lines of Go: A legacy rescue story](https://www.yellowduck.be/posts/1-million-db-updates-3-days-200-lines-of-go-a-legacy-rescue-story)  
 - `2026-09-21` | [🔗 The agent needs identity. The model does not.](https://www.yellowduck.be/posts/the-agent-needs-identity-the-model-does-not)  
 - `2026-09-21` | [🔗 Can’t touch the DOM? Reach for :has&lpar;&rpar; to style any element](https://www.yellowduck.be/posts/cant-touch-the-dom-reach-for-has-to-style-any-element)  
@@ -18,6 +19,5 @@
 - `2026-09-19` | [🔗 How I use AI in 2026 &lpar;Coding, Writing, Learning, Assistant-ing&rpar;](https://www.yellowduck.be/posts/how-i-use-ai-in-2026-coding-writing-learning-assistant-ing)  
 - `2026-09-19` | [🔗 cURL performance](https://www.yellowduck.be/posts/curl-performance)  
 - `2026-09-19` | [🔗 A generic REST interface into Elixir](https://www.yellowduck.be/posts/a-generic-rest-interface-into-elixir)  
-- `2026-09-18` | [🔗 Distributing Elixir applications with Burrito](https://www.yellowduck.be/posts/distributing-elixir-applications-with-burrito)  
 
 <!-- BLOG-POST-LIST:END -->
