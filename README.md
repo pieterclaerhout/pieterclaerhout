@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-22` | [🔗 Your CI should be disposable](https://www.yellowduck.be/posts/your-ci-should-be-disposable)  
 - `2026-09-22` | [🔗 Ten books that shaped how I think](https://www.yellowduck.be/posts/ten-books-that-shaped-how-i-think)  
 - `2026-09-22` | [🔗 The case for tri-state dark mode toggles](https://www.yellowduck.be/posts/the-case-for-tri-state-dark-mode-toggles)  
 - `2026-09-21` | [🔗 1 million DB updates, 3 days, 200 lines of Go: A legacy rescue story](https://www.yellowduck.be/posts/1-million-db-updates-3-days-200-lines-of-go-a-legacy-rescue-story)  
@@ -18,6 +19,5 @@
 - `2026-09-20` | [🔗 APIs are 100x more important than five years ago, and still uncool](https://www.yellowduck.be/posts/apis-are-100x-more-important-than-five-years-ago-and-still-uncool)  
 - `2026-09-20` | [🔗 A deep &lpar;and fuzzy&rpar; dive into search](https://www.yellowduck.be/posts/a-deep-and-fuzzy-dive-into-search)  
 - `2026-09-19` | [🔗 How I use AI in 2026 &lpar;Coding, Writing, Learning, Assistant-ing&rpar;](https://www.yellowduck.be/posts/how-i-use-ai-in-2026-coding-writing-learning-assistant-ing)  
-- `2026-09-19` | [🔗 cURL performance](https://www.yellowduck.be/posts/curl-performance)  
 
 <!-- BLOG-POST-LIST:END -->
