@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-24` | [🔗 Building distributed systems in Elixir: Part 5 — Supervisor from scratch](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch)  
+- `2026-09-24` | [🔗 Building distributed systems in Elixir: Part 4 — Process linking](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-4-process-linking)  
 - `2026-09-23` | [🔗 Building distributed systems in Elixir: Part 3 — Process monitoring](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-3-process-monitoring)  
 - `2026-09-23` | [🔗 Building distributed systems in Elixir: Part 1 - Building a stateful process in Elixir without GenServer](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-1-building-a-stateful-process-in-elixir-without-genserver)  
 - `2026-09-23` | [🔗 Your application is already an MCP server](https://www.yellowduck.be/posts/your-application-is-already-an-mcp-server)  
@@ -17,7 +19,5 @@
 - `2026-09-22` | [🔗 The case for tri-state dark mode toggles](https://www.yellowduck.be/posts/the-case-for-tri-state-dark-mode-toggles)  
 - `2026-09-21` | [🔗 1 million DB updates, 3 days, 200 lines of Go: A legacy rescue story](https://www.yellowduck.be/posts/1-million-db-updates-3-days-200-lines-of-go-a-legacy-rescue-story)  
 - `2026-09-21` | [🔗 The agent needs identity. The model does not.](https://www.yellowduck.be/posts/the-agent-needs-identity-the-model-does-not)  
-- `2026-09-21` | [🔗 Can’t touch the DOM? Reach for :has&lpar;&rpar; to style any element](https://www.yellowduck.be/posts/cant-touch-the-dom-reach-for-has-to-style-any-element)  
-- `2026-09-20` | [🔗 Engineering judgment matters more than ever](https://www.yellowduck.be/posts/engineering-judgment-matters-more-than-ever)  
 
 <!-- BLOG-POST-LIST:END -->
