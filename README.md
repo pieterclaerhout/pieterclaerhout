@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-24` | [🔗 How Instacart built a modern search infrastructure on PostgreSQL](https://www.yellowduck.be/posts/how-instacart-built-a-modern-search-infrastructure-on-postgres)  
 - `2026-09-24` | [🔗 Building distributed systems in Elixir: Part 5 — Supervisor from scratch](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch)  
 - `2026-09-24` | [🔗 Building distributed systems in Elixir: Part 4 — Process linking](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-4-process-linking)  
 - `2026-09-23` | [🔗 Building distributed systems in Elixir: Part 3 — Process monitoring](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-3-process-monitoring)  
@@ -18,6 +19,5 @@
 - `2026-09-22` | [🔗 Ten books that shaped how I think](https://www.yellowduck.be/posts/ten-books-that-shaped-how-i-think)  
 - `2026-09-22` | [🔗 The case for tri-state dark mode toggles](https://www.yellowduck.be/posts/the-case-for-tri-state-dark-mode-toggles)  
 - `2026-09-21` | [🔗 1 million DB updates, 3 days, 200 lines of Go: A legacy rescue story](https://www.yellowduck.be/posts/1-million-db-updates-3-days-200-lines-of-go-a-legacy-rescue-story)  
-- `2026-09-21` | [🔗 The agent needs identity. The model does not.](https://www.yellowduck.be/posts/the-agent-needs-identity-the-model-does-not)  
 
 <!-- BLOG-POST-LIST:END -->
