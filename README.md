@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-25` | [🔗 Re: Linking Patchwork with Sashiko?](https://www.yellowduck.be/posts/re-linking-patchwork-with-sashiko)  
 - `2026-09-25` | [🔗 Go 1.27 release notes](https://www.yellowduck.be/posts/go-1-27-release-notes)  
 - `2026-09-24` | [🔗 How Instacart built a modern search infrastructure on PostgreSQL](https://www.yellowduck.be/posts/how-instacart-built-a-modern-search-infrastructure-on-postgres)  
 - `2026-09-24` | [🔗 Building distributed systems in Elixir: Part 5 — Supervisor from scratch](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch)  
@@ -18,6 +19,5 @@
 - `2026-09-23` | [🔗 Your application is already an MCP server](https://www.yellowduck.be/posts/your-application-is-already-an-mcp-server)  
 - `2026-09-22` | [🔗 Your CI should be disposable](https://www.yellowduck.be/posts/your-ci-should-be-disposable)  
 - `2026-09-22` | [🔗 Ten books that shaped how I think](https://www.yellowduck.be/posts/ten-books-that-shaped-how-i-think)  
-- `2026-09-22` | [🔗 The case for tri-state dark mode toggles](https://www.yellowduck.be/posts/the-case-for-tri-state-dark-mode-toggles)  
 
 <!-- BLOG-POST-LIST:END -->
