@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-27` | [🔗 The Elixir hiring paradox: notes from ElixirConf EU 2026](https://www.yellowduck.be/posts/the-elixir-hiring-paradox-notes-from-elixirconf-eu-2026)  
 - `2026-09-26` | [🔗 Japan tried to build an operating system for the entire world, then the US government intervened](https://www.yellowduck.be/posts/japan-tried-to-build-an-operating-system-for-the-entire-world-then-the-us-government-intervened)  
 - `2026-09-26` | [🔗 A struct is just a map with rules](https://www.yellowduck.be/posts/a-struct-is-just-a-map-with-rules)  
 - `2026-09-26` | [🔗 The reality of being a CTO](https://www.yellowduck.be/posts/the-reality-of-being-a-cto)  
@@ -18,6 +19,5 @@
 - `2026-09-24` | [🔗 How Instacart built a modern search infrastructure on PostgreSQL](https://www.yellowduck.be/posts/how-instacart-built-a-modern-search-infrastructure-on-postgres)  
 - `2026-09-24` | [🔗 Building distributed systems in Elixir: Part 5 — Supervisor from scratch](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch)  
 - `2026-09-24` | [🔗 Building distributed systems in Elixir: Part 4 — Process linking](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-4-process-linking)  
-- `2026-09-23` | [🔗 Building distributed systems in Elixir: Part 3 — Process monitoring](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-3-process-monitoring)  
 
 <!-- BLOG-POST-LIST:END -->
