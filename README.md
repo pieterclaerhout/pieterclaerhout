@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-28` | [🔗 How AI text watermarking works: a visual guide](https://www.yellowduck.be/posts/how-ai-text-watermarking-works-a-visual-guide)  
 - `2026-09-27` | [🔗 ID design and primary keys, pt. 1](https://www.yellowduck.be/posts/id-design-and-primary-keys-pt-1)  
 - `2026-09-27` | [🔗 Elixir&#39;s GenStage demand &lpar;a visual explainer&rpar;](https://www.yellowduck.be/posts/elixirs-genstage-demand-a-visual-explainer)  
 - `2026-09-27` | [🔗 The Elixir hiring paradox: notes from ElixirConf EU 2026](https://www.yellowduck.be/posts/the-elixir-hiring-paradox-notes-from-elixirconf-eu-2026)  
@@ -18,6 +19,5 @@
 - `2026-09-25` | [🔗 Full-text search at Contentful just got faster: Why it’s important and how we did it](https://www.yellowduck.be/posts/full-text-search-at-contentful-just-got-faster-why-its-important-and-how-we-did-it)  
 - `2026-09-25` | [🔗 Re: Linking Patchwork with Sashiko?](https://www.yellowduck.be/posts/re-linking-patchwork-with-sashiko)  
 - `2026-09-25` | [🔗 Go 1.27 release notes](https://www.yellowduck.be/posts/go-1-27-release-notes)  
-- `2026-09-24` | [🔗 How Instacart built a modern search infrastructure on PostgreSQL](https://www.yellowduck.be/posts/how-instacart-built-a-modern-search-infrastructure-on-postgres)  
 
 <!-- BLOG-POST-LIST:END -->
