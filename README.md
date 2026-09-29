@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-29` | [🔗 Your executable is a SQLite database](https://www.yellowduck.be/posts/your-executable-is-a-sqlite-database)  
+- `2026-09-29` | [🔗 Feature flags without a SaaS: How OnRotation gates features](https://www.yellowduck.be/posts/feature-flags-without-a-saas-how-onrotation-gates-features)  
 - `2026-09-29` | [🔗 Do we still need build tools?](https://www.yellowduck.be/posts/do-we-still-need-build-tools)  
 - `2026-09-28` | [🔗 PostgreSQL for everything](https://www.yellowduck.be/posts/postgresql-for-everything)  
 - `2026-09-28` | [🔗 Bun 1.4 Rust rewrite is not looking good](https://www.yellowduck.be/posts/bun-1-4-rust-rewrite-is-not-looking-good)  
@@ -17,7 +19,5 @@
 - `2026-09-27` | [🔗 Elixir&#39;s GenStage demand &lpar;a visual explainer&rpar;](https://www.yellowduck.be/posts/elixirs-genstage-demand-a-visual-explainer)  
 - `2026-09-27` | [🔗 The Elixir hiring paradox: notes from ElixirConf EU 2026](https://www.yellowduck.be/posts/the-elixir-hiring-paradox-notes-from-elixirconf-eu-2026)  
 - `2026-09-26` | [🔗 Japan tried to build an operating system for the entire world, then the US government intervened](https://www.yellowduck.be/posts/japan-tried-to-build-an-operating-system-for-the-entire-world-then-the-us-government-intervened)  
-- `2026-09-26` | [🔗 A struct is just a map with rules](https://www.yellowduck.be/posts/a-struct-is-just-a-map-with-rules)  
-- `2026-09-26` | [🔗 The reality of being a CTO](https://www.yellowduck.be/posts/the-reality-of-being-a-cto)  
 
 <!-- BLOG-POST-LIST:END -->
