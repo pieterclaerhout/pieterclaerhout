@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-02` | [🔗 Is agentic AI just automation?](https://www.yellowduck.be/posts/is-agentic-ai-just-automation)  
 - `2026-10-02` | [🔗 WebSockets vs. SSE should be about ordering and correctness](https://www.yellowduck.be/posts/websockets-vs-sse-should-be-about-ordering-and-correctness)  
 - `2026-10-02` | [🔗 Balancing flex items with flex-wrap: balance](https://www.yellowduck.be/posts/balancing-flex-items-with-flex-wrap-balance)  
 - `2026-10-01` | [🔗 My HTML boilerplate in 2026](https://www.yellowduck.be/posts/my-html-boilerplate-in-2026)  
@@ -18,6 +19,5 @@
 - `2026-09-30` | [🔗 DuckLabs to join AWS, projects to remain open source](https://www.yellowduck.be/posts/ducklabs-to-join-aws-projects-to-remain-open-source)  
 - `2026-09-30` | [🔗 The Dutch community where people live on strips of land in a lake](https://www.yellowduck.be/posts/the-dutch-community-where-people-live-on-strips-of-land-in-a-lake)  
 - `2026-09-29` | [🔗 Your executable is a SQLite database](https://www.yellowduck.be/posts/your-executable-is-a-sqlite-database)  
-- `2026-09-29` | [🔗 Feature flags without a SaaS: How OnRotation gates features](https://www.yellowduck.be/posts/feature-flags-without-a-saas-how-onrotation-gates-features)  
 
 <!-- BLOG-POST-LIST:END -->
