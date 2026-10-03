@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-03` | [🔗 The dangers of the Single Global Process](https://www.yellowduck.be/posts/the-dangers-of-the-single-global-process)  
 - `2026-10-03` | [🔗 Bug blindness](https://www.yellowduck.be/posts/bug-blindness)  
 - `2026-10-03` | [🔗 Building distributed systems in Elixir: Part 7 — worker pool](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-7-worker-pool)  
 - `2026-10-02` | [🔗 Is agentic AI just automation?](https://www.yellowduck.be/posts/is-agentic-ai-just-automation)  
@@ -18,6 +19,5 @@
 - `2026-10-01` | [🔗 Build htop for the web with Go + Datastar](https://www.yellowduck.be/posts/build-htop-for-the-web-with-go-datastar)  
 - `2026-10-01` | [🔗 Anthropic&#39;s Claude now has a browser of its own](https://www.yellowduck.be/posts/anthropics-claude-now-has-a-browser-of-its-own)  
 - `2026-09-30` | [🔗 Speeding up a Phoenix LiveView web app with a CDN](https://www.yellowduck.be/posts/speeding-up-a-phoenix-liveview-web-app-with-a-cdn)  
-- `2026-09-30` | [🔗 DuckLabs to join AWS, projects to remain open source](https://www.yellowduck.be/posts/ducklabs-to-join-aws-projects-to-remain-open-source)  
 
 <!-- BLOG-POST-LIST:END -->
