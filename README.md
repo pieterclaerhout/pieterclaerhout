@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-04` | [🔗 How to secure a Linux server: An evolving how-to guide for securing a Linux server](https://www.yellowduck.be/posts/how-to-secure-a-linux-server-an-evolving-how-to-guide-for-securing-a-linux-server)  
 - `2026-10-04` | [🔗 Cluster singleton pattern](https://www.yellowduck.be/posts/cluster-singleton-pattern)  
 - `2026-10-03` | [🔗 The dangers of the Single Global Process](https://www.yellowduck.be/posts/the-dangers-of-the-single-global-process)  
 - `2026-10-03` | [🔗 Bug blindness](https://www.yellowduck.be/posts/bug-blindness)  
@@ -18,6 +19,5 @@
 - `2026-10-02` | [🔗 Balancing flex items with flex-wrap: balance](https://www.yellowduck.be/posts/balancing-flex-items-with-flex-wrap-balance)  
 - `2026-10-01` | [🔗 My HTML boilerplate in 2026](https://www.yellowduck.be/posts/my-html-boilerplate-in-2026)  
 - `2026-10-01` | [🔗 Build htop for the web with Go + Datastar](https://www.yellowduck.be/posts/build-htop-for-the-web-with-go-datastar)  
-- `2026-10-01` | [🔗 Anthropic&#39;s Claude now has a browser of its own](https://www.yellowduck.be/posts/anthropics-claude-now-has-a-browser-of-its-own)  
 
 <!-- BLOG-POST-LIST:END -->
