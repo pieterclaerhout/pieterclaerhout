@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-05` | [🔗 Postgres as queue](https://www.yellowduck.be/posts/postgres-as-queue)  
 - `2026-10-04` | [🔗 The simplest way to add Tailwind CSS to Django 💨](https://www.yellowduck.be/posts/the-simplest-way-to-add-tailwind-css-to-django)  
 - `2026-10-04` | [🔗 How to secure a Linux server: An evolving how-to guide for securing a Linux server](https://www.yellowduck.be/posts/how-to-secure-a-linux-server-an-evolving-how-to-guide-for-securing-a-linux-server)  
 - `2026-10-04` | [🔗 Cluster singleton pattern](https://www.yellowduck.be/posts/cluster-singleton-pattern)  
@@ -18,6 +19,5 @@
 - `2026-10-02` | [🔗 Is agentic AI just automation?](https://www.yellowduck.be/posts/is-agentic-ai-just-automation)  
 - `2026-10-02` | [🔗 WebSockets vs. SSE should be about ordering and correctness](https://www.yellowduck.be/posts/websockets-vs-sse-should-be-about-ordering-and-correctness)  
 - `2026-10-02` | [🔗 Balancing flex items with flex-wrap: balance](https://www.yellowduck.be/posts/balancing-flex-items-with-flex-wrap-balance)  
-- `2026-10-01` | [🔗 My HTML boilerplate in 2026](https://www.yellowduck.be/posts/my-html-boilerplate-in-2026)  
 
 <!-- BLOG-POST-LIST:END -->
