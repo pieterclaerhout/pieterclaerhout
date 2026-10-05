@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-05` | [🔗 Use Postgres as a simple task queue for Django 🐘](https://www.yellowduck.be/posts/use-postgres-as-a-simple-task-queue-for-django)  
+- `2026-10-05` | [🔗 Create a Django and React app with auto-generated Django types](https://www.yellowduck.be/posts/create-a-django-and-react-app-with-auto-generated-django-types)  
 - `2026-10-05` | [🔗 Postgres as queue](https://www.yellowduck.be/posts/postgres-as-queue)  
 - `2026-10-04` | [🔗 The simplest way to add Tailwind CSS to Django 💨](https://www.yellowduck.be/posts/the-simplest-way-to-add-tailwind-css-to-django)  
 - `2026-10-04` | [🔗 How to secure a Linux server: An evolving how-to guide for securing a Linux server](https://www.yellowduck.be/posts/how-to-secure-a-linux-server-an-evolving-how-to-guide-for-securing-a-linux-server)  
@@ -17,7 +19,5 @@
 - `2026-10-03` | [🔗 Bug blindness](https://www.yellowduck.be/posts/bug-blindness)  
 - `2026-10-03` | [🔗 Building distributed systems in Elixir: Part 7 — worker pool](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-7-worker-pool)  
 - `2026-10-02` | [🔗 Is agentic AI just automation?](https://www.yellowduck.be/posts/is-agentic-ai-just-automation)  
-- `2026-10-02` | [🔗 WebSockets vs. SSE should be about ordering and correctness](https://www.yellowduck.be/posts/websockets-vs-sse-should-be-about-ordering-and-correctness)  
-- `2026-10-02` | [🔗 Balancing flex items with flex-wrap: balance](https://www.yellowduck.be/posts/balancing-flex-items-with-flex-wrap-balance)  
 
 <!-- BLOG-POST-LIST:END -->
