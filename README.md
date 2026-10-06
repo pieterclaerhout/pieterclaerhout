@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-06` | [🔗 Speeding up Elixir test suites](https://www.yellowduck.be/posts/speeding-up-elixir-test-suites)  
 - `2026-10-05` | [🔗 Use Postgres as a simple task queue for Django 🐘](https://www.yellowduck.be/posts/use-postgres-as-a-simple-task-queue-for-django)  
 - `2026-10-05` | [🔗 Create a Django and React app with auto-generated Django types](https://www.yellowduck.be/posts/create-a-django-and-react-app-with-auto-generated-django-types)  
 - `2026-10-05` | [🔗 Postgres as queue](https://www.yellowduck.be/posts/postgres-as-queue)  
@@ -18,6 +19,5 @@
 - `2026-10-03` | [🔗 The dangers of the Single Global Process](https://www.yellowduck.be/posts/the-dangers-of-the-single-global-process)  
 - `2026-10-03` | [🔗 Bug blindness](https://www.yellowduck.be/posts/bug-blindness)  
 - `2026-10-03` | [🔗 Building distributed systems in Elixir: Part 7 — worker pool](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-7-worker-pool)  
-- `2026-10-02` | [🔗 Is agentic AI just automation?](https://www.yellowduck.be/posts/is-agentic-ai-just-automation)  
 
 <!-- BLOG-POST-LIST:END -->
