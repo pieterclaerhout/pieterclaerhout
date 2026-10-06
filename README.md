@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-06` | [🔗 Running tasks in production with Elixir releases: RPC, eval, and remote](https://www.yellowduck.be/posts/running-tasks-in-production-with-elixir-releases-rpc-eval-and-remote)  
+- `2026-10-06` | [🔗 Engineers grieve a job that no longer exists](https://www.yellowduck.be/posts/engineers-grieve-a-job-that-no-longer-exists)  
 - `2026-10-06` | [🔗 Speeding up Elixir test suites](https://www.yellowduck.be/posts/speeding-up-elixir-test-suites)  
 - `2026-10-05` | [🔗 Use Postgres as a simple task queue for Django 🐘](https://www.yellowduck.be/posts/use-postgres-as-a-simple-task-queue-for-django)  
 - `2026-10-05` | [🔗 Create a Django and React app with auto-generated Django types](https://www.yellowduck.be/posts/create-a-django-and-react-app-with-auto-generated-django-types)  
@@ -17,7 +19,5 @@
 - `2026-10-04` | [🔗 How to secure a Linux server: An evolving how-to guide for securing a Linux server](https://www.yellowduck.be/posts/how-to-secure-a-linux-server-an-evolving-how-to-guide-for-securing-a-linux-server)  
 - `2026-10-04` | [🔗 Cluster singleton pattern](https://www.yellowduck.be/posts/cluster-singleton-pattern)  
 - `2026-10-03` | [🔗 The dangers of the Single Global Process](https://www.yellowduck.be/posts/the-dangers-of-the-single-global-process)  
-- `2026-10-03` | [🔗 Bug blindness](https://www.yellowduck.be/posts/bug-blindness)  
-- `2026-10-03` | [🔗 Building distributed systems in Elixir: Part 7 — worker pool](https://www.yellowduck.be/posts/building-distributed-systems-in-elixir-part-7-worker-pool)  
 
 <!-- BLOG-POST-LIST:END -->
