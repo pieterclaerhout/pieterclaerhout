@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-08` | [🔗 There&#39;s no Artisan schema:show, so I built one.](https://www.yellowduck.be/posts/theres-no-artisan-schema-show-so-i-built-one)  
 - `2026-10-07` | [🔗 Merge conflicts are a process problem, not a Git problem](https://www.yellowduck.be/posts/merge-conflicts-are-a-process-problem-not-a-git-problem)  
 - `2026-10-07` | [🔗 The 80/20 rule for your whole life](https://www.yellowduck.be/posts/the-80-20-rule-for-your-whole-life)  
 - `2026-10-07` | [🔗 Go is not just for CLIs. It runs the cloud native control plane](https://www.yellowduck.be/posts/go-is-not-just-for-clis-it-runs-the-cloud-native-control-plane)  
@@ -18,6 +19,5 @@
 - `2026-10-05` | [🔗 Use Postgres as a simple task queue for Django 🐘](https://www.yellowduck.be/posts/use-postgres-as-a-simple-task-queue-for-django)  
 - `2026-10-05` | [🔗 Create a Django and React app with auto-generated Django types](https://www.yellowduck.be/posts/create-a-django-and-react-app-with-auto-generated-django-types)  
 - `2026-10-05` | [🔗 Postgres as queue](https://www.yellowduck.be/posts/postgres-as-queue)  
-- `2026-10-04` | [🔗 The simplest way to add Tailwind CSS to Django 💨](https://www.yellowduck.be/posts/the-simplest-way-to-add-tailwind-css-to-django)  
 
 <!-- BLOG-POST-LIST:END -->
