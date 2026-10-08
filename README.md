@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-08` | [🐥 Cross-schema queries in PostgreSQL without the loop](https://www.yellowduck.be/posts/cross-schema-queries-in-postgresql-without-the-loop)  
+- `2026-10-08` | [🔗 The valley of webhooks](https://www.yellowduck.be/posts/the-valley-of-webhooks)  
 - `2026-10-08` | [🔗 There&#39;s no Artisan schema:show, so I built one.](https://www.yellowduck.be/posts/theres-no-artisan-schema-show-so-i-built-one)  
 - `2026-10-07` | [🔗 Merge conflicts are a process problem, not a Git problem](https://www.yellowduck.be/posts/merge-conflicts-are-a-process-problem-not-a-git-problem)  
 - `2026-10-07` | [🔗 The 80/20 rule for your whole life](https://www.yellowduck.be/posts/the-80-20-rule-for-your-whole-life)  
@@ -17,7 +19,5 @@
 - `2026-10-06` | [🔗 Engineers grieve a job that no longer exists](https://www.yellowduck.be/posts/engineers-grieve-a-job-that-no-longer-exists)  
 - `2026-10-06` | [🔗 Speeding up Elixir test suites](https://www.yellowduck.be/posts/speeding-up-elixir-test-suites)  
 - `2026-10-05` | [🔗 Use Postgres as a simple task queue for Django 🐘](https://www.yellowduck.be/posts/use-postgres-as-a-simple-task-queue-for-django)  
-- `2026-10-05` | [🔗 Create a Django and React app with auto-generated Django types](https://www.yellowduck.be/posts/create-a-django-and-react-app-with-auto-generated-django-types)  
-- `2026-10-05` | [🔗 Postgres as queue](https://www.yellowduck.be/posts/postgres-as-queue)  
 
 <!-- BLOG-POST-LIST:END -->
