@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-09` | [🔗 SlimSelect - Advanced JavaScript select dropdown library](https://www.yellowduck.be/posts/slimselect-advanced-javascript-select-dropdown-library)  
 - `2026-10-08` | [🐥 Cross-schema queries in PostgreSQL without the loop](https://www.yellowduck.be/posts/cross-schema-queries-in-postgresql-without-the-loop)  
 - `2026-10-08` | [🔗 The valley of webhooks](https://www.yellowduck.be/posts/the-valley-of-webhooks)  
 - `2026-10-08` | [🔗 There&#39;s no Artisan schema:show, so I built one.](https://www.yellowduck.be/posts/theres-no-artisan-schema-show-so-i-built-one)  
@@ -18,6 +19,5 @@
 - `2026-10-06` | [🔗 Running tasks in production with Elixir releases: RPC, eval, and remote](https://www.yellowduck.be/posts/running-tasks-in-production-with-elixir-releases-rpc-eval-and-remote)  
 - `2026-10-06` | [🔗 Engineers grieve a job that no longer exists](https://www.yellowduck.be/posts/engineers-grieve-a-job-that-no-longer-exists)  
 - `2026-10-06` | [🔗 Speeding up Elixir test suites](https://www.yellowduck.be/posts/speeding-up-elixir-test-suites)  
-- `2026-10-05` | [🔗 Use Postgres as a simple task queue for Django 🐘](https://www.yellowduck.be/posts/use-postgres-as-a-simple-task-queue-for-django)  
 
 <!-- BLOG-POST-LIST:END -->
