@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-10` | [🔗 99% of my website traffic is bots](https://www.yellowduck.be/posts/99-of-my-website-traffic-is-bots)  
 - `2026-10-10` | [🔗 Building RAG in Laravel: Four ingestion bugs that silently wreck retrieval](https://www.yellowduck.be/posts/building-rag-in-laravel-four-ingestion-bugs-that-silently-wreck-retrieval)  
 - `2026-10-10` | [🔗 Text editor data structures](https://www.yellowduck.be/posts/text-editor-data-structures)  
 - `2026-10-09` | [🔗 The Goldilocks customizable select height](https://www.yellowduck.be/posts/the-goldilocks-customizable-select-height)  
@@ -18,6 +19,5 @@
 - `2026-10-08` | [🔗 The valley of webhooks](https://www.yellowduck.be/posts/the-valley-of-webhooks)  
 - `2026-10-08` | [🔗 There&#39;s no Artisan schema:show, so I built one.](https://www.yellowduck.be/posts/theres-no-artisan-schema-show-so-i-built-one)  
 - `2026-10-07` | [🔗 Merge conflicts are a process problem, not a Git problem](https://www.yellowduck.be/posts/merge-conflicts-are-a-process-problem-not-a-git-problem)  
-- `2026-10-07` | [🔗 The 80/20 rule for your whole life](https://www.yellowduck.be/posts/the-80-20-rule-for-your-whole-life)  
 
 <!-- BLOG-POST-LIST:END -->
