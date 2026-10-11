@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-11` | [🐥 Building a lift scheduling algorithm in Python](https://www.yellowduck.be/posts/building-a-lift-scheduling-algorithm-in-python)  
 - `2026-10-11` | [🔗 exit&lpar;&rpar; may silently break your parallel tests](https://www.yellowduck.be/posts/exit-may-silently-break-your-parallel-tests)  
 - `2026-10-11` | [🔗 We replaced our ledger with two functions](https://www.yellowduck.be/posts/we-replaced-our-ledger-with-two-functions)  
 - `2026-10-10` | [🔗 99% of my website traffic is bots](https://www.yellowduck.be/posts/99-of-my-website-traffic-is-bots)  
@@ -18,6 +19,5 @@
 - `2026-10-09` | [🔗 Dark mode with web standards](https://www.yellowduck.be/posts/dark-mode-with-web-standards)  
 - `2026-10-09` | [🔗 SlimSelect - Advanced JavaScript select dropdown library](https://www.yellowduck.be/posts/slimselect-advanced-javascript-select-dropdown-library)  
 - `2026-10-08` | [🐥 Cross-schema queries in PostgreSQL without the loop](https://www.yellowduck.be/posts/cross-schema-queries-in-postgresql-without-the-loop)  
-- `2026-10-08` | [🔗 The valley of webhooks](https://www.yellowduck.be/posts/the-valley-of-webhooks)  
 
 <!-- BLOG-POST-LIST:END -->
