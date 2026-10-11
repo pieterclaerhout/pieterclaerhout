@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-11` | [🔗 We replaced our ledger with two functions](https://www.yellowduck.be/posts/we-replaced-our-ledger-with-two-functions)  
 - `2026-10-10` | [🔗 99% of my website traffic is bots](https://www.yellowduck.be/posts/99-of-my-website-traffic-is-bots)  
 - `2026-10-10` | [🔗 Building RAG in Laravel: Four ingestion bugs that silently wreck retrieval](https://www.yellowduck.be/posts/building-rag-in-laravel-four-ingestion-bugs-that-silently-wreck-retrieval)  
 - `2026-10-10` | [🔗 Text editor data structures](https://www.yellowduck.be/posts/text-editor-data-structures)  
@@ -18,6 +19,5 @@
 - `2026-10-08` | [🐥 Cross-schema queries in PostgreSQL without the loop](https://www.yellowduck.be/posts/cross-schema-queries-in-postgresql-without-the-loop)  
 - `2026-10-08` | [🔗 The valley of webhooks](https://www.yellowduck.be/posts/the-valley-of-webhooks)  
 - `2026-10-08` | [🔗 There&#39;s no Artisan schema:show, so I built one.](https://www.yellowduck.be/posts/theres-no-artisan-schema-show-so-i-built-one)  
-- `2026-10-07` | [🔗 Merge conflicts are a process problem, not a Git problem](https://www.yellowduck.be/posts/merge-conflicts-are-a-process-problem-not-a-git-problem)  
 
 <!-- BLOG-POST-LIST:END -->
