@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-12` | [🔗 MySQL&#39;s ON DELETE CASCADE has a &quot;15-level wall&quot;](https://www.yellowduck.be/posts/mysqls-on-delete-cascade-has-a-15-level-wall)  
+- `2026-10-12` | [🔗 Introducing TIN: Full-text search for PostgreSQL](https://www.yellowduck.be/posts/introducing-tin-full-text-search-for-postgresql)  
 - `2026-10-11` | [🐥 Building a lift scheduling algorithm in Python](https://www.yellowduck.be/posts/building-a-lift-scheduling-algorithm-in-python)  
 - `2026-10-11` | [🔗 exit&lpar;&rpar; may silently break your parallel tests](https://www.yellowduck.be/posts/exit-may-silently-break-your-parallel-tests)  
 - `2026-10-11` | [🔗 We replaced our ledger with two functions](https://www.yellowduck.be/posts/we-replaced-our-ledger-with-two-functions)  
@@ -17,7 +19,5 @@
 - `2026-10-10` | [🔗 Text editor data structures](https://www.yellowduck.be/posts/text-editor-data-structures)  
 - `2026-10-09` | [🔗 The Goldilocks customizable select height](https://www.yellowduck.be/posts/the-goldilocks-customizable-select-height)  
 - `2026-10-09` | [🔗 Dark mode with web standards](https://www.yellowduck.be/posts/dark-mode-with-web-standards)  
-- `2026-10-09` | [🔗 SlimSelect - Advanced JavaScript select dropdown library](https://www.yellowduck.be/posts/slimselect-advanced-javascript-select-dropdown-library)  
-- `2026-10-08` | [🐥 Cross-schema queries in PostgreSQL without the loop](https://www.yellowduck.be/posts/cross-schema-queries-in-postgresql-without-the-loop)  
 
 <!-- BLOG-POST-LIST:END -->
