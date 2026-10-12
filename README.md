@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-12` | [🔗 5 Mac terminal apps that replaced my biggest memory hogs](https://www.yellowduck.be/posts/5-mac-terminal-apps-that-replaced-my-biggest-memory-hogs)  
 - `2026-10-12` | [🔗 MySQL&#39;s ON DELETE CASCADE has a &quot;15-level wall&quot;](https://www.yellowduck.be/posts/mysqls-on-delete-cascade-has-a-15-level-wall)  
 - `2026-10-12` | [🔗 Introducing TIN: Full-text search for PostgreSQL](https://www.yellowduck.be/posts/introducing-tin-full-text-search-for-postgresql)  
 - `2026-10-11` | [🐥 Building a lift scheduling algorithm in Python](https://www.yellowduck.be/posts/building-a-lift-scheduling-algorithm-in-python)  
@@ -18,6 +19,5 @@
 - `2026-10-10` | [🔗 Building RAG in Laravel: Four ingestion bugs that silently wreck retrieval](https://www.yellowduck.be/posts/building-rag-in-laravel-four-ingestion-bugs-that-silently-wreck-retrieval)  
 - `2026-10-10` | [🔗 Text editor data structures](https://www.yellowduck.be/posts/text-editor-data-structures)  
 - `2026-10-09` | [🔗 The Goldilocks customizable select height](https://www.yellowduck.be/posts/the-goldilocks-customizable-select-height)  
-- `2026-10-09` | [🔗 Dark mode with web standards](https://www.yellowduck.be/posts/dark-mode-with-web-standards)  
 
 <!-- BLOG-POST-LIST:END -->
