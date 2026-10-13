@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-13` | [🔗 Homebrew: 7.0.0](https://www.yellowduck.be/posts/homebrew-7-0-0)  
 - `2026-10-13` | [🔗 Async programming in Python: From generators to asyncio](https://www.yellowduck.be/posts/async-programming-in-python-from-generators-to-asyncio)  
 - `2026-10-13` | [🔗 How AI might actually kill us](https://www.yellowduck.be/posts/how-ai-might-actually-kill-us)  
 - `2026-10-12` | [🔗 5 Mac terminal apps that replaced my biggest memory hogs](https://www.yellowduck.be/posts/5-mac-terminal-apps-that-replaced-my-biggest-memory-hogs)  
@@ -18,6 +19,5 @@
 - `2026-10-11` | [🔗 exit&lpar;&rpar; may silently break your parallel tests](https://www.yellowduck.be/posts/exit-may-silently-break-your-parallel-tests)  
 - `2026-10-11` | [🔗 We replaced our ledger with two functions](https://www.yellowduck.be/posts/we-replaced-our-ledger-with-two-functions)  
 - `2026-10-10` | [🔗 99% of my website traffic is bots](https://www.yellowduck.be/posts/99-of-my-website-traffic-is-bots)  
-- `2026-10-10` | [🔗 Building RAG in Laravel: Four ingestion bugs that silently wreck retrieval](https://www.yellowduck.be/posts/building-rag-in-laravel-four-ingestion-bugs-that-silently-wreck-retrieval)  
 
 <!-- BLOG-POST-LIST:END -->
