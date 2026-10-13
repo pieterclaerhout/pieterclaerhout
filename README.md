@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-13` | [🔗 Async programming in Python: From generators to asyncio](https://www.yellowduck.be/posts/async-programming-in-python-from-generators-to-asyncio)  
+- `2026-10-13` | [🔗 How AI might actually kill us](https://www.yellowduck.be/posts/how-ai-might-actually-kill-us)  
 - `2026-10-12` | [🔗 5 Mac terminal apps that replaced my biggest memory hogs](https://www.yellowduck.be/posts/5-mac-terminal-apps-that-replaced-my-biggest-memory-hogs)  
 - `2026-10-12` | [🔗 MySQL&#39;s ON DELETE CASCADE has a &quot;15-level wall&quot;](https://www.yellowduck.be/posts/mysqls-on-delete-cascade-has-a-15-level-wall)  
 - `2026-10-12` | [🔗 Introducing TIN: Full-text search for PostgreSQL](https://www.yellowduck.be/posts/introducing-tin-full-text-search-for-postgresql)  
@@ -17,7 +19,5 @@
 - `2026-10-11` | [🔗 We replaced our ledger with two functions](https://www.yellowduck.be/posts/we-replaced-our-ledger-with-two-functions)  
 - `2026-10-10` | [🔗 99% of my website traffic is bots](https://www.yellowduck.be/posts/99-of-my-website-traffic-is-bots)  
 - `2026-10-10` | [🔗 Building RAG in Laravel: Four ingestion bugs that silently wreck retrieval](https://www.yellowduck.be/posts/building-rag-in-laravel-four-ingestion-bugs-that-silently-wreck-retrieval)  
-- `2026-10-10` | [🔗 Text editor data structures](https://www.yellowduck.be/posts/text-editor-data-structures)  
-- `2026-10-09` | [🔗 The Goldilocks customizable select height](https://www.yellowduck.be/posts/the-goldilocks-customizable-select-height)  
 
 <!-- BLOG-POST-LIST:END -->
