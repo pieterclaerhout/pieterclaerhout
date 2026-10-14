@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-14` | [🐥 Handling local timezones in Ash while storing UTC datetimes](https://www.yellowduck.be/posts/handling-local-timezones-in-ash-while-storing-utc-datetimes)  
 - `2026-10-14` | [🔗 The blog was the retrieval layer all along](https://www.yellowduck.be/posts/the-blog-was-the-retrieval-layer-all-along)  
 - `2026-10-14` | [🔗 Continuous development with Claude Code on GitHub](https://www.yellowduck.be/posts/continuous-development-with-claude-code-on-github)  
 - `2026-10-13` | [🔗 Homebrew: 7.0.0](https://www.yellowduck.be/posts/homebrew-7-0-0)  
@@ -18,6 +19,5 @@
 - `2026-10-12` | [🔗 MySQL&#39;s ON DELETE CASCADE has a &quot;15-level wall&quot;](https://www.yellowduck.be/posts/mysqls-on-delete-cascade-has-a-15-level-wall)  
 - `2026-10-12` | [🔗 Introducing TIN: Full-text search for PostgreSQL](https://www.yellowduck.be/posts/introducing-tin-full-text-search-for-postgresql)  
 - `2026-10-11` | [🐥 Building a lift scheduling algorithm in Python](https://www.yellowduck.be/posts/building-a-lift-scheduling-algorithm-in-python)  
-- `2026-10-11` | [🔗 exit&lpar;&rpar; may silently break your parallel tests](https://www.yellowduck.be/posts/exit-may-silently-break-your-parallel-tests)  
 
 <!-- BLOG-POST-LIST:END -->
