@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-15` | [🔗 RSS doesn’t have to be boring](https://www.yellowduck.be/posts/rss-doesnt-have-to-be-boring)  
 - `2026-10-15` | [🔗 Ruff, MyPy, pytest, and then what?](https://www.yellowduck.be/posts/ruff-mypy-pytest-and-then-what)  
 - `2026-10-15` | [🔗 Finding your broken glass: A flaky test prompt for GitHub Actions](https://www.yellowduck.be/posts/finding-your-broken-glass-a-flaky-test-prompt-for-github-actions)  
 - `2026-10-14` | [🐥 Handling local timezones in Ash while storing UTC datetimes](https://www.yellowduck.be/posts/handling-local-timezones-in-ash-while-storing-utc-datetimes)  
@@ -18,6 +19,5 @@
 - `2026-10-13` | [🔗 Async programming in Python: From generators to asyncio](https://www.yellowduck.be/posts/async-programming-in-python-from-generators-to-asyncio)  
 - `2026-10-13` | [🔗 How AI might actually kill us](https://www.yellowduck.be/posts/how-ai-might-actually-kill-us)  
 - `2026-10-12` | [🔗 5 Mac terminal apps that replaced my biggest memory hogs](https://www.yellowduck.be/posts/5-mac-terminal-apps-that-replaced-my-biggest-memory-hogs)  
-- `2026-10-12` | [🔗 MySQL&#39;s ON DELETE CASCADE has a &quot;15-level wall&quot;](https://www.yellowduck.be/posts/mysqls-on-delete-cascade-has-a-15-level-wall)  
 
 <!-- BLOG-POST-LIST:END -->
