@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-16` | [🔗 Where RSS is quietly heading — decentralization, AI, and the return of owning your feed](https://www.yellowduck.be/posts/where-rss-is-quietly-heading-decentralization-ai-and-the-return-of-owning-your-feed)  
 - `2026-10-15` | [🔗 RSS doesn’t have to be boring](https://www.yellowduck.be/posts/rss-doesnt-have-to-be-boring)  
 - `2026-10-15` | [🔗 Ruff, MyPy, pytest, and then what?](https://www.yellowduck.be/posts/ruff-mypy-pytest-and-then-what)  
 - `2026-10-15` | [🔗 Finding your broken glass: A flaky test prompt for GitHub Actions](https://www.yellowduck.be/posts/finding-your-broken-glass-a-flaky-test-prompt-for-github-actions)  
@@ -18,6 +19,5 @@
 - `2026-10-13` | [🔗 Homebrew: 7.0.0](https://www.yellowduck.be/posts/homebrew-7-0-0)  
 - `2026-10-13` | [🔗 Async programming in Python: From generators to asyncio](https://www.yellowduck.be/posts/async-programming-in-python-from-generators-to-asyncio)  
 - `2026-10-13` | [🔗 How AI might actually kill us](https://www.yellowduck.be/posts/how-ai-might-actually-kill-us)  
-- `2026-10-12` | [🔗 5 Mac terminal apps that replaced my biggest memory hogs](https://www.yellowduck.be/posts/5-mac-terminal-apps-that-replaced-my-biggest-memory-hogs)  
 
 <!-- BLOG-POST-LIST:END -->
