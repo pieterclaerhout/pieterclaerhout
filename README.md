@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-17` | [🔗 Testing async Python without losing your mind](https://www.yellowduck.be/posts/testing-async-python-without-losing-your-mind)  
 - `2026-10-17` | [🔗 Natural sorting in PostgreSQL: mastering custom collations](https://www.yellowduck.be/posts/natural-sorting-in-postgresql-mastering-custom-collations)  
 - `2026-10-17` | [🔗 Python 3.15 Preview: Lazy Imports](https://www.yellowduck.be/posts/python-3-15-preview-lazy-imports)  
 - `2026-10-16` | [🔗 Python 3.15 is bigger than you think: 7 new features worth using in 2026](https://www.yellowduck.be/posts/python-3-15-is-bigger-than-you-think-7-new-features-worth-using-in-2026)  
@@ -18,6 +19,5 @@
 - `2026-10-15` | [🔗 Ruff, MyPy, pytest, and then what?](https://www.yellowduck.be/posts/ruff-mypy-pytest-and-then-what)  
 - `2026-10-15` | [🔗 Finding your broken glass: A flaky test prompt for GitHub Actions](https://www.yellowduck.be/posts/finding-your-broken-glass-a-flaky-test-prompt-for-github-actions)  
 - `2026-10-14` | [🐥 Handling local timezones in Ash while storing UTC datetimes](https://www.yellowduck.be/posts/handling-local-timezones-in-ash-while-storing-utc-datetimes)  
-- `2026-10-14` | [🔗 The blog was the retrieval layer all along](https://www.yellowduck.be/posts/the-blog-was-the-retrieval-layer-all-along)  
 
 <!-- BLOG-POST-LIST:END -->
