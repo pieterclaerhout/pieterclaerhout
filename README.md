@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-18` | [🐥 Translating country codes to full names in Elixir using `ex_cldr_countries`](https://www.yellowduck.be/posts/translating-country-codes-to-full-names-in-elixir-using-ex-cldr-countries)  
 - `2026-10-18` | [🔗 Clean code is not the same as clear code: comments were never the problem](https://www.yellowduck.be/posts/clean-code-is-not-the-same-as-clear-code-comments-were-never-the-problem)  
 - `2026-10-18` | [🔗 Virtual environments in Python](https://www.yellowduck.be/posts/virtual-environments-in-python)  
 - `2026-10-17` | [🔗 Testing async Python without losing your mind](https://www.yellowduck.be/posts/testing-async-python-without-losing-your-mind)  
@@ -18,6 +19,5 @@
 - `2026-10-16` | [🔗 How to fix &#39;NoneType&#39; object has no attribute errors &lpar;without guessing&rpar;](https://www.yellowduck.be/posts/how-to-fix-nonetype-object-has-no-attribute-errors-without-guessing)  
 - `2026-10-16` | [🔗 Where RSS is quietly heading — decentralization, AI, and the return of owning your feed](https://www.yellowduck.be/posts/where-rss-is-quietly-heading-decentralization-ai-and-the-return-of-owning-your-feed)  
 - `2026-10-15` | [🔗 RSS doesn’t have to be boring](https://www.yellowduck.be/posts/rss-doesnt-have-to-be-boring)  
-- `2026-10-15` | [🔗 Ruff, MyPy, pytest, and then what?](https://www.yellowduck.be/posts/ruff-mypy-pytest-and-then-what)  
 
 <!-- BLOG-POST-LIST:END -->
