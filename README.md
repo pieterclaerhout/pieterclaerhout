@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-21` | [🔗 When a pull request balloons, extract](https://www.yellowduck.be/posts/when-a-pull-request-balloons-extract)  
+- `2026-10-21` | [🔗 RIP commercial OCR. An open-source model just topped every benchmark.](https://www.yellowduck.be/posts/rip-commercial-ocr-an-open-source-model-just-topped-every-benchmark)  
 - `2026-10-20` | [🐥 8 Chunking strategies for RAG-based agents](https://www.yellowduck.be/posts/8-chunking-strategies-for-rag-based-agents)  
 - `2026-10-20` | [🔗 What is the difference between a CTO and a VP or Head of Engineering?](https://www.yellowduck.be/posts/what-is-the-difference-between-a-cto-and-a-vp-or-head-of-engineering)  
 - `2026-10-20` | [🔗 Postgres AT TIME ZONE &#39;UTC&#39; does not do what you think it does](https://www.yellowduck.be/posts/postgres-at-time-zone-utc-does-not-do-what-you-think-it-does)  
@@ -17,7 +19,5 @@
 - `2026-10-19` | [🔗 What I believe about the future of software development](https://www.yellowduck.be/posts/what-i-believe-about-the-future-of-software-development)  
 - `2026-10-18` | [🐥 Translating country codes to full names in Elixir using `ex_cldr_countries`](https://www.yellowduck.be/posts/translating-country-codes-to-full-names-in-elixir-using-ex-cldr-countries)  
 - `2026-10-18` | [🔗 Clean code is not the same as clear code: comments were never the problem](https://www.yellowduck.be/posts/clean-code-is-not-the-same-as-clear-code-comments-were-never-the-problem)  
-- `2026-10-18` | [🔗 Virtual environments in Python](https://www.yellowduck.be/posts/virtual-environments-in-python)  
-- `2026-10-17` | [🔗 Testing async Python without losing your mind](https://www.yellowduck.be/posts/testing-async-python-without-losing-your-mind)  
 
 <!-- BLOG-POST-LIST:END -->
