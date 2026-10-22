@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-22` | [🔗 Seven Fujifilm settings that ruin your photos](https://www.yellowduck.be/posts/seven-fujifilm-settings-that-ruin-your-photos)  
+- `2026-10-22` | [🔗 Evolving programming languages in the AI era](https://www.yellowduck.be/posts/evolving-programming-languages-in-the-ai-era)  
 - `2026-10-21` | [🔗 Background jobs with Oban, part 1: stop blocking your LiveView](https://www.yellowduck.be/posts/background-jobs-with-oban-part-1-stop-blocking-your-liveview)  
 - `2026-10-21` | [🔗 When a pull request balloons, extract](https://www.yellowduck.be/posts/when-a-pull-request-balloons-extract)  
 - `2026-10-21` | [🔗 RIP commercial OCR. An open-source model just topped every benchmark.](https://www.yellowduck.be/posts/rip-commercial-ocr-an-open-source-model-just-topped-every-benchmark)  
@@ -17,7 +19,5 @@
 - `2026-10-20` | [🔗 Postgres AT TIME ZONE &#39;UTC&#39; does not do what you think it does](https://www.yellowduck.be/posts/postgres-at-time-zone-utc-does-not-do-what-you-think-it-does)  
 - `2026-10-19` | [🔗 Why you should work out loud](https://www.yellowduck.be/posts/why-you-should-work-out-loud)  
 - `2026-10-19` | [🔗 Measuring AI’s impact on delivery speed](https://www.yellowduck.be/posts/measuring-ais-impact-on-delivery-speed)  
-- `2026-10-19` | [🔗 What I believe about the future of software development](https://www.yellowduck.be/posts/what-i-believe-about-the-future-of-software-development)  
-- `2026-10-18` | [🐥 Translating country codes to full names in Elixir using `ex_cldr_countries`](https://www.yellowduck.be/posts/translating-country-codes-to-full-names-in-elixir-using-ex-cldr-countries)  
 
 <!-- BLOG-POST-LIST:END -->
