@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-22` | [🔗 How to build innovation teams](https://www.yellowduck.be/posts/how-to-build-innovation-teams)  
 - `2026-10-22` | [🔗 Seven Fujifilm settings that ruin your photos](https://www.yellowduck.be/posts/seven-fujifilm-settings-that-ruin-your-photos)  
 - `2026-10-22` | [🔗 Evolving programming languages in the AI era](https://www.yellowduck.be/posts/evolving-programming-languages-in-the-ai-era)  
 - `2026-10-21` | [🔗 Background jobs with Oban, part 1: stop blocking your LiveView](https://www.yellowduck.be/posts/background-jobs-with-oban-part-1-stop-blocking-your-liveview)  
@@ -18,6 +19,5 @@
 - `2026-10-20` | [🔗 What is the difference between a CTO and a VP or Head of Engineering?](https://www.yellowduck.be/posts/what-is-the-difference-between-a-cto-and-a-vp-or-head-of-engineering)  
 - `2026-10-20` | [🔗 Postgres AT TIME ZONE &#39;UTC&#39; does not do what you think it does](https://www.yellowduck.be/posts/postgres-at-time-zone-utc-does-not-do-what-you-think-it-does)  
 - `2026-10-19` | [🔗 Why you should work out loud](https://www.yellowduck.be/posts/why-you-should-work-out-loud)  
-- `2026-10-19` | [🔗 Measuring AI’s impact on delivery speed](https://www.yellowduck.be/posts/measuring-ais-impact-on-delivery-speed)  
 
 <!-- BLOG-POST-LIST:END -->
