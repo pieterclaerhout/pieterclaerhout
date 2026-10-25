@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-25` | [🐥 Why PHP&#39;s Recent Critical RCEs Are an Architectural Non-Problem in Elixir](https://www.yellowduck.be/posts/why-phps-recent-critical-rces-are-an-architectural-non-problem-in-elixir)  
 - `2026-10-25` | [🔗 CSS does your tooltip positioning now.](https://www.yellowduck.be/posts/css-does-your-tooltip-positioning-now)  
 - `2026-10-25` | [🔗 PHPStan 2.3: Leap in performance, generics improvements, detecting unused variables, and more!](https://www.yellowduck.be/posts/phpstan-2-3-leap-in-performance-generics-improvements-detecting-unused-variables-and-more)  
 - `2026-10-24` | [🐥 Fixing &quot;header_too_long&quot; When Downloading Precompiled NIFs in Elixir](https://www.yellowduck.be/posts/fixing-header-too-long-when-downloading-precompiled-nifs-in-elixir)  
@@ -18,6 +19,5 @@
 - `2026-10-23` | [🔗 RSS feed best practices](https://www.yellowduck.be/posts/rss-feed-best-practices)  
 - `2026-10-23` | [🔗 Introducing Citry](https://www.yellowduck.be/posts/introducing-citry)  
 - `2026-10-22` | [🔗 How to build innovation teams](https://www.yellowduck.be/posts/how-to-build-innovation-teams)  
-- `2026-10-22` | [🔗 Seven Fujifilm settings that ruin your photos](https://www.yellowduck.be/posts/seven-fujifilm-settings-that-ruin-your-photos)  
 
 <!-- BLOG-POST-LIST:END -->
