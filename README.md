@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-25` | [🔗 PHPStan 2.3: Leap in performance, generics improvements, detecting unused variables, and more!](https://www.yellowduck.be/posts/phpstan-2-3-leap-in-performance-generics-improvements-detecting-unused-variables-and-more)  
 - `2026-10-24` | [🐥 Fixing &quot;header_too_long&quot; When Downloading Precompiled NIFs in Elixir](https://www.yellowduck.be/posts/fixing-header-too-long-when-downloading-precompiled-nifs-in-elixir)  
 - `2026-10-24` | [🔗 My code used 10GB RAM. Now it uses 300MB.](https://www.yellowduck.be/posts/my-code-used-10gb-ram-now-it-uses-300mb)  
 - `2026-10-24` | [🔗 Nabla — the isometric color font by Arthur Reinders Folmer &amp; Just van Rossum](https://www.yellowduck.be/posts/nabla-the-isometric-color-font-by-arthur-reinders-folmer-just-van-rossum)  
@@ -18,6 +19,5 @@
 - `2026-10-22` | [🔗 How to build innovation teams](https://www.yellowduck.be/posts/how-to-build-innovation-teams)  
 - `2026-10-22` | [🔗 Seven Fujifilm settings that ruin your photos](https://www.yellowduck.be/posts/seven-fujifilm-settings-that-ruin-your-photos)  
 - `2026-10-22` | [🔗 Evolving programming languages in the AI era](https://www.yellowduck.be/posts/evolving-programming-languages-in-the-ai-era)  
-- `2026-10-21` | [🔗 Background jobs with Oban, part 1: stop blocking your LiveView](https://www.yellowduck.be/posts/background-jobs-with-oban-part-1-stop-blocking-your-liveview)  
 
 <!-- BLOG-POST-LIST:END -->
