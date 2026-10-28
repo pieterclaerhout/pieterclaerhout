@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-28` | [🔗 Nothing comes close to the Linux terminal](https://www.yellowduck.be/posts/nothing-comes-close-to-the-linux-terminal)  
 - `2026-10-27` | [🐥 Smarter PR Size Labels with Weighted Scoring](https://www.yellowduck.be/posts/smarter-pr-size-labels-with-weighted-scoring)  
 - `2026-10-27` | [🔗 Hiring breakpoints](https://www.yellowduck.be/posts/hiring-breakpoints)  
 - `2026-10-27` | [🔗 Your startup&#39;s security policies are concerning](https://www.yellowduck.be/posts/your-startups-security-policies-are-concerning)  
@@ -18,6 +19,5 @@
 - `2026-10-25` | [🐥 Why PHP&#39;s Recent Critical RCEs Are an Architectural Non-Problem in Elixir](https://www.yellowduck.be/posts/why-phps-recent-critical-rces-are-an-architectural-non-problem-in-elixir)  
 - `2026-10-25` | [🔗 CSS does your tooltip positioning now.](https://www.yellowduck.be/posts/css-does-your-tooltip-positioning-now)  
 - `2026-10-25` | [🔗 PHPStan 2.3: Leap in performance, generics improvements, detecting unused variables, and more!](https://www.yellowduck.be/posts/phpstan-2-3-leap-in-performance-generics-improvements-detecting-unused-variables-and-more)  
-- `2026-10-24` | [🐥 Fixing &quot;header_too_long&quot; When Downloading Precompiled NIFs in Elixir](https://www.yellowduck.be/posts/fixing-header-too-long-when-downloading-precompiled-nifs-in-elixir)  
 
 <!-- BLOG-POST-LIST:END -->
