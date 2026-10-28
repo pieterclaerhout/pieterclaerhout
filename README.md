@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-28` | [🔗 Four mindset shifts for teams adopting Elixir](https://www.yellowduck.be/posts/four-mindset-shifts-for-teams-adopting-elixir)  
 - `2026-10-28` | [🔗 A permanent record of who did what](https://www.yellowduck.be/posts/a-permanent-record-of-who-did-what)  
 - `2026-10-28` | [🔗 Nothing comes close to the Linux terminal](https://www.yellowduck.be/posts/nothing-comes-close-to-the-linux-terminal)  
 - `2026-10-27` | [🐥 Smarter PR Size Labels with Weighted Scoring](https://www.yellowduck.be/posts/smarter-pr-size-labels-with-weighted-scoring)  
@@ -18,6 +19,5 @@
 - `2026-10-26` | [🔗 A Hitchhiker&#39;s guide to PostgreSQL text search](https://www.yellowduck.be/posts/a-hitchhikers-guide-to-postgresql-text-search)  
 - `2026-10-26` | [🔗 When not to use event-driven architecture &lpar;EDA&rpar;](https://www.yellowduck.be/posts/when-not-to-use-event-driven-architecture-eda)  
 - `2026-10-25` | [🐥 Why PHP&#39;s Recent Critical RCEs Are an Architectural Non-Problem in Elixir](https://www.yellowduck.be/posts/why-phps-recent-critical-rces-are-an-architectural-non-problem-in-elixir)  
-- `2026-10-25` | [🔗 CSS does your tooltip positioning now.](https://www.yellowduck.be/posts/css-does-your-tooltip-positioning-now)  
 
 <!-- BLOG-POST-LIST:END -->
