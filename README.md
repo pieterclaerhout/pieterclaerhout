@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-29` | [🐥 ini_set&lpar;&#39;memory_limit&#39;&rpar; Now Throws in PHP 8.5](https://www.yellowduck.be/posts/ini-set-memory-limit-now-throws-in-php-8-5)  
 - `2026-10-29` | [🔗 Small batches still matter when agents write the code](https://www.yellowduck.be/posts/small-batches-still-matter-when-agents-write-the-code)  
 - `2026-10-29` | [🔗 Admit when you’re wrong](https://www.yellowduck.be/posts/admit-when-youre-wrong)  
 - `2026-10-28` | [🔗 Four mindset shifts for teams adopting Elixir](https://www.yellowduck.be/posts/four-mindset-shifts-for-teams-adopting-elixir)  
@@ -18,6 +19,5 @@
 - `2026-10-27` | [🔗 Hiring breakpoints](https://www.yellowduck.be/posts/hiring-breakpoints)  
 - `2026-10-27` | [🔗 Your startup&#39;s security policies are concerning](https://www.yellowduck.be/posts/your-startups-security-policies-are-concerning)  
 - `2026-10-26` | [🐥 Debugging a 502 on a Signed Redirect: nginx&#39;s &quot;upstream sent too big header&quot;](https://www.yellowduck.be/posts/debugging-a-502-on-a-signed-redirect-nginxs-upstream-sent-too-big-header)  
-- `2026-10-26` | [🔗 A Hitchhiker&#39;s guide to PostgreSQL text search](https://www.yellowduck.be/posts/a-hitchhikers-guide-to-postgresql-text-search)  
 
 <!-- BLOG-POST-LIST:END -->
