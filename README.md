@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-30` | [🔗 How I build multi-step forms with drafts in Phoenix LiveView](https://www.yellowduck.be/posts/how-i-build-multi-step-forms-with-drafts-in-phoenix-liveview)  
 - `2026-10-29` | [🐥 ini_set&lpar;&#39;memory_limit&#39;&rpar; Now Throws in PHP 8.5](https://www.yellowduck.be/posts/ini-set-memory-limit-now-throws-in-php-8-5)  
 - `2026-10-29` | [🔗 Small batches still matter when agents write the code](https://www.yellowduck.be/posts/small-batches-still-matter-when-agents-write-the-code)  
 - `2026-10-29` | [🔗 Admit when you’re wrong](https://www.yellowduck.be/posts/admit-when-youre-wrong)  
@@ -18,6 +19,5 @@
 - `2026-10-27` | [🐥 Smarter PR Size Labels with Weighted Scoring](https://www.yellowduck.be/posts/smarter-pr-size-labels-with-weighted-scoring)  
 - `2026-10-27` | [🔗 Hiring breakpoints](https://www.yellowduck.be/posts/hiring-breakpoints)  
 - `2026-10-27` | [🔗 Your startup&#39;s security policies are concerning](https://www.yellowduck.be/posts/your-startups-security-policies-are-concerning)  
-- `2026-10-26` | [🐥 Debugging a 502 on a Signed Redirect: nginx&#39;s &quot;upstream sent too big header&quot;](https://www.yellowduck.be/posts/debugging-a-502-on-a-signed-redirect-nginxs-upstream-sent-too-big-header)  
 
 <!-- BLOG-POST-LIST:END -->
