@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-30` | [🔗 Martin Fowler: Continuous integration](https://www.yellowduck.be/posts/martin-fowler-continuous-integration)  
+- `2026-10-30` | [🔗 Learning Python makes you a better designer: An interview with Just van Rossum](https://www.yellowduck.be/posts/learning-python-makes-you-a-better-designer-an-interview-with-just-van-rossum)  
 - `2026-10-30` | [🔗 How I build multi-step forms with drafts in Phoenix LiveView](https://www.yellowduck.be/posts/how-i-build-multi-step-forms-with-drafts-in-phoenix-liveview)  
 - `2026-10-29` | [🐥 ini_set&lpar;&#39;memory_limit&#39;&rpar; Now Throws in PHP 8.5](https://www.yellowduck.be/posts/ini-set-memory-limit-now-throws-in-php-8-5)  
 - `2026-10-29` | [🔗 Small batches still matter when agents write the code](https://www.yellowduck.be/posts/small-batches-still-matter-when-agents-write-the-code)  
@@ -17,7 +19,5 @@
 - `2026-10-28` | [🔗 A permanent record of who did what](https://www.yellowduck.be/posts/a-permanent-record-of-who-did-what)  
 - `2026-10-28` | [🔗 Nothing comes close to the Linux terminal](https://www.yellowduck.be/posts/nothing-comes-close-to-the-linux-terminal)  
 - `2026-10-27` | [🐥 Smarter PR Size Labels with Weighted Scoring](https://www.yellowduck.be/posts/smarter-pr-size-labels-with-weighted-scoring)  
-- `2026-10-27` | [🔗 Hiring breakpoints](https://www.yellowduck.be/posts/hiring-breakpoints)  
-- `2026-10-27` | [🔗 Your startup&#39;s security policies are concerning](https://www.yellowduck.be/posts/your-startups-security-policies-are-concerning)  
 
 <!-- BLOG-POST-LIST:END -->
