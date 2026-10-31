@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-31` | [🔗 Applying natural sort to a Django CharField with PostgreSQL](https://www.yellowduck.be/posts/applying-natural-sort-to-a-django-charfield-with-postgresql)  
+- `2026-10-31` | [🔗 DORA | Capabilities: Trunk-based development](https://www.yellowduck.be/posts/dora-capabilities-trunk-based-development)  
 - `2026-10-30` | [🔗 Martin Fowler: Continuous integration](https://www.yellowduck.be/posts/martin-fowler-continuous-integration)  
 - `2026-10-30` | [🔗 Learning Python makes you a better designer: An interview with Just van Rossum](https://www.yellowduck.be/posts/learning-python-makes-you-a-better-designer-an-interview-with-just-van-rossum)  
 - `2026-10-30` | [🔗 How I build multi-step forms with drafts in Phoenix LiveView](https://www.yellowduck.be/posts/how-i-build-multi-step-forms-with-drafts-in-phoenix-liveview)  
@@ -17,7 +19,5 @@
 - `2026-10-29` | [🔗 Admit when you’re wrong](https://www.yellowduck.be/posts/admit-when-youre-wrong)  
 - `2026-10-28` | [🔗 Four mindset shifts for teams adopting Elixir](https://www.yellowduck.be/posts/four-mindset-shifts-for-teams-adopting-elixir)  
 - `2026-10-28` | [🔗 A permanent record of who did what](https://www.yellowduck.be/posts/a-permanent-record-of-who-did-what)  
-- `2026-10-28` | [🔗 Nothing comes close to the Linux terminal](https://www.yellowduck.be/posts/nothing-comes-close-to-the-linux-terminal)  
-- `2026-10-27` | [🐥 Smarter PR Size Labels with Weighted Scoring](https://www.yellowduck.be/posts/smarter-pr-size-labels-with-weighted-scoring)  
 
 <!-- BLOG-POST-LIST:END -->
