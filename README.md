@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-03` | [🔗 The AI-native SDLC playbook](https://www.yellowduck.be/posts/the-ai-native-sdlc-playbook)  
 - `2026-11-02` | [🔗 Using UV for installing Wagtail](https://www.yellowduck.be/posts/using-uv-for-installing-wagtail)  
 - `2026-11-02` | [🔗 Nifty Django feature: Q&lpar;&rpar; objects](https://www.yellowduck.be/posts/nifty-django-feature-q-objects)  
 - `2026-11-02` | [🔗 Prototyping a new CLI for Wagtail](https://www.yellowduck.be/posts/prototyping-a-new-cli-for-wagtail)  
@@ -18,6 +19,5 @@
 - `2026-10-31` | [🔗 Show and hide Wagtail admin fields without writing any JavaScript](https://www.yellowduck.be/posts/show-and-hide-wagtail-admin-fields-without-writing-any-javascript)  
 - `2026-10-31` | [🔗 Applying natural sort to a Django CharField with PostgreSQL](https://www.yellowduck.be/posts/applying-natural-sort-to-a-django-charfield-with-postgresql)  
 - `2026-10-31` | [🔗 DORA | Capabilities: Trunk-based development](https://www.yellowduck.be/posts/dora-capabilities-trunk-based-development)  
-- `2026-10-30` | [🔗 Martin Fowler: Continuous integration](https://www.yellowduck.be/posts/martin-fowler-continuous-integration)  
 
 <!-- BLOG-POST-LIST:END -->
