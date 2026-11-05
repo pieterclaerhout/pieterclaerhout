@@ -9,6 +9,9 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-05` | [🔗 API response cache with Redis and ETags](https://www.yellowduck.be/posts/api-response-cache-with-redis-and-etags)  
+- `2026-11-05` | [🔗 Blue-green deployment switcher script](https://www.yellowduck.be/posts/blue-green-deployment-switcher-script)  
+- `2026-11-05` | [🔗 Environment variable injector for Docker run](https://www.yellowduck.be/posts/environment-variable-injector-for-docker-run)  
 - `2026-11-04` | [🔗 FastAPI background task queue with asyncio](https://www.yellowduck.be/posts/fastapi-background-task-queue-with-asyncio)  
 - `2026-11-04` | [🔗 GitHub Actions manual trigger CLI](https://www.yellowduck.be/posts/github-actions-manual-trigger-cli)  
 - `2026-11-04` | [🔗 Found our Django app was losing 2 seconds per request to GIL and GC. Built an eBPF tool to catch it.](https://www.yellowduck.be/posts/found-our-django-app-was-losing-2-seconds-per-request-to-gil-and-gc-built-an-ebpf-tool-to-catch-it)  
@@ -16,8 +19,5 @@
 - `2026-11-03` | [🔗 MCP server design for a large internal API surface](https://www.yellowduck.be/posts/mcp-server-design-for-a-large-internal-api-surface)  
 - `2026-11-03` | [🔗 The AI-native SDLC playbook](https://www.yellowduck.be/posts/the-ai-native-sdlc-playbook)  
 - `2026-11-02` | [🔗 Using UV for installing Wagtail](https://www.yellowduck.be/posts/using-uv-for-installing-wagtail)  
-- `2026-11-02` | [🔗 Nifty Django feature: Q&lpar;&rpar; objects](https://www.yellowduck.be/posts/nifty-django-feature-q-objects)  
-- `2026-11-02` | [🔗 Prototyping a new CLI for Wagtail](https://www.yellowduck.be/posts/prototyping-a-new-cli-for-wagtail)  
-- `2026-11-01` | [🔗 How to deploy Django 6 on Ubuntu VPS](https://www.yellowduck.be/posts/how-to-deploy-django-6-on-ubuntu-vps)  
 
 <!-- BLOG-POST-LIST:END -->
