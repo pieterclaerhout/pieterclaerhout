@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-06` | [🔗 Django WebSockets with Daphne: A complete guide](https://www.yellowduck.be/posts/django-websockets-with-daphne-a-complete-guide)  
 - `2026-11-05` | [🔗 API response cache with Redis and ETags](https://www.yellowduck.be/posts/api-response-cache-with-redis-and-etags)  
 - `2026-11-05` | [🔗 Blue-green deployment switcher script](https://www.yellowduck.be/posts/blue-green-deployment-switcher-script)  
 - `2026-11-05` | [🔗 Environment variable injector for Docker run](https://www.yellowduck.be/posts/environment-variable-injector-for-docker-run)  
@@ -18,6 +19,5 @@
 - `2026-11-03` | [🐥 rsync backups that respect your .gitignore](https://www.yellowduck.be/posts/rsync-backups-that-respect-your-gitignore)  
 - `2026-11-03` | [🔗 MCP server design for a large internal API surface](https://www.yellowduck.be/posts/mcp-server-design-for-a-large-internal-api-surface)  
 - `2026-11-03` | [🔗 The AI-native SDLC playbook](https://www.yellowduck.be/posts/the-ai-native-sdlc-playbook)  
-- `2026-11-02` | [🔗 Using UV for installing Wagtail](https://www.yellowduck.be/posts/using-uv-for-installing-wagtail)  
 
 <!-- BLOG-POST-LIST:END -->
