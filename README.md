@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-07` | [🔗 django-absurd: ceci n&#39;est pas un queue](https://www.yellowduck.be/posts/home-django-absurd)  
 - `2026-11-07` | [🔗 Django and deployments](https://www.yellowduck.be/posts/django-and-deployments)  
 - `2026-11-07` | [🔗 Django: Serve a security.txt file](https://www.yellowduck.be/posts/django-serve-a-security-txt-file)  
 - `2026-11-06` | [🐥 Giving a Laravel Artisan Command an Alias](https://www.yellowduck.be/posts/giving-a-laravel-artisan-command-an-alias)  
@@ -18,6 +19,5 @@
 - `2026-11-05` | [🔗 Blue-green deployment switcher script](https://www.yellowduck.be/posts/blue-green-deployment-switcher-script)  
 - `2026-11-05` | [🔗 Environment variable injector for Docker run](https://www.yellowduck.be/posts/environment-variable-injector-for-docker-run)  
 - `2026-11-04` | [🔗 FastAPI background task queue with asyncio](https://www.yellowduck.be/posts/fastapi-background-task-queue-with-asyncio)  
-- `2026-11-04` | [🔗 GitHub Actions manual trigger CLI](https://www.yellowduck.be/posts/github-actions-manual-trigger-cli)  
 
 <!-- BLOG-POST-LIST:END -->
