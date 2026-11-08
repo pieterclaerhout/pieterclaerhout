@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-08` | [🔗 Why we started building on the Django 6.1 alpha](https://www.yellowduck.be/posts/why-we-started-building-on-the-django-6-1-alpha)  
+- `2026-11-08` | [🔗 Shadcn datatable filtering](https://www.yellowduck.be/posts/shadcn-datatable-filtering)  
 - `2026-11-07` | [🔗 django-absurd: ceci n&#39;est pas un queue](https://www.yellowduck.be/posts/home-django-absurd)  
 - `2026-11-07` | [🔗 Django and deployments](https://www.yellowduck.be/posts/django-and-deployments)  
 - `2026-11-07` | [🔗 Django: Serve a security.txt file](https://www.yellowduck.be/posts/django-serve-a-security-txt-file)  
@@ -17,7 +19,5 @@
 - `2026-11-06` | [🔗 Django WebSockets with Daphne: A complete guide](https://www.yellowduck.be/posts/django-websockets-with-daphne-a-complete-guide)  
 - `2026-11-05` | [🔗 API response cache with Redis and ETags](https://www.yellowduck.be/posts/api-response-cache-with-redis-and-etags)  
 - `2026-11-05` | [🔗 Blue-green deployment switcher script](https://www.yellowduck.be/posts/blue-green-deployment-switcher-script)  
-- `2026-11-05` | [🔗 Environment variable injector for Docker run](https://www.yellowduck.be/posts/environment-variable-injector-for-docker-run)  
-- `2026-11-04` | [🔗 FastAPI background task queue with asyncio](https://www.yellowduck.be/posts/fastapi-background-task-queue-with-asyncio)  
 
 <!-- BLOG-POST-LIST:END -->
