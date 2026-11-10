@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-10` | [🔗 I&#39;m sorry, but you still have to think.](https://www.yellowduck.be/posts/im-sorry-but-you-still-have-to-think)  
 - `2026-11-10` | [🔗 I&#39;ve been the sole developer of a healthcare membership platform for 6+ years. Here&#39;s what it looks like.](https://www.yellowduck.be/posts/ive-been-the-sole-developer-of-a-healthcare-membership-platform-for-6-years-heres-what-it-looks-like)  
 - `2026-11-09` | [🔗 Review fatigue is real. Here&#39;s what my team did about it](https://www.yellowduck.be/posts/review-fatigue-is-real-heres-what-my-team-did-about-it)  
 - `2026-11-09` | [🔗 Why MCP was always a bad idea](https://www.yellowduck.be/posts/why-mcp-was-always-a-bad-idea)  
@@ -18,6 +19,5 @@
 - `2026-11-08` | [🔗 Shadcn datatable filtering](https://www.yellowduck.be/posts/shadcn-datatable-filtering)  
 - `2026-11-07` | [🔗 django-absurd: ceci n&#39;est pas un queue](https://www.yellowduck.be/posts/home-django-absurd)  
 - `2026-11-07` | [🔗 Django and deployments](https://www.yellowduck.be/posts/django-and-deployments)  
-- `2026-11-07` | [🔗 Django: Serve a security.txt file](https://www.yellowduck.be/posts/django-serve-a-security-txt-file)  
 
 <!-- BLOG-POST-LIST:END -->
