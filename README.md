@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-11` | [🔗 My AI policy](https://www.yellowduck.be/posts/my-ai-policy)  
 - `2026-11-10` | [🐥 Passing Structs with a Rust NIF in Elixir](https://www.yellowduck.be/posts/passing-structs-with-a-rust-nif-in-elixir)  
 - `2026-11-10` | [🔗 I&#39;m sorry, but you still have to think.](https://www.yellowduck.be/posts/im-sorry-but-you-still-have-to-think)  
 - `2026-11-10` | [🔗 I&#39;ve been the sole developer of a healthcare membership platform for 6+ years. Here&#39;s what it looks like.](https://www.yellowduck.be/posts/ive-been-the-sole-developer-of-a-healthcare-membership-platform-for-6-years-heres-what-it-looks-like)  
@@ -18,6 +19,5 @@
 - `2026-11-08` | [🐥 Creating a Simple Elixir NIF Using Rust](https://www.yellowduck.be/posts/creating-a-simple-elixir-nif-using-rust)  
 - `2026-11-08` | [🔗 Why we started building on the Django 6.1 alpha](https://www.yellowduck.be/posts/why-we-started-building-on-the-django-6-1-alpha)  
 - `2026-11-08` | [🔗 Shadcn datatable filtering](https://www.yellowduck.be/posts/shadcn-datatable-filtering)  
-- `2026-11-07` | [🔗 django-absurd: ceci n&#39;est pas un queue](https://www.yellowduck.be/posts/home-django-absurd)  
 
 <!-- BLOG-POST-LIST:END -->
