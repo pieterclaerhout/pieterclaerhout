@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-15` | [🔗 I wasted 6 months using Claude Code wrong. Here are the 14 commands that changed everything.](https://www.yellowduck.be/posts/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything)  
 - `2026-11-15` | [🔗 Introducing Ash.Signals](https://www.yellowduck.be/posts/introducing-ash-signals)  
 - `2026-11-15` | [🔗 Build the simplest thing that works](https://www.yellowduck.be/posts/build-the-simplest-thing-that-works)  
 - `2026-11-14` | [🐥 Calling a Rust crate from Elixir with Rustler &lpar;and getting it through CI&rpar;](https://www.yellowduck.be/posts/calling-a-rust-crate-from-elixir-with-rustler-and-getting-it-through-ci)  
@@ -18,6 +19,5 @@
 - `2026-11-13` | [🔗 Git mastery: Intermediate and professional workflows](https://www.yellowduck.be/posts/git-mastery-intermediate-and-professional-workflows)  
 - `2026-11-13` | [🔗 Misconceptions about RSS](https://www.yellowduck.be/posts/misconceptions-about-rss)  
 - `2026-11-12` | [🐥 Passing Maps and Enums with Rust NIFs in Elixir](https://www.yellowduck.be/posts/passing-maps-and-enums-with-rust-nifs-in-elixir)  
-- `2026-11-12` | [🔗 The system around the code](https://www.yellowduck.be/posts/the-system-around-the-code)  
 
 <!-- BLOG-POST-LIST:END -->
