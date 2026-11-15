@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-15` | [🔗 Introducing Ash.Signals](https://www.yellowduck.be/posts/introducing-ash-signals)  
+- `2026-11-15` | [🔗 Build the simplest thing that works](https://www.yellowduck.be/posts/build-the-simplest-thing-that-works)  
 - `2026-11-14` | [🐥 Calling a Rust crate from Elixir with Rustler &lpar;and getting it through CI&rpar;](https://www.yellowduck.be/posts/calling-a-rust-crate-from-elixir-with-rustler-and-getting-it-through-ci)  
 - `2026-11-14` | [🔗 Human PR review is next](https://www.yellowduck.be/posts/human-pr-review-is-next)  
 - `2026-11-14` | [🔗 Portman: Your friendly port manager](https://www.yellowduck.be/posts/portman-your-friendly-port-manager)  
@@ -17,7 +19,5 @@
 - `2026-11-13` | [🔗 Misconceptions about RSS](https://www.yellowduck.be/posts/misconceptions-about-rss)  
 - `2026-11-12` | [🐥 Passing Maps and Enums with Rust NIFs in Elixir](https://www.yellowduck.be/posts/passing-maps-and-enums-with-rust-nifs-in-elixir)  
 - `2026-11-12` | [🔗 The system around the code](https://www.yellowduck.be/posts/the-system-around-the-code)  
-- `2026-11-12` | [🔗 Stop resolving the same Git conflict twice](https://www.yellowduck.be/posts/stop-resolving-the-same-git-conflict-twice)  
-- `2026-11-11` | [🔗 MapSets: A set that&#39;s secretly a map](https://www.yellowduck.be/posts/mapsets-a-set-thats-secretly-a-map)  
 
 <!-- BLOG-POST-LIST:END -->
