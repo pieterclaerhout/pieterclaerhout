@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-17` | [🔗 Zero-downtime Database Migrations: How to Alter 50M-row Tables Without Locking Production](https://www.yellowduck.be/posts/zero-downtime-database-migrations-how-to-alter-50m-row-tables-without-locking-production)  
 - `2026-11-16` | [🐥 Halving the Size of Our Rust NIFs with Four Lines of Cargo Config](https://www.yellowduck.be/posts/halving-the-size-of-our-rust-nifs-with-four-lines-of-cargo-config)  
 - `2026-11-16` | [🔗 Hackers hijacked 1,900 GitHub accounts. Then they went after 30,000 repos.](https://www.yellowduck.be/posts/hackers-hijacked-1-900-github-accounts-then-they-went-after-30-000-repos)  
 - `2026-11-16` | [🔗 Speeding up code review with `small-change`](https://www.yellowduck.be/posts/speeding-up-code-review-with-small-change)  
@@ -18,6 +19,5 @@
 - `2026-11-14` | [🐥 Calling a Rust crate from Elixir with Rustler &lpar;and getting it through CI&rpar;](https://www.yellowduck.be/posts/calling-a-rust-crate-from-elixir-with-rustler-and-getting-it-through-ci)  
 - `2026-11-14` | [🔗 Human PR review is next](https://www.yellowduck.be/posts/human-pr-review-is-next)  
 - `2026-11-14` | [🔗 Portman: Your friendly port manager](https://www.yellowduck.be/posts/portman-your-friendly-port-manager)  
-- `2026-11-13` | [🔗 Why I think we should write our own PR descriptions](https://www.yellowduck.be/posts/why-i-think-we-should-write-our-own-pr-descriptions)  
 
 <!-- BLOG-POST-LIST:END -->
