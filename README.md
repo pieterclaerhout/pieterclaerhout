@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-18` | [🐥 Letting Dependabot Merge Its Own Safe Updates with GitHub Actions](https://www.yellowduck.be/posts/letting-dependabot-merge-its-own-safe-updates-with-github-actions)  
+- `2026-11-18` | [🔗 Concentrated liability](https://www.yellowduck.be/posts/concentrated-liability)  
 - `2026-11-18` | [🔗 Your CI is now the bottleneck](https://www.yellowduck.be/posts/your-ci-is-now-the-bottleneck)  
 - `2026-11-17` | [🔗 Subscription bombing hit my Phoenix LiveView app](https://www.yellowduck.be/posts/subscription-bombing-hit-my-phoenix-liveview-app)  
 - `2026-11-17` | [🔗 The Future of Programming &lpar;1982&rpar;](https://www.yellowduck.be/posts/the-future-of-programming-1982)  
@@ -17,7 +19,5 @@
 - `2026-11-16` | [🔗 Hackers hijacked 1,900 GitHub accounts. Then they went after 30,000 repos.](https://www.yellowduck.be/posts/hackers-hijacked-1-900-github-accounts-then-they-went-after-30-000-repos)  
 - `2026-11-16` | [🔗 Speeding up code review with `small-change`](https://www.yellowduck.be/posts/speeding-up-code-review-with-small-change)  
 - `2026-11-15` | [🔗 I wasted 6 months using Claude Code wrong. Here are the 14 commands that changed everything.](https://www.yellowduck.be/posts/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything)  
-- `2026-11-15` | [🔗 Introducing Ash.Signals](https://www.yellowduck.be/posts/introducing-ash-signals)  
-- `2026-11-15` | [🔗 Build the simplest thing that works](https://www.yellowduck.be/posts/build-the-simplest-thing-that-works)  
 
 <!-- BLOG-POST-LIST:END -->
