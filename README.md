@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-18` | [🔗 Your CI is now the bottleneck](https://www.yellowduck.be/posts/your-ci-is-now-the-bottleneck)  
 - `2026-11-17` | [🔗 Subscription bombing hit my Phoenix LiveView app](https://www.yellowduck.be/posts/subscription-bombing-hit-my-phoenix-liveview-app)  
 - `2026-11-17` | [🔗 The Future of Programming &lpar;1982&rpar;](https://www.yellowduck.be/posts/the-future-of-programming-1982)  
 - `2026-11-17` | [🔗 Zero-downtime Database Migrations: How to Alter 50M-row Tables Without Locking Production](https://www.yellowduck.be/posts/zero-downtime-database-migrations-how-to-alter-50m-row-tables-without-locking-production)  
@@ -18,6 +19,5 @@
 - `2026-11-15` | [🔗 I wasted 6 months using Claude Code wrong. Here are the 14 commands that changed everything.](https://www.yellowduck.be/posts/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything)  
 - `2026-11-15` | [🔗 Introducing Ash.Signals](https://www.yellowduck.be/posts/introducing-ash-signals)  
 - `2026-11-15` | [🔗 Build the simplest thing that works](https://www.yellowduck.be/posts/build-the-simplest-thing-that-works)  
-- `2026-11-14` | [🐥 Calling a Rust crate from Elixir with Rustler &lpar;and getting it through CI&rpar;](https://www.yellowduck.be/posts/calling-a-rust-crate-from-elixir-with-rustler-and-getting-it-through-ci)  
 
 <!-- BLOG-POST-LIST:END -->
