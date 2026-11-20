@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-20` | [🔗 Anti-patterns in software blogging](https://www.yellowduck.be/posts/anti-patterns-in-software-blogging)  
 - `2026-11-19` | [🔗 Setting up SSH keys on macOS with Touch ID](https://www.yellowduck.be/posts/setting-up-ssh-keys-on-macos-with-touch-id)  
 - `2026-11-19` | [🔗 It&#39;s Still OK to Enjoy Programming](https://www.yellowduck.be/posts/its-still-ok-to-enjoy-programming)  
 - `2026-11-19` | [🔗 Nginx to Root Security Advisory &lpar;NGINX2Root&rpar;](https://www.yellowduck.be/posts/nginx-to-root-security-advisory-nginx2root)  
@@ -18,6 +19,5 @@
 - `2026-11-17` | [🔗 Subscription bombing hit my Phoenix LiveView app](https://www.yellowduck.be/posts/subscription-bombing-hit-my-phoenix-liveview-app)  
 - `2026-11-17` | [🔗 The Future of Programming &lpar;1982&rpar;](https://www.yellowduck.be/posts/the-future-of-programming-1982)  
 - `2026-11-17` | [🔗 Zero-downtime Database Migrations: How to Alter 50M-row Tables Without Locking Production](https://www.yellowduck.be/posts/zero-downtime-database-migrations-how-to-alter-50m-row-tables-without-locking-production)  
-- `2026-11-16` | [🐥 Halving the Size of Our Rust NIFs with Four Lines of Cargo Config](https://www.yellowduck.be/posts/halving-the-size-of-our-rust-nifs-with-four-lines-of-cargo-config)  
 
 <!-- BLOG-POST-LIST:END -->
