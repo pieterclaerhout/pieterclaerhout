@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-21` | [🔗 Monitoring the Health of Oban Applications](https://www.yellowduck.be/posts/monitoring-the-health-of-oban-applications)  
+- `2026-11-21` | [🔗 Elixir clusters, less infrastructure, more talking](https://www.yellowduck.be/posts/elixir-clusters-less-infrastructure-more-talking)  
 - `2026-11-20` | [🐥 Why Dependabot auto-merge fails on protected branches &lpar;and how to fix it&rpar;](https://www.yellowduck.be/posts/why-dependabot-auto-merge-fails-on-protected-branches-and-how-to-fix-it)  
 - `2026-11-20` | [🔗 Zero-downtime PostgreSQL migrations: a production playbook for safe schema changes](https://www.yellowduck.be/posts/zero-downtime-postgresql-migrations-a-production-playbook-for-safe-schema-changes)  
 - `2026-11-20` | [🔗 Anti-patterns in software blogging](https://www.yellowduck.be/posts/anti-patterns-in-software-blogging)  
@@ -17,7 +19,5 @@
 - `2026-11-19` | [🔗 Nginx to Root Security Advisory &lpar;NGINX2Root&rpar;](https://www.yellowduck.be/posts/nginx-to-root-security-advisory-nginx2root)  
 - `2026-11-18` | [🐥 Letting Dependabot Merge Its Own Safe Updates with GitHub Actions](https://www.yellowduck.be/posts/letting-dependabot-merge-its-own-safe-updates-with-github-actions)  
 - `2026-11-18` | [🔗 Concentrated liability](https://www.yellowduck.be/posts/concentrated-liability)  
-- `2026-11-18` | [🔗 Your CI is now the bottleneck](https://www.yellowduck.be/posts/your-ci-is-now-the-bottleneck)  
-- `2026-11-17` | [🔗 Subscription bombing hit my Phoenix LiveView app](https://www.yellowduck.be/posts/subscription-bombing-hit-my-phoenix-liveview-app)  
 
 <!-- BLOG-POST-LIST:END -->
