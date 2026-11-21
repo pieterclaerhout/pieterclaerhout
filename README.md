@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-21` | [🔗 Garmin revamps and opens up Connect Developer API Program: All the details](https://www.yellowduck.be/posts/garmin-revamps-and-opens-up-connect-developer-api-program-all-the-details)  
 - `2026-11-21` | [🔗 Monitoring the Health of Oban Applications](https://www.yellowduck.be/posts/monitoring-the-health-of-oban-applications)  
 - `2026-11-21` | [🔗 Elixir clusters, less infrastructure, more talking](https://www.yellowduck.be/posts/elixir-clusters-less-infrastructure-more-talking)  
 - `2026-11-20` | [🐥 Why Dependabot auto-merge fails on protected branches &lpar;and how to fix it&rpar;](https://www.yellowduck.be/posts/why-dependabot-auto-merge-fails-on-protected-branches-and-how-to-fix-it)  
@@ -18,6 +19,5 @@
 - `2026-11-19` | [🔗 It&#39;s Still OK to Enjoy Programming](https://www.yellowduck.be/posts/its-still-ok-to-enjoy-programming)  
 - `2026-11-19` | [🔗 Nginx to Root Security Advisory &lpar;NGINX2Root&rpar;](https://www.yellowduck.be/posts/nginx-to-root-security-advisory-nginx2root)  
 - `2026-11-18` | [🐥 Letting Dependabot Merge Its Own Safe Updates with GitHub Actions](https://www.yellowduck.be/posts/letting-dependabot-merge-its-own-safe-updates-with-github-actions)  
-- `2026-11-18` | [🔗 Concentrated liability](https://www.yellowduck.be/posts/concentrated-liability)  
 
 <!-- BLOG-POST-LIST:END -->
