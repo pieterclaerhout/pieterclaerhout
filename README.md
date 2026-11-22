@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-22` | [🔗 Product Integrations: Build or Buy?](https://www.yellowduck.be/posts/product-integrations-build-or-buy)  
 - `2026-11-22` | [🔗 I don&#39;t trust ON DELETE CASCADE](https://www.yellowduck.be/posts/i-dont-trust-on-delete-cascade)  
 - `2026-11-21` | [🔗 Garmin revamps and opens up Connect Developer API Program: All the details](https://www.yellowduck.be/posts/garmin-revamps-and-opens-up-connect-developer-api-program-all-the-details)  
 - `2026-11-21` | [🔗 Monitoring the Health of Oban Applications](https://www.yellowduck.be/posts/monitoring-the-health-of-oban-applications)  
@@ -18,6 +19,5 @@
 - `2026-11-20` | [🔗 Anti-patterns in software blogging](https://www.yellowduck.be/posts/anti-patterns-in-software-blogging)  
 - `2026-11-19` | [🔗 Setting up SSH keys on macOS with Touch ID](https://www.yellowduck.be/posts/setting-up-ssh-keys-on-macos-with-touch-id)  
 - `2026-11-19` | [🔗 It&#39;s Still OK to Enjoy Programming](https://www.yellowduck.be/posts/its-still-ok-to-enjoy-programming)  
-- `2026-11-19` | [🔗 Nginx to Root Security Advisory &lpar;NGINX2Root&rpar;](https://www.yellowduck.be/posts/nginx-to-root-security-advisory-nginx2root)  
 
 <!-- BLOG-POST-LIST:END -->
