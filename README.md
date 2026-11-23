@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-23` | [🔗 Google Engineering Practices Documentation](https://www.yellowduck.be/posts/google-engineering-practices-documentation)  
 - `2026-11-22` | [🐥 Running Independent Work Concurrently in Elixir without Losing Your Error Handling](https://www.yellowduck.be/posts/running-independent-work-concurrently-in-elixir-without-losing-your-error-handling)  
 - `2026-11-22` | [🔗 Product Integrations: Build or Buy?](https://www.yellowduck.be/posts/product-integrations-build-or-buy)  
 - `2026-11-22` | [🔗 I don&#39;t trust ON DELETE CASCADE](https://www.yellowduck.be/posts/i-dont-trust-on-delete-cascade)  
@@ -18,6 +19,5 @@
 - `2026-11-20` | [🐥 Why Dependabot auto-merge fails on protected branches &lpar;and how to fix it&rpar;](https://www.yellowduck.be/posts/why-dependabot-auto-merge-fails-on-protected-branches-and-how-to-fix-it)  
 - `2026-11-20` | [🔗 Zero-downtime PostgreSQL migrations: a production playbook for safe schema changes](https://www.yellowduck.be/posts/zero-downtime-postgresql-migrations-a-production-playbook-for-safe-schema-changes)  
 - `2026-11-20` | [🔗 Anti-patterns in software blogging](https://www.yellowduck.be/posts/anti-patterns-in-software-blogging)  
-- `2026-11-19` | [🔗 Setting up SSH keys on macOS with Touch ID](https://www.yellowduck.be/posts/setting-up-ssh-keys-on-macos-with-touch-id)  
 
 <!-- BLOG-POST-LIST:END -->
