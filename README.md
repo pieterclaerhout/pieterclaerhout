@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-25` | [🔗 Error Handling in Elixir](https://www.yellowduck.be/posts/error-handling-in-elixir)  
+- `2026-11-25` | [🔗 How to Create an Easier Recommendation System with Elixir](https://www.yellowduck.be/posts/how-to-create-an-easier-recommendation-system-with-elixir)  
 - `2026-11-24` | [🐥 Updating Elixir, npm and Cargo dependencies with a single command](https://www.yellowduck.be/posts/updating-elixir-npm-and-cargo-dependencies-with-a-single-command)  
 - `2026-11-24` | [🔗 Hex v2.6 Released](https://www.yellowduck.be/posts/hex-v2-6-released)  
 - `2026-11-24` | [🔗 Choosing Elixir Tools](https://www.yellowduck.be/posts/choosing-elixir-tools)  
@@ -17,7 +19,5 @@
 - `2026-11-23` | [🔗 Google Engineering Practices Documentation](https://www.yellowduck.be/posts/google-engineering-practices-documentation)  
 - `2026-11-22` | [🐥 Running Independent Work Concurrently in Elixir without Losing Your Error Handling](https://www.yellowduck.be/posts/running-independent-work-concurrently-in-elixir-without-losing-your-error-handling)  
 - `2026-11-22` | [🔗 Product Integrations: Build or Buy?](https://www.yellowduck.be/posts/product-integrations-build-or-buy)  
-- `2026-11-22` | [🔗 I don&#39;t trust ON DELETE CASCADE](https://www.yellowduck.be/posts/i-dont-trust-on-delete-cascade)  
-- `2026-11-21` | [🔗 Garmin revamps and opens up Connect Developer API Program: All the details](https://www.yellowduck.be/posts/garmin-revamps-and-opens-up-connect-developer-api-program-all-the-details)  
 
 <!-- BLOG-POST-LIST:END -->
