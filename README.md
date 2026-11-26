@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-25` | [🔗 On the Foolishness of “Natural Language Programming”](https://www.yellowduck.be/posts/on-the-foolishness-of-natural-language-programming)  
 - `2026-11-25` | [🔗 Error Handling in Elixir](https://www.yellowduck.be/posts/error-handling-in-elixir)  
 - `2026-11-25` | [🔗 How to Create an Easier Recommendation System with Elixir](https://www.yellowduck.be/posts/how-to-create-an-easier-recommendation-system-with-elixir)  
 - `2026-11-24` | [🐥 Updating Elixir, npm and Cargo dependencies with a single command](https://www.yellowduck.be/posts/updating-elixir-npm-and-cargo-dependencies-with-a-single-command)  
@@ -18,6 +19,5 @@
 - `2026-11-23` | [🔗 How to write an effective software design document](https://www.yellowduck.be/posts/how-to-write-an-effective-software-design-document)  
 - `2026-11-23` | [🔗 Google Engineering Practices Documentation](https://www.yellowduck.be/posts/google-engineering-practices-documentation)  
 - `2026-11-22` | [🐥 Running Independent Work Concurrently in Elixir without Losing Your Error Handling](https://www.yellowduck.be/posts/running-independent-work-concurrently-in-elixir-without-losing-your-error-handling)  
-- `2026-11-22` | [🔗 Product Integrations: Build or Buy?](https://www.yellowduck.be/posts/product-integrations-build-or-buy)  
 
 <!-- BLOG-POST-LIST:END -->
