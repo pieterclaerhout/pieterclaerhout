@@ -9,6 +9,8 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-27` | [🔗 Do Web Components Have a Future if Nobody Is Writing Them?](https://www.yellowduck.be/posts/do-web-components-have-a-future-if-nobody-is-writing-them)  
+- `2026-11-27` | [🔗 Giving a Codebase a Memory](https://www.yellowduck.be/posts/giving-a-codebase-a-memory)  
 - `2026-11-27` | [🔗 An RV on a Bike](https://www.yellowduck.be/posts/an-rv-on-a-bike)  
 - `2026-11-26` | [🐥 A tiny, self-invalidating cache in Elixir with ETS](https://www.yellowduck.be/posts/a-tiny-self-invalidating-cache-in-elixir-with-ets)  
 - `2026-11-26` | [🔗 Elixir at Ramp 🧪](https://www.yellowduck.be/posts/elixir-at-ramp)  
@@ -17,7 +19,5 @@
 - `2026-11-25` | [🔗 Error Handling in Elixir](https://www.yellowduck.be/posts/error-handling-in-elixir)  
 - `2026-11-25` | [🔗 How to Create an Easier Recommendation System with Elixir](https://www.yellowduck.be/posts/how-to-create-an-easier-recommendation-system-with-elixir)  
 - `2026-11-24` | [🐥 Updating Elixir, npm and Cargo dependencies with a single command](https://www.yellowduck.be/posts/updating-elixir-npm-and-cargo-dependencies-with-a-single-command)  
-- `2026-11-24` | [🔗 Hex v2.6 Released](https://www.yellowduck.be/posts/hex-v2-6-released)  
-- `2026-11-24` | [🔗 Choosing Elixir Tools](https://www.yellowduck.be/posts/choosing-elixir-tools)  
 
 <!-- BLOG-POST-LIST:END -->
