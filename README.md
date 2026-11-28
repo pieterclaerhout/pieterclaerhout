@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [YellowDuck.be](https://www.yellowduck.be/)
 <!-- BLOG-POST-LIST:START -->
+- `2026-11-28` | [🔗 If your Team Is Happy, Are You Doing a Good Job?](https://www.yellowduck.be/posts/if-your-team-is-happy-are-you-doing-a-good-job)  
 - `2026-11-27` | [🔗 Do Web Components Have a Future if Nobody Is Writing Them?](https://www.yellowduck.be/posts/do-web-components-have-a-future-if-nobody-is-writing-them)  
 - `2026-11-27` | [🔗 Giving a Codebase a Memory](https://www.yellowduck.be/posts/giving-a-codebase-a-memory)  
 - `2026-11-27` | [🔗 An RV on a Bike](https://www.yellowduck.be/posts/an-rv-on-a-bike)  
@@ -18,6 +19,5 @@
 - `2026-11-25` | [🔗 On the Foolishness of “Natural Language Programming”](https://www.yellowduck.be/posts/on-the-foolishness-of-natural-language-programming)  
 - `2026-11-25` | [🔗 Error Handling in Elixir](https://www.yellowduck.be/posts/error-handling-in-elixir)  
 - `2026-11-25` | [🔗 How to Create an Easier Recommendation System with Elixir](https://www.yellowduck.be/posts/how-to-create-an-easier-recommendation-system-with-elixir)  
-- `2026-11-24` | [🐥 Updating Elixir, npm and Cargo dependencies with a single command](https://www.yellowduck.be/posts/updating-elixir-npm-and-cargo-dependencies-with-a-single-command)  
 
 <!-- BLOG-POST-LIST:END -->
